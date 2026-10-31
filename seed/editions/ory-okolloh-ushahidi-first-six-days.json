@@ -1,0 +1,132 @@
+{
+  "id": "ory-okolloh-ushahidi-first-six-days",
+  "title": "From a Bullet Point to a Live Map: Ushahidi's First Six Days",
+  "dek": "In January 2008 an exhausted blogger asked for a map of Kenya's violence, and volunteers chose to launch a rough one within a week.",
+  "story": {
+    "founder": "Ory Okolloh, Erik Hersman, David Kobia, Juliana Rotich",
+    "company": "Ushahidi",
+    "event": "Building and launching a crisis map in six days after Kenya's disputed election",
+    "approx_date": "2008-01",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "software (civic technology)",
+    "arc": "founding-decision",
+    "funding": "nonprofit",
+    "summary": "On 3 January 2008, amid violence after Kenya's disputed election, Ory Okolloh asked on her blog for techies to map where violence was happening; volunteers including Erik Hersman and developer David Kobia launched Ushahidi on 9 January. Built unpaid in days, it published citizen reports and marked those it could not confirm as unverified, then grew into a not-for-profit whose platform was used in Congo, South Africa and Haiti.",
+    "paragraphs": [
+      "On the evening of 3 January 2008, Ory Okolloh, who had a ten-month-old baby, reached Johannesburg from Nairobi. The drive to the airport, skirting areas where groups were fighting running battles with police, was, she wrote that night, \"one of the scariest moments in my life.\" Close to collapse from exhaustion, she posted quick updates on her blog, Kenyan Pundit. Partway down was a question: were there \"any techies out there willing to do a mashup of where the violence and destruction is occurring using Google Maps?\"",
+      "What she knew was partial. After the disputed presidential election of late December 2007, the government had banned live broadcasts, and readers were sending her reports by comment and email in volumes that overwhelmed her. Nobody, she noted, had reliable death figures. She also knew, she later wrote, that a site taking anonymous reports risked spreading false ones, but judged that a way to share some information was better than none.",
+      "The answer came fast. Within a day or two, volunteers had registered a domain. Erik Hersman, who blogged as White African, helped gather developers and sketched a design; over the weekend the Kenyan developer David Kobia built the site. On 9 January Okolloh posted: \"Today, Ushahidi is born.\" The name is Swahili for testimony. It had been put together in two days, she said, and was still a work in progress. Nobody was paid. Hersman wrote that the technology was \"just the tool\"; the hard work belonged to people in the field. Where they could, the team checked reports by phone or email, and posted credible ones they could not confirm marked as unverified. By mid-January, reports could also arrive by text message.",
+      "By the official count, at least 1,133 people were killed and at least 300,000 displaced. Ushahidi outlived the crisis. A grant from Humanity United paid to rebuild it so any group could run its own map, and by November 2008 it was tracking conflict in eastern Congo. Okolloh and three others left their jobs for it, and Juliana Rotich, who had met Hersman and Okolloh through TED in Tanzania in 2007, co-founded the organisation in 2008. After Haiti's earthquake in January 2010, volunteers used Ushahidi to inform aid groups within hours."
+    ]
+  },
+  "quote": {
+    "text": "Do not be desirous to have things done quickly; do not look at small advantages. Desire to have things done quickly prevents their being done thoroughly. Looking at small advantages prevents great affairs from being accomplished.",
+    "thinker": "Confucius",
+    "work": "The Analects (Confucian Analects)",
+    "locator": "Book XIII, Chapter 17",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Ushahidi's founders bet that a rough map this week was worth more than a careful one later. Confucius, advising a governor, argued the reverse: haste costs thoroughness, and near gains crowd out great ones. The story does not settle which of them was right.",
+    "stance": "challenges"
+  },
+  "reflection": [
+    "Your training says a result is not released until it has been verified. Ushahidi made the opposite trade on purpose: publish now, label what is unconfirmed, correct in public. What made that defensible was honesty about the gap, not a belief that the gap did not matter.",
+    "Confucius would still ask what the haste cost. Building talQen, you will meet this choice more than once: ship the rough version that helps a lab this month, or hold it until it is thorough. No rule settles it. What helps is naming the trade out loud, as Okolloh did, rather than drifting into it because you are tired or impatient."
+  ],
+  "invitation": "Choose one piece of work you are holding back until it is finished. Write one line saying what it cannot yet do, then decide whether that line would be enough to show it to one person this week.",
+  "sources": [
+    {
+      "title": "Update Jan 3 11:00 pm",
+      "publisher": "Kenyan Pundit (Ory Okolloh's blog)",
+      "url": "http://www.kenyanpundit.com/2008/01/03/update-jan-3-445-1100-pm/",
+      "kind": "memoir",
+      "supports": "Arrival in Johannesburg on 3 January 2008; the frightening drive to the airport and running battles with police; 'about to collapse from exhaustion'; the bullet asking for techies to build a Google Maps mashup; the note that there were no reliable death figures"
+    },
+    {
+      "title": "Ushahidi.com",
+      "publisher": "Kenyan Pundit (Ory Okolloh's blog)",
+      "url": "http://www.kenyanpundit.com/2008/01/09/ushahidicom/",
+      "kind": "memoir",
+      "supports": "Launch post of 9 January 2008: 'Today, Ushahidi is born'; site put together in two days; still a work in progress; thanks to Erik Hersman ('Erick (Hash)') and David Kobia; name means witness"
+    },
+    {
+      "title": "Ushahidi or 'testimony': Web 2.0 tools for crowdsourcing crisis information (Participatory Learning and Action 59, 2009)",
+      "publisher": "International Institute for Environment and Development (IIED)",
+      "url": "https://www.iied.org/g02842",
+      "kind": "memoir",
+      "supports": "Okolloh's own account (PDF linked from this page): government ban on live media; being overwhelmed by reports; risk of false reporting judged worth taking; 3 January blog request; volunteers and domain within a day or two; live less than a week later; no funding, everything donated; rapid prototype approach; manual verification and posting credible unverified reports marked as such; Humanity United funding to rebuild the platform; DRC deployment on 7 November 2008"
+    },
+    {
+      "title": "Kenya: Cyberactivism in the aftermath of political violence",
+      "publisher": "Global Voices (15 January 2008)",
+      "url": "https://globalvoices.org/2008/01/15/kenya-cyberactivism-in-the-aftermath-of-political-violence/",
+      "kind": "independent-reporting",
+      "supports": "Contemporary account: Okolloh's request; David Kobia built the site over the weekend from a design sketch by Erik 'Hash' Hersman; Hersman's 'just the tool' remark; SMS reporting available by mid-January"
+    },
+    {
+      "title": "A Citizen Journalist to the Rescue (Ory Okolloh '05: Testimony to the power of collaboration)",
+      "publisher": "Harvard Law School, Harvard Law Today (Summer 2010)",
+      "url": "https://hls.harvard.edu/today/a-citizen-journalist-to-the-rescue/",
+      "kind": "independent-reporting",
+      "supports": "Okolloh had a ten-month-old baby and decided to return to South Africa; Okolloh and three others quit their jobs for Ushahidi; use after the January 2010 Haiti earthquake and in South Africa and Congo"
+    },
+    {
+      "title": "World Report 2009: Kenya",
+      "publisher": "Human Rights Watch",
+      "url": "https://www.hrw.org/world-report/2009/country-chapters/africa-kenya",
+      "kind": "independent-reporting",
+      "supports": "Disputed December 2007 election; at least 1,133 killed and at least 300,000 displaced (Waki Commission figures)"
+    },
+    {
+      "title": "Meet Juliana Rotich, Kenyan tech crusader",
+      "publisher": "TechCentral (May 2013)",
+      "url": "https://techcentral.co.za/juliana-rotich-kenyan-tech-crusader/40131/",
+      "kind": "independent-reporting",
+      "supports": "Rotich co-founded Ushahidi in 2008 after meeting Hersman and Okolloh through a TED fellowship in Tanzania in 2007"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 3 January 2008 Okolloh used her blog to ask for techies to build a Google Maps mashup of the violence",
+      "urls": [
+        "http://www.kenyanpundit.com/2008/01/03/update-jan-3-445-1100-pm/",
+        "https://globalvoices.org/2008/01/15/kenya-cyberactivism-in-the-aftermath-of-political-violence/",
+        "https://www.iied.org/g02842"
+      ]
+    },
+    {
+      "claim": "Ushahidi was built by volunteers in days (Kobia over the weekend, from Hersman's design) and launched on 9 January 2008",
+      "urls": [
+        "http://www.kenyanpundit.com/2008/01/09/ushahidicom/",
+        "https://globalvoices.org/2008/01/15/kenya-cyberactivism-in-the-aftermath-of-political-violence/",
+        "https://www.ted.com/talks/erik_hersman_reporting_crisis_via_texting/transcript"
+      ]
+    },
+    {
+      "claim": "The decision: accept the risk of false reports, launch rough, verify where possible and mark unconfirmed reports as unverified",
+      "urls": [
+        "https://www.iied.org/g02842",
+        "https://www.csmonitor.com/World/terrorism-security/2008/0131/p99s01-duts.html"
+      ]
+    },
+    {
+      "claim": "At least 1,133 people were killed and at least 300,000 displaced in the post-election violence",
+      "urls": [
+        "https://www.hrw.org/world-report/2009/country-chapters/africa-kenya",
+        "https://www.opendemocracy.net/en/the-kenya-we-want/"
+      ]
+    },
+    {
+      "claim": "Ushahidi was later used in eastern Congo (from November 2008) and after the Haiti earthquake of January 2010",
+      "urls": [
+        "https://www.iied.org/g02842",
+        "https://hls.harvard.edu/today/a-citizen-journalist-to-the-rescue/"
+      ]
+    }
+  ],
+  "research_notes": "Build time: Okolloh's launch post says the site was 'literally put together in 2 days'; Ethan Zuckerman, quoted by Global Voices, says Kobia built it over the weekend (5-6 January 2008); Hersman's 2009 TED talk says 'about three days'; Okolloh's 2009 paper says it went live less than a week after her 3 January post. The story uses the weekend, Okolloh's two days, and the documented 3 and 9 January dates. SMS: at launch a blogger quoted by Global Voices said SMS was 'in the pipeline', and by 15 January Global Voices listed an SMS number, so the story says text messages were possible by mid-January rather than from day one. Juliana Rotich: the brief framed her as one of the first builders, but Okolloh's 9 January thank-you names Apollo, Erick (Hash), Daudi, Ashok and David Kobia, not Rotich; TechCentral says she co-founded Ushahidi in 2008. The story therefore credits her with co-founding the organisation, not the first build. Death toll: HRW (citing the Waki Commission) gives at least 1,133 killed and at least 300,000 displaced; openDemocracy notes the true toll was probably closer to 1,500; the story uses the conservative official figure. Kenyan Pundit loads only over http (its https certificate chain is untrusted), so http URLs are given. The IIED link is the article's landing page; the full text is the PDF linked from it (https://www.iied.org/sites/default/files/pdfs/migrate/G02842.pdf). Quote edition: Project Gutenberg's front matter for #3330 gives the translator but no year. The companion Gutenberg file of Legge's Prolegomena (#2941, same digitiser and title page) contains Legge's later note 'So I wrote in 1861; ... published in 1882', which places this text in the revised second edition (Oxford, 1893). Confucius's remark is advice to Tsze-hsia on becoming governor of Chu-fu; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

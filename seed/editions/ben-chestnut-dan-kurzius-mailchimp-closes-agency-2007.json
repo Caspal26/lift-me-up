@@ -1,0 +1,124 @@
+{
+  "id": "ben-chestnut-dan-kurzius-mailchimp-closes-agency-2007",
+  "title": "The Year MailChimp Stopped Being the Side Project",
+  "dek": "For six years an Atlanta web agency ran an email service on the side; in 2007 its founders closed the agency and kept the email service.",
+  "story": {
+    "founder": "Ben Chestnut and Dan Kurzius (with a third partner, Mark Armstrong)",
+    "company": "The Rocket Science Group / MailChimp (later Intuit Mailchimp)",
+    "event": "Closing the web design agency to run MailChimp full time",
+    "approx_date": "2007",
+    "country": "United States",
+    "region": "North America",
+    "industry": "software (email marketing)",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "Ben Chestnut and Dan Kurzius ran the Rocket Science Group, an Atlanta web design agency for corporate clients, and from 2001 an email marketing service for small businesses, MailChimp, on the side. In 2007 they shut the agency to focus on MailChimp, having waited until it could pay the founders' salaries. MailChimp never took outside investment and was sold to Intuit in 2021 for about $12 billion.",
+    "paragraphs": [
+      "In 2000, Ben Chestnut and Dan Kurzius were laid off from a dot-com. \"I knew that if I didn't try to be an entrepreneur, I would never be one,\" Chestnut said later, and he has said his severance pay helped them get going. With a third partner, Mark Armstrong, they ran the Rocket Science Group in Atlanta, a web design agency whose focus was big corporate clients.",
+      "From 2001 they also ran MailChimp, an email marketing service for small businesses, on the side. For about six years the two businesses ran side by side, and the email service, begun almost as an afterthought, kept growing among small businesses. Rivals, as Chestnut later put it, said small businesses needed something \"dumbed down and cheap\". \"We agreed on cheap, but not dumbed down,\" he said.",
+      "Turning the sideline into the whole business was not a clean leap. According to SaaStr founder Jason Lemkin's notes of a 2020 conversation with Chestnut, the agency's clients did not want to buy software from them, and nobody would fund the founders. Closing the agency meant walking away from paid corporate work with no investor behind them. So they moved slowly, taking years over the change, and did not fully switch, Lemkin wrote, until MailChimp could pay their three salaries. In 2007 they shut the agency and became a software company.",
+      "The old clients were unhappy about the change but still bought the software, Lemkin's notes say. In 2009 MailChimp added a free plan, and growth sped up. The company never took outside money and stayed profitable. In 2019 Chestnut told TechCrunch that he had two constituents, customers and employees: \"To have a third called investors? No, I can't do that.\" In 2021 Intuit bought the company for about $12 billion."
+    ]
+  },
+  "quote": {
+    "text": "Thus, while the efficacy of the salve to cure chapped hands was in both cases the same, its application was different. Here, it secured a title; there, a capacity for washing silk.",
+    "thinker": "Zhuangzi (Chuang Tzŭ)",
+    "work": "Zhuangzi (published as Chuang Tzŭ: Mystic, Moralist, and Social Reformer)",
+    "locator": "Chapter I, \"Transcendental Bliss\" (Hui Tzŭ's gourd and the salve for chapped hands)",
+    "translator": "Herbert A. Giles (1889)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/59709/pg59709.txt",
+    "source_title": "Chuang Tzŭ: Mystic, Moralist, and Social Reformer, translated by Herbert A. Giles (London: Bernard Quaritch, 1889), Project Gutenberg eBook #59709",
+    "connection": "In Chuang Tzŭ's parable the salve never changes; only what it is used for does. Chestnut and Kurzius did not invent a new product in 2007. They changed what the one they already had was for, from an agency's sideline to the business itself.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Most of this story is patience rather than daring. Chestnut and Kurzius watched two businesses side by side for six years and let the evidence build up before they chose, and even then they waited until the quieter one could pay them.",
+    "You don't need to make a call like that this week. But it is worth noticing what in your own work is being used more than you planned: a report a lab keeps asking for, a checklist people copy, a part of talQen you think of as a side feature. Sometimes the salve is already in your hands, and the open question is only what it is for."
+  ],
+  "invitation": "Ask one laboratory colleague which task in their week they would most gladly hand over, and write down their answer in their own words before you say anything about talQen.",
+  "sources": [
+    {
+      "title": "Mailchimp's Ben Chestnut on bootstrapping a startup to $700M in revenue",
+      "publisher": "TechCrunch (Ingrid Lunden, 13 May 2019)",
+      "url": "https://techcrunch.com/2019/05/13/mailchimps-ben-chestnut-on-bootstrapping-a-startup-to-700m-in-revenue/",
+      "kind": "founder-interview",
+      "supports": "Chestnut and Kurzius laid off from a dot-com and Chestnut's severance used to start; MailChimp started in Atlanta as a side project with Mark Armstrong and Dan Kurzius; competitors said small businesses needed products 'dumbed down and cheap' and the 'We agreed on cheap, but not dumbed down' quotation; never took outside funding; always profitable; free plan from 2009 with growth afterwards; the 'To have a third called investors?' quotation."
+    },
+    {
+      "title": "12 Leadership Lessons from Mailchimp Co-Founder and CEO Ben Chestnut",
+      "publisher": "Entrepreneur (Jason Nazar, 7 April 2021)",
+      "url": "https://www.entrepreneur.com/leadership/12-leadership-lessons-from-mailchimp-co-founder-and-ceo-ben/368413",
+      "kind": "founder-interview",
+      "supports": "Laid off in 2000; the 'I knew that if I didn't try to be an entrepreneur' quotation; MailChimp co-founded with Kurzius in 2001 as a side project to their web design agency."
+    },
+    {
+      "title": "About Mailchimp - Mailchimp's Story",
+      "publisher": "Intuit Mailchimp",
+      "url": "https://mailchimp.com/about/",
+      "kind": "company-archive",
+      "supports": "Chestnut and Kurzius started the Rocket Science Group, a web design agency focused on big corporate clients, and built an email marketing service for small businesses on the side; founded in Atlanta in 2001; acquired by Intuit in 2021."
+    },
+    {
+      "title": "Mailchimp: Ben Chestnut (How I Built This with Guy Raz, episode page)",
+      "publisher": "NPR (9 July 2021)",
+      "url": "https://www.npr.org/2021/07/09/1014699766/mailchimp-ben-chestnut",
+      "kind": "independent-reporting",
+      "supports": "Email marketing, included almost as an afterthought, took off among small-business clients of the agency; the founders pivoted to MailChimp full time in 2007; the company stayed profitable and self-funded."
+    },
+    {
+      "title": "TurboTax maker Intuit to buy Mailchimp for about $12 billion in a data play",
+      "publisher": "Reuters, via Yahoo News (13 September 2021)",
+      "url": "https://www.yahoo.com/news/intuit-buy-mailchimp-12-billion-201539106.html",
+      "kind": "independent-reporting",
+      "supports": "Agency focused on big corporate clients; the founders shut the agency in 2007 to focus exclusively on MailChimp; profitable without external funding; Intuit deal for about $12 billion."
+    },
+    {
+      "title": "A Look Back: The Top 10 Learnings From Ben Chestnut, CEO of Mailchimp",
+      "publisher": "SaaStr (Jason Lemkin)",
+      "url": "https://www.saastr.com/my-top-10-learnings-from-ben-chestnut-ceo-of-mailchimp/",
+      "kind": "independent-reporting",
+      "supports": "Notes of Chestnut's 2020 SaaStr Annual conversation: the agency-to-software transition took years; they did not fully switch until the software could pay their three salaries; agency customers did not want to buy email software but still bought it; no one would fund them; Intuit acquisition for $12 billion."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "The founders shut the web design agency in 2007 to focus on MailChimp full time.",
+      "urls": [
+        "https://www.npr.org/2021/07/09/1014699766/mailchimp-ben-chestnut",
+        "https://www.yahoo.com/news/intuit-buy-mailchimp-12-billion-201539106.html"
+      ]
+    },
+    {
+      "claim": "MailChimp began in 2001 as a side project of a web design agency, the Rocket Science Group, whose focus was corporate clients.",
+      "urls": [
+        "https://mailchimp.com/about/",
+        "https://techcrunch.com/2019/05/13/mailchimps-ben-chestnut-on-bootstrapping-a-startup-to-700m-in-revenue/",
+        "https://www.entrepreneur.com/leadership/12-leadership-lessons-from-mailchimp-co-founder-and-ceo-ben/368413"
+      ]
+    },
+    {
+      "claim": "Chestnut and Kurzius were laid off from a dot-com in 2000 before starting out on their own.",
+      "urls": [
+        "https://techcrunch.com/2019/05/13/mailchimps-ben-chestnut-on-bootstrapping-a-startup-to-700m-in-revenue/",
+        "https://www.entrepreneur.com/leadership/12-leadership-lessons-from-mailchimp-co-founder-and-ceo-ben/368413"
+      ]
+    },
+    {
+      "claim": "MailChimp never took outside funding and remained profitable.",
+      "urls": [
+        "https://techcrunch.com/2019/05/13/mailchimps-ben-chestnut-on-bootstrapping-a-startup-to-700m-in-revenue/",
+        "https://www.yahoo.com/news/intuit-buy-mailchimp-12-billion-201539106.html"
+      ]
+    },
+    {
+      "claim": "Intuit bought Mailchimp in 2021 for about $12 billion.",
+      "urls": [
+        "https://www.yahoo.com/news/intuit-buy-mailchimp-12-billion-201539106.html",
+        "https://www.saastr.com/my-top-10-learnings-from-ben-chestnut-ceo-of-mailchimp/"
+      ]
+    }
+  ],
+  "research_notes": "Timing of the decision: accounts differ. A 2013 Smarter Creativity interview bio says Chestnut began focusing exclusively on MailChimp in 2005; Fast Company (2017, blocked to automated requests) says the founders went all in during 2006; NPR (2021) and Reuters (2021) say the agency was shut in 2007. Secondary write-ups of Chestnut's 2019 Masters of Scale interview describe an informal vote at the end of 2005, a 2006 spent handing clients over, and 1 January 2007 as day one, which would reconcile them, but the transcript (mastersofscale.com and its archive.org copy) could not be loaded, so the story dates only the closure (2007) and does not date the decision itself. Founders: Mailchimp's own pages credit Chestnut and Kurzius; TechCrunch (2019) and Wikipedia also name Mark Armstrong, and Wikipedia says Kurzius joined later, so the story names Armstrong as a third partner without assigning roles. The agency clients' reluctance, the lack of willing funders and the 'three salaries' threshold come from Jason Lemkin's notes of a 2020 conversation, not a transcript, and are attributed to those notes in the prose. Chestnut has said both that MailChimp 'never needed' funding (TechCrunch) and, per Lemkin, that no one would have funded them; the story reports the second as Lemkin's account. Freemium-era user numbers conflict (TechCrunch: 300,000 customers when freemium began in 2009; Mailchimp's 2010 blog as cited by Wikipedia: 85,000 users rising to 450,000), so no figures are given. A widely repeated anecdote about Chestnut charting MailChimp revenue against agency revenue appears only in secondary newsletters here and was left out. Inc., Forbes, Bloomberg, Fast Company and the Financial Times were blocked or paywalled and are not used. The product was styled 'MailChimp' until a 2018 rebrand; the story uses the period spelling.",
+  "researched_at": "2026-11-01"
+}

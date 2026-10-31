@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Lift Me Up",
+  "short_name": "Lift Me Up",
+  "description": "A short morning reading: one true founder story, one verified philosophy quote, one thought for the day.",
+  "lang": "en-GB",
+  "start_url": "/?source=home-screen",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f2ea",
+  "theme_color": "#f7f2ea",
+  "categories": ["books", "lifestyle", "productivity"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "I need encouragement now",
+      "short_name": "Encouragement",
+      "url": "/encourage",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Archive",
+      "url": "/archive",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}

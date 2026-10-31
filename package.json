@@ -1,0 +1,26 @@
+{
+  "name": "lift-me-up",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A private morning reading for a founder: one true founder story, one verified philosophy quote, one thought for the day.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "seed": "node scripts/seed.js",
+    "simulate": "node scripts/simulate.js",
+    "research": "node scripts/research-now.js",
+    "verify-quote": "node scripts/verify-quote.mjs",
+    "icons": "node scripts/make-icons.js",
+    "test": "node --test \"test/*.test.js\"",
+    "vapid": "web-push generate-vapid-keys"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0",
+    "express": "^5.3.0",
+    "web-push": "^3.6.7"
+  }
+}

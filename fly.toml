@@ -1,0 +1,33 @@
+# Fly.io configuration. Change `app` to a name of your own before `fly launch`.
+app = "lift-me-up-caspal"
+primary_region = "jnb"
+
+[env]
+  NODE_ENV = "production"
+  DATA_DIR = "/data"
+  DEFAULT_TIMEZONE = "Africa/Nairobi"
+  DEFAULT_DELIVERY_TIME = "08:00"
+
+# The database (editions, ledger, subscriptions) lives on this volume.
+[[mounts]]
+  source = "lift_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  # The morning scheduler runs inside the app, so keep one machine awake.
+  auto_stop_machines = "off"
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [[http_service.checks]]
+    grace_period = "20s"
+    interval = "60s"
+    method = "GET"
+    path = "/healthz"
+    timeout = "5s"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"

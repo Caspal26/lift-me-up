@@ -1,0 +1,118 @@
+{
+  "id": "wallace-coulter-eight-years-to-first-counters",
+  "title": "A Needle Hole in a Chicago Basement, and the Eight Years After It",
+  "dek": "Wallace Coulter counted blood cells electrically in 1948; selling the first counters took eight lean years and a good deal of other people's help.",
+  "story": {
+    "founder": "Wallace H. Coulter, Joseph R. Coulter Jr.",
+    "company": "Coulter Electronics (later Coulter Corporation, now part of Beckman Coulter)",
+    "event": "The lean years from the first demonstration of the Coulter Principle (1948) to building and selling counters themselves (1956)",
+    "approx_date": "1956",
+    "country": "United States",
+    "region": "North America",
+    "industry": "diagnostics (haematology instruments)",
+    "arc": "setback",
+    "funding": "mixed",
+    "summary": "In October 1948 Wallace Coulter demonstrated electrical counting of blood cells through a needle-made aperture in the Chicago basement he shared with his brother Joseph; the patent was filed in August 1949 and granted in October 1953. After years of thin money, a partly funded Office of Naval Research contract and favourable NIH evaluations, the brothers began building and selling Model A counters themselves in 1956 and incorporated Coulter Electronics in April 1958.",
+    "paragraphs": [
+      "In October 1948, in the unfinished basement of the Chicago house he shared with his brother Joseph, Wallace Coulter burned a hole in a thin film with a hot needle. He diluted his own blood several thousand times in saline, let it flow through the hole, and passed an electric current through it. Cells conduct less well than saline, so each one passing through briefly raised the resistance, and an oscilloscope showed a pulse he could match to cells under a microscope. The first film, he later recalled, came from a cigarette packet: \"It didn't hold up long, but we were able to count some cells.\"",
+      "The principle worked; little else did yet. Handmade holes gave uneven signals, and nothing measured accurately how much sample had passed. Patent attorneys told him, \"You can't patent a hole,\" until a former colleague introduced one who understood. Filed in August 1949, the patent was granted in October 1953. Wallace had left his job in 1948, and their mortgage, parts and patent costs outran Joseph's engineering salary at Motorola. Argonne National Laboratory said it had no present need for one. In 1951 Wallace took a sales job to pay bills; the Office of Naval Research, after NIH scientists spoke up for him (by his account), agreed to part-fund a prototype.",
+      "By 1956 two NIH evaluations of their prototype counters were favourable and nearing publication. The brothers sold the house, moved the work into a former classmate's basement and decided to build and sell the counter themselves. Marshall Graham, later Wallace's technical adviser, writes that they knew their limited resources made even trying a gamble. Joseph's later summary: \"We knew there were problems, but we also knew we had something useful.\" They hired their first employee, Ernest Yasaka, at two dollars an hour; that October Wallace presented the counter at the National Electronics Conference.",
+      "By mid-1957 about 20 Model A counters were at work, most placed by Wallace's own sales calls; that August their father left his railway job to keep the books. Coulter Electronics was incorporated in April 1958. Wallace told a reporter in 1976: \"We built one machine, got our money back, built two, sold those, and bootstrapped an organization that now employs several thousand people.\""
+    ]
+  },
+  "quote": {
+    "text": "Be not ashamed to be helped; for it is thy business to do thy duty like a soldier in the assault on a town. How then, if being lame thou canst not mount up on the battlements alone, but with the help of another it is possible?",
+    "thinker": "Marcus Aurelius",
+    "work": "Meditations",
+    "locator": "Book VII, 7",
+    "translator": "George Long (1862)",
+    "tradition": "Stoic",
+    "source_url": "http://classics.mit.edu/Antoninus/meditations.7.seven.html",
+    "source_title": "The Meditations by Marcus Aurelius, tr. George Long, The Internet Classics Archive (MIT)",
+    "connection": "Wallace called it bootstrapping, and in money terms it was. But the record shows a brother's salary, NIH scientists arguing his case, a classmate's basement and a father keeping accounts. Marcus treats accepting such help as part of the duty, not a lapse from self-reliance.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "If the analyser in your lab counts red cells by impedance, it works on the principle Wallace showed with a needle and his own blood in 1948. The eight years between that pulse and a first employee were not carried by one person, whatever the word bootstrapped suggests.",
+    "You are in your own long middle, where the work is real and the outcome is not yet settled. On low days it can feel as if needing people is a sign you are not up to it. The Coulter record says otherwise: the help was how the work got done."
+  ],
+  "invitation": "Ask one person for one specific piece of help today, such as a review, an introduction or half an hour of their time, and tell them plainly what it is for.",
+  "sources": [
+    {
+      "title": "The Coulter Principle: For the Good of Humankind (MA thesis, University of Kentucky, 2020)",
+      "publisher": "Marshall D. Graham, via Engineering and Technology History Wiki (ETHW)",
+      "url": "https://ethw.org/Archives:The_Coulter_Principle:_For_the_Good_of_Humankind",
+      "kind": "book",
+      "supports": "Purchase of 3023 W. Fulton Blvd in April 1947 and the basement laboratory; Joseph at Motorola; Wallace's 1948 resignation and costs exceeding Joseph's salary; variable apertures and inaccurate count volumes; attorneys' 'You can't patent a hole' and the introduction to I. Irving Silverman by Eugene Mittelmann; filing 27 August 1949 and issue 20 October 1953; Argonne's 'no present need' reply (February 1951); Wallace's 1951 sales job; ONR partial funding after NIH scientists intervened 'as Wallace would later tell it'; 1956 NIH evaluations; move to Joseph Gardberg's basement; the brothers' sense of a 'serious gamble'; Joseph's 'something useful' remark; Ernest Yasaka hired at $2.00 an hour; NEC presentation on 3 October 1956; about 20 counters placed by mid-1957; father joining as partner and bookkeeper in August 1957 after leaving the railway; incorporation on 14 April 1958; Wallace's 1976 'bootstrapped' quote; competitors adopting the principle after patent expiry"
+    },
+    {
+      "title": "The Coulter Principle: Imaginary Origins (Cytometry Part A, 2013)",
+      "publisher": "Marshall D. Graham, via PubMed Central (PMC4237176)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4237176/",
+      "kind": "independent-reporting",
+      "supports": "Witnessed lab notes of the October 16 and 30, 1948 demonstrations: hole about 76 micrometres burned with a hot needle in cellulose acetate film, Wallace's own blood diluted several thousand times in 0.9% NaCl, direct current, oscilloscope pulses matched to cells under the microscope; Wallace's recollection of the cigarette-packet cellophane; the brothers' Chicago basement after April 1947; patent filed 27 August 1949; ONR proposal and contract"
+    },
+    {
+      "title": "US Patent 2,656,508: Means for counting particles suspended in a fluid",
+      "publisher": "Google Patents (United States Patent Office record)",
+      "url": "https://patents.google.com/patent/US2656508A/en",
+      "kind": "company-archive",
+      "supports": "Patent filed 27 August 1949 and granted 20 October 1953; particles less conductive than the fluid raise the resistance of the constricted current path as they pass"
+    },
+    {
+      "title": "Wallace H. Coulter: A Life Lived Well",
+      "publisher": "Wallace H. Coulter Foundation",
+      "url": "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well",
+      "kind": "company-archive",
+      "supports": "Basement workbench; blood, a needle and cellophane; attorneys who said 'you cannot patent a hole'; patent applied for in 1949 and issued 20 October 1953; NEC paper of 3 October 1956; incorporation of Coulter Electronics in Chicago with Joseph in 1958"
+    },
+    {
+      "title": "Company History",
+      "publisher": "Beckman Coulter",
+      "url": "https://www.beckmancoulter.com/about-beckman-coulter/history",
+      "kind": "company-archive",
+      "supports": "Wallace and Joseph founded Coulter Electronics in 1958; the company moved to Miami, Florida, in 1961; Beckman acquired Coulter Corporation in 1997"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Wallace Coulter first demonstrated electrical counting of blood cells through a needle-made hole in the Chicago basement in October 1948",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4237176/",
+        "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well"
+      ]
+    },
+    {
+      "claim": "The patent (US 2,656,508) was filed on 27 August 1949 and granted on 20 October 1953",
+      "urls": [
+        "https://patents.google.com/patent/US2656508A/en",
+        "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4237176/"
+      ]
+    },
+    {
+      "claim": "Patent attorneys initially told Wallace that a hole could not be patented",
+      "urls": [
+        "https://ethw.org/Archives:The_Coulter_Principle:_For_the_Good_of_Humankind",
+        "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well"
+      ]
+    },
+    {
+      "claim": "Wallace presented the counter at the National Electronics Conference on 3 October 1956",
+      "urls": [
+        "https://ethw.org/Archives:The_Coulter_Principle:_For_the_Good_of_Humankind",
+        "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well"
+      ]
+    },
+    {
+      "claim": "Wallace and Joseph incorporated Coulter Electronics in 1958 (14 April 1958 per Graham)",
+      "urls": [
+        "https://ethw.org/Archives:The_Coulter_Principle:_For_the_Good_of_Humankind",
+        "https://www.whcf.org/the-man-wallace-h-coulter/a-life-lived-well",
+        "https://www.beckmancoulter.com/about-beckman-coulter/history"
+      ]
+    }
+  ],
+  "research_notes": "Origin story: the Coulter Foundation and other accounts have at times traced the principle to Navy paint research (and earlier versions to plankton counting for the Navy). Graham's 2013 paper, based on Wallace's witnessed lab notes, says Wallace never worked for the Navy and first demonstrated the principle with diluted blood in October 1948; the story follows Graham and omits the paint story. Dates: Beckman Coulter's history page says he discovered the principle 'in the early 1950s', which conflicts with the witnessed 1948 notes and the 1949 patent filing; the story uses 1948. The Foundation's page implies the NEC paper came in 1953 ('That same year') but also dates the paper 3 October 1956, which Graham confirms; the story uses 1956. 'Founded in 1958': the Foundation and Beckman say 1958, while Graham shows the brothers trading as the partnership 'Coulter Electronics' from 1948 and incorporating on 14 April 1958; the story says 'incorporated in April 1958'. Film: the first demonstration (16 October 1948) used cellophane, which Wallace recalled came from a cigarette packet; the better-documented second (30 October) used cellulose acetate with a hole about 76 micrometres wide; the story says 'plastic film' and attributes the cigarette-packet detail to Wallace's recollection. Independence of sources: Graham was Wallace's technical adviser from 1978 to 1997 and draws on Wallace's personal papers, so his two works are not independent of each other; cross-checks pair them with the patent record, the Foundation and Beckman Coulter. The NIH scientists' role in persuading ONR rests on Wallace's later telling, as reported by Graham, and the story flags it ('by his account'). The 1976 'bootstrapped' quotation is from a newspaper interview cited by Graham; the original article was not consulted. Quote edition: the MIT page names George Long as translator but gives no year or section numbers; the section number (VII.7) was confirmed in Project Gutenberg's numbered Long text (#15877), and the year 1862 from the list of English translations in Project Gutenberg's #2680 introduction.",
+  "researched_at": "2026-11-01"
+}

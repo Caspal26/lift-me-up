@@ -1,0 +1,138 @@
+{
+  "id": "stewart-butterfield-tiny-speck-glitch-closure-2012",
+  "title": "The Monday Morning Stewart Butterfield Told His Staff Glitch Was Over",
+  "dek": "In late 2012 Tiny Speck shut its online game, laid off most of its staff and kept working until they had new jobs.",
+  "story": {
+    "founder": "Stewart Butterfield",
+    "company": "Tiny Speck (later Slack Technologies)",
+    "event": "Closing the online game Glitch and laying off most of the staff",
+    "approx_date": "2012-11",
+    "country": "Canada",
+    "region": "North America",
+    "industry": "software (online games)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "In November 2012 Tiny Speck, the Vancouver company led by Stewart Butterfield, announced it would shut its browser game Glitch on 9 December after failing to find a large enough audience or a buyer; all but a small core team were laid off. The company built a 'Hire a Genius' page for departing staff, wrote references and offered players refunds. The remaining team turned an internal messaging tool into Slack.",
+    "paragraphs": [
+      "One Monday morning in late 2012, Stewart Butterfield called an all-hands meeting at Tiny Speck that nobody had been warned about. By his own account, he began to cry before he got through his first sentence. Across the room was Tim Lefler, an engineer who, three months earlier, had moved his young family to Vancouver and bought a house to work on Glitch, the online game the company had spent four years building.",
+      "Glitch had launched in September 2011 and won a small, devoted community, but Butterfield later said most people who signed up were gone within five minutes. Its last eighteen months, he said, were a series of experiments, until one night he concluded he had tried \"the 15 stack-ranked best ideas we could possibly come up with to turn this around.\" The game ran on Flash, a platform in decline, and no buyer had been found to keep it going.",
+      "His board, his investors and his co-founders all wanted to carry on, he later said, and about $5.5 million of the $17.5 million raised was still in the bank. He stopped anyway. In mid-November Tiny Speck announced that Glitch would close on 9 December, telling players, \"We are sorry to have let you down.\" All but a small core team, about thirty people by reports at the time, were to lose their jobs.",
+      "The company built a page on the Glitch site called Hire a Genius, with each departing employee's photo, portfolio and LinkedIn profile, timed so that journalists receiving the closure news would also hear these people were looking for work. Butterfield and the remaining team wrote reference letters and offered CV coaching; Lefler had a couple of offers within about a week. Players could take a refund, let the company keep their money, or have it given to charity. Butterfield later said every person found a job.",
+      "A small team stayed on with the remaining money and an internal chat tool built while making the game; it became Slack. Among its early engineers was Tim Lefler, hired back."
+    ]
+  },
+  "quote": {
+    "text": "he bids us hope for a safe release from even the hardest trials, provided that we are not in too great a hurry before the time, nor too dilatory when the time arrives.",
+    "thinker": "Seneca (reporting the counsel of Epicurus)",
+    "work": "Moral Letters to Lucilius (Epistulae Morales ad Lucilium)",
+    "locator": "Letter XXII, \"On the Futility of Half-Way Measures\", section 6",
+    "translator": "Richard M. Gummere (1917)",
+    "tradition": "Stoic",
+    "source_url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_22",
+    "source_title": "Moral letters to Lucilius, Letter 22, translated by Richard Mott Gummere (Loeb Classical Library, volume 1, 1917), Wikisource",
+    "connection": "Seneca, passing on Epicurus, warns against leaving too soon as firmly as against leaving too late. Butterfield's board and co-founders thought he was leaving too soon; he thought a sixteenth idea would not save the game. That the leftover money later built Slack does not settle which of them read the moment rightly.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Nobody in this story knew for certain that it was the right moment to stop. Butterfield's board thought it had not come; he thought it had. What he did have was a count of what he had already tried, and a plan for the people that was ready before the news went out.",
+    "You may never have to close anything. But some part of your work is always asking for one more try, and it helps to know, in advance and in writing, what a fair chance would look like. That is easier to set down on a rested morning than at the end of a long day."
+  ],
+  "invitation": "Write down how many real attempts you have given the piece of work that worries you most, and what result would tell you it has had a fair chance. Then put the note away until tomorrow.",
+  "sources": [
+    {
+      "title": "Masters of Scale Episode Transcript: Stewart Butterfield",
+      "publisher": "Masters of Scale with Reid Hoffman (WaitWhat); copy of the official transcript hosted at gwern.net",
+      "url": "https://gwern.net/doc/technology/2019-07-mastersofscale-episode13-stewartbutterfield.pdf",
+      "kind": "founder-interview",
+      "supports": "Four years of development, 45 employees, $17.5 million raised; most sign-ups leaving within five minutes; eighteen months of experiments and the '15 stack-ranked best ideas' quotation; board, investors and co-founders wanted to continue; unannounced all-hands and Butterfield starting to cry; the engineer (Tim Lefler) who had moved to Vancouver three months earlier and bought a house; Lefler's 'Monday morning'; the Hire a Genius page with LinkedIn profiles, portfolios and photos timed with the press release; reference letters and CV coaching; Lefler's offers within about a week; players offered a refund, to let the company keep the money, or a donation to charity; Butterfield's claim that every person got a job; about $5.5 million left; Lefler later rehired as an early Slack engineer."
+    },
+    {
+      "title": "As Flickr Co-Founder Butterfield Shuts Down Glitch, Is He Planning A New Photo Service?",
+      "publisher": "TechCrunch (Ingrid Lunden, 15 November 2012)",
+      "url": "https://techcrunch.com/2012/11/15/as-flickr-co-founder-butterfield-shuts-down-glitch-is-he-planning-a-new-photo-service-you-will-know-it-well-he-says/",
+      "kind": "independent-reporting",
+      "supports": "Glitch to close on 9 December 2012 after failing to gain enough users and failing to find a buyer; Butterfield finding new jobs for the 30 or so people being laid off; refunds for players; link to the glitch.com/hire-a-genius page."
+    },
+    {
+      "title": "Stewart Butterfield's Glitch Is Closing",
+      "publisher": "Business Insider (15 November 2012)",
+      "url": "https://www.businessinsider.com/stewart-butterfield-tiny-speck-glitch-closing-2012-11",
+      "kind": "independent-reporting",
+      "supports": "About 30 employees laid off, all except a small core team; Tiny Speck posted names and LinkedIn profiles of departing staff to help them get hired; no buyer found; reliance on Flash; the announcement that a smaller core team would develop the company's messaging technology."
+    },
+    {
+      "title": "Flickr creator's social game Glitch announces closure",
+      "publisher": "MCV/DEVELOP (15 November 2012)",
+      "url": "https://mcvuk.com/business-news/mobile/flickr-creators-social-game-glitch-announces-closure",
+      "kind": "independent-reporting",
+      "supports": "Text of the closure notice, including 'We are sorry to have let you down', the audience being too small to sustain the game, the decline of Flash; game world deactivated on 9 December; automatic refunds."
+    },
+    {
+      "title": "After Flickr, Startup Guru Smells The Sweet Success Of Failure",
+      "publisher": "NPR (17 June 2014)",
+      "url": "https://www.npr.org/2014/06/17/322603410/after-flickr-startup-guru-smells-the-sweet-success-of-failure",
+      "kind": "independent-reporting",
+      "supports": "Tiny Speck raised $17.5 million; Glitch launched in September 2011; Butterfield in tears when he told staff it was over; new users leaving too soon; the in-house communication tool built by the Glitch developers became Slack."
+    },
+    {
+      "title": "The CEO of $2.8 billion Slack shares the most horrible thing about shutting down a startup",
+      "publisher": "Business Insider (8 July 2015)",
+      "url": "https://www.businessinsider.com/slack-ceo-stewart-butterfield-on-shutting-down-a-startup-2015-7",
+      "kind": "independent-reporting",
+      "supports": "Butterfield's account on the Re/code Decode podcast of the all-hands and of the recently relocated employee; a portal set up for laid-off staff that helped them find jobs; his later figure of 37 of 45 employees laid off."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Glitch's closure was announced in mid-November 2012 and the game shut on 9 December 2012.",
+      "urls": [
+        "https://techcrunch.com/2012/11/15/as-flickr-co-founder-butterfield-shuts-down-glitch-is-he-planning-a-new-photo-service-you-will-know-it-well-he-says/",
+        "https://mcvuk.com/business-news/mobile/flickr-creators-social-game-glitch-announces-closure"
+      ]
+    },
+    {
+      "claim": "All but a small core team, about thirty people, were laid off.",
+      "urls": [
+        "https://techcrunch.com/2012/11/15/as-flickr-co-founder-butterfield-shuts-down-glitch-is-he-planning-a-new-photo-service-you-will-know-it-well-he-says/",
+        "https://www.businessinsider.com/stewart-butterfield-tiny-speck-glitch-closing-2012-11"
+      ]
+    },
+    {
+      "claim": "Tiny Speck published departing employees' profiles so others would hire them.",
+      "urls": [
+        "https://gwern.net/doc/technology/2019-07-mastersofscale-episode13-stewartbutterfield.pdf",
+        "https://www.businessinsider.com/stewart-butterfield-tiny-speck-glitch-closing-2012-11"
+      ]
+    },
+    {
+      "claim": "Butterfield cried when he told the staff Glitch was ending.",
+      "urls": [
+        "https://gwern.net/doc/technology/2019-07-mastersofscale-episode13-stewartbutterfield.pdf",
+        "https://www.npr.org/2014/06/17/322603410/after-flickr-startup-guru-smells-the-sweet-success-of-failure"
+      ]
+    },
+    {
+      "claim": "Tiny Speck had raised about $17.5 million.",
+      "urls": [
+        "https://gwern.net/doc/technology/2019-07-mastersofscale-episode13-stewartbutterfield.pdf",
+        "https://www.npr.org/2014/06/17/322603410/after-flickr-startup-guru-smells-the-sweet-success-of-failure"
+      ]
+    },
+    {
+      "claim": "Players were offered refunds.",
+      "urls": [
+        "https://techcrunch.com/2012/11/15/as-flickr-co-founder-butterfield-shuts-down-glitch-is-he-planning-a-new-photo-service-you-will-know-it-well-he-says/",
+        "https://mcvuk.com/business-news/mobile/flickr-creators-social-game-glitch-announces-closure"
+      ]
+    },
+    {
+      "claim": "A smaller team continued, and the internal messaging tool became Slack.",
+      "urls": [
+        "https://www.businessinsider.com/stewart-butterfield-tiny-speck-glitch-closing-2012-11",
+        "https://www.npr.org/2014/06/17/322603410/after-flickr-startup-guru-smells-the-sweet-success-of-failure"
+      ]
+    }
+  ],
+  "research_notes": "Layoff numbers disagree: reports at the time (TechCrunch, Business Insider) said about 30 people, all but a small core team; in 2015 Business Insider, summarising Butterfield on the Re/code Decode podcast, gave 37 of 45. The story uses the contemporary figure and does not state the total headcount. Dates: Business Insider's report is timestamped 15 November 2012 03:44 UTC (the evening of 14 November in Vancouver) and TechCrunch's 15 November, so the story says 'mid-November'; the all-hands itself is dated only by Tim Lefler's recollection of 'a Monday morning', so the story says 'late 2012'. Several details rest on Butterfield's own later account in the Masters of Scale interview and are attributed as such: that his board, investors and co-founders wanted to continue, that about $5.5 million remained, that most sign-ups (he said about 97%) left within five minutes, and that every laid-off person found a job (Business Insider 2015 reports only that the job portal helped them find work soon after). He described 'the last 18 months' as experiments although Glitch was public for about 15 months; the period presumably includes the pre-launch beta, so the story keeps his words. Business Insider (2012) reported $1.5 million seed and $10.7 million venture funding; the $17.5 million total comes from Masters of Scale and NPR (2014) and may include later money. The Masters of Scale transcript is cited from a copy of the official PDF hosted at gwern.net because mastersofscale.com blocks automated requests. The original closure page (glitch.com/closing) is no longer online; its wording is taken from MCV's quotation. The Seneca passage reports Epicurus's advice to Idomeneus about withdrawing from public business; the excerpt begins after a footnote marker in the Wikisource text.",
+  "researched_at": "2026-11-01"
+}
