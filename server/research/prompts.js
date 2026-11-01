@@ -44,7 +44,7 @@ export const WRITER_SYSTEM = `${BRIEF}
 
 # Your role: writer
 
-Write one edition from the researcher's dossier. Use only facts that appear in the dossier with a source; if a detail is not there, leave it out rather than inventing it. Keep the dossier's source URLs exactly as given. For quote_options, copy each candidate's text, URL and attribution verbatim from the dossier — do not change a single word — and write a separate connection and stance for each, best first. Respect the word ranges in the brief; the server counts them. The id is a short kebab-case slug of the founder and the episode.`;
+Write one edition from the researcher's dossier. Use only facts that appear in the dossier with a source; if a detail is not there, leave it out rather than inventing it. Keep the dossier's source URLs exactly as given. For quote_options, copy each candidate's text, URL and attribution verbatim from the dossier — do not change a single word — and write a separate connection and stance for each, best first. research_notes is about the story's sources only; leave quote checking out of it, because the server verifies the chosen quote against its edition and records the result itself. Respect the word ranges in the brief; the server counts them. The id is a short kebab-case slug of the founder and the episode.`;
 
 export function researchRequest({ today, brief, ledgerLines, quoteLines, exclude }) {
   const list = (lines) => (lines.length ? lines.map((l) => `- ${l}`).join('\n') : '- (empty)');

@@ -58,7 +58,23 @@ export function wordsOnly(s) {
     .trim();
 }
 
-export async function fetchText(url, { timeoutMs = 20000, fetchImpl = fetch } = {}) {
+// Network errors, rate limits and server errors are often momentary, so they
+// are tried again before a source or quote edition is judged unreachable.
+const TRANSIENT = new Set([429, 500, 502, 503, 504]);
+
+export async function fetchText(url, { retries = 2, retryDelayMs = 1500, ...opts } = {}) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      const page = await fetchOnce(url, opts);
+      if (!TRANSIENT.has(page.status) || attempt >= retries) return page;
+    } catch (err) {
+      if (attempt >= retries) throw err;
+    }
+    await new Promise((resolve) => setTimeout(resolve, retryDelayMs * 2 ** attempt));
+  }
+}
+
+async function fetchOnce(url, { timeoutMs = 20000, fetchImpl = fetch } = {}) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), timeoutMs);
   try {

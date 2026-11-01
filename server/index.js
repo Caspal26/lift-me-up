@@ -16,23 +16,29 @@ if (!config.passcode && !config.allowNoPasscode) {
 
 const db = openDb(path.join(config.dataDir, 'lift-me-up.db'));
 
-// First run: fill the reserve from the hand-researched editions.
-if (db.prepare('SELECT COUNT(*) AS n FROM pieces').get().n === 0) {
-  const results = await importEditions(db, readSeedFiles(), { verify: process.env.SEED_VERIFY !== '0' });
-  for (const r of results) console.log(`[seed] ${r.status} ${r.file}${r.reason ? ` — ${r.reason}` : ''}`);
-}
-
 vapidKeys(db);
 const researcher = researchConfigured() ? createClaudeResearcher() : null;
 const auth = createAuth(db);
 const scheduler = createScheduler({ db, researcher });
 const app = createApp({ db, scheduler, researcher, auth });
 
-const server = app.listen(config.port, () => {
+const server = app.listen(config.port, async () => {
   console.log(`Lift Me Up listening on http://localhost:${config.port}`);
-  console.log(`  research: ${researcher ? `Claude (${config.claude.model})` : 'not configured — using the reserve'}; reserve: ${countReserve(db)}`);
+  console.log(`  research: ${researcher ? `Claude (${config.claude.model})` : 'not configured — using the reserve'}`);
   console.log(`  WhatsApp: ${whatsappConfigured() ? 'configured' : 'off'}; passcode: ${auth.open ? 'off' : 'on'}`);
   scheduler.start();
+  // Add any hand-researched editions not yet in the database. Imported ones
+  // are skipped, so one that failed a check (say, a source that was briefly
+  // unreachable) is tried again on the next start.
+  try {
+    const results = await importEditions(db, readSeedFiles(), { verify: process.env.SEED_VERIFY !== '0' });
+    for (const r of results.filter((r) => r.status !== 'skipped')) {
+      console.log(`[seed] ${r.status} ${r.file}${r.reason ? ` — ${r.reason}` : ''}`);
+    }
+    console.log(`  reserve: ${countReserve(db)}`);
+  } catch (err) {
+    console.error('[seed] import failed:', err);
+  }
 });
 
 function shutdown() {

@@ -61,6 +61,10 @@ moralise. Treat rest as part of the work, not a reward for it.
   decision itself — against a second, independent reliable source, and record
   each cross-check. When sources disagree, say so plainly or use the
   conservative version and note it in `research_notes`.
+- Outcome numbers (units sold, users, revenue, money raised) are the figures
+  sources most often contradict. Before a story leans on one, read every
+  source you cite for a different figure, including the founder's own claims
+  in interviews, and if they differ, give both with who said what and when.
 - Keep dates as precise as the sources allow ("in late 2012").
 - Write original prose. Never copy sentences from a source.
 
