@@ -108,9 +108,13 @@ limited to it. In Render, create a **Web Service** from this GitHub repository
 with the **Docker** runtime, the **Free** plan, the **Frankfurt** region (the
 nearest to Nairobi) and the health check path `/healthz`. Set the variables
 from [`.env.example`](.env.example), including the four `LITESTREAM_` ones
-(the key's keyID and applicationKey are the access key and secret). Render
-redeploys on every push to `main`. Finally, add the 5-minute job in
-cron-job.org.
+(the key's keyID and applicationKey are the access key and secret). Finally,
+add the 5-minute job in cron-job.org.
+
+To ship a change, push to `main`, then in Render open the service and choose
+**Manual Deploy → Deploy latest commit**. (Render redeploys on its own only
+when its GitHub app is linked to the repository.) A deploy restarts the app;
+the database comes back from the bucket.
 
 **Fly.io** (configuration included; Johannesburg is the nearest region). Fly
 needs a payment card on the account: on the free trial it stops every machine
