@@ -1,0 +1,15 @@
+{
+  "key": "sa-plaatje-newspaper",
+  "status": "done",
+  "file": "offline/editions/sol-plaatje-koranta-ea-becoana-mafeking-1901-1909.json",
+  "title": "Sol Plaatje's Mafeking Weekly and the Advertisers Who Did Not Pay",
+  "region": "Southern Africa",
+  "industry": "media (newspapers)",
+  "arc": "closure",
+  "funding": "mixed",
+  "tradition": "Islamic and Persian",
+  "thinker": "Rumi (in the voice of ʿAli)",
+  "talqen": false,
+  "conflicts": "Dates of the paper: start 1901 (SAHO, Wikipedia) vs 1902 (van der Walt; SOAS dates Plaatje's editorship from 1902); end 1908 (The Journalist) vs end of May 1909 (Wikipedia), 'seven years' (1910 Pretoria News) or 'six or seven years' (SAHO); SOAS (1902–1905) and a HiPSA reviewer (1901–1904) give shorter spans. Story says about seven years, ending in 1908 or mid-1909. The 1910 Pretoria News called it 'very successful', at odds with Plaatje's letters about unpaid advertisers; story follows the letters. A Kimberley local historian blames Plaatje's business sense; not used, as it is neither the founder's nor a court's judgement. Tsala's first issue 18 June vs 2 July 1910 on the same page; story says by June 1910.",
+  "notes": "Funding set to mixed (slate: bootstrapped): Silas Molema bought and financed the paper, which also lived on sales and advertising. Native Life in South Africa (Gutenberg) is used for the 1910 Pretoria News profile it reprints. The Plaatje letter quotation is taken from a HiPSA review citing Willan and Mokae, A Life in Letters (2020), p. 18. Primary archives (Wits Molema-Plaatje Papers, SOAS digital collection) do not load as text, and the SOAS thesis repository is behind a bot check, so they are not cited. Quote stance complicates."
+}

@@ -1,0 +1,127 @@
+{
+  "id": "mitchell-elegbe-interswitch-founding-2002",
+  "title": "When Banks Would Not Buy His Switch, Mitchell Elegbe Built a Buyer",
+  "dek": "In 2002 a young Telnet manager who could not sell transaction-switching software to Nigerian banks set up Interswitch to use it, and agreed to run it without owning a share.",
+  "story": {
+    "founder": "Mitchell Elegbe",
+    "company": "Interswitch",
+    "event": "Founding Interswitch to run a bank switch nobody would buy, and taking the chief executive's job without shares",
+    "approx_date": "2002",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "fintech (payment switching)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "Mitchell Elegbe, working at Telnet in Lagos, failed to sell transaction-switching software to Nigerian financial institutions, so in 2002 he set up Interswitch, with Accenture's help and part of its capital from local banks, to use it. Unable to afford an experienced chief executive, he took the job himself as an employee with no shareholding. Interswitch linked seven banks by 2004 and later almost all Nigerian banks and 11,000 ATMs; in 2010 two-thirds of it was sold to a private equity consortium at a valuation of over $170 million.",
+    "paragraphs": [
+      "The first time Mitchell Elegbe used a cash machine, in Scotland, where he was working as an engineer, it kept his card. His first job had involved connecting Nigerian banks to SWIFT, the international payments network. Back in Nigeria at Telnet, a telecoms company, he pitched his boss a transaction switch, software that lets different banks' cards and machines work with one another, and was authorised to pursue it.",
+      "He could not. \"I started by trying to sell the software for switching to traditional players. Most of them were not interested,\" he told Forbes Africa in 2013. Nigeria ran largely on cash, and its few ATMs served only their own bank's customers. So he turned the problem round: \"I thought if I created an organization that would buy the software, I could meet my targets.\"",
+      "Interswitch was set up in 2002 with help from Accenture, which persuaded local banks to put in part of the capital, and with Telnet as sponsor. Shareholders were sceptical, ThisDay later reported, about running a round-the-clock service where electricity was unreliable and telecoms weak. Then came the chief executive. \"All the CEO's we could get were expatriates and what they wanted to earn was more than the entire capital of the company,\" Elegbe said. Someone at Accenture suggested that, as it was his idea, he should run it. He was about four years out of national service.",
+      "He took the job as an employee, with no shares. \"I wasn't fixated on being the one to run it,\" he said, nor on any shareholding; he wanted the idea to work and Telnet to get the value he had promised. Looking back, he called letting go one of the best decisions they took, because Interswitch was never run as a one-man business.",
+      "By 2004, when it won a Computerworld Honors gold medal for innovation, seven banks were on the network. Then came 13, then an ATM consortium and the mobile operator Globacom; by 2013 it reached almost all Nigerian banks and 11,000 ATMs. In 2010, eight years in, two-thirds of the company was sold to a private equity consortium at a valuation of over $170 million. His results eventually earned him and his team stakes."
+    ]
+  },
+  "quote": {
+    "text": "the truth is that the State in which the rulers are most reluctant to govern is always the best and most quietly governed, and the State in which they are most eager, the worst.",
+    "thinker": "Plato",
+    "work": "The Republic",
+    "locator": "Book VII (520d in the Stephanus numbering)",
+    "translator": "Benjamin Jowett",
+    "tradition": "Classical Greek",
+    "source_url": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+    "source_title": "The Republic, by Plato, tr. Benjamin Jowett, Project Gutenberg eBook #1497",
+    "connection": "Plato thought the best-governed cities are led by people who least want the job. Elegbe had not planned to run Interswitch and did not insist on owning it, and he credited that with the company never becoming a one-man business.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "It is easy to assume that whoever has the idea must own it, lead it and be thanked for it. Elegbe's account suggests another way: let the idea have the structure it needs, even if that structure does not put you at the top.",
+    "You may have work you hold tightly because it began with you. Some of it truly needs you. Some of it might grow better with other hands on it and your name a little further from the centre. Telling the two apart is easier on a quiet morning than in the middle of a hard week."
+  ],
+  "invitation": "Choose one task you keep because it was your idea, and ask a colleague this week whether they would like to own it, with you on hand if they need you.",
+  "sources": [
+    {
+      "title": "Mitchell Elegbe: Spreading Tentacles Across Africa (Charles Idem, Forbes Africa, November 2013), via Helios Investment Partners' news page of 6 November 2013",
+      "publisher": "Forbes Africa (republished by Helios Investment Partners)",
+      "url": "https://www.heliosinvestment.com/news/entrepreneurs-mitchell-elegbe-interswitch-ceo",
+      "kind": "founder-interview",
+      "supports": "ATM in Scotland keeping his card; first job on a SWIFT project for Nigerian banks; returning to Telnet and pitching the switch to his boss; quotations on failing to sell the software and creating an organisation to buy it; Accenture's help in getting local banks to put down part of the capital; the expatriate CEO candidates; the Accenture suggestion that he run it; CEO four years after NYSC; no shareholding at the start and quotations on not being fixated on running or owning it, and on Interswitch never being run like a one-man business; Telnet getting the promised value; 2004 Computerworld Honors gold medal; seven banks, then 13, then an ATM consortium and Globacom; almost all banks and 11,000 ATMs; two-thirds sold to a consortium eight years in at a valuation of over $170 million; stakes later earned by Elegbe and his team"
+    },
+    {
+      "title": "Mitchell Elegbe: The Man Behind 'The Switch' (Mary Nnah, November 2020)",
+      "publisher": "THISDAY",
+      "url": "https://www.thisdaylive.com/2020/11/14/mitchell-elegbe-the-man-behind-the-switch/",
+      "kind": "independent-reporting",
+      "supports": "Born in Benin City, studied at the University of Benin; NYSC at Computer Systems Associates connecting banks to SWIFT; Telnet; the switch plan failing because traditional players would not buy the software; Interswitch set up with Accenture's support and banks contributing part of the capital; expatriate CEO candidates expecting more than the company's capital; Telnet as sponsor; shareholders sceptical about a 24/7 business with unreliable electricity and telecoms"
+    },
+    {
+      "title": "Unpacking The Untold Story Behind The Company That Is Set To Become Nigeria's First Billion-Dollar Tech Firm (Henry Nzekwe, 11 November 2019)",
+      "publisher": "WeeTracker",
+      "url": "https://weetracker.com/2019/11/11/interswitch-is-set-for-unicorn-status/",
+      "kind": "independent-reporting",
+      "supports": "Interswitch founded in 2002, four years after Elegbe's NYSC; before 2002 Nigeria ran on cash, cards were rare and the few ATMs served only their own bank's customers; Accenture support; Helios Investment Partners joining in 2010"
+    },
+    {
+      "title": "Interswitch: The story of one of Africa's earliest unicorn companies (Ruth Okwumbu-Imafidon, 21 March 2021)",
+      "publisher": "Nairametrics",
+      "url": "https://nairametrics.com/2021/03/21/interswitch-the-story-of-one-of-africas-earliest-unicorn-company",
+      "kind": "independent-reporting",
+      "supports": "Telnet origins and failed software sale; Accenture support and banks' capital; Elegbe taking the CEO role; no shares at the outset and later equity; network growth from 7 to 13 banks and then non-banks; almost all banks and about 11,000 ATMs; valuation of about N26 billion (over $170 million) after eight years; Helios-led consortium buying two-thirds in 2010"
+    },
+    {
+      "title": "Mitchell Elegbe, the switch behind Interswitch (Ruth Okwumbu-Imafidon, 4 September 2021)",
+      "publisher": "Nairametrics",
+      "url": "https://nairametrics.com/2021/09/04/mitchell-elegbe-the-switch-behind-interswitch/",
+      "kind": "independent-reporting",
+      "supports": "University of Benin; NYSC at Computer Systems Associates; Telnet; ATM in Scotland keeping his card; no interest from traditional institutions in the software; expatriate CEO candidates; Elegbe resigning from Telnet to become CEO; network growing from 7 to 13 banks"
+    },
+    {
+      "title": "Our story",
+      "publisher": "Interswitch Group",
+      "url": "https://www.interswitchgroup.com/our-story",
+      "kind": "company-archive",
+      "supports": "Interswitch founded in 2002 and its later products"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Interswitch was founded in 2002",
+      "urls": [
+        "https://www.interswitchgroup.com/our-story",
+        "https://weetracker.com/2019/11/11/interswitch-is-set-for-unicorn-status/"
+      ]
+    },
+    {
+      "claim": "Elegbe could not sell the switching software to existing institutions, so he set up Interswitch to use it, with Accenture's help and part of the capital from banks",
+      "urls": [
+        "https://www.heliosinvestment.com/news/entrepreneurs-mitchell-elegbe-interswitch-ceo",
+        "https://www.thisdaylive.com/2020/11/14/mitchell-elegbe-the-man-behind-the-switch/",
+        "https://nairametrics.com/2021/03/21/interswitch-the-story-of-one-of-africas-earliest-unicorn-company"
+      ]
+    },
+    {
+      "claim": "Experienced CEO candidates wanted more than the company's capital, so Elegbe took the role, starting with no shareholding",
+      "urls": [
+        "https://www.heliosinvestment.com/news/entrepreneurs-mitchell-elegbe-interswitch-ceo",
+        "https://www.thisdaylive.com/2020/11/14/mitchell-elegbe-the-man-behind-the-switch/",
+        "https://nairametrics.com/2021/09/04/mitchell-elegbe-the-switch-behind-interswitch/"
+      ]
+    },
+    {
+      "claim": "The network grew from seven banks to 13 and then non-banks, reaching almost all Nigerian banks and 11,000 ATMs",
+      "urls": [
+        "https://www.heliosinvestment.com/news/entrepreneurs-mitchell-elegbe-interswitch-ceo",
+        "https://nairametrics.com/2021/03/21/interswitch-the-story-of-one-of-africas-earliest-unicorn-company"
+      ]
+    },
+    {
+      "claim": "In 2010 two-thirds of Interswitch was sold to a private equity consortium at a valuation of over $170 million",
+      "urls": [
+        "https://www.heliosinvestment.com/news/entrepreneurs-mitchell-elegbe-interswitch-ceo",
+        "https://nairametrics.com/2021/03/21/interswitch-the-story-of-one-of-africas-earliest-unicorn-company",
+        "https://weetracker.com/2019/11/11/interswitch-is-set-for-unicorn-status/"
+      ]
+    }
+  ],
+  "research_notes": "The main source is Elegbe's own account to Forbes Africa (Charles Idem, November 2013), read in full from the PDF that Helios Investment Partners links from its news page of 6 November 2013 (the cited URL; the PDF itself is at https://cdn.sanity.io/files/vsosykdu/production/ea419e6587d7874242c4d32880c228866bc4d709.pdf, with an Internet Archive copy of the older Helios address at https://web.archive.org/web/20251225041422/https://www.heliosinvestment.com/uploads/files/Entrepreneurs-Mitchell-Elegbe-Interswitch-CEO.pdf). The landing page itself carries only the article's standfirst. Banks at the start: Nairametrics (March 2021) says Interswitch started with three banks; Forbes Africa (2013) says it had seven banks before the 2004 Computerworld award, rising to 13, and Nairametrics (September 2021) also says 7 to 13; the story uses 'seven banks by 2004' and does not give a launch-day count. Sequence of jobs: Forbes Africa says Elegbe's first job involved the SWIFT project, he later worked in Scotland, and returned to Telnet, where he had worked before going abroad; ThisDay calls Schlumberger in Scotland his first job; WeeTracker and Nairametrics place a Telnet job before Scotland. The story gives the SWIFT work, Scotland and the return to Telnet without saying which was the first salaried job. The 'Friday evening' queues quotation that Nairametrics attributes to Elegbe has no named original source, so it is not used. Forbes Afrique (2023) gives a founding year of 2022, an evident error, and is not cited; the founding year 2002 comes from Interswitch and WeeTracker. Valuation: Forbes Africa gives over $170 million eight years in; Nairametrics gives N26 billion (over $170 million) and dates the Helios-led two-thirds purchase to 2010. Shareholder scepticism about power and telecoms is reported by ThisDay, not quoted from Elegbe. Later Visa investment (2019) figures differ between reports (WeeTracker: an offer of $200 million for 20%; Nairametrics: a fifth at a $1 billion valuation) and are left out. Plato's remark concerns philosopher-rulers returning to govern the city; it is applied by analogy to a founder who did not seek control. Co-founders: ThisDay says Elegbe worked alongside Akeem Lawal and Charles Ifedi, and some profiles name them as co-founders; the slate and Elegbe's own account centre on him, so the founder field names Elegbe alone and the story does not claim he worked alone.",
+  "researched_at": "2026-11-01"
+}

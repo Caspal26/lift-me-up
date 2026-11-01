@@ -1,0 +1,15 @@
+{
+  "key": "eu-blablacar-mazzella",
+  "status": "done",
+  "file": "offline/editions/frederic-mazzella-covoiturage-fr-paid-booking-2011.json",
+  "title": "The Year Covoiturage.fr Asked Its Passengers to Pay",
+  "region": "Europe",
+  "industry": "transport (carpooling platform)",
+  "arc": "change-of-direction",
+  "funding": "venture",
+  "tradition": "Japanese",
+  "thinker": "Nitobe Inazō",
+  "talqen": false,
+  "conflicts": "Timing of paid booking: INPI and the 2016 case study say 2011 (case: Brittany test early 2011, all France second half 2011); Journal de l'Automobile (June 2012) says testing from May 2011 and national rollout in June 2012; Wikipedia says June 2012. Story: testing began in 2011, extended across France by June 2012. No-shows after: under 3% (case study) vs under 4% (Journal de l'Automobile) vs 'divided by ten' (INPI); story uses below 4%, attributed to the company. Commission rate 7-12% (case) vs about 11% (INPI); omitted. ISAI €1.25m (ITespresso, TechCrunch) vs €1.5m (case); used €1.25m. Mazzella's 'about €1m from company platforms 2008-2010' (JDN) sits uneasily with the case's 2009 accounts (€140k revenue, €110k loss); story uses only the 2009 accounts. Six models (Mazzella, JDN; Maddyness) vs 'six or seven' (Atlantico via the case); used six.",
+  "notes": "Quote stance is 'complicates'. Wired, L'Express, Rue89 and BBC pieces could not be fetched by the research tools and are not cited. The case-study PDF was read via local text extraction. Mazzella's French remarks are paraphrased, not quoted."
+}

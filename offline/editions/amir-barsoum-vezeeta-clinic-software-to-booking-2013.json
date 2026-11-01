@@ -1,0 +1,118 @@
+{
+  "id": "amir-barsoum-vezeeta-clinic-software-to-booking-2013",
+  "title": "When Doctors Were Slow to Sign Up, Vezeeta Turned to Patients",
+  "dek": "In 2012 Amir Barsoum's start-up sold clinic software that Cairo doctors were slow to adopt; in 2013 it turned that software into a booking site for patients.",
+  "story": {
+    "founder": "Amir Barsoum, Ahmed Badr",
+    "company": "DrBridge (later Vezeeta)",
+    "event": "Turning slow-selling clinic software into a patient booking site",
+    "approx_date": "2013-09",
+    "country": "Egypt",
+    "region": "North Africa",
+    "industry": "healthcare (digital health)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "In April 2012 Amir Barsoum and Ahmed Badr founded DrBridge in Cairo, backed by Egypt's Technology Development Fund, to sell clinic-management and medical-records software to private doctors. Adoption was slow and the team paused for about eight months to rework the product; in September 2013 they used the software to launch Vezeeta, a site for booking doctors' appointments that was free for patients. The patient service overtook the original business and by 2020 reported 4.5 million users across four countries.",
+    "paragraphs": [
+      "In April 2012 Amir Barsoum and Ahmed Badr left senior corporate jobs in Cairo to start a health software company called DrBridge. Barsoum, a pharmacy graduate, had been a McKinsey consultant and a strategy manager for AstraZeneca in the region; Badr had co-founded the Cairo software firm ITWorx. They told Egypt's Technology Development Fund that they had families and needed salaries, and that they would put in their own money too. By Barsoum's later account the fund put in $1.3 million and the founders about $300,000; Wamda reported in 2014 that the fund took 40 per cent of the company.",
+      "Their first product was for doctors, not patients: an app to run a private clinic, with appointment and performance reports and electronic medical records. Doctors were slow to take it up. \"It was very difficult at first,\" Barsoum told Wamda in early 2014. After the launch, he said, the team stopped for about eight months to rework the app around what Egyptian doctors actually needed.",
+      "While they struggled to sell software to clinics, they noticed a larger problem on the other side of the desk: patients trying to work out which doctor to see, usually by asking relatives. Barsoum later said the people with the biggest pain had to be the main beneficiaries. In September 2013 the company used the software it had built to launch Vezeeta, a site for booking appointments with Cairo doctors, named after the Egyptian colloquial word for the fee paid at a doctor's visit. Patients booked free; doctors paid 300 Egyptian pounds a month. By January 2014, Barsoum said, 50,000 patients had used it, and the team had grown from three people to 63.",
+      "The patient brand soon swallowed the clinic one. Barsoum said they never imagined it would be so successful. The real turning point, he said in 2018, came when they set revenue aside to chase adoption, replacing doctors' flat fees with payment per booking, and moved to mobile first. In January 2020 The National reported, from company figures, 4.5 million users making 300,000 bookings a month with 20,000 doctors across Egypt, Saudi Arabia, Jordan and Lebanon."
+    ]
+  },
+  "quote": {
+    "text": "As one looks at both of them, one sees clearly what progress the former has made, but the larger and more difficult part of the latter is hidden.",
+    "thinker": "Seneca",
+    "work": "Moral Letters to Lucilius (Epistulae Morales ad Lucilium)",
+    "locator": "Letter LII, \"On Choosing Our Teachers\", section 5",
+    "translator": "Richard M. Gummere (1917)",
+    "tradition": "Stoic",
+    "source_url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_52",
+    "source_title": "Moral Letters to Lucilius, Letter 52, tr. Richard M. Gummere (Wikisource)",
+    "connection": "Seneca pictures two equally tall buildings, one on firm ground and one whose foundations had to be driven down through soft soil. Vezeeta's booking site rose on clinic software that doctors had been slow to want; that year of hard digging is the part of the building nobody sees.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Some of your work will feel as if it went into the ground: a system people did not take up, months spent fixing something few noticed. DrBridge's clinic software looked like that in 2013. Yet when the founders saw that patients had the bigger need, the software already existed, and they could move within months.",
+    "It is worth asking, now and then, who in your work carries the most pain, and whether you have been building for someone else because they were easier to reach. Asking does not make the earlier work a waste."
+  ],
+  "invitation": "Write down the person your work is meant to help most and the person it reaches most easily. If they are different people, ask the first one a single question this week.",
+  "sources": [
+    {
+      "title": "Can Egypt's first online medical community succeed? (January 2014)",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2014/01/drbridge-is-the-first-egyptian-online-medical-community-will-it-succeed-",
+      "kind": "founder-interview",
+      "supports": "DrBridge started in April 2012 as an app for doctors (clinic administration, appointment and performance reports, electronic medical records); later added patients; Vezeeta booking site launched the previous September (2013) for Cairo doctors, free to patients, EGP 300 a month or EGP 3,000 a year for doctors; Barsoum's 'It was very difficult at first' and the eight-month stop to improve the app; team grown from three to 63; 50,000 patients; co-founders Barsoum (former AstraZeneca strategy manager, pharmacy graduate, AUC MBA) and Ahmad Bader (co-founder of ITWorx); first funding from the Technology Development Fund (Ideavelopers), which took 40% of DrBridge for EGP 8 million"
+    },
+    {
+      "title": "How Egypt's Top HealthTech Startup Vezeeta is Solving one of the Nation's Biggest Pains (Valentina Primo, 2018)",
+      "publisher": "The Startup Scene",
+      "url": "https://thestartupscene.me/BehindTheStartup/How-Egypt-s-Top-HealthTech-Startup-Vezeeta-is-Solving-one-of-the-Nation-s-Biggest-Pains",
+      "kind": "founder-interview",
+      "supports": "Co-founded as Dr. Bridge with Ahmed Badr in 2012, initially B2B software and medical records for clinics; the B2C brand 'ate up' the B2B brand; the biggest-pain beneficiaries remark; 'we never thought ... it would be this successful'; started April 2012 with TDF; leaving senior corporate roles, families and salaries; $1.3 million from TDF and $300,000 from the founders; turning point of setting revenue aside for adoption, pay-as-you-go instead of flat fees, mobile-first; patients previously asked families; McKinsey and AstraZeneca background"
+    },
+    {
+      "title": "Born to Build: A CEO's Journey (Fall 2025)",
+      "publisher": "AUC Today, The American University in Cairo",
+      "url": "https://auctoday.aucegypt.edu/news/born-build-ceos-journey",
+      "kind": "founder-interview",
+      "supports": "Pharmacy degree at Ain Shams and AUC MBA (2008); McKinsey; founded Vezeeta in 2012; started by trying to automate single-clinic doctors, adoption of technology slow; then noticed the bigger problem of patients identifying the best providers and leveraged the software into a booking platform"
+    },
+    {
+      "title": "Generation Start-Up: Vezeeta, the healthcare app that turns patients into consumers (January 2020)",
+      "publisher": "The National (Abu Dhabi)",
+      "url": "https://www.thenationalnews.com/business/technology/generation-start-up-vezeeta-the-healthcare-app-that-turns-patients-into-consumers-1.969333",
+      "kind": "independent-reporting",
+      "supports": "Set up in 2012; 4.5 million users, 300,000 bookings a month and 20,000 subscribed doctors across Egypt, Saudi Arabia, Jordan and Lebanon; $22.6 million raised; investors including the Technology Development Fund; McKinsey and AstraZeneca background; 'vezeeta' as the Egyptian colloquial term for the payment for a doctor's visit"
+    },
+    {
+      "title": "Egypt's health-tech start-up Vezeeta raises $40 million to finance expansion (February 2020)",
+      "publisher": "The National (Abu Dhabi)",
+      "url": "https://www.thenationalnews.com/business/technology/egypt-s-health-tech-start-up-vezeeta-raises-40-million-to-finance-expansion-1.977540",
+      "kind": "independent-reporting",
+      "supports": "Series D of $40 million led by Gulf Capital; total investment of $63 million since inception in 2012; four million annual appointments across 50 cities in Egypt, Saudi Arabia, Jordan and Lebanon (used only to check the outcome figures)"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Barsoum and Badr founded the company as DrBridge in April 2012, first selling clinic software and medical records to doctors",
+      "urls": [
+        "https://www.wamda.com/en/2014/01/drbridge-is-the-first-egyptian-online-medical-community-will-it-succeed-",
+        "https://thestartupscene.me/BehindTheStartup/How-Egypt-s-Top-HealthTech-Startup-Vezeeta-is-Solving-one-of-the-Nation-s-Biggest-Pains",
+        "https://auctoday.aucegypt.edu/news/born-build-ceos-journey"
+      ]
+    },
+    {
+      "claim": "Doctors were slow to adopt the software",
+      "urls": [
+        "https://www.wamda.com/en/2014/01/drbridge-is-the-first-egyptian-online-medical-community-will-it-succeed-",
+        "https://auctoday.aucegypt.edu/news/born-build-ceos-journey"
+      ]
+    },
+    {
+      "claim": "The founders turned the software into a patient booking platform, Vezeeta, which overtook the original business",
+      "urls": [
+        "https://www.wamda.com/en/2014/01/drbridge-is-the-first-egyptian-online-medical-community-will-it-succeed-",
+        "https://thestartupscene.me/BehindTheStartup/How-Egypt-s-Top-HealthTech-Startup-Vezeeta-is-Solving-one-of-the-Nation-s-Biggest-Pains",
+        "https://auctoday.aucegypt.edu/news/born-build-ceos-journey"
+      ]
+    },
+    {
+      "claim": "Egypt's Technology Development Fund was the first investor",
+      "urls": [
+        "https://thestartupscene.me/BehindTheStartup/How-Egypt-s-Top-HealthTech-Startup-Vezeeta-is-Solving-one-of-the-Nation-s-Biggest-Pains",
+        "https://www.thenationalnews.com/business/technology/generation-start-up-vezeeta-the-healthcare-app-that-turns-patients-into-consumers-1.969333"
+      ]
+    },
+    {
+      "claim": "Vezeeta was founded in 2012",
+      "urls": [
+        "https://www.thenationalnews.com/business/technology/generation-start-up-vezeeta-the-healthcare-app-that-turns-patients-into-consumers-1.969333",
+        "https://auctoday.aucegypt.edu/news/born-build-ceos-journey"
+      ]
+    }
+  ],
+  "research_notes": "The slate framed this as a founding decision to let patients book doctors online in 2012; the sources show the 2012 company was DrBridge, selling clinic software to doctors, and that patient booking (Vezeeta) came in September 2013 after slow adoption, so the arc is change-of-direction. First funding: Barsoum told The Startup Scene (2018) that TDF invested $1.3 million and the founders about $300,000; Wamda (January 2014) reported that the Technology Development Fund (Ideavelopers) took 40% of DrBridge for EGP 8 million (over $1.1 million). The story gives Barsoum's dollar figures as his account and Wamda's 40% stake as reported. Co-founder's name: Wamda spells it Ahmad Bader, The Startup Scene and Beco Capital Ahmed Badr; the story uses Ahmed Badr. The eight-month pause: Barsoum's words to Wamda tie it to the period 'straight after the launch' of the doctors' app; Wamda also notes the latest version was released in March 2013, so the pause fell in 2012-13. Outcome figures differ by date and all come from the company: 50,000 patients (Wamda, January 2014); 5,000 physicians and 110,000 monthly bookings in Egypt with $10.5 million raised (The Startup Scene, 2018); 4.5 million users, 300,000 monthly bookings, 20,000 doctors and $22.6 million raised (The National, January 2020), and four million annual appointments with $63 million raised a month later (The National, February 2020); about 30 million patients served (AUC Today, 2025). The story uses the 2014 and 2020 figures, attributed. The Startup Scene page shows a date of 21 March 2018. Fortune's 40 Under 40 page for Barsoum (2020) loaded during checks but returned a CloudFront error on reading and is not cited. The Seneca passage compares men's characters to buildings with easy and difficult foundations; it is applied to the company by analogy.",
+  "researched_at": "2026-11-01"
+}

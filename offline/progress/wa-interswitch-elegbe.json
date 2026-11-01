@@ -1,0 +1,15 @@
+{
+  "key": "wa-interswitch-elegbe",
+  "status": "done",
+  "file": "offline/editions/mitchell-elegbe-interswitch-founding-2002.json",
+  "title": "When Banks Would Not Buy His Switch, Mitchell Elegbe Built a Buyer",
+  "region": "West Africa",
+  "industry": "fintech (payment switching)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Classical Greek",
+  "thinker": "Plato",
+  "talqen": false,
+  "conflicts": "Banks at the start: three (Nairametrics, March 2021) vs seven before the 2004 award (Forbes Africa 2013; Nairametrics, September 2021); story says seven by 2004 and gives no launch-day count. Order of early jobs (Telnet, Scotland, SWIFT project) differs between ThisDay, WeeTracker, Nairametrics and Forbes Africa; story follows Elegbe's Forbes Africa account without naming his first salaried job. Forbes Afrique's founding year of 2022 is an evident error and is not cited. Visa 2019 figures differ between reports and are left out.",
+  "notes": "Main source is Elegbe's own account in Forbes Africa (Charles Idem, November 2013), read in full from the PDF linked on Helios Investment Partners' news page (cited); the PDF's CDN and Internet Archive addresses are given in research_notes because the verifier cannot read names inside the PDF and the archive was intermittently unreachable. Some profiles name Akeem Lawal and Charles Ifedi as co-founders; noted in research_notes. The slate's episode ('connecting banks' ATMs into one switch') is told as the founding decision: creating a company to buy the software he could not sell, and leading it without shares."
+}

@@ -1,0 +1,15 @@
+{
+  "key": "eu-nestle-farine",
+  "status": "done",
+  "file": "offline/editions/henri-nestle-farine-lactee-vevey-1867.json",
+  "title": "The Baby in Vevey Who Led Henri Nestlé to Stake Everything",
+  "region": "Europe",
+  "industry": "food (infant nutrition)",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Japanese",
+  "thinker": "Okakura Kakuzō",
+  "talqen": false,
+  "conflicts": "The first baby: House of Switzerland says days-old; Börse Online says a boy named Jules, a month premature, who had refused food for weeks, recovered in October 1867 after Nestlé took him in; Nestlé's pages say a premature infant who could not take breast milk or substitutes. Story uses only the shared core and does not name him. Output: 8,600 tins dated 1868 (House of Switzerland, Börse) or autumn 1867 (Nestlé CWA); story uses 1868 and over a million in 1875. Character: 'not afraid to take risks' (House of Switzerland) versus 'cautious, not a risk-taker' (NDB); story uses neither label.",
+  "notes": "Kept strictly to 1867-1875; no mention of the company's later history or controversies. Nestlé's own words survive here only in German translation, so they are paraphrased with attribution rather than quoted. Nestlé company pages block automated requests and are cited via Internet Archive copies; the main independent sources are the NDB (Pfiffner, 1999), House of Switzerland and Börse Online."
+}

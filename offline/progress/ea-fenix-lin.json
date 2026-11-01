@@ -1,0 +1,15 @@
+{
+  "key": "ea-fenix-lin",
+  "status": "done",
+  "file": "offline/editions/mike-lin-fenix-readyset-phone-charging-2009.json",
+  "title": "The ReadySet: A Battery Built for People Who Sold Phone Charges",
+  "region": "East Africa",
+  "industry": "energy (off-grid solar)",
+  "arc": "founding-decision",
+  "funding": "venture",
+  "tradition": "Renaissance and early modern",
+  "thinker": "Francis Bacon",
+  "talqen": false,
+  "conflicts": "Price: $150 (NBC/TechNewsDaily 2011, GOOD 2012) versus $300 (MIT Technology Review 2012, for the US Kickstarter kit with a panel); the story uses about $150. Units sold by mid-2012 agree at about 2,000 across MIT Technology Review, GOOD and GSMA. The $50-a-month income figure is Lin's own claim and is attributed to him; 13,000 ReadyPay sales in 2014 are Fenix's self-reported figure and are labelled as such. GSMA says Fenix tried a bicycle charger before the ReadySet, while 2011 reports describe the ReadySet itself as bicycle-chargeable; the story uses the 2011 description.",
+  "notes": "Founding date and the November 2009 MTN pilot of 20 prototypes come from a Fenix-supplied timeline in the GSMA 2015 case; the design details come from 2011 reporting. Co-founder Brian Warshawsky is named in the founder field. Lin's earlier employer (Potenco) is mentioned only as 'a pull-cord power generator'; a podcast blurb saying his previous startup failed could not be confirmed from a loadable source."
+}

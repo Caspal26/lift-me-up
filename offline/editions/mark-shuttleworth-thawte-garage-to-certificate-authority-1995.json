@@ -1,0 +1,139 @@
+{
+  "id": "mark-shuttleworth-thawte-garage-to-certificate-authority-1995",
+  "title": "How Thawte Turned From Web Consulting to Certificates in a Garage",
+  "dek": "In 1995 a Cape Town student started an internet consultancy in his parents' garage, followed a gap left by US export rules, and ended up vouching for websites.",
+  "story": {
+    "founder": "Mark Shuttleworth",
+    "company": "Thawte Consulting",
+    "event": "Turning a student internet consultancy into a secure-server maker and then a certificate authority",
+    "approx_date": "1995",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "industry": "software (internet security and digital certificates)",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "In 1995, his final year at the University of Cape Town, Mark Shuttleworth started Thawte in his parents' garage as an internet consulting business. Its focus shifted to security for electronic commerce: he built Sioux, an Apache-based secure web server sold outside the United States, and the work drew Thawte into issuing digital certificates, where it became one of the first issuers recognised by Netscape and Microsoft. VeriSign announced its acquisition of Thawte on 20 December 1999 for stock with an aggregate market value of $575 million.",
+    "paragraphs": [
+      "In 1995, his final year studying business science at the University of Cape Town, Mark Shuttleworth started a small company in his parents' garage. He had met the internet at university and, by his own account, was intrigued by what it would change in business and society. He called the company Thawte and began it as an internet consulting business. A later profile says he first meant to design websites, until an interest in internet security drew him into an online discussion group about code and digital certificates.",
+      "The focus soon shifted to security for online trade. The United States restricted the export of strong encryption, and Shuttleworth set out to build a secure web server free of those limits. His server, Sioux, was a version of the open-source Apache server, which he extended with a built-in Python interpreter. His biography says Thawte became the first company to sell a full-security encrypted e-commerce server commercially outside the United States. The open-source world, he said later, \"played such a critical role in helping me build Thawte.\"",
+      "The server work pulled the company in a second direction, into the certificates that let a browser check who runs a website. Asked years later for his most exciting moment, he chose a night at 2am when his own Python implementation of RSA produced a digital signature that SSLeay, as OpenSSL was then known, would verify. Thawte became one of the first companies that Netscape and Microsoft recognised as a trusted issuer of website certificates, and the Sioux server was later folded into another product as certification became the business.",
+      "It stayed small and informal for years. Morgan Collett, who joined in about 1998 as its second software developer after Shuttleworth himself, said the dozen staff then worked out of a house and several flats in Cape Town. On 20 December 1999, VeriSign announced it had acquired Thawte, which it called the world's second-largest provider of website certificates, in exchange for stock with an aggregate market value of $575 million, about R3.5 billion. Shuttleworth stepped down as chief executive after the sale."
+    ]
+  },
+  "quote": {
+    "text": "If there is compulsion on one side, on the other there is pleasure; on the one hand action is spurred on by want, on the other it hies to its natural fulfilment.",
+    "thinker": "Rabindranath Tagore",
+    "work": "Sadhana: The Realisation of Life",
+    "locator": "Chapter VI, \"Realisation in Action\"",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/6842/pg6842.txt",
+    "source_title": "Sadhana: The Realisation of Life, Project Gutenberg eBook #6842",
+    "connection": "Tagore says work is pushed by want and drawn by pleasure. Thawte had both: a gap that American export rules left open for anyone outside the country, and a student's rush at 2am when code he had written produced a signature that someone else's software accepted.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Notice where Thawte's direction came from. Shuttleworth did not set out to run a certificate authority. He kept following a gap that showed up in his own work until the side task became the business, and the want behind it was plain: American export rules had left a gap that could be filled from Cape Town.",
+    "You may find the same pattern in an ordinary week: the problem you keep returning to because something is missing, and the small moment when a thing you made finally works. Both are worth noticing, and neither has to be dramatic to count."
+  ],
+  "invitation": "Write down the last time something you made worked for the first time, however small, and what gap it filled. Leave the note where you will see it tomorrow morning.",
+  "sources": [
+    {
+      "title": "Biography (archived 20 July 2008)",
+      "publisher": "markshuttleworth.com (Mark Shuttleworth's own site), via the Internet Archive",
+      "url": "http://web.archive.org/web/20080720034113/http://www.markshuttleworth.com/biography/",
+      "kind": "memoir",
+      "supports": "Business Science degree in Finance and Information Systems at UCT; first encountering the internet and being intrigued by the changes it would bring; founding Thawte in 1995, his final year, as an internet consulting business; focus shifting to internet security for electronic commerce; first company to produce a full-security encrypted e-commerce web server commercially available outside the United States; this bringing Thawte to public key infrastructure; one of the first companies recognised by Netscape and Microsoft as a trusted third party for web site certification; sold to VeriSign in 1999."
+    },
+    {
+      "title": "Interview with Mark Shuttleworth",
+      "publisher": "Free Software Magazine (2006)",
+      "url": "https://freesoftwaremagazine.com/articles/shuttleworth_interview",
+      "kind": "founder-interview",
+      "supports": "His most exciting moment during Thawte's development: 2am, when his Python RSA implementation produced a digital signature that OpenSSL (then SSLeay) would verify, 'quite a rush'."
+    },
+    {
+      "title": "Mark Shuttleworth's wild ride",
+      "publisher": "Jon Udell (InfoWorld weblog, 19 April 2002)",
+      "url": "https://jonudell.net/udell/2002-04-19-mark-shuttleworths-wild-ride.html",
+      "kind": "independent-reporting",
+      "supports": "Shuttleworth maintained Sioux, an early Apache-SSL he extended with a built-in Python interpreter, while setting himself up as a one-man global certificate authority."
+    },
+    {
+      "title": "Ask Mark Shuttleworth (Slashdot interview answers, April 2005)",
+      "publisher": "Slashdot",
+      "url": "http://interviews.slashdot.org/article.pl?sid=05/04/04/1859255",
+      "kind": "founder-interview",
+      "supports": "Shuttleworth on the open source world, 'which played such a critical role in helping me build Thawte'."
+    },
+    {
+      "title": "Searching for new frontiers",
+      "publisher": "Cape Argus (Mike Bruton, 26 May 2011)",
+      "url": "https://iol.co.za/capeargus/news/2011-05-26-searching-for-new-frontiers/",
+      "kind": "independent-reporting",
+      "supports": "Initially planned to be a website designer; joined an online discussion group about coding and digital certificates; in 1995, his final year, started a company in his parents' garage specialising in internet security verification for e-commerce; one of the first companies recognised by Netscape and Microsoft; bought by VeriSign in 1999 for R3.5 billion."
+    },
+    {
+      "title": "Thawte tackles life after Shuttleworth",
+      "publisher": "ITWeb (Jason Norwood-Young, 21 June 2001)",
+      "url": "https://www.itweb.co.za/article/thawte-tackles-life-after-shuttleworth/Pero3qZg5RdvQb6m",
+      "kind": "independent-reporting",
+      "supports": "Morgan Collett joined about three years earlier as the second software developer, Shuttleworth being the first; the dozen employees then worked from a house and various apartments in Cape Town; Shuttleworth's resignation as president and CEO after the VeriSign acquisition."
+    },
+    {
+      "title": "VeriSign Acquires Thawte Consulting (press release, 20 December 1999; archived)",
+      "publisher": "VeriSign, Inc., via the Internet Archive",
+      "url": "http://web.archive.org/web/20030814040224/http://www.verisign.com/corporate/news/1999/1220_thawte.html",
+      "kind": "company-archive",
+      "supports": "Announcement on 20 December 1999 that VeriSign had acquired privately held Thawte, the world's second-largest provider of website certificates; stock with an aggregate market value of $575 million, exact share number to be set by VeriSign's trading price before closing; subject to South African regulatory approvals; Thawte started in 1995; Shuttleworth quoted as president and CEO."
+    },
+    {
+      "title": "A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth",
+      "publisher": "The Register (Liam Proven, 11 November 2024)",
+      "url": "https://www.theregister.com/2024/11/11/mark_shuttleworth_ubuntu_interview/",
+      "kind": "independent-reporting",
+      "supports": "In 1999 Shuttleworth sold Thawte to VeriSign, which paid $575 million."
+    },
+    {
+      "title": "Thawte",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thawte",
+      "kind": "independent-reporting",
+      "supports": "Supplementary only: run at first from his parents' garage; aim of a secure server free of US export restrictions on cryptography; Sioux as a fork of Apache, later integrated with the Stronghold server as Thawte concentrated on certification; Thawte certificates in the first Netscape browsers."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Shuttleworth started Thawte in 1995, his final year at UCT, in his parents' garage",
+      "urls": [
+        "http://web.archive.org/web/20080720034113/http://www.markshuttleworth.com/biography/",
+        "https://iol.co.za/capeargus/news/2011-05-26-searching-for-new-frontiers/",
+        "https://en.wikipedia.org/wiki/Thawte"
+      ]
+    },
+    {
+      "claim": "The business shifted from consulting to security, building Sioux, an Apache-based secure server, for sale outside the US",
+      "urls": [
+        "http://web.archive.org/web/20080720034113/http://www.markshuttleworth.com/biography/",
+        "https://jonudell.net/udell/2002-04-19-mark-shuttleworths-wild-ride.html",
+        "https://en.wikipedia.org/wiki/Thawte"
+      ]
+    },
+    {
+      "claim": "Thawte was one of the first companies recognised by Netscape and Microsoft as a trusted certificate issuer",
+      "urls": [
+        "http://web.archive.org/web/20080720034113/http://www.markshuttleworth.com/biography/",
+        "https://iol.co.za/capeargus/news/2011-05-26-searching-for-new-frontiers/"
+      ]
+    },
+    {
+      "claim": "VeriSign announced on 20 December 1999 that it had acquired Thawte for stock worth $575 million",
+      "urls": [
+        "http://web.archive.org/web/20030814040224/http://www.verisign.com/corporate/news/1999/1220_thawte.html",
+        "https://www.theregister.com/2024/11/11/mark_shuttleworth_ubuntu_interview/",
+        "https://en.wikipedia.org/wiki/Thawte"
+      ]
+    }
+  ],
+  "research_notes": "Sale price, checked as asked: VeriSign's own press release of 20 December 1999 says the stock it would issue 'will have an aggregate market value of $575 million', with the exact number of shares set by VeriSign's trading price before closing and the deal subject to South African regulatory approval. The Register (2024) and Wikipedia say VeriSign paid $575 million; the Cape Argus (2011) gives R3.5 billion. These agree; the story uses the press release's wording and the Cape Argus's rand figure. Because the price was fixed in dollars of VeriSign stock, the cash value to Shuttleworth would have moved with the share price; the story does not claim what he realised. Dates: Shuttleworth's own biography and the Cape Argus both say 1995, his final year at UCT; the garage comes from the Cape Argus (whose text is reproduced nearly word for word by Grocott's Mail, so Grocott's is not cited as independent) and Wikipedia. The order of the change of direction (consulting, then a secure server, then certificates) follows his biography and Wikipedia; no source dates the Netscape and Microsoft recognition or the 2am signature, so the story gives no dates for them. The export-restriction context rests on Wikipedia and is implied by his biography's claim of the first such server 'commercially available outside the United States'. The 1998 staff picture is Morgan Collett's recollection in ITWeb (2001), dated 'three years ago'. Funding: no source reports any outside investor, VeriSign called Thawte 'privately held', and Wikipedia describes a stock purchase 'from Shuttleworth', so 'bootstrapped' is a reasonable reading rather than a documented statement. Two widely repeated details are not used: a 1999 Business Report article (blocked to the verifier) quoting him on a possible Nasdaq listing, and reports of bonuses to his household staff. Shuttleworth's biography and the VeriSign release are cited from Internet Archive copies over http, because web.archive.org refused https connections during checking.",
+  "researched_at": "2026-11-01"
+}

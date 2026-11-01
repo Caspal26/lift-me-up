@@ -1,0 +1,134 @@
+{
+  "id": "sunil-paul-sidecar-shutdown-2015",
+  "title": "The Farewell Sidecar Posted Two Days Before New Year's Eve",
+  "dek": "In December 2015 an early ride-sharing pioneer, outgunned on money and riders, switched off its service and wrote a proud, brief goodbye.",
+  "story": {
+    "founder": "Sunil Paul, Jahan Khanna",
+    "company": "Sidecar",
+    "event": "Shutting down Sidecar's ride and delivery service",
+    "approx_date": "2015-12",
+    "country": "United States",
+    "region": "North America",
+    "industry": "transport (ride-sharing and deliveries)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "On 29 December 2015 Sidecar's co-founders Sunil Paul and Jahan Khanna announced that the San Francisco ride-sharing pioneer would end its ride and delivery service at 2pm Pacific time on 31 December, citing a significant capital disadvantage against far better-funded rivals. In January 2016 General Motors bought Sidecar's technology and most of its assets and hired about 20 staff, including Khanna. In 2018 Paul wrote that Uber had won through aggressive tactics and its existing riders.",
+    "paragraphs": [
+      "On 29 December 2015, Sunil Paul and his co-founder Jahan Khanna posted a short farewell on Medium. Sidecar, the San Francisco ride-sharing company they had started testing in 2011, would stop giving rides and making deliveries at 2pm Pacific time on 31 December. That was hours before New Year's Eve, as the local broadcaster KQED pointed out, perhaps the busiest night of the year for paid rides.",
+      "Sidecar had been early. Its app, launched in 2012, connected riders with ordinary drivers in their own cars, and Paul's post listed what he called a series of firsts, among them shared rides and turn-by-turn directions for drivers. It never matched its rivals' scale. Reports at the time put its funding at under 40 million dollars, while Lyft had raised more than a billion and Uber more than ten. In 2014 a driver working for all three companies told KQED he had gone a week without a single Sidecar customer. In February 2015 Sidecar began delivering goods for other businesses, and through that year deliveries became its main work.",
+      "The farewell did not pretend the service had a future. Paul called Sidecar the innovation leader in ride-sharing \"despite a significant capital disadvantage\", described the ending as \"a bittersweet victory\", and thanked riders, drivers, delivery partners, investors and regulators. The service was closing, he wrote, so the company could \"work on strategic alternatives\". He gave no details.",
+      "Three weeks later, General Motors bought Sidecar's technology and most of its assets and took on about twenty of its staff, including Khanna but not Paul. Neither side disclosed the price; a source told Bloomberg it was less than the roughly 39 million dollars Sidecar had raised.",
+      "In 2018 Paul gave his own account of the defeat in a column for Recode. Sidecar had the first-mover advantage, he wrote, but Uber became dominant through what he called \"aggressive\" tactics and by steering the riders it already had for black cars into ride-sharing. \"It wasn't its unlimited capital, although that certainly helped,\" he wrote. \"We put up a good fight.\""
+    ]
+  },
+  "quote": {
+    "text": "It would seem that our actions have lucky or unlucky stars to which they owe a great part of the blame or praise which is given them.",
+    "thinker": "François de La Rochefoucauld",
+    "work": "Maxims",
+    "locator": "Maxim 58",
+    "translator": "J. Hain Friswell (1871)",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/9105/pg9105.txt",
+    "source_title": "Reflections; or Sentences and Moral Maxims, tr. J. Hain Friswell, Project Gutenberg eBook #9105",
+    "connection": "Paul's farewell claimed the credit for inventing ride-sharing, and his later column placed the defeat on Uber's head start with riders. La Rochefoucauld suspected that much of both praise and blame belongs to luck, which leaves neither the credit nor the loss wholly Sidecar's.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Paul's farewell is short, and it manages several things at once. It is proud, it is plain about the money, it thanks the drivers and partners who kept the service running, and it does not pretend the service could be saved. Three years later he could write simply that they had put up a good fight.",
+    "When something you have worked on ends, or simply stalls, it is tempting to tell its story as all credit or all fault. La Rochefoucauld offers a gentler reading. Part of what happened was yours, part belonged to timing and to other people's advantages, and you can hold both without having to settle which was larger."
+  ],
+  "invitation": "Think of one piece of work this year that did not go as you hoped. Write two lines about it: one part that was yours to own, and one part that belonged to timing or luck.",
+  "sources": [
+    {
+      "title": "So long Sidecar, and thanks",
+      "publisher": "Sunil Paul on Medium (29 December 2015), Internet Archive copy",
+      "url": "http://web.archive.org/web/20151229223815/https://medium.com/@SunilPaul/so-long-sidecar-and-thanks-74c8a0955064",
+      "kind": "memoir",
+      "supports": "The announcement that Sidecar would end its ride and delivery service at 2PM Pacific Time on 31 December to work on strategic alternatives; 'the innovation leader in ridesharing despite a significant capital disadvantage'; the claim to have invented ridesharing nearly four years earlier with an app connecting riders with everyday drivers; a series of firsts including turn-by-turn directions and Shared Rides, and a marketplace model where drivers set their own price; Sidecar Deliveries launched the previous February; 'a bittersweet victory'; thanks to riders, drivers, delivery partners, investors and regulators"
+    },
+    {
+      "title": "Sidecar, Once an Uber Competitor, Ends Its Ride Service",
+      "publisher": "KQED (29 December 2015)",
+      "url": "https://www.kqed.org/news/10813504/sidecar-once-an-uber-competitor-ends-its-ride-service",
+      "kind": "independent-reporting",
+      "supports": "Co-founders Paul and Khanna's announcement on Medium; the 2 p.m. 31 December end, hours before the New Year's Eve rush, perhaps the biggest night of the year for rides; a 2014 driver working for all three companies who received hardly a Sidecar customer in a week; delivery service launched in February 2015; beta testing in San Francisco in 2011 and formal launch in 2012"
+    },
+    {
+      "title": "Uber rival Sidecar hits dead end, will shut down ride and courier service on Dec. 31",
+      "publisher": "PCWorld (29 December 2015)",
+      "url": "https://www.pcworld.com/article/418925/uber-rival-sidecar-hits-dead-end-will-shut-down-ride-and-courier-service-on-dec-31.html",
+      "kind": "independent-reporting",
+      "supports": "Sidecar shifted focus to delivery and courier services in 2015; Lyft had raised over 1 billion dollars and Uber more than 10 billion, against Sidecar's 35 million; the 'significant capital disadvantage' wording"
+    },
+    {
+      "title": "Sidecar shuts down",
+      "publisher": "Fortune (29 December 2015)",
+      "url": "https://dc.fortune.com/2015/12/29/sidecar-shutdown",
+      "kind": "independent-reporting",
+      "supports": "Sidecar started out in 2012 and fell behind Uber and Lyft; by early 2015 it had shifted to local delivery for businesses such as Eat24 and Meadow; funding of roughly 35 million dollars from investors including GV, Lightspeed and Richard Branson; its claim to be first with turn-by-turn directions for drivers and shared rides"
+    },
+    {
+      "title": "End of the road for rideshare operator Sidecar",
+      "publisher": "AFP via Phys.org (29 December 2015)",
+      "url": "https://phys.org/news/2015-12-road-rideshare-sidecar.html",
+      "kind": "independent-reporting",
+      "supports": "Shutdown announced 29 December, service ending 31 December; Sidecar launched in 2012; more than 35 million dollars raised according to CB Insights, dwarfed by the billions raised by Uber and Lyft; diversification into deliveries in 2015"
+    },
+    {
+      "title": "GM Acquires Sidecar's Assets as It Preps New Transportation Services",
+      "publisher": "Fortune (19 January 2016)",
+      "url": "https://dc.fortune.com/2016/01/19/gm-sidecar-acquisition",
+      "kind": "independent-reporting",
+      "supports": "GM bought Sidecar's technology and most of its assets; terms undisclosed, with Bloomberg's source saying less than the 39 million dollars raised; 20 employees joining GM including Jahan Khanna but not Sunil Paul; GM's confirming statement"
+    },
+    {
+      "title": "GM Confirms Sidecar Acquisition As Auto Makers Take Tech Ambitions Up A Gear",
+      "publisher": "TechCrunch (Ingrid Lunden, 19 January 2016)",
+      "url": "https://techcrunch.com/2016/01/19/whos-driving/",
+      "kind": "independent-reporting",
+      "supports": "Around 20 employees including CTO and co-founder Jahan Khanna but not CEO Sunil Paul; IP and other assets bought for less than the 39 million dollars Sidecar had raised"
+    },
+    {
+      "title": "The Scooter Wars will be a bloodbath — and Uber will win",
+      "publisher": "Recode (Sunil Paul, guest column, 12 July 2018), now at Vox",
+      "url": "https://www.vox.com/2018/7/12/17549498/scooter-wars-bloodbath-bird-lime-spin-uber",
+      "kind": "memoir",
+      "supports": "Paul's later account: Sidecar had the first-mover advantage but Uber became dominant through 'aggressive' tactics and by leveraging its riders from black cars; 'It wasn't its unlimited capital, although that certainly helped'; 'We put up a good fight'; sale of Sidecar's assets to GM in 2016"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Sidecar announced on 29 December 2015 that its ride and delivery service would end at 2pm Pacific time on 31 December",
+      "urls": [
+        "http://web.archive.org/web/20151229223815/https://medium.com/@SunilPaul/so-long-sidecar-and-thanks-74c8a0955064",
+        "https://www.kqed.org/news/10813504/sidecar-once-an-uber-competitor-ends-its-ride-service",
+        "https://www.engadget.com/2015-12-29-sidecar-shuts-down.html"
+      ]
+    },
+    {
+      "claim": "Sidecar raised tens of millions of dollars against billions raised by Uber and Lyft",
+      "urls": [
+        "https://www.pcworld.com/article/418925/uber-rival-sidecar-hits-dead-end-will-shut-down-ride-and-courier-service-on-dec-31.html",
+        "https://phys.org/news/2015-12-road-rideshare-sidecar.html",
+        "https://dc.fortune.com/2015/12/29/sidecar-shutdown"
+      ]
+    },
+    {
+      "claim": "Sidecar shifted to deliveries for businesses in 2015",
+      "urls": [
+        "https://dc.fortune.com/2015/12/29/sidecar-shutdown",
+        "https://www.pcworld.com/article/418925/uber-rival-sidecar-hits-dead-end-will-shut-down-ride-and-courier-service-on-dec-31.html",
+        "https://www.kqed.org/news/10813504/sidecar-once-an-uber-competitor-ends-its-ride-service"
+      ]
+    },
+    {
+      "claim": "In January 2016 GM bought Sidecar's assets and hired about 20 employees including Khanna but not Paul, for less than the 39 million dollars raised",
+      "urls": [
+        "https://dc.fortune.com/2016/01/19/gm-sidecar-acquisition",
+        "https://techcrunch.com/2016/01/19/whos-driving/"
+      ]
+    }
+  ],
+  "research_notes": "Funding totals differ: in December 2015 Fortune, PCWorld and AFP (citing CB Insights) gave about 35 million dollars; in January 2016 Bloomberg, as reported by Fortune and TechCrunch, gave 39 million. The story says 'under 40 million dollars' for the funding and repeats Bloomberg's 'roughly 39 million' only as the yardstick its source used for the sale price. A 2016 Deloitte opinion piece in Fortune cited an Automotive News estimate of 39 million dollars for the price itself; the story keeps to 'not disclosed'. Founding: Wikipedia gives September 2011 with a third co-founder, Adrian Fortino; KQED says beta testing in 2011 and launch in 2012; the story says testing began in 2011 and the app launched in 2012, and names only Paul and Khanna, who signed the farewell. Paul's description of Sidecar as having 'invented' ride-sharing is his claim and is attributed. The Medium original blocks automated requests; an Internet Archive copy from the day of posting is cited. Blame: the story gives only Paul's own 2018 explanation. In 2018 SC Innovations, the entity holding Sidecar's claims, sued Uber for predatory pricing; in May 2020 a federal magistrate judge ruled that the claims could proceed (Bloomberg Law). The final outcome was not confirmed, so the lawsuit is not mentioned in the story. Bloomberg's own articles and Forbes's August 2015 piece on the pivot to deliveries were not readable here and are not cited; the claim that deliveries became Sidecar's main work rests on Fortune and PCWorld. No figure for the number of staff laid off was found, so none is given.",
+  "researched_at": "2026-11-01"
+}

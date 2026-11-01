@@ -1,0 +1,125 @@
+{
+  "id": "adrian-aoun-forward-carepods-shutdown-2024",
+  "title": "The Week Forward Closed Its Clinics and Switched Off Its App",
+  "dek": "A year after promising thousands of self-service CarePods, the primary-care start-up Forward shut down abruptly in November 2024.",
+  "story": {
+    "founder": "Adrian Aoun",
+    "company": "Forward",
+    "event": "Shutting down a primary-care start-up and its CarePods",
+    "approx_date": "2024-11",
+    "country": "United States",
+    "region": "North America",
+    "industry": "healthcare (primary care)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Forward, the membership primary-care company Adrian Aoun began building in 2016, raised $100 million in November 2023 to roll out CarePods, self-service booths for tests and scans, planning 3,200 within a year. In mid-November 2024 it shut abruptly, closing its 19 clinics, cancelling visits and switching off its app; nearly 200 employees lost their jobs and some members struggled to obtain their records.",
+    "paragraphs": [
+      "In mid-November 2024 members of Forward, a primary-care company based in San Francisco, were told that its locations were closing, every scheduled visit was cancelled and its app was being switched off at once. Its medical team would answer questions by email until 13 December. Forward had built 19 clinics, and nearly 200 employees were losing their jobs. About a week later a Chicago member told CBS News that her requests for her records had gone unanswered and the phone numbers were disconnected. Forward said records would be kept in accordance with the law, and Adrian Aoun, its founder, said instructions would follow after 13 December.",
+      "Aoun, a computer scientist who had sold an AI start-up to Google, began building Forward's clinics in 2016, outside the insurance system, for a monthly fee that reached $149. In 2021 the company was valued at more than $1 billion. In July 2022 it cut 5 percent of its staff, citing \"extremely tough market conditions\".",
+      "In November 2023, with a new $100 million round, he announced a larger bet: the CarePod, an eight-foot booth for malls, gyms and offices. A member stepped in alone and, guided by software, could give blood, have blood pressure taken and be scanned, with a Forward doctor reviewing results remotely when needed, for $99 a month. \"A high-tech doctor's office will never scale to the whole planet,\" Aoun told TechCrunch. The plan was 25 pods at first and 3,200 within a year. TechCrunch's reporter wrote that the pods seemed \"too good to be true\".",
+      "The pods came far more slowly. Summarising Business Insider's reporting, ICT&health later put the number launched at three, one of them removed soon after it was installed, and each costing about $1 million to make. Maginative reported that Forward had fallen short of a new funding round, had earned under $100 million in revenue since its founding, and would return its remaining money to investors. Funding totals disagree: the company's count in 2023 was $657.5 million, while Maginative reported $400 million at the closure."
+    ]
+  },
+  "quote": {
+    "text": "To define health and satiety, to penetrate their causes and conditions, is quite another thing from being well and satisfied.",
+    "thinker": "Al-Ghazali",
+    "work": "The Confessions (Deliverance from Error)",
+    "locator": "Section \"Sufism\"",
+    "translator": "Claud Field (1909)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/58977/pg58977.txt",
+    "source_title": "The Confessions of Al Ghazzali, tr. Claud Field, Project Gutenberg eBook #58977",
+    "connection": "Forward set out to measure the body more thoroughly and cheaply than a staffed clinic could. Al-Ghazali, describing his own search, says that defining health is a different thing from being well. The pods could attempt the first; whether booths could help members with the second was barely tested before the company closed.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "When a health service ends, the hardest part lands on the people it served: a member trying to reach her records, a clinician answering emails until a fixed date. Neither shows up in a launch video, and both are where trust is kept or lost.",
+    "Your own work sits close to people's health, and you know how much depends on continuity: results that stay findable, a number that still rings. It is worth asking on an ordinary day, when nothing is wrong, what the people you serve would face if your work stopped suddenly, and making one small part of that answer less frightening."
+  ],
+  "invitation": "Choose one record, file or piece of know-how that only you can reach today. Write a single sentence saying where it is and how a colleague could get to it if you were away tomorrow.",
+  "sources": [
+    {
+      "title": "AI Healthcare Startup Forward Shuts Down",
+      "publisher": "Maginative (Chris McKay, 13 November 2024)",
+      "url": "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/",
+      "kind": "independent-reporting",
+      "supports": "Forward shutting down effective immediately with its app already offline; nearly 200 employees losing their jobs; 19 primary-care clinics built; CarePods in San Francisco, New York, Chicago and Philadelphia; unicorn status in 2021; the $100 million Series E in 2023; falling short of a Series F; less than $100 million in revenue since founding; remaining funds to be returned to investors; email support for medical queries until mid-December; $400 million raised."
+    },
+    {
+      "title": "Chicago woman says she is cut off from her medical records after practice closes down",
+      "publisher": "CBS News Chicago (Megan De Mar, updated 19 November 2024)",
+      "url": "https://www.cbsnews.com/chicago/news/chicago-woman-cut-off-medical-records-practice-closes-down/",
+      "kind": "independent-reporting",
+      "supports": "Notice the previous week that Forward would close all locations, cancel all visits and shut app access immediately; medical team available by email until 13 December; a Chicago patient's unanswered requests for records and disconnected numbers, and another patient who received his; Forward's statement that records will be maintained in accordance with the law; Aoun saying instructions would follow after 13 December."
+    },
+    {
+      "title": "Forward Health launches CarePods, a self-contained, AI-powered doctor's office",
+      "publisher": "TechCrunch (Matt Burns, 15 November 2023)",
+      "url": "https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/",
+      "kind": "independent-reporting",
+      "supports": "How a CarePod works (entered alone, touchscreen and voice guidance, blood draws, blood pressure, body scans, a Forward doctor reviewing remotely when needed); $99 a month for CarePods and $149 for the staffed office; no insurance; 25 pods first and 3,200 within a year; malls, gyms and offices; $657.5 million raised in total including the $100 million round; Aoun's quotation 'A high-tech doctor's office will never scale to the whole planet'; Aoun a computer scientist, not a medical doctor; the reporter's 'too good to be true'."
+    },
+    {
+      "title": "Former Googler Adrian Aoun raises $100 million for walk-in AI healthcare pods",
+      "publisher": "Fortune (Alexei Oreskovic, 15 November 2023)",
+      "url": "https://fortune.com/2023/11/15/forward-startup-adrian-aoun-100-million-funding-carepod-khosla-softbank/",
+      "kind": "independent-reporting",
+      "supports": "The $100 million round with Khosla Ventures, Founders Fund, SoftBank and Samsung Next; eight-by-eight-foot pods for malls and gyms in San Francisco, New York, Chicago and Philadelphia; Aoun sold his first AI start-up to Google in 2013; Forward began building direct-to-consumer clinics in 2016, outside the insurance system; valued at more than $1 billion in 2021 (citing Reuters); the 5 percent staff cut in July 2022 citing 'extremely tough market conditions'."
+    },
+    {
+      "title": "Does Forward Health's failure mark the winter of telehealth?",
+      "publisher": "ICT&health Global (Artur Olesch, 30 December 2024)",
+      "url": "https://www.icthealth.org/news/does-forward-healths-failure-mark-the-winter-of-telehealth",
+      "kind": "independent-reporting",
+      "supports": "Closure announced in November 2024; CarePods launched in 2023, each costing about $1 million to produce; citing Business Insider, only three CarePods launched before the closure, one removed shortly after installation; $650 million in venture funding; the $149 monthly subscription."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In mid-November 2024 Forward shut abruptly, closing its locations, cancelling visits and switching off its app.",
+      "urls": [
+        "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/",
+        "https://www.cbsnews.com/chicago/news/chicago-woman-cut-off-medical-records-practice-closes-down/"
+      ]
+    },
+    {
+      "claim": "Members could reach Forward's medical team by email until mid-December (13 December).",
+      "urls": [
+        "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/",
+        "https://www.cbsnews.com/chicago/news/chicago-woman-cut-off-medical-records-practice-closes-down/"
+      ]
+    },
+    {
+      "claim": "In November 2023 Forward raised $100 million and announced CarePods for San Francisco, New York, Chicago and Philadelphia.",
+      "urls": [
+        "https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/",
+        "https://fortune.com/2023/11/15/forward-startup-adrian-aoun-100-million-funding-carepod-khosla-softbank/",
+        "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/"
+      ]
+    },
+    {
+      "claim": "Forward was valued at more than $1 billion in 2021.",
+      "urls": [
+        "https://fortune.com/2023/11/15/forward-startup-adrian-aoun-100-million-funding-carepod-khosla-softbank/",
+        "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/"
+      ]
+    },
+    {
+      "claim": "Forward's staffed membership cost $149 a month.",
+      "urls": [
+        "https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/",
+        "https://www.icthealth.org/news/does-forward-healths-failure-mark-the-winter-of-telehealth"
+      ]
+    },
+    {
+      "claim": "Total funding was reported at about $650 million by some sources and $400 million by another.",
+      "urls": [
+        "https://techcrunch.com/2023/11/15/forward-health-carepod-ai-doctor/",
+        "https://www.icthealth.org/news/does-forward-healths-failure-mark-the-winter-of-telehealth",
+        "https://www.maginative.com/article/ai-healthcare-startup-forward-shuts-down/"
+      ]
+    }
+  ],
+  "research_notes": "Funding totals disagree: TechCrunch (November 2023) gives $657.5 million including the new $100 million round; ICT&health (December 2024) says $650 million; Maginative (November 2024) and Fierce Healthcare's headline say $400 million. The gap may reflect debt or how rounds were counted; the story gives both with their sources and leans on neither. CarePods deployed: TechCrunch's launch plan was 25 first and 3,200 within a year; ICT&health, citing Business Insider, says three were launched and one removed; search snippets of other Business Insider coverage mention five launched and two listed locations, which could not be read (businessinsider.com cannot be fetched here), so the story gives ICT&health's figure attributed through it. Closure date: Maginative published on 13 November 2024; Becker's (blocked) gives 12 November; CBS (updated 19 November) says the notice came 'last week'; the story says mid-November. Clinic count (19) comes from Maginative alone; TechCrunch (2023) lists offices in Los Angeles, New York, Chicago, San Francisco and Washington, DC. The monthly fee: TechCrunch gives $149 for the staffed office in 2023; the story says it 'reached' $149 without claiming that was the price throughout. Aoun's own explanations of the closure (to Fierce Healthcare, Business Insider and on the More or Less podcast) were found only in search snippets on pages that block the verifier or cannot be fetched, so the story gives no reason or feeling of his for the closure; causes are not assigned. The story reports the CBS patient account without naming her and does not draw conclusions about legal obligations; Forward's statement on records is given. Ghazali's line comes from the 'Sufism' section of Deliverance from Error, where he contrasts knowing about a state with living it; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

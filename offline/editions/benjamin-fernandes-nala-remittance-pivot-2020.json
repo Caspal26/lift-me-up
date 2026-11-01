@@ -1,0 +1,137 @@
+{
+  "id": "benjamin-fernandes-nala-remittance-pivot-2020",
+  "title": "When One in Seven NALA Users Wanted Money From Abroad",
+  "dek": "In 2020 Benjamin Fernandes began turning NALA, a Tanzanian mobile-money app, into a way for Africans in Britain to send money home, at the cost of layoffs and doubting investors.",
+  "story": {
+    "founder": "Benjamin Fernandes",
+    "company": "NALA",
+    "event": "Turning a Tanzanian mobile-money app into a UK-to-Africa remittance service",
+    "approx_date": "2020-08",
+    "country": "Tanzania",
+    "region": "East Africa",
+    "industry": "fintech (payments)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "In 2020 NALA, Benjamin Fernandes's Tanzanian app for making mobile-money payments without an internet connection, began testing transfers from the UK to Kenya, Uganda and Tanzania after noticing that about one in seven users wanted to receive money from abroad. By Fernandes's account the shift brought layoffs, departures and sceptical investors; NALA announced a $10 million seed round on its remittance business in January 2022 and in 2024 raised $40 million and said it was profitable.",
+    "paragraphs": [
+      "In April 2018, a year after finishing an MBA at Stanford, Benjamin Fernandes released a test version of NALA in Tanzania. To stretch a prize of about $14,000, he moved back into his parents' house, and neither he nor his business partner in Seattle, Sam Castle, drew a salary. The app sat on top of the USSD menus people used for mobile money, where, Fernandes said, one payment could take up to 46 digits, and it worked without an internet connection. By early 2019 it had passed 100,000 downloads, earned some revenue from airtime and bill payments, and NALA had become the first Tanzanian company in Y Combinator.",
+      "By 2020 the app had grown to 250,000 users, TechCrunch reported. Then the requests began to change. About one in seven users, NALA noticed, wanted to receive money from abroad, a service it did not offer. More than 70 per cent of money sent to sub-Saharan Africa still passed through physical shops and counters, and coronavirus restrictions had shut or limited many of them. Fernandes later described watching transfers to Africa surge while travel was restricted.",
+      "In August 2020 NALA began testing transfers from the United Kingdom to Kenya, Uganda and Tanzania. Moving from domestic payments to cross-border ones cost the company people: by Fernandes's account there were layoffs, and some staff left because they doubted the new direction. When he asked his investors for support, many did not reply; some suggested he take a job at one of their other companies, and others doubted he could compete with Wise. Looking back in 2024, he said that during a pivot \"you feel like you're a bad founder\", and that \"too many companies pivot too late.\"",
+      "In March 2021 NALA said it would open a beta the following month for people in the UK sending money to Kenya and Uganda. By January 2022, when it announced a $10 million seed round led by Amplo, more than 8,000 customers had sent money through it in six months. \"Our core customer base is the diaspora right now who live in the U.K.,\" Fernandes said then. In July 2024 NALA raised a further $40 million; it said it was profitable and approaching 500,000 customers across 11 African markets."
+    ]
+  },
+  "quote": {
+    "text": "We deliberate not about ends but about means. For a doctor does not deliberate whether he shall heal, nor an orator whether he shall persuade, nor a statesman whether he shall produce law and order, nor does any one else deliberate about his end.",
+    "thinker": "Aristotle",
+    "work": "Nicomachean Ethics",
+    "locator": "Book III, Chapter 3",
+    "translator": "W. D. Ross (1908)",
+    "tradition": "Classical Greek",
+    "source_url": "http://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+    "source_title": "Nicomachean Ethics, tr. W. D. Ross, The Internet Classics Archive (MIT)",
+    "connection": "Aristotle says no one deliberates about the end, only about the means. What NALA was for, making money easier and cheaper for Africans to move, stayed put; the route to it changed. Seen this way, the pivot that left Fernandes feeling like a bad founder was ordinary deliberation at work.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "When a plan changes, it is easy to read the change as a verdict on you. Fernandes did, by his own account, even while the evidence pointed somewhere clear: people were asking for something he did not yet offer, and the counters they had relied on were closed.",
+    "It may help to keep two things apart. One is what you are trying to bring about, which has probably not moved. The other is how you are going about it, which is allowed to move as often as the facts do. Changing the second is not abandoning the first, though at the end of a tired day the two can feel the same."
+  ],
+  "invitation": "Write one sentence naming what your work is for, and under it the method you are least sure of. You do not have to decide anything about the method today; only notice that the two lines are separate.",
+  "sources": [
+    {
+      "title": "Bringing Bankless Banking to East Africa",
+      "publisher": "Stanford Graduate School of Business, Insights (Martin J. Smith, 1 March 2019)",
+      "url": "https://www.gsb.stanford.edu/insights/bringing-bankless-banking-east-africa",
+      "kind": "founder-interview",
+      "supports": "Fernandes graduated from Stanford in 2017 and returned to Tanzania; business partner Sam Castle in Seattle; beta released April 2018; more than 100,000 downloads; USSD payments needing up to 46 digits; app works without internet access; about $14,000 left from the Miller award, living with his parents, no salaries; Y Combinator winter 2019 batch, first Tanzanian company in YC."
+    },
+    {
+      "title": "Nala has built a hassle-free, offline mobile money payment platform for Africa",
+      "publisher": "TechCrunch (Jonathan Shieber, 17 March 2019)",
+      "url": "https://techcrunch.com/2019/03/17/nala-has-built-a-hassle-free-offline-mobile-money-payment-platform-for-africa",
+      "kind": "independent-reporting",
+      "supports": "NALA as a layer over mobile-money short codes (USSD); live in Tanzania with over 100,000 users; revenue from airtime sales and bill payments; Sam Castle as co-founder."
+    },
+    {
+      "title": "Accel-backed mobile money platform NALA to start offering remittance services to East Africa",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 31 March 2021)",
+      "url": "https://techcrunch.com/2021/03/31/accel-backed-mobile-money-platform-nala-wants-to-start-offering-remittance-services/",
+      "kind": "independent-reporting",
+      "supports": "Original app allowed mobile-money payments without internet; 250,000 users a little over a year after official launch; one in seven users wanted to receive money internationally; more than 70% of money sent to sub-Saharan Africa goes through physical stores and many counters were suspended or limited by coronavirus restrictions; testing of UK to Kenya, Uganda and Tanzania transfers from August 2020; beta for UK customers sending to Kenya and Uganda due the following month; Y Combinator 2019."
+    },
+    {
+      "title": "Benjamin Fernandes, CEO of NALA - From Africa to the World, The Power of Perseverance, From TV Host to Fintech Founder",
+      "publisher": "Fintech Leaders (Miguel Armaza, 31 October 2024)",
+      "url": "https://fintechleaders.substack.com/p/benjamin-fernandes-ceo-of-nala-from",
+      "kind": "founder-interview",
+      "supports": "Show notes and quotations from the interview: the 2020 shift from domestic to cross-border payments starting with UK remittances; layoffs and staff quitting over doubts about the direction; watching the surge in transfers to Africa during COVID travel restrictions; investors not replying, suggesting jobs at portfolio companies, or doubting he could compete with Wise; quotations 'you feel like you're a bad founder' and 'too many companies pivot too late'; NALA profitable."
+    },
+    {
+      "title": "Tanzanian fintech NALA raises $10M seed to build Revolut for Africa",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 27 January 2022)",
+      "url": "https://techcrunch.com/?p=2262635",
+      "kind": "independent-reporting",
+      "supports": "$10 million seed round led by Amplo, with Accel and Bessemer; NALA described as having recently pivoted from local to international transfers; more than 250,000 users on the earlier service; more than 8,000 customers in the past six months; quotation 'Our core customer base is the diaspora right now who live in the U.K.'"
+    },
+    {
+      "title": "Tanzanian fintech firm eyes a piece of Kenya's Sh420 billion remittance",
+      "publisher": "Business Daily (Nation Media Group), Maryanne Maina, 24 July 2022; copy hosted by Mwanaspoti",
+      "url": "https://www.mwanaspoti.co.tz/bd/corporate/technology/tanzanian-fintech-firm-eyes-a-piece-of-kenya-s-sh420-billion-3890536",
+      "kind": "independent-reporting",
+      "supports": "Accel pre-seed funding in 2019; NALA built a mobile-money service in East Africa and then moved into remittances from the UK and US; $10 million raised (dated to 2021 by this article)."
+    },
+    {
+      "title": "Nala to use $40M Series A to build B2B payments platform, scale remittance services",
+      "publisher": "TechCrunch (Annie Njanja, 9 July 2024)",
+      "url": "https://techcrunch.com/2024/07/09/nala-series-a/",
+      "kind": "independent-reporting",
+      "supports": "Launched in 2017 for local money transfers in Tanzania and moved into foreign remittances; $40 million Series A led by Acrew Capital after a $10 million seed in 2022; profitable and approaching 500,000 customers; 11 African markets."
+    },
+    {
+      "title": "Tanzanian Fintech Nala Raises $40M Series A for Global Expansion",
+      "publisher": "Launch Base Africa (9 July 2024)",
+      "url": "https://launchbaseafrica.com/2024/07/09/tanzanian-fintech-nala-raises-massive-40-million-series-a-for-global-expansion",
+      "kind": "independent-reporting",
+      "supports": "$40 million Series A; NALA began as a local money-transfer service in Tanzania and moved into cross-border remittances; profitable and on track to pass 500,000 customers; 11 African markets."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "NALA's first product, released in Tanzania in 2018, made mobile-money payments possible without an internet connection and had passed 100,000 downloads or users by early 2019.",
+      "urls": [
+        "https://www.gsb.stanford.edu/insights/bringing-bankless-banking-east-africa",
+        "https://techcrunch.com/2019/03/17/nala-has-built-a-hassle-free-offline-mobile-money-payment-platform-for-africa"
+      ]
+    },
+    {
+      "claim": "NALA was the first Tanzanian (East African) company in Y Combinator, in 2019.",
+      "urls": [
+        "https://www.gsb.stanford.edu/insights/bringing-bankless-banking-east-africa",
+        "https://techcrunch.com/2021/03/31/accel-backed-mobile-money-platform-nala-wants-to-start-offering-remittance-services/"
+      ]
+    },
+    {
+      "claim": "The decision: in 2020 NALA moved from domestic payments to cross-border remittances, testing transfers from the UK.",
+      "urls": [
+        "https://techcrunch.com/2021/03/31/accel-backed-mobile-money-platform-nala-wants-to-start-offering-remittance-services/",
+        "https://fintechleaders.substack.com/p/benjamin-fernandes-ceo-of-nala-from"
+      ]
+    },
+    {
+      "claim": "NALA raised a $10 million seed round on its remittance business (announced January 2022).",
+      "urls": [
+        "https://techcrunch.com/?p=2262635",
+        "https://www.mwanaspoti.co.tz/bd/corporate/technology/tanzanian-fintech-firm-eyes-a-piece-of-kenya-s-sh420-billion-3890536"
+      ]
+    },
+    {
+      "claim": "In July 2024 NALA raised a $40 million Series A and said it was profitable and approaching 500,000 customers.",
+      "urls": [
+        "https://techcrunch.com/2024/07/09/nala-series-a/",
+        "https://launchbaseafrica.com/2024/07/09/tanzanian-fintech-nala-raises-massive-40-million-series-a-for-global-expansion"
+      ]
+    }
+  ],
+  "research_notes": "Pivot date: TechCrunch (March 2021) says testing of UK transfers began in August 2020, and the Fintech Leaders interview notes (2024) put the shift in 2020; TechCrunch (January 2022), TechCrunch (July 2024), Launch Base and Rest of World say 2021, which matches the public beta announced in March 2021 for April. The story dates the tests to August 2020 and the beta to 2021. Founding date: TechCrunch 2024 says NALA launched in 2017; the Fintech Leaders notes say founded 2018; Stanford's 2019 Q&A dates the beta to April 2018, which the story uses. Users: Stanford (March 2019) gives more than 100,000 downloads and TechCrunch (March 2019) more than 100,000 users; TechCrunch (2021, 2022) gives 250,000 users for the domestic app; both are attributed and neither is presented as active users. Seed money: Stanford quotes Fernandes on about $14,000 left from the Miller award after tax, while TechCrunch (2019) and Stanford also mention a $20,000 prize or fellowship; the story uses his own after-tax figure. $10 million round: TechCrunch announced it on 27 January 2022 and TechCrunch 2024 calls it the 2022 seed; Business Daily (July 2022) says it was raised in 2021, so the story says 'announced in January 2022'. Business Daily also quotes Fernandes saying the company started with $25,000 from one investor, which does not match the Stanford account of the Miller award, DFS Lab's $50,000 and YC; the story does not use either start-up figure beyond the Stanford quotation. The layoffs, staff departures and investor reactions rest on Fernandes's own account as summarised and quoted in the Fintech Leaders show notes (the audio was not transcribed); they are attributed to him, and no headcount is given. A paywalled How We Made It in Africa article (May 2025) and a Quartz brief reportedly add that a mobile-money operator sent NALA a cease-and-desist letter, that the central bank told it to stop, and that Fernandes cut the team to four; these could not be read in full, so the story leaves them out. The Business Daily article is cited from the Mwanaspoti copy because it loads there. The Aristotle passage concerns deliberation in general (doctors, orators, statesmen) and is applied to a business decision by analogy. The repeat screen flagged the AirAsia edition about Tony Fernandes, a different person who shares the surname; it let this edition through and no field was reworded.",
+  "researched_at": "2026-11-01"
+}

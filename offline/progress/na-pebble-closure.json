@@ -1,0 +1,15 @@
+{
+  "key": "na-pebble-closure",
+  "status": "done",
+  "file": "offline/editions/eric-migicovsky-pebble-shutdown-fitbit-2016.json",
+  "title": "The Day Pebble Stopped Making Watches and Sold What It Could",
+  "region": "North America",
+  "industry": "manufacturing (consumer electronics)",
+  "arc": "closure",
+  "funding": "venture",
+  "tradition": "Stoic",
+  "thinker": "Epictetus",
+  "talqen": false,
+  "conflicts": "2015-16 fundraising: TechCrunch says $28m in debt and venture money over eight months, The Next Web more than $26m; no figure used. Sale price undisclosed; only Bloomberg's 'less than $40 million' (via Digital Trends) is given, marked as reported. Refund timing differs between reports; omitted.",
+  "notes": "Causes of the closure are stated only as Migicovsky himself put them in his own posts. Quote stance 'challenges' (Epictetus on reproaching neither others nor oneself, set against Migicovsky's self-blame). Pebble's original blog post is only in the Internet Archive, which the fetch tool cannot open, so its wording is paraphrased from MacRumors."
+}

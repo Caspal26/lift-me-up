@@ -1,0 +1,134 @@
+{
+  "id": "zennstrom-friis-tallinn-developers-skype-firewall-decision-2003",
+  "title": "The Firewall Problem That Turned Skyper Into Skype",
+  "dek": "In 2003 a Swede, a Dane and four Estonians dropped their Wi-Fi plan, wrote their own internet-calling software and nearly ran out of money first.",
+  "story": {
+    "founder": "Niklas Zennström, Janus Friis, Ahti Heinla, Priit Kasesalu, Jaan Tallinn and Toivo Annus",
+    "company": "Skype (first called Skyper)",
+    "event": "Dropping a Wi-Fi sharing plan to write their own peer-to-peer calling software, and launching it short of money",
+    "approx_date": "2003",
+    "country": "Estonia",
+    "region": "Europe",
+    "industry": "telecoms",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In late 2002 Niklas Zennström and Janus Friis began a project called Skyper with the Estonian programmers who had built Kazaa's back end; the plan was a Wi-Fi sharing network with internet calls as the attraction. Finding that existing calling software did not work behind firewalls, the team wrote its own peer-to-peer calling program and dropped the Wi-Fi idea. After a year in which Zennström said no venture capitalist would invest, Skype launched on 29 August 2003 and was downloaded about 10,000 times on its first day.",
+    "paragraphs": [
+      "Ahti Heinla, Priit Kasesalu and Jaan Tallinn had been writing software together since school; in 1989 they sold their first computer game to Sweden. Around 2000 they built the file-sharing engine behind Kazaa for two Scandinavians, the Swede Niklas Zennström and the Dane Janus Friis, much of it in Tallinn's flat in the Mustamäe district, where he worked from home as a young father. Kazaa brought its owners American lawsuits. In late 2002, inside Zennström and Friis's company Joltid, the group began something new. It was called Skyper, from \"sky peer\", and the plan was a network for sharing home Wi-Fi.",
+      "Internet calls were meant to be the attraction. Tallinn later explained that the team expected to run existing calling software on top of the network. Having tested what was available, he said, \"none of them worked properly behind firewalls.\" The newest standard, SIP, needed a provider to set each user up, as email does, which for a network starting from nothing was a chicken-and-egg problem. So they chose to write their own peer-to-peer calling program, which people could start without anyone's help, and in time dropped the Wi-Fi idea altogether. Another account credits the voice idea to Friis and Toivo Annus, who managed the Estonian developers.",
+      "The building was slow and short of money. An early version went to about 20 testers in spring 2003, and the sound was glitchy. Because Skyper.com was taken, the r was dropped, and skype.com was registered that April. Zennström later said raising money took a year: the founders asked 26 venture capitalists for 1.5 million euros, for a third of the company, \"But no one wanted to invest.\" His wife's salary kept them going. By one detailed account, development stalled that summer because developers could not be paid. The money that did come was led by Howard Hartenbaum, sent by the American investor William Draper, who wanted to back this team whatever it built.",
+      "Skype went live on 29 August 2003. About 10,000 people downloaded it on the first day; a German news agency put the first week at 60,000, and accounts agree on a million users within months. Two years after launch, Tallinn said, the founders sold their shares to eBay."
+    ]
+  },
+  "quote": {
+    "text": "If a man find a prudent companion who walks with him, is wise, and lives soberly, he may walk with him, overcoming all dangers, happy, but considerate.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter XXIII (The Elephant), verse 328",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "The Wi-Fi plan was abandoned and the borrowed software proved useless, but the companions stayed the same. The verse puts the fellow-traveller before the route, and Hartenbaum, backing the team rather than any product, made the same bet.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Very little of what this group set out to build in 2002 survived. The Wi-Fi network went, the plan to borrow calling software went, and for one summer even the pay went. What carried through was a group that had already come through Kazaa's lawsuits together and knew how each of them worked.",
+    "When a plan you care about starts to fail, it can feel as if everything is failing. Often it is only the plan. The colleague who tells you plainly what does not work, or the person at home who carries more for a while, belongs to something slower and steadier, and is worth noticing before you need them."
+  ],
+  "invitation": "Think of one person whose judgement you would still want beside you if your current plan had to change. Send them a short note today saying what you value in working with them, asking for nothing.",
+  "sources": [
+    {
+      "title": "Existential Risk: A Conversation with Jaan Tallinn",
+      "publisher": "Edge (16 April 2015)",
+      "url": "https://www.edge.org/node/26276",
+      "kind": "founder-interview",
+      "supports": "Tallinn's own account: selling a game to Sweden in 1989; meeting Zennström and Friis; building the Kazaa back end within Joltid; Skype started in late 2002 as a project within Joltid and spun off months later as Skyper Limited with seven founding shareholders; the name from 'sky peer'; the original idea was Wi-Fi sharing with existing VoIP software on top; 'none of them worked properly behind firewalls'; SIP needed an ISP or third party, a chicken-and-egg problem; the decision to write their own peer-to-peer VoIP program and drop the Wi-Fi idea; the founders sold their shares to eBay in September 2005, two years after launch"
+    },
+    {
+      "title": "\"How can they be so good?\": The strange story of Skype",
+      "publisher": "Ars Technica (Toivo Tänavsuu; first published 2 September 2013, republished 3 September 2018)",
+      "url": "https://arstechnica.com/information-technology/2018/09/skypes-secrets/",
+      "kind": "independent-reporting",
+      "supports": "Heinla, Kasesalu and Tallinn as schoolmates and Bluemoon founders; Kazaa developed in Tallinn's flat in Mustamäe while he was a work-at-home dad; Kazaa sued for enabling piracy; the Wi-Fi sharing plan and Annus and Friis's idea of peer-to-peer voice calls; Annus managing development; early alpha to about 20 testers in spring 2003; glitchy sound; Skyper.com taken so the r was dropped; development halted in summer 2003 because developers could not be paid; the 'Borealis Kinks' anagram; Howard Hartenbaum sent by William Draper to invest in the team whatever it did; launch on 29 August 2003; 10,000 downloads on the first day and a million users within a couple of months"
+    },
+    {
+      "title": "What I've Learned, By Skype's Niklas Zennstrom",
+      "publisher": "WIRED (David Rowan, 6 November 2010)",
+      "url": "https://www.wired.com/2010/11/what-ive-learned-by-skypes-niklas-zennstrom/",
+      "kind": "founder-interview",
+      "supports": "Zennström's account that raising money for Skype took a year, that he approached 26 venture capitalists for 1.5 million euros for a third of the company and 'no one wanted to invest'; his wife's salary supporting the family while founding Kazaa and Skype; software developers in Estonia"
+    },
+    {
+      "title": "Skypen statt telefonieren: Vor zehn Jahren wurde der Grundstein gelegt",
+      "publisher": "Computerwoche (dpa report, 17 April 2013)",
+      "url": "https://www.computerwoche.de/article/2732111/vor-zehn-jahren-wurde-der-grundstein-gelegt.html",
+      "kind": "independent-reporting",
+      "supports": "Skyper as the project's first name (Friis to Politiken, late 2002); skype.com and skype.net registered on 23 April 2003; Heinla doing most of the programming in Estonia; first public software on 29 August 2003; Zennström to dpa that fundraising took a year; Friis in 2003 that SIP could not do what they wanted; 60,000 downloads in the first week"
+    },
+    {
+      "title": "Skype and the Estonian start-up ecosystem",
+      "publisher": "Estonian World (Silver Tambur, 1 September 2013)",
+      "url": "https://estonianworld.com/technology/skype-estonian-start-ecosystem/",
+      "kind": "independent-reporting",
+      "supports": "Launch on 29 August 2003; 10,000 downloads on the first day and a million users a few months later; Skyper from 'sky peer-to-peer'; software written by schoolmates Heinla, Kasesalu and Tallinn; their 1989 game sale to Sweden; Toivo Annus led engineering and managed the first Skype office; the team had earlier built Kazaa"
+    },
+    {
+      "title": "The final call: as Skype winds down, its legacy lives in Estonia's ecosystem",
+      "publisher": "Invest in Estonia (March 2025)",
+      "url": "https://investinestonia.com/the-final-call-as-skype-winds-down-its-legacy-lives-in-estonias-ecosystem/",
+      "kind": "independent-reporting",
+      "supports": "A small team in Tallinn launched Skype in 2003; 10,000 downloads on the first day and a million users within months; the software written by Heinla, Kasesalu and Tallinn"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Skype began in late 2002 as Skyper, a Wi-Fi sharing project, and the team switched to writing its own peer-to-peer calling software",
+      "urls": [
+        "https://www.edge.org/node/26276",
+        "https://arstechnica.com/information-technology/2018/09/skypes-secrets/"
+      ]
+    },
+    {
+      "claim": "Existing internet-calling software (SIP) could not do what the team needed, so Skype used its own technology",
+      "urls": [
+        "https://www.edge.org/node/26276",
+        "https://www.computerwoche.de/article/2732111/vor-zehn-jahren-wurde-der-grundstein-gelegt.html"
+      ]
+    },
+    {
+      "claim": "The name came from 'sky peer'; Skyper was shortened to Skype because the domain was taken",
+      "urls": [
+        "https://www.edge.org/node/26276",
+        "https://arstechnica.com/information-technology/2018/09/skypes-secrets/",
+        "https://estonianworld.com/technology/skype-estonian-start-ecosystem/"
+      ]
+    },
+    {
+      "claim": "Raising money for Skype was hard: Zennström said it took a year",
+      "urls": [
+        "https://www.wired.com/2010/11/what-ive-learned-by-skypes-niklas-zennstrom/",
+        "https://www.computerwoche.de/article/2732111/vor-zehn-jahren-wurde-der-grundstein-gelegt.html",
+        "https://arstechnica.com/information-technology/2018/09/skypes-secrets/"
+      ]
+    },
+    {
+      "claim": "Skype went live on 29 August 2003",
+      "urls": [
+        "https://arstechnica.com/information-technology/2018/09/skypes-secrets/",
+        "https://estonianworld.com/technology/skype-estonian-start-ecosystem/",
+        "https://www.computerwoche.de/article/2732111/vor-zehn-jahren-wurde-der-grundstein-gelegt.html"
+      ]
+    },
+    {
+      "claim": "About 10,000 people downloaded Skype on its first day, and it had a million users within months",
+      "urls": [
+        "https://arstechnica.com/information-technology/2018/09/skypes-secrets/",
+        "https://estonianworld.com/technology/skype-estonian-start-ecosystem/",
+        "https://investinestonia.com/the-final-call-as-skype-winds-down-its-legacy-lives-in-estonias-ecosystem/"
+      ]
+    }
+  ],
+  "research_notes": "Origin of the idea: Jaan Tallinn (Edge, 2015) says Skype started in late 2002 as a Wi-Fi sharing project and the team turned to its own VoIP after finding existing software failed behind firewalls; Ars Technica (Tänavsuu, 2013) agrees on the Wi-Fi plan but dates the germ of the idea to summer 2002 and credits Annus and Friis with the 'eureka' of peer-to-peer voice calls; the dpa report in Computerwoche (2013) says Zennström and Friis met in a Copenhagen park in summer 2002 to start an internet-telephony project. The story follows Tallinn's first-hand account, says 'in late 2002' for the start, and notes the other credit. Download and user figures differ: 10,000 on the first day (Ars, Estonian World, Invest in Estonia); 60,000 in the first week (dpa, consistent with the first); a million users 'within a couple of months' (Ars), 'a few months later' (Estonian World), 'within months' (Invest in Estonia); a CTA Hall of Fame profile says 'within a month' and was not used, since it also misstates the eBay deal. The story says 'within months'. Funding: Zennström (Wired, 2010; dpa) says fundraising took a year and 26 venture capitalists turned him down; Ars says Howard Hartenbaum, for William Draper, and other early angels provided the first millions. These fit together (the institutional funds refused, Draper's emissary said yes) and both are told; Ars gives $18 million later from a VC consortium, not used. The claim that development stalled in summer 2003 because developers could not be paid rests on Ars alone and is attributed as 'one detailed account'; Zennström's own remark that his wife's salary supported the family is consistent with it. The eBay price is not given in the story because sources differ: $2.6 billion (CS Monitor 2011, BBC 2005, Invest in Estonia), $2.5 billion (Estonian World), $3.1 billion nominal including earn-outs (Wired, dpa). Founder count: Tallinn and Ars both say seven people held founding shares (Ars names the seventh as Geoffrey Prentice); the story names the six usually called founders. The Ars article's later pages (/2/ and onwards) now redirect to the single-page version cited here. Kasesalu's and Heinla's roles are not separated in the story; dpa says Heinla did most of the programming.",
+  "researched_at": "2026-11-01"
+}

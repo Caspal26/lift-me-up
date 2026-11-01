@@ -1,0 +1,105 @@
+{
+  "id": "chike-ononye-michael-okoh-thepeer-returning-capital-2024",
+  "title": "The April Day Thepeer's Founders Chose to Give the Money Back",
+  "dek": "In April 2024 two Nigerian founders closed their wallet-payments start-up with runway left and returned the remaining capital to investors.",
+  "story": {
+    "founder": "Kosisochukwu Chike Ononye, Michael Okoh",
+    "company": "Thepeer",
+    "event": "Closing the company with runway left and returning remaining capital to investors",
+    "approx_date": "2024-04",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "fintech (payments infrastructure)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Thepeer, a Nigerian API start-up founded in 2021 by Kosisochukwu Chike Ononye and Michael Okoh to let money move between fintech wallets, raised a $2.1 million seed round in 2022 but struggled to get businesses active on its network. On 1 April 2024 the founders announced they were closing it, citing compliance problems and slow acceptance of wallet payments, and chose to return remaining capital to investors instead of pivoting; the product was put into maintenance mode.",
+    "paragraphs": [
+      "On Monday 1 April 2024, the founders of Thepeer, a Nigerian payments start-up, posted a statement that opened: \"April 1st holds significant meaning for us.\" It was their founding date. It was also the day Kosisochukwu Chike Ononye, the chief executive, and Michael Okoh, the chief technology officer, announced they were closing the company.",
+      "Ononye said the idea came when he tried to pay a vendor and could not move cash from one app's wallet to another. Thepeer built software that let customers of one fintech send money to, or pay from, wallets on another. In June 2022 it raised a $2.1 million seed round led by Raba Partnership, after $220,000 from angel investors, and reported average monthly transaction growth of 161%.",
+      "Volume had not become a business. Ononye later said 82 businesses were live on Thepeer but only a quarter were active. A person familiar with its finances told TechCabal that in the first nine months of 2023 it processed more than $500,000 and earned under $1,000. The founders' statement named compliance problems that kept key wallet providers from launching or staying on, and slow acceptance of wallets as a way to pay, which meant costly education. Ononye described \"a chicken-egg problem\": merchants wanted many wallets before integrating, and each integration needed hands-on engineering.",
+      "The founders wrote that they had three choices: a hard pivot, a merger or acquisition, or returning capital. Talks with larger firms had not produced a deal. They had tried other ideas, including fraud prevention, but according to one person close to the company they were not convinced a pivot should be made with investors' money. With up to twenty months of runway left, by an investor's account, they chose to stop. Ononye said the money would go back to investors in proportion to what each had put in.",
+      "The product went into maintenance mode while they looked for a new home for it. One investor expected about $350,000 of the $2.3 million raised to be returned."
+    ]
+  },
+  "quote": {
+    "text": "Abstaining from a work grievous to flesh, When one saith \"'Tis unpleasing!\" this is null! Such an one acts from \"passion;\" nought of gain Wins his Renunciation!",
+    "thinker": "Bhagavad Gita",
+    "work": "The Bhagavad Gita (The Song Celestial)",
+    "locator": "Chapter XVIII, \"Religion by Deliverance and Renunciation\" (verse 8 in the Sanskrit numbering)",
+    "translator": "Sir Edwin Arnold (1885)",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/2388/pg2388.txt",
+    "source_title": "The Song Celestial; Or, Bhagavad-Gîtâ, tr. Sir Edwin Arnold, Project Gutenberg eBook #2388",
+    "connection": "The Gita warns that giving up a work only because it has become hard is not true renunciation. Thepeer's founders stopped a hard thing with money still in the bank, and handed it back. Whether that was letting go of the reward or turning from the difficulty, the passage does not settle.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Most closures come when the money runs out. This one came with runway left, because the founders judged that more time would not change the answer, and that the remaining money was not theirs to spend looking for a different company.",
+    "The Gita's warning is worth holding beside that. Some days you will want to stop simply because the work is heavy, and that is not the same as the work being wrong. The useful question is which of the two you are feeling, and it is easier to answer after rest than at the end of a draining week."
+  ],
+  "invitation": "Pick one effort you keep wondering whether to drop. Write one line on what the evidence says and a separate line on how tired you are, then read the two side by side tomorrow morning.",
+  "sources": [
+    {
+      "title": "Why Nigerian fintech, Theeper, is shutting down after raising $2.1 million",
+      "publisher": "Nairametrics (Samson Akintaro, 2 April 2024)",
+      "url": "https://nairametrics.com/2024/04/02/why-nigerian-fintech-theeper-is-shutting-down-after-raising-2-1-million/",
+      "kind": "founder-interview",
+      "supports": "Text of the founders' 1 April 2024 statement: 'April 1st holds significant meaning for us', the nod to their founding date, compliance issues that hindered launching key wallet providers or maintaining their services, slow acceptance of wallets requiring education, the choice between a hard pivot, M&A or returning capital, and maintenance mode; founders named as Kosisochukwu Chike Ononye (CEO) and Michael Okoh (CTO); beta launch in April 2021; $2.1 million seed in June 2022 led by Raba; 161% month-on-month transaction growth claim."
+    },
+    {
+      "title": "Nigerian fintech, Thepeer shuts down",
+      "publisher": "TechCabal (Joseph Olaoluwa, 1 April 2024)",
+      "url": "https://techcabal.com/2024/04/01/thepeer-shuts-down/",
+      "kind": "independent-reporting",
+      "supports": "Closure announced in a statement on Monday 1 April 2024; return of remaining capital to investors; launch in April 2021 by Kosisochukwu Chike Ononye and Michael 'Trojan' Okoh; $220,000 pre-seed from angels including Ezra Olubi; $2.1 million seed led by Raba Partnership in June 2022; 161% month-on-month growth claim; maintenance mode."
+    },
+    {
+      "title": "Exclusive: The Peer will return $350,000 to investors after shutting down",
+      "publisher": "TechCabal (Muktar Oladunmade, 22 April 2024, updated 23 April)",
+      "url": "https://techcabal.com/2024/04/22/the-peer-will-return-350000/",
+      "kind": "founder-interview",
+      "supports": "Up to twenty months of runway at closure; burn under $20,000 a month; about $350,000 of $2.3 million to be returned (per an investor) and investors earlier told to expect about 20%; Ononye on returning capital pro rata; 82 live businesses with 25% active; under $1,000 revenue on more than $500,000 processed in the first three quarters of 2023 (per a person familiar); fraud-prevention experiments and reluctance to pivot with investor money; Ononye's 'chicken-egg problem' and hands-on engineering for integrations; failed acquisition talks."
+    },
+    {
+      "title": "Thepeer, an API-based startup that connects African businesses, raises $2.1M, led by Raba Partnership",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 22 June 2022)",
+      "url": "https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/",
+      "kind": "founder-interview",
+      "supports": "Ononye's account of failing to pay a vendor because he could not move money between wallets; the products (Send, Direct Charge, Checkout) letting customers move money between fintech wallets; $2.1 million seed led by Raba Partnership after $220,000 pre-seed; 161% average month-on-month transaction growth."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Thepeer was founded by Kosisochukwu Chike Ononye and Michael Okoh",
+      "urls": [
+        "https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/",
+        "https://techcabal.com/2024/04/01/thepeer-shuts-down/",
+        "https://nairametrics.com/2024/04/02/why-nigerian-fintech-theeper-is-shutting-down-after-raising-2-1-million/"
+      ]
+    },
+    {
+      "claim": "Thepeer raised a $2.1 million seed round led by Raba Partnership in June 2022, after $220,000 pre-seed",
+      "urls": [
+        "https://techcrunch.com/2022/06/22/thepeer-an-api-based-startup-that-connects-african-businesses-raises-2-1m-led-by-raba-partnership/",
+        "https://techcabal.com/2024/04/01/thepeer-shuts-down/"
+      ]
+    },
+    {
+      "claim": "On 1 April 2024 the founders announced the closure, citing compliance problems and slow acceptance of wallet payments",
+      "urls": [
+        "https://nairametrics.com/2024/04/02/why-nigerian-fintech-theeper-is-shutting-down-after-raising-2-1-million/",
+        "https://techcabal.com/2024/04/01/thepeer-shuts-down/"
+      ]
+    },
+    {
+      "claim": "The decision: return remaining capital to investors rather than pivot or wait for a sale",
+      "urls": [
+        "https://nairametrics.com/2024/04/02/why-nigerian-fintech-theeper-is-shutting-down-after-raising-2-1-million/",
+        "https://techcabal.com/2024/04/22/the-peer-will-return-350000/",
+        "https://techcabal.com/2024/04/01/thepeer-shuts-down/"
+      ]
+    }
+  ],
+  "research_notes": "Founders: the slate named 'Eniola Ajiboye and Chinedu?'; every source checked (TechCrunch 2022, TechCabal and Nairametrics 2024) names the co-founders as Kosisochukwu Chike Ononye (CEO) and Michael 'Trojan' Okoh (CTO), so the edition uses them. The slate's 'key partner change' is not supported as such; the founders' own statement cites compliance issues that kept key wallet providers from launching or staying on, and a TechCabal source cites inconsistent support from fintech partners; the story uses the founders' wording. Founding date: the founders' statement and TechCabal say April 2021 (Nairametrics: beta in April 2021); TechCrunch (2022) says August 2021. The story gives only the 1 April founding-date reference from the statement. Money returned: Ononye told TechCabal they were 'returning all invested capital back to our investors pro-rata to their investments', which read with the rest of the report means the remaining capital; investors were reportedly first told to expect about 20% (around $460,000), and one investor later expected about $350,000 of $2.3 million, noting the seed may have been smaller than announced. The story gives the investor's $350,000 estimate with attribution and paraphrases Ononye. Runway (up to twenty months), the 2023 revenue figure and the fraud-prevention detail come from unnamed sources quoted by TechCabal and are attributed as such. Nairametrics spells the company 'Theeper' in its headline; TechCabal also uses 'The Peer'. No Y Combinator link could be confirmed and none is claimed. The Gita passage, from Krishna's teaching on renunciation, concerns abandoning prescribed duty because it is painful; it is set beside a business closure by analogy.",
+  "researched_at": "2026-11-01"
+}

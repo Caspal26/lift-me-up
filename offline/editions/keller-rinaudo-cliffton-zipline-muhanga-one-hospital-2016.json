@@ -1,0 +1,158 @@
+{
+  "id": "keller-rinaudo-cliffton-zipline-muhanga-one-hospital-2016",
+  "title": "Just Do Blood to One Hospital: Zipline's First Months in Muhanga",
+  "dek": "In October 2016 Zipline began flying blood from Muhanga, Rwanda, and its founder kept the service to a single hospital until the system stopped breaking.",
+  "story": {
+    "founder": "Keller Rinaudo Cliffton",
+    "company": "Zipline",
+    "event": "Launching drone blood deliveries from Muhanga and serving one hospital for nine months",
+    "approx_date": "2016-10",
+    "country": "Rwanda",
+    "region": "East Africa",
+    "industry": "healthcare (medical logistics)",
+    "arc": "breakthrough",
+    "funding": "venture",
+    "summary": "On 14 October 2016 Zipline launched drone deliveries of blood from a base in Muhanga, Rwanda, with a first flight to nearby Kabgayi District Hospital. Following the health minister's advice to 'just do blood to one hospital', Keller Rinaudo kept the service to a single hospital for about nine months while the team fixed systems that kept failing, then expanded to 21 hospitals within a year, by his account. A 2022 study in The Lancet Global Health found drone deliveries much faster than road and linked them to fewer expired blood units.",
+    "paragraphs": [
+      "On Friday 14 October 2016, at a newly built base in Muhanga District, Rwanda, a small fixed-wing drone was catapulted off a ramp and made the short flight to Kabgayi District Hospital. It dropped cartons of blood on paper parachutes and came back to land on an inflatable pad. President Paul Kagame launched the service that day. Before it, when Kabgayi needed blood it did not have, it sent a car to Kigali, a round trip of at least three hours.",
+      "The narrow start was not Keller Rinaudo's first plan. Zipline's chief executive, then 28, had pitched Rwanda's health ministry a system that would carry every medical product to every health facility in the country; his stated long-term goal was \"the entire medical supply chain.\" The health minister at the time, he later said, gave him \"the best advice we ever got\": \"Just do blood to one hospital.\" He knew why blood came first. About half of Rwanda's transfusions, he said, went to mothers bleeding after childbirth, and 30 per cent to children under five. Rwanda had signed a framework agreement with Zipline that February, and the aim was blood for 21 hospitals.",
+      "Launch day hid how unready the rest of the system was. He later called the launch \"a complete disaster.\" The team had concentrated on the aircraft and had not tested inventory management, the cold chain or air-traffic software. Its ground kit included deep-sea fishing poles bought at Walmart, and the launcher broke roughly every third launch. So Zipline kept to one hospital. \"For the first nine months it was a real uphill battle and we served just one hospital,\" he said in 2024, recalling months of all-night repairs. A report at the launch counted two facilities connected.",
+      "Once that route held, the rest came quickly. Within a year, by his account, Zipline was serving all 21 hospitals, and later 50, then 100. An independent study by researchers in Rwanda and Canada, published in The Lancet Global Health in 2022, found that drone deliveries took 49.6 minutes on average, 79 minutes faster than estimated road times, and that expired blood units fell by 67 per cent after a year. Whether the drones were cost-effective, the authors wrote, was still to be studied."
+    ]
+  },
+  "quote": {
+    "text": "all things are produced more plentifully and easily and of a better quality when one man does one thing which is natural to him and does it at the right time, and leaves other things.",
+    "thinker": "Plato",
+    "work": "The Republic",
+    "locator": "Book II (Stephanus 370c), Socrates to Adeimantus",
+    "translator": "Benjamin Jowett",
+    "tradition": "Classical Greek",
+    "source_url": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+    "source_title": "The Republic, tr. Benjamin Jowett, Project Gutenberg eBook #1497",
+    "connection": "Socrates' case for doing one thing carries two conditions the minister's advice also carried: do it at the right time, and leave other things. Zipline still meant to carry the whole supply chain. For nine months, keeping that ambition waiting was part of the work.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "When you picture talQen working, you probably picture all of it: every bench, every record, every audit, in every lab that might one day use it. That picture is good for direction. It is less good for a Tuesday. Rinaudo had a plan for every health facility in a country, was told to start with one product and one hospital, and spent the next nine months on repairs he had not expected.",
+    "One hospital is not a small ambition. It is where you find out what actually breaks: the stock, the ordering, the habits of the people at the other end. It also lets you rest, because a problem with edges can be put down at night."
+  ],
+  "invitation": "Name the one lab, workflow or person you would serve first if you could serve only one this month. Write it on a single line, and give that line your best hour today.",
+  "sources": [
+    {
+      "title": "Saving Lives, One Drone at a Time (interview with Keller Rinaudo Cliffton by Ambassador Mark A. Green)",
+      "publisher": "The Wilson Quarterly, Wilson Center (Fall 2024)",
+      "url": "https://www.wilsonquarterly.com/quarterly/_/saving-lives,-one-drone-at-a-time",
+      "kind": "founder-interview",
+      "supports": "Launch with the Rwandan government in 2016 with the goal of blood for 21 hospitals; 'For the first nine months it was a real uphill battle and we served just one hospital'; 21 hospitals after a year, then 50, then 100; the health minister at the time 'took this big bet on us'; her advice, 'the best advice we ever got': 'Just do blood to one hospital'; half of Rwanda's transfusions go to mothers with postpartum haemorrhage and 30% to children under five."
+    },
+    {
+      "title": "\"Zipline had a 1% chance of working\" | Keller Cliffton (Co-founder, CEO) — In Depth podcast, First Round Capital (auto-generated transcript)",
+      "publisher": "First Round Capital, transcript hosted by Rosetta",
+      "url": "https://rosetta.to/u/firstroundcapital/zipline-had-a-1-chance-of-working-keller-cliffton-co-founder-ceo",
+      "kind": "founder-interview",
+      "supports": "His pitch of a system delivering all medical products to every hospital and health facility; the minister's blunter version ('Keller, shut up. Just do blood.'); 'the launch was a complete disaster'; the aircraft only part of the problem; untested inventory management, cold chain and air-traffic control software; deep-sea fishing poles bought from Walmart; the launcher destroying itself about every third launch; nine months of all-nighters; only one hospital served then; rapid expansion to 21 once it worked."
+    },
+    {
+      "title": "In Rwanda, drones come to cure, not kill",
+      "publisher": "Daily Maverick (Simon Allison, 18 October 2016)",
+      "url": "https://www.dailymaverick.co.za/article/2016-10-18-in-rwanda-drones-come-to-cure-not-kill/",
+      "kind": "independent-reporting",
+      "supports": "First commercial flight from a newly built base in Muhanga District, launched by catapult, dropping its package of blood at Kabgayi District Hospital; President Kagame at the launch on 14 October 2016; previously the hospital sent a car to Kigali, a round trip of at least three hours; at launch two of 21 planned transfusion clinics were served."
+    },
+    {
+      "title": "Medical delivery drones take flight over Rwanda (AFP)",
+      "publisher": "The Star, Malaysia (14 October 2016)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2016/10/14/medical-delivery-drones-take-flight-over-rwanda",
+      "kind": "independent-reporting",
+      "supports": "Launch on 14 October 2016 at the Muhanga base; the drone catapulted from a ramp towards Kabgayi hospital, about two kilometres away; landings on an inflatable mattress; blood in cardboard boxes with paper parachutes; initial plan to serve 21 clinics in the west of the country."
+    },
+    {
+      "title": "Drones to Deliver Much Needed Blood Supplies in Rwanda (Reuters)",
+      "publisher": "Fortune (13 October 2016)",
+      "url": "https://fortune.com/2016/10/13/drones-to-deliver-much-needed-blood-supplies-in-rwanda/",
+      "kind": "independent-reporting",
+      "supports": "Rinaudo, 28, Zipline's chief executive; 'Our long-term goal is to deliver the entire medical supply chain'; Kabgayi Hospital as a first served facility; about half of Rwanda's blood going to mothers with postpartum bleeding and about a third to children under five."
+    },
+    {
+      "title": "Rwanda: Agreement signed with Zipline to use drones for delivery of essential medical products",
+      "publisher": "sUAS News (February 2016)",
+      "url": "https://www.suasnews.com/2016/02/agreement-signed-with-zipline-to-use-drones-for-delivery-of-essential-medical-products/",
+      "kind": "independent-reporting",
+      "supports": "The Government of Rwanda signed a framework agreement with Zipline in February 2016 for drone delivery of blood products and other essential medical products, with a first base in Muhanga District."
+    },
+    {
+      "title": "Zipline Turns 10: The Bouncy Castle Years Behind 3 Million Deliveries",
+      "publisher": "DroneXL (16 October 2026)",
+      "url": "https://dronexl.co/2026/10/16/zipline-10-years-rwanda-bouncy-castle-origin-story/",
+      "kind": "independent-reporting",
+      "supports": "Rinaudo Cliffton's account in Zipline's own film of deep-sea fishing poles bought at Walmart and inflatable landing pads made by a bouncy-castle company; the launcher destroying itself about every third launch; Kagame's launch in Muhanga on 14 October 2016."
+    },
+    {
+      "title": "The Lancet publishes results of study on drone use to deliver blood",
+      "publisher": "HTN Health Tech Newspaper (11 May 2022)",
+      "url": "https://htn.co.uk/2022/05/11/the-lancet-publishes-results-of-study-on-drone-use-to-deliver-blood/",
+      "kind": "independent-reporting",
+      "supports": "Study by Nisingizwe and colleagues (Rwandan authors with senior authors Sabin Nsanzimana and Michael R Law, funded by the Canadian Institutes of Health Research): Zipline as provider; mean drone delivery time 49.6 minutes, 79 minutes faster than estimated road driving times; blood unit expirations down 7.1 a month, a 67% reduction at 12 months; future studies needed on cost-effectiveness."
+    },
+    {
+      "title": "Effect of unmanned aerial vehicle (drone) delivery on blood product delivery time and wastage in Rwanda (abstract record)",
+      "publisher": "AMiner (record of The Lancet Global Health, 2022)",
+      "url": "https://www.aminer.cn/pub/623afa805aee126c0faa7f2d/effect-of-unmanned-aerial-vehicle-drone-delivery-on-blood-product-delivery-time",
+      "kind": "independent-reporting",
+      "supports": "Abstract of the 2022 study: mean delivery time 49.6 minutes, 79 minutes faster than road estimates; 67% reduction in expirations at 12 months."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Zipline's service was launched on 14 October 2016 from Muhanga, with a first flight to Kabgayi District Hospital.",
+      "urls": [
+        "https://www.dailymaverick.co.za/article/2016-10-18-in-rwanda-drones-come-to-cure-not-kill/",
+        "https://www.thestar.com.my/tech/tech-news/2016/10/14/medical-delivery-drones-take-flight-over-rwanda"
+      ]
+    },
+    {
+      "claim": "The plan agreed with Rwanda was to deliver blood to 21 hospitals or clinics.",
+      "urls": [
+        "https://www.wilsonquarterly.com/quarterly/_/saving-lives,-one-drone-at-a-time",
+        "https://www.thestar.com.my/tech/tech-news/2016/10/14/medical-delivery-drones-take-flight-over-rwanda"
+      ]
+    },
+    {
+      "claim": "The health minister advised Rinaudo to start with blood only.",
+      "urls": [
+        "https://www.wilsonquarterly.com/quarterly/_/saving-lives,-one-drone-at-a-time",
+        "https://rosetta.to/u/firstroundcapital/zipline-had-a-1-chance-of-working-keller-cliffton-co-founder-ceo"
+      ]
+    },
+    {
+      "claim": "Launch-era ground equipment was improvised (deep-sea fishing poles from Walmart) and the launcher broke about every third launch.",
+      "urls": [
+        "https://rosetta.to/u/firstroundcapital/zipline-had-a-1-chance-of-working-keller-cliffton-co-founder-ceo",
+        "https://dronexl.co/2026/10/16/zipline-10-years-rwanda-bouncy-castle-origin-story/"
+      ]
+    },
+    {
+      "claim": "For about nine months Zipline served only one hospital, then reached 21 within a year (founder's account, given in two separate interviews).",
+      "urls": [
+        "https://www.wilsonquarterly.com/quarterly/_/saving-lives,-one-drone-at-a-time",
+        "https://rosetta.to/u/firstroundcapital/zipline-had-a-1-chance-of-working-keller-cliffton-co-founder-ceo"
+      ]
+    },
+    {
+      "claim": "About half of Rwanda's blood transfusions go to mothers with postpartum haemorrhage, and roughly a third to children under five.",
+      "urls": [
+        "https://www.wilsonquarterly.com/quarterly/_/saving-lives,-one-drone-at-a-time",
+        "https://fortune.com/2016/10/13/drones-to-deliver-much-needed-blood-supplies-in-rwanda/"
+      ]
+    },
+    {
+      "claim": "The 2022 Lancet Global Health study found deliveries 79 minutes faster than road and a 67% fall in expired blood units at 12 months.",
+      "urls": [
+        "https://htn.co.uk/2022/05/11/the-lancet-publishes-results-of-study-on-drone-use-to-deliver-blood/",
+        "https://www.aminer.cn/pub/623afa805aee126c0faa7f2d/effect-of-unmanned-aerial-vehicle-drone-delivery-on-blood-product-delivery-time"
+      ]
+    }
+  ],
+  "research_notes": "Number of hospitals served early on: Rinaudo Cliffton says in both the Wilson Quarterly interview (2024) and the First Round podcast that Zipline served just one hospital for about nine months; Daily Maverick, reporting at the launch (18 October 2016), said two of 21 planned transfusion clinics were served. The story gives his figure as his and notes the contemporary count of two. The 21-hospital target is consistent across AFP (21 clinics), Daily Maverick and Wilson Quarterly. Blood use: Wilson Quarterly has him saying half of transfusions go to mothers with postpartum haemorrhage and 30% to children under five; Reuters (2016) says about half and about a third (children with malaria-induced anaemia); the story uses his 30%. The minister's advice exists in two versions: the edited Wilson Quarterly text ('Just do blood to one hospital') and the podcast's auto-generated captions ('Keller, shut up. Just do blood.'); the story quotes only the edited text. The minister is not named because Rinaudo does not name her in either interview, and Rwanda changed health ministers during 2016 (Africanews reported Agnes Binagwaho's dismissal on 12 July 2016), so the story says only 'the health minister at the time'. Launch dates: Reuters reports a demonstration drop to a nurse on Thursday 13 October and a Reuters photo caption reports deliveries on 12 October; Daily Maverick and AFP give the launch with Kagame on Friday 14 October, which the story uses. The podcast quotations ('a complete disaster', the fishing poles, the launcher) come from auto-generated captions; the fishing poles and launcher are corroborated by DroneXL's report of Zipline's own film, and the 'complete disaster' phrase also appears as the episode chapter title. Rinaudo said the launch came three to six months after signing, but the framework agreement was reported in February 2016, about eight months before; the story gives only the month of signing. Study figures: HTN and the abstract agree (49.6 minutes mean, 79 minutes faster than estimated driving times, 98 minutes faster than Google Maps estimates, 67% fewer expirations at 12 months); road times were estimates, and the authors call for cost-effectiveness work; the story uses the more conservative 79-minute figure. Zipline's own anniversary claims (a 51% fall in maternal mortality, which DroneXL says the underlying study measured as in-hospital postpartum haemorrhage deaths) are not used. Funding: Zipline was venture-backed; the Rwanda service was paid per delivery by the government, with a UPS Foundation and Gavi grant reported by AFP. talQen is mentioned in the reflection because blood supply is close to Caspal's own field.",
+  "researched_at": "2026-11-01"
+}

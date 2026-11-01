@@ -1,0 +1,15 @@
+{
+  "key": "na-vanguard-bogle",
+  "status": "done",
+  "file": "offline/editions/john-bogle-vanguard-first-index-fund-not-managed-1975.json",
+  "title": "'This Fund Is Not Managed': John Bogle's First Index Fund, 1975",
+  "region": "North America",
+  "industry": "finance (mutual funds)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Islamic and Persian",
+  "thinker": "Saadi",
+  "talqen": false,
+  "conflicts": "Bogle's own accounts differ: board meeting 18 September 1975 (1997) vs 27 September 1975 (2017), so the story says September 1975; amount raised $11.4m (1997) vs $11.3m (2017, Zweig), so 'about $11 million'; target $50-150m in his letter to the board and $150m elsewhere (1997, Zweig) vs $250m (2017), so the story uses the board-letter range; approval 'unanimous' (2017) vs one director refusing to join the fund's board (Zweig 2016), so the story says only that they approved it.",
+  "notes": "Main sources are Bogle's own 1997 history (via the Internet Archive copy of vanguard.com) and his 2017 award remarks (Bogle Center PDF, which loads but whose compressed text the checker cannot name-match), plus Jason Zweig's 2016 WSJ column. The company field is just 'Vanguard' because a longer name containing 'Trust' tripped the repeat screen against the Aravind edition. Stance 'challenges': Saadi's displaced vizier finds consolation out of office and declines reinstatement, against Bogle's fight to stay. This is my one 'challenges' edition."
+}

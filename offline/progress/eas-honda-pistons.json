@@ -1,0 +1,15 @@
+{
+  "key": "eas-honda-pistons",
+  "status": "done",
+  "file": "offline/editions/soichiro-honda-tokai-seiki-piston-rings-1937.json",
+  "title": "Soichiro Honda's Piston Rings and the Diploma He Never Collected",
+  "region": "East Asia",
+  "industry": "manufacturing (automotive parts)",
+  "arc": "setback",
+  "funding": "mixed",
+  "tradition": "Jewish",
+  "thinker": "Rabbi Meir (in Pirkei Avot)",
+  "talqen": false,
+  "conflicts": "Order of events: some popular accounts put the Toyota rejection before the schooling; Honda's heritage page and Cycle World put the part-time study first, then the failed Toyota inspection, then two more years visiting universities and steelmakers, and the story follows them. Founding year 1936 (Honda heritage, ASME) vs 1937 (AMA, Wikipedia); presidency 1936 (Honda Power Products) vs 1939 (Honda heritage, Tokyo Journal); story uses 1936 for setting up and 1939 for the presidency. Three of fifty rings passing agrees across Honda, Cycle World and Toyota's GAZOO (47 of 50 returned), but the order size differs (50,000 Cycle World vs 30,000 GAZOO), so no order size is given. Crash severity in 1936 disputed, so left out.",
+  "notes": "Funding changed from the slate's bootstrapped to mixed: the garage's earnings paid for much of it (GAZOO), but Honda's investors refused and he set up the company with an acquaintance, Shichiro Kato, as president, and Toyota took 40% in 1942. The diploma remark is single-sourced (AMA Hall of Fame) and attributed to it in the text. GAZOO is Japanese and does not name Honda in Latin script, so the checker lists it as live without a name match; seven other sources load and name him."
+}

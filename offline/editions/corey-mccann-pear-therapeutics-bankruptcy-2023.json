@@ -1,0 +1,190 @@
+{
+  "id": "corey-mccann-pear-therapeutics-bankruptcy-2023",
+  "title": "Pear's Bankruptcy, After Payers Would Not Fund Its Prescription Apps",
+  "dek": "In April 2023 the maker of the first FDA-cleared prescription apps filed for bankruptcy, and its founder said evidence had not been enough to get insurers to pay.",
+  "story": {
+    "founder": "Corey McCann",
+    "company": "Pear Therapeutics",
+    "event": "Filing for Chapter 11 bankruptcy after payers were slow to reimburse prescription digital therapeutics",
+    "approx_date": "2023-04",
+    "country": "United States",
+    "region": "North America",
+    "industry": "healthcare (prescription digital therapeutics)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "On 7 April 2023 Pear Therapeutics, the Boston maker of FDA-cleared prescription apps for addiction and insomnia founded by Corey McCann in 2013, filed for Chapter 11 bankruptcy and laid off about 170 people, 92% of its full-time staff, after 2022 revenue of $10.4 million fell far short of its forecast. McCann, who stepped down the day before, said payers could deny payment for therapies that were effective and cost-saving. The assets sold at auction in May 2023 for about $6 million.",
+    "paragraphs": [
+      "On Thursday 6 April 2023 Corey McCann stepped down as chief executive of Pear Therapeutics, the Boston company he had founded in 2013. The next day Pear filed for Chapter 11 bankruptcy in Delaware and let go about 170 people, 92% of its full-time staff, with two weeks' salary as severance. About 15 stayed to run a sale. Pear stopped accepting new prescriptions and said it could not guarantee that existing patients would keep access.",
+      "Pear made software that doctors prescribe like a drug. Its reSET, for substance use disorder, had in 2017 become the first digital therapeutic cleared by the FDA; reSET-O, for opioid use disorder, and Somryst, for insomnia, followed. Pear raised more than $400 million in venture funding and in December 2021 went public through a SPAC deal that valued it at $1.6 billion.",
+      "The difficulty was payment. In March 2022 McCann told investors that most coverage so far had come through pharmacy benefits, and Pear forecast $22 million of revenue for the year. Progress with commercial and government payers was slow. By midyear the forecast had been cut to between $14 million and $16 million; Pear restructured in July and cut more than a fifth of its staff in November. Revenue for 2022 came to $10.4 million, mostly from agreements with state agencies. In March 2023 it said it was exploring a sale or merger, and might otherwise have to restructure or liquidate.",
+      "In a LinkedIn post McCann wrote, \"This is certainly not the outcome I envisioned when I founded Pear in 2013.\" The company had shown, he said, that clinicians would prescribe its products and that they could save payers money. \"But that isn't enough,\" he wrote. \"Payors have the ability to deny payment for therapies that are clinically necessary, effective, and cost-saving.\" He also blamed two hard years for growth-stage companies.",
+      "In May the assets were sold at auction to four buyers for about $6 million, against debts of about $32 million; Pear had told shareholders to expect little or no recovery. A new company led by McCann, Harvest Bio, bid about $2 million for reSET, reSET-O and Pear's pipeline. Harvest later sold the two addiction apps to PursueCare, a telehealth provider, which brought them back into use in 2024."
+    ]
+  },
+  "quote": {
+    "text": "The pilot has promised you, not a prosperous voyage, but a serviceable performance of his task—that is, an expert knowledge of steering a ship.",
+    "thinker": "Seneca",
+    "work": "Moral Letters to Lucilius (Epistulae Morales ad Lucilium)",
+    "locator": "Letter LXXXV, \"On Some Vain Syllogisms\", section 33",
+    "translator": "Richard M. Gummere (1917–1925)",
+    "tradition": "Stoic",
+    "source_url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_85",
+    "source_title": "Moral Letters to Lucilius, Letter 85, tr. Richard M. Gummere (Wikisource)",
+    "connection": "Seneca separates the pilot's skill from the luck of the voyage. McCann's farewell drew the same line: the apps were cleared, prescribed and, he said, able to save money, but whether anyone paid for them was decided by others.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Seneca's pilot is judged by how he steers, not by whether the sea lets him reach port. Pear's apps did what the regulator asked of them; the people who would have to pay were a separate sea, and it did not open in time. Neither fact cancels the other, and the 170 people who left that Friday carried the cost of both.",
+    "You may be doing careful work that nobody has yet agreed to pay for, or to thank you for. It helps to keep two ledgers: one for whether the work is sound, one for whether it is landing. Tired days blur them into one."
+  ],
+  "invitation": "Take one piece of work that has not landed. On one line, write whether it is sound; on another, what is stopping it from being used or paid for. Leave the second line until tomorrow.",
+  "sources": [
+    {
+      "title": "Pear Therapeutics, Inc. Form 8-K (7 April 2023)",
+      "publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000020/pear-20230405.htm",
+      "kind": "company-archive",
+      "supports": "Chapter 11 filings on 7 April 2023 in the U.S. Bankruptcy Court for the District of Delaware; planned section 363 sale; about 170 employees (92% of full-time staff) terminated effective 7 April with two weeks' salary as severance; transition team of about 15; McCann stepping down as CEO effective 6 April and staying on the board as a consultant; warning that equity holders would likely receive little or no recovery."
+    },
+    {
+      "title": "Pear Therapeutics files for Chapter 11 bankruptcy",
+      "publisher": "MedTech Dive (Elise Reuter, 7 April 2023)",
+      "url": "https://www.medtechdive.com/news/pear-therapeutics-bankruptcy-PEAR/647147/",
+      "kind": "independent-reporting",
+      "supports": "Filing; 170 employees laid off, 15 remaining; McCann stepping down on Thursday; 2022 revenue of $10.4 million, largely from agreements with state agencies; initial $22 million guidance cut to $14-16 million midyear; two rounds of layoffs in 2022."
+    },
+    {
+      "title": "Pear Therapeutics files for Chapter 11 bankruptcy",
+      "publisher": "BioPharma Dive (Elise Reuter, 7 April 2023)",
+      "url": "https://www.biopharmadive.com/news/pear-therapeutics-bankruptcy-PEAR/647171/",
+      "kind": "independent-reporting",
+      "supports": "Republication of the MedTech Dive report: filing, layoffs, revenue against guidance, CEO change."
+    },
+    {
+      "title": "Pear Tx files for bankruptcy, will seek to sell assets",
+      "publisher": "pharmaphorum (Jonah Comstock, 7 April 2023)",
+      "url": "https://pharmaphorum.com/news/pear-tx-files-bankruptcy-will-seek-sell-assets",
+      "kind": "independent-reporting",
+      "supports": "McCann's LinkedIn post: 'This is certainly not the outcome I envisioned when I founded Pear in 2013' and 'Payors have the ability to deny payment for therapies that are clinically necessary, effective, and cost-saving'; market conditions; no new prescriptions and no guaranteed access for existing patients; earlier cut of about 22% of staff; reSET as the first software-only digital therapeutic cleared with claims of improved outcomes."
+    },
+    {
+      "title": "Digital therapeutics company Pear Therapeutics files for bankruptcy",
+      "publisher": "Coverager (Shefi Ben-Hutta, April 2023)",
+      "url": "https://coverager.com/digital-therapeutics-company-pear-therapeutics-files-for-bankruptcy/",
+      "kind": "independent-reporting",
+      "supports": "Excerpts of McCann's LinkedIn post, including 'not the outcome I envisioned', clinicians readily prescribing PDTs, products saving payors money, 'But that isn't enough', and the payors quotation; founded 2013; $409 million raised in eight rounds; public in December 2021 at a $1.6 billion valuation."
+    },
+    {
+      "title": "Digital Therapeutics Trailblazer Pear Files For Bankruptcy, CEO Resigns",
+      "publisher": "Behavioral Health Business (Laura Lovett, 7 April 2023)",
+      "url": "https://bhbusiness.com/?p=5423",
+      "kind": "independent-reporting",
+      "supports": "reSET's first FDA clearance for a digital therapeutic in 2017; reSET-O; $1.6 billion SPAC merger in 2021; McCann's LinkedIn statements on prescribing and on payers' ability to deny payment; market conditions; Massachusetts and Oklahoma Medicaid agreements."
+    },
+    {
+      "title": "Pear Therapeutics files for bankruptcy",
+      "publisher": "HLTH Insights (11 April 2023)",
+      "url": "https://hlth.com/insights/news/pear-therapeutics-files-for-bankruptcy-2023-04-11",
+      "kind": "independent-reporting",
+      "supports": "170 employees terminated and about 15 retained; McCann stepping down; slow insurance reimbursement leading Pear to reduce its 2022 revenue forecast; July 2022 and November 2022 (22%) layoff rounds; McCann's LinkedIn statements that clinicians will readily prescribe, that payors can deny payment for effective, cost-saving therapies, and that market conditions over two years had challenged growth-stage companies."
+    },
+    {
+      "title": "Pear expects $22M in revenue this year, as it banks on growing adoption of digital therapeutics",
+      "publisher": "MedTech Dive (Elise Reuter, 29 March 2022)",
+      "url": "https://www.medtechdive.com/news/pear-therapeutics-22m-revenue-guidance-2022/621193/",
+      "kind": "independent-reporting",
+      "supports": "McCann telling investors most coverage to date was via pharmacy; $22 million 2022 revenue guidance; SPAC listing in December 2021; products reSET, reSET-O and Somryst."
+    },
+    {
+      "title": "Pear, tight on cash, considers strategic alternatives",
+      "publisher": "MedTech Dive (Elise Reuter, 17 March 2023)",
+      "url": "https://www.medtechdive.com/news/pear-PEAR-therapeutics-strategic-alternatives/645332/",
+      "kind": "independent-reporting",
+      "supports": "Exploring a sale, merger or other transaction, with reorganisation or liquidation possible otherwise; coverage mainly from state Medicaid agencies; slow progress with commercial and government payers leading to the lowered 2022 forecast; July 2022 restructuring; November 2022 cut of more than a fifth of staff."
+    },
+    {
+      "title": "Pear Therapeutics sold for parts at $6 million auction",
+      "publisher": "STAT (Mario Aguilar, 19 May 2023)",
+      "url": "https://www.statnews.com/2023/05/19/pear-therapeutics-auction/",
+      "kind": "independent-reporting",
+      "supports": "Four buyers (Click Therapeutics, Welt, Harvest Bio and Nox Health Group) taking Pear's assets for about $6 million, against about $32 million of debt."
+    },
+    {
+      "title": "Can Pear bud again? Ex-CEO McCann bids for assets",
+      "publisher": "pharmaphorum (Phil Taylor, 24 May 2023)",
+      "url": "https://pharmaphorum.com/news/can-pear-bud-again-ex-ceo-mccann-bids-assets",
+      "kind": "independent-reporting",
+      "supports": "McCann's Harvest Bio bidding about $2 million for reSET, reSET-O and pipeline assets; Nox Health $3.9 million for Somryst assets; combined just over $6 million against about $32 million of debt; more than $400 million raised since 2013; $1.6 billion SPAC valuation."
+    },
+    {
+      "title": "PursueCare brings Pear addiction DTx apps back to life",
+      "publisher": "pharmaphorum (Phil Taylor, 21 October 2024)",
+      "url": "https://pharmaphorum.com/news/pursuecare-brings-pear-addiction-dtx-apps-back-life",
+      "kind": "independent-reporting",
+      "supports": "Harvest Bio, led by McCann, bought reSET and reSET-O for about $2 million and later sold them to PursueCare, a telehealth addiction-treatment provider, which relaunched them."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Pear filed for Chapter 11 on 7 April 2023 and let go about 170 employees, leaving about 15",
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000020/pear-20230405.htm",
+        "https://www.medtechdive.com/news/pear-therapeutics-bankruptcy-PEAR/647147/",
+        "https://pharmaphorum.com/news/pear-tx-files-bankruptcy-will-seek-sell-assets"
+      ]
+    },
+    {
+      "claim": "McCann stepped down as CEO the day before the filing",
+      "urls": [
+        "https://www.sec.gov/Archives/edgar/data/1835567/000183556723000020/pear-20230405.htm",
+        "https://www.medtechdive.com/news/pear-therapeutics-bankruptcy-PEAR/647147/"
+      ]
+    },
+    {
+      "claim": "McCann wrote that payors could deny payment for therapies that are clinically necessary, effective and cost-saving",
+      "urls": [
+        "https://pharmaphorum.com/news/pear-tx-files-bankruptcy-will-seek-sell-assets",
+        "https://coverager.com/digital-therapeutics-company-pear-therapeutics-files-for-bankruptcy/",
+        "https://bhbusiness.com/?p=5423"
+      ]
+    },
+    {
+      "claim": "reSET became the first FDA-cleared digital therapeutic in 2017",
+      "urls": [
+        "https://bhbusiness.com/?p=5423",
+        "https://pharmaphorum.com/news/pear-tx-files-bankruptcy-will-seek-sell-assets"
+      ]
+    },
+    {
+      "claim": "Pear went public in December 2021 through a SPAC deal valuing it at $1.6 billion, after raising more than $400 million",
+      "urls": [
+        "https://coverager.com/digital-therapeutics-company-pear-therapeutics-files-for-bankruptcy/",
+        "https://pharmaphorum.com/news/can-pear-bud-again-ex-ceo-mccann-bids-assets"
+      ]
+    },
+    {
+      "claim": "Slow reimbursement by payers led Pear to cut its 2022 revenue forecast",
+      "urls": [
+        "https://www.medtechdive.com/news/pear-PEAR-therapeutics-strategic-alternatives/645332/",
+        "https://hlth.com/insights/news/pear-therapeutics-files-for-bankruptcy-2023-04-11"
+      ]
+    },
+    {
+      "claim": "Pear restructured in July 2022 and cut more than a fifth of its staff in November 2022",
+      "urls": [
+        "https://www.medtechdive.com/news/pear-PEAR-therapeutics-strategic-alternatives/645332/",
+        "https://hlth.com/insights/news/pear-therapeutics-files-for-bankruptcy-2023-04-11",
+        "https://pharmaphorum.com/news/pear-tx-files-bankruptcy-will-seek-sell-assets"
+      ]
+    },
+    {
+      "claim": "The assets sold at auction for about $6 million against about $32 million of debt",
+      "urls": [
+        "https://www.statnews.com/2023/05/19/pear-therapeutics-auction/",
+        "https://pharmaphorum.com/news/can-pear-bud-again-ex-ceo-mccann-bids-assets"
+      ]
+    }
+  ],
+  "research_notes": "Figures agree closely across sources. Revenue ($10.4 million for 2022 against initial guidance of $22 million, cut to $14-16 million) comes from MedTech Dive and its sister sites, citing Pear's filings; HLTH and MedTech Dive independently report that slow payer progress forced the lower forecast. McCann's post is dated 8 April by HLTH, but pharmaphorum quoted it on 7 April, so the story gives no date for it. HLTH prints 'prescription digital therapeutics' where Coverager prints 'PDTs', so that sentence is paraphrased. Layoffs: about 170 (8-K, which gives 92% of full-time employees; MedTech Dive; HLTH) with about 15 retained. Earlier cuts: MedTech Dive says 'more than a fifth' in November 2022; pharmaphorum gives about 22% (about 59 people) with third-quarter results; consistent. Funding: Coverager $409 million in eight rounds; pharmaphorum 'more than $400 million'; the story uses the latter. Auction: STAT and pharmaphorum give about $6 million (pharmaphorum's breakdown: $3.9 million Nox Health, about $2 million Harvest Bio, $70,000 Click, $50,000 Welt) against about $32 million of debt; STAT's wording is ambiguous about the per-buyer split, so the story gives only the total. A court hearing to approve the sale was set for 22 May 2023; pharmaphorum (October 2024) reports Harvest Bio as owner and later seller of reSET and reSET-O, which implies approval, but the hearing outcome itself was not read, so the story says only that Harvest 'bid' and 'later sold'. The PursueCare sale is dated 'last December' (December 2023) by pharmaphorum; the story says only 'later' and that the apps returned in 2024. McCann's LinkedIn post was not available directly; its wording is taken from passages printed identically by pharmaphorum, Coverager and Behavioral Health Business (BH Business prints '[Payers]' for 'Payors'). The causes stated are McCann's own (payers, market conditions); MedTech Dive's reporting of slow payer progress is given as reporting. The SEC pages were fetched without any personal details in the request. The Seneca passage contrasts the pilot's art with the voyage's success; a few lines later Seneca grants that the pilot's passengers can still be harmed, which the reflection reflects.",
+  "researched_at": "2026-11-01"
+}

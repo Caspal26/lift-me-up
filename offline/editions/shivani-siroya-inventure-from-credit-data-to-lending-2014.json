@@ -1,0 +1,172 @@
+{
+  "id": "shivani-siroya-inventure-from-credit-data-to-lending-2014",
+  "title": "When InVenture Went From Scoring Borrowers to Lending to Them",
+  "dek": "In March 2014 Shivani Siroya's company, which had been licensing credit data to lenders, began lending to Kenyans through a phone app.",
+  "story": {
+    "founder": "Shivani Siroya",
+    "company": "InVenture (later Tala)",
+    "event": "Turning a credit-data business into a phone-based lender, starting in Kenya",
+    "approx_date": "2014-03",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "fintech (digital credit)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "InVenture, founded by Shivani Siroya, first offered finance-tracking tools and licensed the resulting credit data to lenders. In March 2014 it began lending its own money in Kenya through an Android app, Mkopo Rahisi, scoring borrowers from phone data; the service was renamed Tala in May 2016. Its pricing, a month's loan at 15 per cent in 2018, drew criticism, which the company disputed.",
+    "paragraphs": [
+      "In March 2014 InVenture, a small California company led by Shivani Siroya, launched an Android app in Kenya called Mkopo Rahisi, Swahili for \"easy loan\", and advertised it on Facebook as instant credit. Siroya later said she had doubted the advert would bring anyone. Within a week a hundred people had downloaded the app. The first 8,000 customers were served by hand, which, she said, came with its own challenges.",
+      "The app was a change of course. Siroya, who had researched microfinance for the UN Population Fund, has said she had some 3,500 conversations with small-business owners over about three and a half years, and concluded that many could repay but had no way to prove it. InVenture's first product, described by TechCrunch that same month, helped people track their spending by text message or app, then licensed the resulting credit data to lenders. It had raised $2.1 million, its seed round led by Lowercase Capital.",
+      "The difficulty, as TechCrunch later put it, was that the easiest way to build scores other lenders would recognise was to start lending itself. Kenya suited the attempt partly because of M-Pesa, which Siroya said gave the app a route to 27 million people. She had tried blind lending before, lending $80,000 of her own money to entrepreneurs she had met; just 70 per cent paid her back, she told CNBC. Of the app's early days she said: \"Our repayment rates were not surprisingly low, but as we began collecting data, we could make better decisions.\"",
+      "With the user's permission, the app read data such as calls, texts and mobile-money records. In May 2016 the service was renamed Tala. Its prices drew criticism. In 2018 Reuters found Tala's app offering a month's loan at 15 per cent, which it equated to 180 per cent a year; the company said rates fall as borrowers repay, and its East Africa manager said those annualising the rate were acting out of malice, since loans ran 30 days at most. Amid public concern about high charges, misuse of personal data and harsh debt collection by digital lenders, Kenya's central bank began licensing them in 2022, and Tala was among those approved. The company says it never sells customer data or calls borrowers' contacts."
+    ]
+  },
+  "quote": {
+    "text": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter XV (Happiness), verse 204",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "Siroya built a business on the idea that trust can be proved, and the verse ranks trust among the highest goods. It also calls contentment the best riches, which sits uneasily beside a product designed to make borrowing quick, and it leaves that unease unresolved.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "InVenture's turn came from a plain problem: nobody would rely on its scores until they had been tested, so the company tested them with its own money. Siroya already knew, from her own loans, what lending blind could cost.",
+    "Carrying a risk yourself is often the honest way to find out whether an idea holds. The harder part of this story is that the risk did not sit only with the company; it also sat with borrowers paying 15 per cent for a month's credit. When you try something new, it helps to know whose money, time or trust is carrying the test, and to say so plainly."
+  ],
+  "invitation": "Think of one thing you are testing at the moment, at work or at home. Write one line naming who, besides you, carries the cost if it goes wrong, and whether they know it.",
+  "sources": [
+    {
+      "title": "InVenture Provides Personal Finance Help And Credit Scores To Underbanked Individuals",
+      "publisher": "TechCrunch (Ryan Lawler, 14 March 2014)",
+      "url": "https://techcrunch.com/2014/03/14/inventure/",
+      "kind": "independent-reporting",
+      "supports": "InVenture's first product: SMS, voice and Android tools for tracking daily finances with built-in credit scoring; licensing the resulting data to financial institutions for credit scores and lending programmes; Siroya's UN and banking background; $2.1 million raised including a $1.2 million seed round led by Lowercase Capital"
+    },
+    {
+      "title": "With loans of just $10, this startup has built a financial services powerhouse in emerging markets",
+      "publisher": "TechCrunch (18 April 2018)",
+      "url": "https://techcrunch.com/2018/04/18/with-loans-of-just-10-this-startup-has-built-a-financial-services-powerhouse-in-emerging-markets/",
+      "kind": "independent-reporting",
+      "supports": "Launch in March 2014 to provide credit scores to financial institutions; the realisation that the easiest way to create scores other institutions would recognise was to issue loans itself; lending started in Kenya partly because of its mobile payment infrastructure; data collected from texts, calls, transactions and app use; expansion to the Philippines, Tanzania, Mexico and India; 11 to 15 per cent charged; 3,500 interviews across nine countries"
+    },
+    {
+      "title": "How ex-UN staff got data for credit app Tala",
+      "publisher": "Business Daily (Nairobi, 31 January 2018)",
+      "url": "https://www.businessdailyafrica.com/bd/corporate/technology/how-ex-un-staff-got-data-for-credit-app-tala-2187958",
+      "kind": "founder-interview",
+      "supports": "Three and a half years of research and about 3,500 interviews at the UN Population Fund; launch in Kenya in March 2014 on M-Pesa with access to up to 27 million people (Siroya); Facebook advertising; Siroya doubting the advert would attract customers; 100 downloads within a week; Tala formerly Mkopo Rahisi; the first 8,000 customers served manually and her remark that this 'came with its own challenges'; 30-day loan at 15 per cent and 21-day loan at 11 per cent; operations in Kenya, Tanzania, the Philippines and Mexico"
+    },
+    {
+      "title": "2.5 billion people around the world don't have a credit score—here's why that's a problem",
+      "publisher": "CNBC (22 August 2019)",
+      "url": "https://www.cnbc.com/2019/08/22/tala-aims-to-help-anyone-with-an-android-phone-have-access-to-loans.html",
+      "kind": "founder-interview",
+      "supports": "Siroya lent $80,000 of her own money to entrepreneurs she met while at the UN, and just 70 per cent repaid; InVenture, the first iteration of Tala, began blind lending again; her quotation 'Our repayment rates were not surprisingly low, but as we began collecting data, we could make better decisions'"
+    },
+    {
+      "title": "Shivani Siroya of Tala (Profile of a Founder Q&A)",
+      "publisher": "The Tech Tribune",
+      "url": "https://thetechtribune.com/shivani-siroya-of-tala",
+      "kind": "founder-interview",
+      "supports": "Siroya's own account: research on microfinance for the UN Population Fund; people with reliable financial capacity but no way to prove it to formal institutions; about three and a half years and an estimated 3,500 conversations with small-business owners before launch; the company often mistaken for a nonprofit or charity in its early days"
+    },
+    {
+      "title": "Inventure mines phone data to offer small loans",
+      "publisher": "Business Daily (Nairobi)",
+      "url": "https://www.businessdailyafrica.com/Inventure-mines-phone-data-to-offer-small-loans/-/1248928/3070650/-/9r8m96z/-/index.html",
+      "kind": "independent-reporting",
+      "supports": "Mkopo Rahisi launched in Kenya in March 2014; with the user's permission InVenture collects data from the applicant's device; Android app, loans sent through M-Pesa"
+    },
+    {
+      "title": "US-based mobile app lends Kenyans Sh1bn under one year",
+      "publisher": "Business Daily (Nairobi, May 2016)",
+      "url": "https://www.businessdailyafrica.com/bd/markets/us-based-mobile-app-lends-kenyans-sh1bn-under-one-year--2117128",
+      "kind": "independent-reporting",
+      "supports": "New name Tala unveiled on 17 May 2016 for the app formerly called Mkopo Rahisi; California-based InVenture; the app collects call patterns and mobile money history to build a credit score"
+    },
+    {
+      "title": "Mobile loans service Mkopo Rahisi rebrands to Tala in Kenya",
+      "publisher": "HapaKenya (17 May 2016)",
+      "url": "https://hapakenya.com/2016/05/17/mobile-loans-service-mkopo-rahisi-rebrands-to-tala-in-kenya",
+      "kind": "independent-reporting",
+      "supports": "Rebrand to Tala in May 2016; a product of InVenture founded by Shivani Siroya; Android app; interest of 11 to 15 per cent, described as high compared with competitors"
+    },
+    {
+      "title": "Kenya moves to regulate fintech-fuelled lending craze (Reuters)",
+      "publisher": "The Star (Kenya), 26 May 2018",
+      "url": "https://www.the-star.co.ke/business/2018-05-26-kenya-moves-to-regulate-fintech-fuelled-lending-craze",
+      "kind": "independent-reporting",
+      "supports": "Reuters downloaded Tala's and Branch's apps, each of which offered a month's loan at 15 per cent, equating to 180 per cent over a year; both companies said rates drop as people repay successive loans"
+    },
+    {
+      "title": "How mobile cash lenders fleece you using apps",
+      "publisher": "The Star (Kenya), 13 May 2019",
+      "url": "https://www.the-star.co.ke/counties/north-eastern/2019-05-13-how-mobile-cash-lenders-fleece-you-using-apps",
+      "kind": "independent-reporting",
+      "supports": "Tala's fixed charges of 11 per cent for 21 days and 15 per cent for 30 days; banking commentators equating 15 per cent a month to 180 per cent a year; Tala's East Africa regional manager Rose Muturi saying those converting monthly rates to annual figures do so out of malice, and that loans run 30 days at most"
+    },
+    {
+      "title": "Crackdown on unlicensed companies cuts digital creditors in Kenya to 51",
+      "publisher": "TechCabal (11 March 2024)",
+      "url": "https://techcabal.com/2024/03/11/crackdown-on-digital-lenders-in-kenya/",
+      "kind": "independent-reporting",
+      "supports": "2022 licensing of digital lenders by the Central Bank of Kenya amid concerns about high interest rates, personal data abuses and unethical debt collection; Tala among the few lenders able to operate after the law"
+    },
+    {
+      "title": "Tala shakes off the gloom associated with digital lenders",
+      "publisher": "Nairobi Business Monthly (5 August 2022)",
+      "url": "https://nairobibusinessmonthly.com/tala-shakes-off-the-gloom-associated-with-digital-lenders/",
+      "kind": "independent-reporting",
+      "supports": "Tala's statement, through its senior country growth manager, that it never sells customer data or calls customers' contacts; its support for the 2022 Digital Credit Providers Regulations"
+    },
+    {
+      "title": "The Hard Facts on Soft Data: Determining risk for loan applicants without credit scores is more than a numbers game",
+      "publisher": "NextBillion",
+      "url": "https://nextbillion.net/the-hard-facts-on-soft-data-determining-risk-for-loan-applicants-without-credit-scores-is-more-than-a-numbers-game/",
+      "kind": "independent-reporting",
+      "supports": "InVenture described as an alternative credit-scoring and lending company; its Kenyan app Mkopo Rahisi scoring applicants from phone data"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Mkopo Rahisi, InVenture's lending app, launched in Kenya in March 2014",
+      "urls": [
+        "https://www.businessdailyafrica.com/bd/corporate/technology/how-ex-un-staff-got-data-for-credit-app-tala-2187958",
+        "https://techcrunch.com/2018/04/18/with-loans-of-just-10-this-startup-has-built-a-financial-services-powerhouse-in-emerging-markets/"
+      ]
+    },
+    {
+      "claim": "Before lending, InVenture built credit scores from users' financial data for other institutions",
+      "urls": [
+        "https://techcrunch.com/2014/03/14/inventure/",
+        "https://nextbillion.net/the-hard-facts-on-soft-data-determining-risk-for-loan-applicants-without-credit-scores-is-more-than-a-numbers-game/"
+      ]
+    },
+    {
+      "claim": "Siroya's research involved about 3,500 interviews with small-business owners",
+      "urls": [
+        "https://thetechtribune.com/shivani-siroya-of-tala",
+        "https://www.businessdailyafrica.com/bd/corporate/technology/how-ex-un-staff-got-data-for-credit-app-tala-2187958"
+      ]
+    },
+    {
+      "claim": "The service was renamed Tala in May 2016",
+      "urls": [
+        "https://www.businessdailyafrica.com/bd/markets/us-based-mobile-app-lends-kenyans-sh1bn-under-one-year--2117128",
+        "https://hapakenya.com/2016/05/17/mobile-loans-service-mkopo-rahisi-rebrands-to-tala-in-kenya"
+      ]
+    },
+    {
+      "claim": "Tala charged 15 per cent for a 30-day loan around 2018",
+      "urls": [
+        "https://www.the-star.co.ke/business/2018-05-26-kenya-moves-to-regulate-fintech-fuelled-lending-craze",
+        "https://www.businessdailyafrica.com/bd/corporate/technology/how-ex-un-staff-got-data-for-credit-app-tala-2187958"
+      ]
+    }
+  ],
+  "research_notes": "The slate described InVenture as a research non-profit; no source supports that. Siroya says the company was 'often mistaken for a nonprofit or charity', and TechCrunch (2014) describes a self-funded, then venture-backed, company whose first product was finance tracking and credit data licensed to institutions. The story tells that change of direction. Founding year: 2011 per Siroya (Tech Tribune, CNBC); TechCabal (2015) says 2012; the story gives no founding year. Her UN research is dated 2006-2008 by CNBC and 2007-2009 by Siroya in the Tech Tribune; the story gives no dates. Interview count: 3,500 (Siroya, Business Daily, TechCrunch); an FT profile reproduced elsewhere says 4,500; the story uses 3,500 as Siroya's own figure. Early volumes disagree and are not used: TechMoran (February 2015) reported over 6,000 loans in 2014; Siroya's TED talk (February 2016) said over 200,000 loans in Kenya in the past year; Business Daily (May 2016) reported 275,000 loans to 75,000 customers and about 10 per cent of the book non-performing, while HapaKenya the same week reported repayment above 90 per cent. Pricing: Business Daily (about 2015-16) reported 5 to 11 per cent; HapaKenya (2016) 11 to 15 per cent; Business Daily (2018) and The Star (2019) 11 per cent for 21 days and 15 per cent for 30 days; Reuters (via The Star, 2018) found 15 per cent for a month and equated it to 180 per cent a year. The story gives the 2018 Reuters finding, the company's response and its manager's rebuttal, all attributed. Data use: the concerns cited by Kenya's central bank and TechCabal were about unregulated digital lenders as a whole; no finding against Tala specifically was found, so the story reports the sector-wide concern and Tala's own statement on data. The Elephant (2018) reported young Kenyans borrowing from Tala for consumption and gambling; not used for lack of space. A Boston Review critique (Donovan and Park, 2019) and Forbes and Inc. interviews are blocked for the verifier and not cited; an FT article reproduced on a third-party site was not cited because the copy is unlicensed. CNBC's '$80,000 of her own money' and Business Daily's 'personal savings of Sh3 million ($30,000)' describe different things (early personal loans versus start-up savings); the story uses only the CNBC figure, attributed. The quote 'Our repayment rates were not surprisingly low' is exact as printed by CNBC; its phrasing is ambiguous and is left as she said it.",
+  "researched_at": "2026-11-01"
+}

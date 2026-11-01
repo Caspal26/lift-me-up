@@ -1,0 +1,139 @@
+{
+  "id": "eric-migicovsky-pebble-shutdown-fitbit-2016",
+  "title": "The Day Pebble Stopped Making Watches and Sold What It Could",
+  "dek": "In December 2016 Pebble shut down after a year spent trying to cut costs and raise money, selling its software to Fitbit so that existing watches would keep working.",
+  "story": {
+    "founder": "Eric Migicovsky",
+    "company": "Pebble Technology",
+    "event": "Shutting down Pebble and selling its software, intellectual property and some staff to Fitbit",
+    "approx_date": "2016-12",
+    "country": "United States",
+    "region": "North America",
+    "industry": "manufacturing (consumer electronics)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "On 7 December 2016 Pebble, the smartwatch company founded by Eric Migicovsky, announced it would shut down and stop making watches, after Fitbit acquired its software, firmware, intellectual property and many software staff but not its hardware. Unshipped Kickstarter orders were refunded and warranties ended. Migicovsky later wrote that the company had run out of money after a 2015 sales shortfall left it with surplus inventory, and named several of the mistakes as his own.",
+    "paragraphs": [
+      "On 7 December 2016, Eric Migicovsky told Pebble's customers on the company blog that it could no longer operate independently, would shut down and would stop making watches. Fitbit was buying Pebble's software, firmware and intellectual property and taking on many of its software engineers, but not its hardware. More than eight years after Migicovsky started the company, and four after a Kickstarter campaign raised about $10 million to launch its first watch, Pebble was finished.",
+      "The trouble, by his later account, had set in a year earlier. In 2015 Pebble aimed for about $100 million in sales of its Pebble Time and made $82 million. Long production lead times meant holiday stock was ordered before retail results came in, leaving more than $15 million of inventory in warehouses at the end of the year, just as operating costs had doubled in anticipation of growth. That produced a cash crunch in early 2016. In March the company cut about 40 jobs, a quarter of its staff, and Migicovsky said money was \"pretty tight these days\".",
+      "He later described 2016 as \"desperately trying to cut costs, retain the team, build another product, raise money and, eventually, sell the company.\" The Pebble 2 began shipping, but the Time 2 and the Pebble Core, sold to Kickstarter backers, were cancelled. \"We ran out of money and sold what we could to preserve the product experience,\" he wrote. Fitbit reportedly paid less than $40 million and offered jobs to about 40 per cent of Pebble's staff; Migicovsky did not join it. Unshipped orders were refunded in full, warranties ended, and existing watches were expected to keep working, perhaps with reduced service.",
+      "In a post written in 2017 and published in 2022, Migicovsky listed the mistakes he counted as his: raising spending ahead of revenue, a bezel he said he lacked the nerve to shrink, and putting off the fitness focus his team pushed for. \"This delay was solely my fault,\" he wrote. Pebble had sold more than 2 million watches. In January 2025, after Google, which had bought Fitbit, released Pebble's software as open source, he announced a small new company to make Pebble-style watches without outside investors."
+    ]
+  },
+  "quote": {
+    "text": "It is the action of an uninstructed person to reproach others for his own misfortunes; of one entering upon instruction, to reproach himself; and one perfectly instructed, to reproach neither others nor himself.",
+    "thinker": "Epictetus",
+    "work": "The Enchiridion",
+    "locator": "Chapter V",
+    "translator": "Thomas Wentworth Higginson (1865)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/45109/pg45109.txt",
+    "source_title": "The Enchiridion, tr. Thomas Wentworth Higginson, Project Gutenberg eBook #45109",
+    "connection": "Migicovsky's account of Pebble's end blames almost no one but himself. Epictetus would count that as progress, but only a middle stage: the person who has really learned reproaches nobody, himself included. Whether a founder can see his mistakes that clearly without also passing sentence on himself is left open.",
+    "stance": "challenges"
+  },
+  "reflection": [
+    "Some people meet a failure by finding someone else to blame. Migicovsky went the other way and put most of it on himself, in writing, years later. That is honest and useful; other founders have learned from his list.",
+    "Epictetus points to a further step, where you can see plainly what went wrong without making yourself the defendant. If you are carrying a mistake from this year, try describing it the way Migicovsky did, as what happened and what you would change. Then notice whether the sentence needs the word fault at all. Most of what a mistake can teach you survives without it."
+  ],
+  "invitation": "Take one decision from this month that you regret. Write two plain sentences about it: what you knew at the time, and what you would do now. Leave out any verdict on yourself.",
+  "sources": [
+    {
+      "title": "Success and failure at Pebble (written 2017, published 11 April 2022)",
+      "publisher": "Eric Migicovsky (ericmigi.com)",
+      "url": "https://ericmigi.com/blog/success-and-failure-at-pebble",
+      "kind": "memoir",
+      "supports": "Company over 8.5 years old when sold; 2012 Kickstarter of about $10 million; 2015 Pebble Time sales target of about $100 million against $82 million; long lead times and over $15 million of inventory at the end of 2015; operating expenses doubled in 2015; cash crunch in early 2016; the quotation describing 2016; 'We ran out of money and sold what we could to preserve the product experience'; mistakes on spending, the bezel ('I didn't have the guts to change it') and the delayed fitness focus ('This delay was solely my fault'); over 2 million watches sold; Pebble 2 and Core released too late"
+    },
+    {
+      "title": "Why we're bringing Pebble back (27 January 2025)",
+      "publisher": "Eric Migicovsky (ericmigi.com)",
+      "url": "https://ericmigi.com/blog/why-were-bringing-pebble-back",
+      "kind": "memoir",
+      "supports": "Google, which bought Fitbit, open-sourced PebbleOS; Migicovsky building a small, narrowly focused company to make a Pebble-style watch without raising money from investors; 'The company behind it failed'"
+    },
+    {
+      "title": "Pebble Posts Details on Refunds and Existing Device Services Following Fitbit Buyout (Tim Hardwick, 8 December 2016)",
+      "publisher": "MacRumors",
+      "url": "https://www.macrumors.com/2016/12/08/pebble-fitbit-buyout-customer-refunds/",
+      "kind": "independent-reporting",
+      "supports": "Migicovsky's blog post of 7 December 2016: Pebble no longer able to operate as an independent entity, the decision to shut down and stop manufacturing; over 2 million watches shipped; many of the team joining Fitbit to work on wearable software; existing devices to keep working with possible reduced functionality"
+    },
+    {
+      "title": "Pebble sinks: Smartwatch pioneer to shut down, sell core assets to Fitbit (Andy Boxall, 7 December 2016)",
+      "publisher": "Digital Trends",
+      "url": "https://www.digitaltrends.com/?p=1087770",
+      "kind": "independent-reporting",
+      "supports": "Fitbit acquiring personnel and software and firmware IP but not hardware; Bloomberg's report that the assets cost less than $40 million; job offers to 40 per cent of Pebble's staff; Migicovsky not part of the deal; Time 2 and Core cancelled while the Pebble 2 had begun shipping; full refunds for Kickstarter backers; warranty support ended; 25 per cent staff cut in March 2016"
+    },
+    {
+      "title": "Pebble Shuts Down, Kills Off Unreleased Watches (Eric M. Zeman, 7 December 2016)",
+      "publisher": "Phone Scoop",
+      "url": "https://www.phonescoop.com/articles/article.php?a=18479",
+      "kind": "independent-reporting",
+      "supports": "Pebble selling its intellectual property to Fitbit and no longer making or selling devices; unshipped Kickstarter preorders refunded in full; warranty support ended; existing watches to keep working; many software engineers joining Fitbit, Migicovsky not"
+    },
+    {
+      "title": "Smartwatch firm Pebble lays off 25% of its staff (Jon Russell, 23 March 2016)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2016/03/23/smartwatch-firm-pebble-lays-off-25-of-its-staff/",
+      "kind": "independent-reporting",
+      "supports": "About 40 jobs, 25 per cent of staff, cut in March 2016; Migicovsky: 'money is pretty tight these days'; $28 million in debt and venture financing over the previous eight months; the 2012 Kickstarter raising $10 million"
+    },
+    {
+      "title": "Pebble cuts 25% of staff to refocus on fitness (Nate Swanner, 23 March 2016)",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/pebble-cuts-jobs-to-refocus-on-fitness",
+      "kind": "independent-reporting",
+      "supports": "About 40 people, 25 per cent of the workforce, cut in March 2016; Migicovsky on money being 'pretty tight these days'; more than $26 million raised over the previous eight months; refocus on health and fitness"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 7 December 2016 Pebble announced it would shut down and stop making watches, with Fitbit acquiring its software and intellectual property but not its hardware",
+      "urls": [
+        "https://www.macrumors.com/2016/12/08/pebble-fitbit-buyout-customer-refunds/",
+        "https://www.digitaltrends.com/?p=1087770",
+        "https://www.phonescoop.com/articles/article.php?a=18479"
+      ]
+    },
+    {
+      "claim": "Unshipped Kickstarter orders were refunded in full and warranty support ended",
+      "urls": [
+        "https://www.digitaltrends.com/?p=1087770",
+        "https://www.phonescoop.com/articles/article.php?a=18479"
+      ]
+    },
+    {
+      "claim": "In March 2016 Pebble cut about 40 jobs, a quarter of its staff, citing tight funding",
+      "urls": [
+        "https://techcrunch.com/2016/03/23/smartwatch-firm-pebble-lays-off-25-of-its-staff/",
+        "https://thenextweb.com/news/pebble-cuts-jobs-to-refocus-on-fitness"
+      ]
+    },
+    {
+      "claim": "Many Pebble software staff joined Fitbit and Migicovsky did not",
+      "urls": [
+        "https://www.digitaltrends.com/?p=1087770",
+        "https://www.phonescoop.com/articles/article.php?a=18479",
+        "https://www.macrumors.com/2016/12/08/pebble-fitbit-buyout-customer-refunds/"
+      ]
+    },
+    {
+      "claim": "Pebble sold more than 2 million watches",
+      "urls": [
+        "https://ericmigi.com/blog/success-and-failure-at-pebble",
+        "https://www.macrumors.com/2016/12/08/pebble-fitbit-buyout-customer-refunds/"
+      ]
+    },
+    {
+      "claim": "Pebble's 2012 Kickstarter raised about $10 million",
+      "urls": [
+        "https://ericmigi.com/blog/success-and-failure-at-pebble",
+        "https://techcrunch.com/2016/03/23/smartwatch-firm-pebble-lays-off-25-of-its-staff/"
+      ]
+    }
+  ],
+  "research_notes": "Price: Fitbit did not disclose terms; Digital Trends cites Bloomberg's figure of less than $40 million, and the story says 'reportedly'. Other figures circulated in the press but were not read here and are not used. 2015-16 fundraising: TechCrunch (March 2016) gives $28 million in debt and venture financing over eight months, The Next Web more than $26 million; the story gives no figure. Refund timing differs (Digital Trends says four to eight weeks; search results attributed a 16 December 2016 date to Crowdfund Insider, which blocks the verifier), so the story gives none. The causes of the closure are given only as Migicovsky himself stated them (the 2015 sales shortfall, surplus inventory, doubled operating costs, the 2016 cash crunch, and the mistakes he called his own); his 'stack' of mistakes is from a post he says he wrote in 2017 and published in April 2022. The bezel remark is paraphrased from his 'I didn't have the guts to change it'. Pebble's own blog post of 7 December 2016 survives only in the Internet Archive, which the fetch tool could not open, so its wording is taken from MacRumors and paraphrased rather than quoted. The Verge, Bloomberg, Backchannel and Crowdfund Insider pieces could not be read and are not cited. The Epictetus line comes from Higginson's Enchiridion, chapter V, which follows the remark that people are disturbed by their views of things rather than by things.",
+  "researched_at": "2026-11-01"
+}

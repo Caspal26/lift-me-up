@@ -1,0 +1,138 @@
+{
+  "id": "fara-ashiru-jituboh-okra-founding-preseed-2020",
+  "title": "Always Employee Number Two or Three, Fara Ashiru Starts Okra",
+  "dek": "In April 2020 a Nigerian engineer who had spent her career as an early employee raised $1 million to build the pipes between bank accounts and apps.",
+  "story": {
+    "founder": "Fara Ashiru Jituboh and David Peterside",
+    "company": "Okra",
+    "event": "Building an open-banking API for Nigerian bank accounts and raising its first outside money",
+    "approx_date": "2020-04",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "fintech (open banking)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "Fara Ashiru Jituboh, a software engineer who had worked at JP Morgan Chase, Fidelity Investments and as an early start-up employee, co-founded Okra in Lagos with David Peterside to let Nigerian bank accounts connect to apps through an API. In April 2020 TLcom Capital invested $1 million in a pre-seed round; Okra later raised $3.5 million and $12 million, Peterside left in 2022, and Ashiru Jituboh said the company decided to wind down operations in May 2025.",
+    "paragraphs": [
+      "In late April 2020 a young Lagos company called Okra announced that TLcom Capital, a $71 million Africa fund that rarely backed early-stage companies or fintech, had invested $1 million in it. Okra had been founded by Fara Ashiru Jituboh and David Peterside to do one narrow thing: let people connect their Nigerian bank accounts directly to the apps that needed them. It said demand had risen 175 per cent since March, as companies moved their services online during the pandemic.",
+      "Ashiru Jituboh was born in Nigeria and grew up in North Carolina, where she studied computer science. She worked at JP Morgan Chase and Fidelity Investments, then in start-ups. \"I went to work in startups, but I was always employee number two or three,\" she told TechCrunch. Back in Nigeria, by one account after struggling to link her Nigerian bank accounts with her foreign ones, she found there was no way to connect an account to an application through an API. What convinced her the market was big, she said, was realising that \"all these fintech CEOs and CTOs were struggling with this use case.\" Peterside, a computer science graduate of Lancaster University Ghana, had worked at UCML Capital and Fashion Map.",
+      "They chose to build plumbing rather than another payments app. \"We're not doing payments,\" she said; the aim was to make the payment companies' processes smoother. Okra earned a fee each time a user connected a bank account to a client's app, and its early clients included Carbon, Branch, Renmoney and the insurer AXA Mansard. TLcom's Andreata Muforo said the fund liked that Ashiru Jituboh was a technical founder, and took a seat on the board.",
+      "Okra raised a $3.5 million seed round in 2021 and a $12 million round led by Base10 in 2022, the year Peterside stepped away. It later moved into cloud hosting priced in naira, which Ashiru Jituboh said was not adopted fast enough. In 2025 she confirmed: \"The company made the decision to wind down operations in May.\" Okra, she said, had helped pioneer open banking in Africa."
+    ]
+  },
+  "quote": {
+    "text": "If you obey it, if you give up this fine position, this honourable post exempt from trouble and rivalry, this seat of authority safe from attack, you will regret it later on without being able to recover it.",
+    "thinker": "Al-Ghazali",
+    "work": "The Confessions (Deliverance from Error)",
+    "locator": "\"Sufism\", the Tempter's argument as he weighed leaving his professorship in Baghdad",
+    "translator": "Claud Field (1909)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/58977/pg58977.txt",
+    "source_title": "The Confessions of Al Ghazzali, tr. Claud Field, Project Gutenberg eBook #58977",
+    "connection": "Ghazali put these words in the Tempter's mouth while he weighed leaving his post in Baghdad, and he left anyway, for faith rather than a company. Ashiru Jituboh left large employers, and then early-employee roles, to found Okra, which wound down in 2025. The closure does not settle whether the warning was right.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Ashiru Jituboh's reason for starting was not a grand idea arriving from nowhere. It was a pattern: the same problem kept turning up in the conversations of the people around her, technical leaders who could not do a basic thing for their customers. That kind of signal is quieter than enthusiasm, and steadier.",
+    "Okra's end does not undo what it built, and what it built does not make the end painless for the people who worked there or invested. Both can be true at once. When you weigh your own leaps, it may help to judge them by what you knew when you made them, not only by how they turned out."
+  ],
+  "invitation": "Write down one problem you have heard three different people describe this month. Beside it, write the name of one person you could ask about it this week.",
+  "sources": [
+    {
+      "title": "Nigeria's Okra raises $1M from TLcom connecting bank accounts to apps",
+      "publisher": "TechCrunch (Jake Bright, 27 April 2020)",
+      "url": "https://techcrunch.com/2020/04/27/nigerias-okra-raises-1m-from-tlcom-connecting-bank-accounts-to-apps/",
+      "kind": "independent-reporting",
+      "supports": "TLcom's $1 million pre-seed investment; TLcom as a $71 million Africa fund that rarely invests in early-stage companies or fintech; founded in June 2019 by Fara Ashiru Jituboh and David Peterside; no way in Nigeria to connect a bank account to an application through an API; fees each time a user connects an account; clients Carbon, AXA Mansard, Branch and Renmoney; 'we're not doing payments'; her upbringing and computer science studies in North Carolina, JP Morgan Chase and Fidelity, 'always employee number two or three'; her decision after returning to Nigeria; 'all these fintech CEOs and CTOs were struggling with this use case'; Andreata Muforo on her being a technical founder and joining the board."
+    },
+    {
+      "title": "Nigerian fintech \"super-connector\", Okra receives $1 million pre-seed investment from TLcom Capital",
+      "publisher": "The Condia (April 2020)",
+      "url": "https://thecondia.com/okra-super-connector-pre-seed-tlcom/",
+      "kind": "independent-reporting",
+      "supports": "The $1 million pre-seed from TLcom; launch in January 2020; Ashiru Jituboh formerly of Fidelity Investments and Canva, Peterside of UCML Capital and Fashion Map; a 175% rise in demand since March 2020 as companies digitised because of COVID-19; Muforo joining the board."
+    },
+    {
+      "title": "OKRA Receives $1M Pre-Seed Funding From TLcom Capital",
+      "publisher": "Digital Banker Africa (2020)",
+      "url": "https://digitalbankerafrica.com/?p=2297",
+      "kind": "independent-reporting",
+      "supports": "Okra inspired by Ashiru Jituboh's difficulty linking her Nigerian accounts with her foreign ones; no organisation in Africa having access to real-time banking data; Peterside as COO."
+    },
+    {
+      "title": "Alumni Spotlight: Okra, Co-Founded by David Peterside '17 Raises $1M from TLcom",
+      "publisher": "Lancaster University Ghana",
+      "url": "https://lancaster.edu.gh/news/alumni-spotlight-okra-co-founded-by-david-peterside-17-raises-1m-from-tlcom/",
+      "kind": "independent-reporting",
+      "supports": "Peterside as a 2017 computer science graduate and co-founder and COO of Okra; the TLcom pre-seed."
+    },
+    {
+      "title": "Okra raises $3.5 million to scale its Open Finance operations",
+      "publisher": "The Condia (2021)",
+      "url": "https://thecondia.com/okra-raises-3-5-million/",
+      "kind": "independent-reporting",
+      "supports": "The $3.5 million seed round led by Susa Ventures with TLcom and Accenture Ventures, just under a year after the pre-seed."
+    },
+    {
+      "title": "Inside the fall of Okra: How Africa's most promising open banking startup shut down at its peak",
+      "publisher": "Nairametrics (11 July 2025)",
+      "url": "https://nairametrics.com/2025/07/11/inside-the-fall-of-okra-how-africas-most-promising-open-banking-startup-shut-down-at-its-peak/",
+      "kind": "independent-reporting",
+      "supports": "The $12 million round led by Base10 in early 2022; Peterside leaving in October 2022; the move into cloud infrastructure; Ashiru Jituboh's statement that the company decided to wind down operations in May and had helped pioneer open banking in Africa; a later company statement describing a restructuring around payments."
+    },
+    {
+      "title": "'Leave Through the Front Door': Okra's Quiet Shutdown Exposes Nigeria's Failure Taboo",
+      "publisher": "Launch Base Africa (7 July 2025)",
+      "url": "https://launchbaseafrica.com/2025/07/07/leave-through-the-front-door-okras-quiet-shutdown-exposes-nigerias-failure-taboo/",
+      "kind": "independent-reporting",
+      "supports": "Ashiru Jituboh's statement to Techpoint Africa that the company decided to wind down operations in May; Peterside having stepped away in 2022; the Nebula cloud pivot; over $16 million raised."
+    },
+    {
+      "title": "Okra Shutdown: Fintech to Return Investors' Funds And Prioritize Employees' Severance Amid Strategic Pivot",
+      "publisher": "Tekedia (July 2025)",
+      "url": "https://www.tekedia.com/okra-shutdown-fintech-to-return-investors-funds-and-prioritize-employees-severance-amid-strategic-pivot/",
+      "kind": "independent-reporting",
+      "supports": "Ashiru Jituboh, in a Techpoint Africa interview, on the cloud product Nebula: early promise but adoption not fast enough."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "TLcom Capital invested $1 million in Okra's pre-seed round in April 2020.",
+      "urls": [
+        "https://techcrunch.com/2020/04/27/nigerias-okra-raises-1m-from-tlcom-connecting-bank-accounts-to-apps/",
+        "https://thecondia.com/okra-super-connector-pre-seed-tlcom/",
+        "https://lancaster.edu.gh/news/alumni-spotlight-okra-co-founded-by-david-peterside-17-raises-1m-from-tlcom/"
+      ]
+    },
+    {
+      "claim": "Okra was co-founded by Fara Ashiru Jituboh and David Peterside to connect Nigerian bank accounts to apps through an API.",
+      "urls": [
+        "https://techcrunch.com/2020/04/27/nigerias-okra-raises-1m-from-tlcom-connecting-bank-accounts-to-apps/",
+        "https://digitalbankerafrica.com/?p=2297"
+      ]
+    },
+    {
+      "claim": "Okra later raised $3.5 million (2021) and $12 million led by Base10 (2022).",
+      "urls": [
+        "https://thecondia.com/okra-raises-3-5-million/",
+        "https://nairametrics.com/2025/07/11/inside-the-fall-of-okra-how-africas-most-promising-open-banking-startup-shut-down-at-its-peak/"
+      ]
+    },
+    {
+      "claim": "Peterside left Okra in 2022.",
+      "urls": [
+        "https://nairametrics.com/2025/07/11/inside-the-fall-of-okra-how-africas-most-promising-open-banking-startup-shut-down-at-its-peak/",
+        "https://launchbaseafrica.com/2025/07/07/leave-through-the-front-door-okras-quiet-shutdown-exposes-nigerias-failure-taboo/"
+      ]
+    },
+    {
+      "claim": "Ashiru Jituboh said the company decided to wind down operations in May 2025.",
+      "urls": [
+        "https://nairametrics.com/2025/07/11/inside-the-fall-of-okra-how-africas-most-promising-open-banking-startup-shut-down-at-its-peak/",
+        "https://launchbaseafrica.com/2025/07/07/leave-through-the-front-door-okras-quiet-shutdown-exposes-nigerias-failure-taboo/"
+      ]
+    }
+  ],
+  "research_notes": "Change of episode: the slate asked for the 2025 shutdown and the return of remaining money. That episode is disputed at its heart, so it is not told. Ashiru Jituboh told Techpoint Africa (relayed by Tekedia and Techsoma) that Okra still had about three years of runway and that a significant amount would go back to investors, but she gave no figure. Press estimates range from $4-5 million (Techpoint, Techsoma) to about $5.5 million (Silicon Africa). Business Hallmark reported an investor-circulated report suggesting the remaining funds would not cover repayment. Launch Base Africa noted there was no formal statement or official figure. Nairametrics printed a company statement describing a restructuring around its payments business rather than a full closure, and Ashiru Jituboh's LinkedIn post said only the cloud business, Nebula, had shut. The edition therefore tells a different, documented episode of the same company, its founding and first outside funding, and quotes her shutdown confirmation without claiming that money was or was not returned. The shutdown statement came from Ashiru Jituboh, via Techpoint; her co-founder David Peterside had left in 2022 (Nairametrics says October 2022). Nairametrics also carries an unnamed insider's account of friction between the co-founders, which is not used, since blame is not attributed by the founders, a court or a regulator. Founding date: TechCrunch says Okra was founded in June 2019, while the company's April 2020 announcement (The Condia, Nairametrics) and its 2021 release say it launched or was founded in January 2020. The story avoids a founding date and anchors on the April 2020 funding. The 175% demand figure is the company's own claim in its announcement, attributed. The account of her personal difficulty linking Nigerian and foreign accounts appears only in Digital Banker Africa and is flagged 'by one account'. The Condia lists her earlier employers as Fidelity and Canva and TechCrunch as JP Morgan Chase and Fidelity; the story names the two TechCrunch gives. Total raised is given variously as over $16 million or $16.5 million; the story gives only the individual rounds. Techpoint Africa's own articles are blocked (403) for the verifier and are cited through outlets that quote them.",
+  "researched_at": "2026-11-01"
+}

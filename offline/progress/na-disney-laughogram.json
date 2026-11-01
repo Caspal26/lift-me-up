@@ -1,0 +1,15 @@
+{
+  "key": "na-disney-laughogram",
+  "status": "done",
+  "file": "offline/editions/walt-disney-laugh-o-gram-bankruptcy-1923.json",
+  "title": "When Laugh-O-gram Ran Out of Money in Kansas City, 1923",
+  "region": "North America",
+  "industry": "media (animation)",
+  "arc": "closure",
+  "funding": "venture",
+  "tradition": "Daoist",
+  "thinker": "Laozi",
+  "talqen": false,
+  "conflicts": "Bankruptcy dating and filer: July 1923 filing by the company (MousePlanet, Pendergast) versus a creditor's petition by Ub Iwerks on 4 October 1923 (American Bankruptcy Institute summary of the National Archives file) versus 30 October 1923 (Kansas City Public Library); the ABI and National Archives pages were blocked or down, so the story says only that the company went into bankruptcy in 1923 and names no filer. Incorporation day varies (18, 22 or 23 May 1922); the story says May 1922. The popular '$40 in his pocket' and '$500 dental film' details could not be traced to a reliable loadable source and are omitted. The 1927 settlement (45 cents on the dollar) and investors getting nothing rest on MousePlanet (Jim Korkis) alone.",
+  "notes": "Funding changed from the slate's 'bootstrapped' to 'venture' because Laugh-O-gram raised about $15,000 from outside local investors. The story ends on what creditors and investors lost, as the closure guidance asks; no blame is attributed beyond the documented contract default by Pictorial Clubs."
+}

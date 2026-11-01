@@ -1,0 +1,15 @@
+{
+  "key": "sas-edhi-foundation",
+  "status": "done",
+  "file": "offline/editions/abdul-sattar-edhi-mithadar-dispensary-first-ambulance.json",
+  "title": "A Room in Mithadar, Benches on the Pavement and One Old Van",
+  "region": "South Asia",
+  "industry": "healthcare",
+  "arc": "founding-decision",
+  "funding": "nonprofit",
+  "tradition": "Stoic",
+  "thinker": "Marcus Aurelius",
+  "talqen": false,
+  "conflicts": "First ambulance: Balzan (businessman's 20,000 rupees, old van bought) and the Guardian (fellow Memon businessman's donation, Edhi drove it) agree on 1957; Edhi's own 2000 speech says the ambulance was received as a donation; Khaleej Times alone says 1965, not used. Dispensary: bought with savings in 1951 (Balzan, AramcoWorld, NPR) versus 'rented' (Edhi, 2000) and a 1950 shared Memon dispensary he took over in 1953 (Magsaysay); story uses 1951 and bought, notes the rest.",
+  "notes": "Dawn obituary blocked (403). Company field contains 'Foundation', which the repeat screen flagged as same-founder with the Kashf Foundation edition but let through."
+}

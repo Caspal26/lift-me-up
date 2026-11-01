@@ -1,0 +1,138 @@
+{
+  "id": "arnold-beckman-ph-meter-for-lemon-chemist-1935",
+  "title": "A Second Meter for a Lemon Laboratory: Arnold Beckman's $195 Gamble",
+  "dek": "In the mid-1930s a Caltech chemist built an acidity meter for an old classmate; when the classmate came back for another, he wondered whether anyone else would pay for one.",
+  "story": {
+    "founder": "Arnold Beckman",
+    "company": "National Technical Laboratories (later Beckman Instruments)",
+    "event": "Building a pH meter for a citrus chemist and deciding to sell it commercially",
+    "approx_date": "1935",
+    "country": "United States",
+    "region": "North America",
+    "industry": "diagnostics (laboratory instruments)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "Around the end of 1934 Arnold Beckman, an assistant professor at Caltech, built a vacuum-tube acidity meter for Glen Joseph, a chemist making lemon by-products for the California Fruit Growers Exchange; when Joseph asked for a second, Beckman asked professors and apparatus dealers whether a $195 instrument would sell, heard that 600 in ten years might saturate the market, and began making them anyway as National Technical Laboratories. The company sold 87 in 1935 and 444 in 1936, and in 1939 Beckman left Caltech to run it full-time.",
+    "paragraphs": [
+      "Late in 1934, as Arnold Beckman remembered it, an old classmate came into his office at Caltech with a problem. Glen Joseph had been business manager of the student magazine Beckman edited at the University of Illinois. Now he worked for the California Fruit Growers Exchange, the citrus co-operative behind Sunkist, making pectin and citric acid from lemon juice. The juice was treated with sulphur dioxide, which ruled out the usual ways of measuring acidity. A glass electrode would work, but read through a delicate galvanometer it had to be so large that it kept breaking, and so did the galvanometer.",
+      "Beckman, an assistant professor who had worked at Bell Labs, suggested a vacuum-tube amplifier instead. It needed far less current, so the electrode could be small and thick-walled. He built Joseph an instrument. Two or three months later Joseph was back for a second, because colleagues were using the first. Beckman later recalled thinking, \"Gee, if he could use two of these in that little laboratory he has, maybe there's a market for them.\"",
+      "He could not be sure. The meter would have to sell for $195, he said, when it was \"competing with a ten-cent vial of litmus paper\". In September 1935 he took one to the American Chemical Society meeting in San Francisco and asked his old professors whether there was a market. They did not know, and suggested the apparatus dealers. He and his wife, Mabel, took the train to Denver, Chicago, New York, Philadelphia and Pittsburgh. The most hopeful dealer guessed that 600 meters over ten years would saturate the market. He saw it as side income in the Depression. Caltech frowned on staff doing business, so he kept his name off the firm, calling it National Technical Laboratories, and built the meters in nine feet partitioned off the back of an instrument maker's shed, with two students working part-time.",
+      "According to Caltech's magazine, the company sold 87 meters in 1935 and 444 in 1936. In 1939 Beckman faced what he called a major decision and left Caltech to run the business full-time; it became Beckman Instruments. Decades later he said, \"Fortunately, I was not a very good market researcher.\" In 2004 the American Chemical Society named his instrument a National Historic Chemical Landmark."
+    ]
+  },
+  "quote": {
+    "text": "I look on that man as happy, who, when there is question of success, looks into his work for a reply, not into the market, not into opinion, not into patronage.",
+    "thinker": "Ralph Waldo Emerson",
+    "work": "The Conduct of Life",
+    "locator": "VI. Worship",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/39827/pg39827.txt",
+    "source_title": "The Conduct of Life, Project Gutenberg eBook #39827",
+    "connection": "Emerson would have a maker judge success by the work, not the market. Beckman did ask the market, and it answered 600 meters in ten years. The truer signal came from the work itself: one small laboratory wanting a second meter. Yet he built the company only after asking.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Experts gave Beckman a cautious forecast, and it was wrong by a wide margin. The evidence that mattered was smaller and closer: one chemist in one lemon laboratory, coming back for a second meter because his colleagues would not give up the first.",
+    "With talQen it is tempting to look for the big answer, a market size or a confident prediction. A quieter question may tell you more: has anyone come back? A lab that asks for a second login, or a colleague who borrows the tool and keeps it, says something no forecast can. Beckman also kept his teaching post for four more years while the business grew."
+  ],
+  "invitation": "Think of one person who has used your work more than once without being asked. Send them a short message today asking what made them come back.",
+  "sources": [
+    {
+      "title": "Interview with Arnold O. Beckman (Mary Terrall, 16 October and 4 December 1978)",
+      "publisher": "Caltech Archives Oral History Project",
+      "url": "https://digital.archives.caltech.edu/collections/OralHistories/OH_Beckman_A/",
+      "kind": "oral-history",
+      "supports": "Glen Joseph as his Illinois classmate and business manager of the Illinois Chemist; Joseph working for the California Fruit Growers Exchange on lemon by-products (pectin, citric acid) treated with sulphur dioxide; why indicators and other electrodes failed; the fragile Leeds & Northrup glass electrode and galvanometer; Bell Labs experience and the vacuum-tube voltmeter idea; first instrument late 1934 or early 1935; Joseph returning in two or three months for a second; the 'Gee, if he could use two of these' quotation; September 1935 ACS meeting in San Francisco; walnut box; $195 'competing with a ten-cent vial of litmus paper'; train trip with Mrs Beckman to dealers in Denver, Chicago, New York, Philadelphia and Pittsburgh; most optimistic estimate of 600 over ten years; 'pin-money side issue'; Depression; Caltech's dislike of commercialism and keeping the Beckman name off the company; National Technical Laboratories; nine feet partitioned off the back of Fred Henson's shed; two part-time students; the 1939 decision to leave Caltech; growth from earnings without outside shareholders."
+    },
+    {
+      "title": "Fifty Years of Beckman Instruments (Engineering & Science, May 1986)",
+      "publisher": "California Institute of Technology",
+      "url": "https://calteches.library.caltech.edu/599/02/Fifty.pdf",
+      "kind": "independent-reporting",
+      "supports": "Retelling of Joseph's visit and the San Francisco meeting in Beckman's words; the 600-in-ten-years estimate; Beckman's 'Fortunately, I was not a very good market researcher'; 87 pH meters sold in 1935 and 444 in 1936; Beckman running the company part-time until 1939."
+    },
+    {
+      "title": "The Chemistry Is Right (Engineering & Science, December 1974-January 1975)",
+      "publisher": "California Institute of Technology",
+      "url": "https://calteches.library.caltech.edu/357/01/beckman.pdf",
+      "kind": "independent-reporting",
+      "supports": "Joseph's problem with a fragile galvanometer and glass electrode; Beckman's amplifier; Joseph back within three months for another; staff of two part-time graduate students and a nine-foot area behind Fred Henson's shop; September 1935 ACS meeting; six meters made by then; Beckman and Mabel travelling by train to supply houses; the 600 instruments sold within a couple of years."
+    },
+    {
+      "title": "Obituaries: Arnold O. Beckman (Engineering & Science, No. 2, 2004)",
+      "publisher": "California Institute of Technology",
+      "url": "https://calteches.library.caltech.edu/690/2/Obituaries.pdf",
+      "kind": "independent-reporting",
+      "supports": "Glen Joseph's lemon laboratory in Ontario, east of Pasadena; the acidimeter sold through supply catalogues for $195 against 10-cent vials of litmus paper; the 600-over-ten-years estimate; 87 sold early on (in the first three months, by this account); Beckman left Caltech in 1939 to run the company full-time."
+    },
+    {
+      "title": "Arnold O. Beckman (historical profile)",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/historical-profile/arnold-o-beckman",
+      "kind": "independent-reporting",
+      "supports": "In 1934 Beckman invented the first commercially successful electronic pH meter for measuring the acidity of lemon juice for the California citrus growers; he used a vacuum tube to make it sturdy; he was cautioned against starting a company to sell a $195 instrument; 444 meters sold twelve months later."
+    },
+    {
+      "title": "Revolutionary chemical instrument receives historical recognition (news release, 18 March 2004)",
+      "publisher": "California Institute of Technology / American Chemical Society (via EurekAlert)",
+      "url": "https://www.eurekalert.org/news-releases/477363",
+      "kind": "independent-reporting",
+      "supports": "The Beckman pH meter designated a National Historic Chemical Landmark by the American Chemical Society in 2004 as the first commercially successful electronic pH meter; invented in the mid-1930s by Beckman, then an assistant professor at Caltech, to measure the acidity of lemon juice for the California citrus industry; strong sales led him to leave his teaching post in 1939."
+    },
+    {
+      "title": "Letter from Arnold O. Beckman to Glenn Joseph, 25 June 1934 (Beckman Historical Collection)",
+      "publisher": "Science History Institute Digital Collections",
+      "url": "https://digital.sciencehistory.org/works/k643b1207",
+      "kind": "company-archive",
+      "supports": "Contemporary correspondence between Beckman and Joseph about the glass electrode for the first pH meter models in 1934; Joseph identified as a California citrus industry chemist."
+    },
+    {
+      "title": "Letter from Glenn Joseph to Arnold O. Beckman, 1933 (Beckman Historical Collection)",
+      "publisher": "Science History Institute Digital Collections",
+      "url": "https://digital.sciencehistory.org/works/9s161618p",
+      "kind": "company-archive",
+      "supports": "Joseph writing from Corona, California, that the vacuum-tube amplifier of the early meter was still not working properly; evidence that the collaboration began before Beckman's recollected date."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Beckman built a vacuum-tube pH meter for Glen Joseph, a citrus-industry chemist who needed to measure the acidity of lemon juice.",
+      "urls": [
+        "https://digital.archives.caltech.edu/collections/OralHistories/OH_Beckman_A/",
+        "https://www.sciencehistory.org/historical-profile/arnold-o-beckman",
+        "https://digital.sciencehistory.org/works/k643b1207"
+      ]
+    },
+    {
+      "claim": "Joseph came back within about three months for a second instrument.",
+      "urls": [
+        "https://digital.archives.caltech.edu/collections/OralHistories/OH_Beckman_A/",
+        "https://calteches.library.caltech.edu/357/01/beckman.pdf"
+      ]
+    },
+    {
+      "claim": "The meter was priced at $195, and the most optimistic estimate was about 600 sales in ten years.",
+      "urls": [
+        "https://digital.archives.caltech.edu/collections/OralHistories/OH_Beckman_A/",
+        "https://www.sciencehistory.org/historical-profile/arnold-o-beckman",
+        "https://calteches.library.caltech.edu/690/2/Obituaries.pdf"
+      ]
+    },
+    {
+      "claim": "About 444 meters were sold in the following year (1936).",
+      "urls": [
+        "https://calteches.library.caltech.edu/599/02/Fifty.pdf",
+        "https://www.sciencehistory.org/historical-profile/arnold-o-beckman"
+      ]
+    },
+    {
+      "claim": "Beckman left Caltech in 1939 to run the company full-time.",
+      "urls": [
+        "https://digital.archives.caltech.edu/collections/OralHistories/OH_Beckman_A/",
+        "https://www.eurekalert.org/news-releases/477363"
+      ]
+    }
+  ],
+  "research_notes": "Date of Joseph's request: Beckman's 1978 oral history says 'the end of '34' and the first instrument 'late '34, maybe early '35'; the 1974 Engineering & Science article says spring 1935; the Science History Institute and ACS say 1934; and the Science History Institute holds letters between Joseph and Beckman dated 1933 and April and June 1934 about the amplifier and glass electrode, so the collaboration probably began earlier than Beckman remembered. The story says 'as Arnold Beckman remembered it', keeps his order of events, and sets approx_date to 1935, the year of the commercial decision. Sales: Engineering & Science (1986) gives 87 sold in 1935 and 444 in 1936; its 2004 obituary says 87 in the first three months; the Science History Institute says 444 had been sold 'twelve months later'; the 1974 article says the 600 were sold 'in a couple of years'. The story uses the 1986 year-by-year figures and attributes them to Caltech's magazine. Litmus: Beckman's oral history and the 1986 and 2004 articles say a ten-cent vial; the 1974 article says a five-cent piece; the story quotes Beckman. Leaving Caltech: the oral history, the 2004 obituary and the 2004 ACS/Caltech release say 1939; the 1974 article and the Science History Institute say 1940 (the year the company moved into its own building); the story uses 1939. Six meters had been made by September 1935 according to the 1974 article; not used. The 1974 article says a radio amateur first wired Beckman's circuit and it failed before Beckman built it himself; Beckman's oral history does not mention this, so it is omitted. The ACS landmark page loads only through scripts, so the designation is sourced from the 2004 Caltech/ACS news release. The Beckman Foundation's pH meter page blocks automated requests and is not cited. Funding: Beckman said the company grew entirely from earnings, with no outside shareholders beyond the few National Postal Meter shareholders, until it went public in 1952. Company field: the seed edition on Wallace Coulter names Beckman Coulter; this story is about a different company, decades earlier.",
+  "researched_at": "2026-11-01"
+}

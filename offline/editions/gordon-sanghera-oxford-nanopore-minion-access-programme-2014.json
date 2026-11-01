@@ -1,0 +1,185 @@
+{
+  "id": "gordon-sanghera-oxford-nanopore-minion-access-programme-2014",
+  "title": "The Two Years Between Oxford Nanopore's Promise and Its First Users",
+  "dek": "In 2012 Oxford Nanopore said its pocket sequencer would be on sale within the year; a chip flaw cost two years, and in 2014 it let researchers try the device as it was.",
+  "story": {
+    "founder": "Gordon Sanghera and Hagan Bayley",
+    "company": "Oxford Nanopore",
+    "event": "Recovering from a two-year chip delay by opening the MinION Access Programme to outside researchers",
+    "approx_date": "2014-04",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "industry": "diagnostics (DNA sequencing)",
+    "arc": "setback",
+    "funding": "venture",
+    "summary": "In February 2012 Oxford Nanopore, the Oxford spin-out founded in 2005 by Hagan Bayley with Gordon Sanghera as chief executive, unveiled the MinION and said it would sell its sequencers within 2012. A design flaw in its microchip took nearly two years to fix; in April 2014 the company opened the MinION Access Programme, letting researchers test the device for a $1,000 refundable deposit and publish freely. Early accuracy was low, but it improved quickly and the MinION was on general sale by mid-2015.",
+    "paragraphs": [
+      "In February 2012, at the Advances in Genome Biology and Technology meeting in Marco Island, Florida, Oxford Nanopore's chief technology officer, Clive Brown, showed the company's first DNA sequence data from nanopores and unveiled the MinION, a sequencer the size of a USB stick expected to sell for under $900. Gordon Sanghera, the chief executive, later recalled an audible gasp from the audience. The company said it would sell its machines within 2012, and Sanghera's statement that day called its toolbox \"customer-ready\".",
+      "The company was seven years old. Hagan Bayley, an Oxford chemist who worked on protein pores that could detect single molecules, had founded it in 2005 with Spike Willcocks of IP Group, its seed investor, and with Sanghera, who had developed glucose meters at MediSense, as chief executive. \"We started Oxford Nanopore well before we had a commercialisable product,\" Bayley later said, describing backers willing to wait five or ten years. There had already been one dead end, an earlier sequencing method abandoned in 2011 after three years' work.",
+      "A few months after Florida, the company found a serious design flaw in its microchip. The science historian Lara Marks records that fixing it took nearly two years and damaged the company's reputation; Brown said it was accused of peddling vapourware. In February 2014 the MinION was still not on sale, and an early tester at the Broad Institute reported mixed results, with some errors.",
+      "In April 2014 Oxford Nanopore let outside researchers test the device anyway. Its MinION Access Programme asked applicants to describe in under 200 words what they would do and to pay a $1,000 refundable deposit, and users could publish whatever they found. Sanghera later said the company had expected 20 or 30 applications. More than 3,000 arrived, and staff set aside Friday afternoons to read them; about 500 researchers were accepted at first.",
+      "The early results were rough. In September 2014 testers reported accuracy of 60 to 85 per cent, against 99.99 per cent for established machines. Users shared their data and methods, and by April 2015 a five-laboratory consortium measured a median error of 12 per cent on reads combining both DNA strands. By July 2015 the MinION was on general sale, a decade after the company began."
+    ]
+  },
+  "quote": {
+    "text": "As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter VI, \"The Wise Man (Pandita)\", verse 81",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "Within two years Oxford Nanopore went from an audible gasp to talk of vapourware, and neither verdict described the device a researcher actually held. The verse points to the steadier course: be moved by neither, and keep working on the thing itself.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "\"Customer-ready\" took two years to come true. What changed things was not a stronger announcement. It was handing the device to strangers with its faults showing, letting them publish what they found, and reading their applications on Friday afternoons.",
+    "With talQen you may feel the pull to describe the version in your head rather than the one a lab can use on Monday. Praise and blame both land harder when the words run ahead of the work. A plain account of what it does today is steadier ground, and it lets the people who use it help you close the gap."
+  ],
+  "invitation": "Write one sentence saying what your work can do for a laboratory today, with no future tense in it, and keep it ready for the next person who asks.",
+  "sources": [
+    {
+      "title": "Oxford Nanopore introduces DNA 'strand sequencing' on the high-throughput GridION platform and presents MinION, a sequencer the size of a USB memory stick (17 February 2012)",
+      "publisher": "Oxford Nanopore Technologies (press release)",
+      "url": "https://nanoporetech.com/news/news-oxford-nanopore-introduces-dna-strand-sequencing-high-throughput-gridion-platform-and",
+      "kind": "company-archive",
+      "supports": "First DNA sequence data presented by Clive Brown at AGBT on 17 February 2012; MinION the size of a USB memory stick expected to retail at less than $900; intention to sell GridION and MinION directly to customers within 2012; Sanghera's statement including 'Our toolbox is customer-ready'"
+    },
+    {
+      "title": "Oxford Nanopore launches mini sequencer (RNS, 17 February 2012)",
+      "publisher": "IP Group plc, via Investegate",
+      "url": "https://investegate.co.uk/announcement/rns/ip-group--ipo/oxford-nanopore-launches-mini-sequencer/3057400",
+      "kind": "company-archive",
+      "supports": "Investor's regulatory announcement of the AGBT presentation; MinION under $900; commercialisation within 2012; orders not yet being taken; Oxford Nanopore a University of Oxford spin-out"
+    },
+    {
+      "title": "Nanopore sequencing makes it possible to decode the genetic sequence of a single molecule",
+      "publisher": "What is Biotechnology? (Lara Marks, science historian)",
+      "url": "https://www.whatisbiotechnology.org/index.php/science/summary/nanopore/nanopore-sequencing-makes-it-possible-to-decode-the",
+      "kind": "independent-reporting",
+      "supports": "Founding by Bayley, Willcocks and Sanghera, registered May 2005 with seed money from IP Group (IP2IPO); Sanghera's MediSense glucose-meter background; the exonuclease approach abandoned around mid-2011 after three years; Brown's AGBT 2012 talk and Sanghera's recollection of an 'audible gasp'; the microchip design flaw found a few months later, taking nearly two years to fix and damaging the company's reputation; Brown's account of being accused of peddling 'vapourware'; MAP launched April 2014; over 3,000 applicants and about 500 accepted by June 2014; $1,000 refundable deposit; freedom to publish without conditions"
+    },
+    {
+      "title": "Professor Hagan Bayley FRS (interview, 24 January 2022)",
+      "publisher": "Department of Chemistry, University of Oxford",
+      "url": "https://chem.web.ox.ac.uk/node/2390156",
+      "kind": "founder-interview",
+      "supports": "Bayley founded the company in 2005, Willcocks led the business side and Sanghera became CEO; IP Group as seed investor; 'We started Oxford Nanopore well before we had a commercialisable product'; patient capital from investors prepared to wait 5 or 10 years"
+    },
+    {
+      "title": "Podcast: Long-read sequencing, episode 2 (Gordon Sanghera interviewed by Vivien Marx, January 2023)",
+      "publisher": "Springer Nature Research Communities",
+      "url": "https://communities.springernature.com/posts/podcast-long-read-sequencing-episode-2",
+      "kind": "founder-interview",
+      "supports": "Sanghera's account of the early access call: a short written application, a $1,000 deposit, expecting 20 or 30 applications and getting about 3,000, sifted on Friday afternoons; his description of early performance as basic"
+    },
+    {
+      "title": "Nanopore Sequencing: The Long and Winding Road (Kevin Davies, 12 March 2021)",
+      "publisher": "GEN (Genetic Engineering & Biotechnology News)",
+      "url": "https://genengnews.com/?p=161685",
+      "kind": "independent-reporting",
+      "supports": "Brown's AGBT 2012 unveiling of the MinION at Marco Island; early product launches delayed by microchip design flaws; Bayley described as co-founder"
+    },
+    {
+      "title": "Oxford Nanopore unveils portable genome sequencer – MinION (Bob Yirka, 17 February 2014)",
+      "publisher": "Phys.org",
+      "url": "https://phys.org/news/2014-02-oxford-nanopore-unveils-portable-genome.html",
+      "kind": "independent-reporting",
+      "supports": "Two-year delay after the 2012 promise; MinION not yet for sale in February 2014; early prototypes for a $1,000 down payment; David Jaffe of the Broad Institute reporting mixed results with errors at AGBT 2014"
+    },
+    {
+      "title": "MinION USB-sized DNA sequencer goes through real-world testing (Mariella Moon, 18 September 2014)",
+      "publisher": "Engadget",
+      "url": "https://www.engadget.com/2014-09-18-minion-usb-dna-sequencer-beta-test.html",
+      "kind": "independent-reporting",
+      "supports": "Technical issues and accusations of vaporware before beta testing began; testers paid $1,000; reported accuracy of 60 to 85 percent against 99.99 percent for traditional sequencers"
+    },
+    {
+      "title": "MinION Analysis and Reference Consortium: Phase 1 data release and analysis (Ip et al., F1000Research 4:1075, 15 October 2015)",
+      "publisher": "F1000Research",
+      "url": "https://f1000research.com/articles/4-1075/v1",
+      "kind": "independent-reporting",
+      "supports": "MAP initiated in April 2014 and involving over 1,000 laboratories over its course; five-laboratory consortium; median total error of 12% for 2D reads, a snapshot of April 2015 performance"
+    },
+    {
+      "title": "Mini DNA sequencer tests true (15 October 2015)",
+      "publisher": "EMBL-EBI, via EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/520903",
+      "kind": "independent-reporting",
+      "supports": "MAP began in April 2014 as an early-access community where participants explored the device and shared results; five labs in four countries ran the consortium experiments; data a snapshot of April 2015"
+    },
+    {
+      "title": "IP Group plc – Portfolio company Oxford Nanopore announces £70m fundraising (21 July 2015), archived copy",
+      "publisher": "IP Group plc (Internet Archive)",
+      "url": "https://web.archive.org/web/20151121024012/http://www.ipgroupplc.com/media-centre/ip-group-news/2015/2015-07-21.aspx",
+      "kind": "company-archive",
+      "supports": "By July 2015 Oxford Nanopore had said the MinION was commercially available"
+    },
+    {
+      "title": "Oxford Nanopore Technologies",
+      "publisher": "Wikipedia (supplementary only)",
+      "url": "https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies",
+      "kind": "independent-reporting",
+      "supports": "Supplementary: founded 2005 as an Oxford spin-out by Bayley, Sanghera and Willcocks with IP Group seed funding; MinION commercially available since May 2015"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "At AGBT in February 2012 Oxford Nanopore unveiled the MinION, priced under $900, and said it would sell its sequencers within 2012",
+      "urls": [
+        "https://nanoporetech.com/news/news-oxford-nanopore-introduces-dna-strand-sequencing-high-throughput-gridion-platform-and",
+        "https://investegate.co.uk/announcement/rns/ip-group--ipo/oxford-nanopore-launches-mini-sequencer/3057400",
+        "https://genengnews.com/?p=161685"
+      ]
+    },
+    {
+      "claim": "Hagan Bayley founded the company in 2005, with Spike Willcocks on the business side and Gordon Sanghera as chief executive, backed by IP Group",
+      "urls": [
+        "https://chem.web.ox.ac.uk/node/2390156",
+        "https://www.whatisbiotechnology.org/index.php/science/summary/nanopore/nanopore-sequencing-makes-it-possible-to-decode-the",
+        "https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies"
+      ]
+    },
+    {
+      "claim": "Product launch was delayed by about two years, with a microchip design flaw as the cause given by the company's history",
+      "urls": [
+        "https://www.whatisbiotechnology.org/index.php/science/summary/nanopore/nanopore-sequencing-makes-it-possible-to-decode-the",
+        "https://genengnews.com/?p=161685",
+        "https://phys.org/news/2014-02-oxford-nanopore-unveils-portable-genome.html"
+      ]
+    },
+    {
+      "claim": "The MinION Access Programme began in April 2014 with a $1,000 deposit",
+      "urls": [
+        "https://f1000research.com/articles/4-1075/v1",
+        "https://www.whatisbiotechnology.org/index.php/science/summary/nanopore/nanopore-sequencing-makes-it-possible-to-decode-the",
+        "https://www.engadget.com/2014-09-18-minion-usb-dna-sequencer-beta-test.html"
+      ]
+    },
+    {
+      "claim": "About 3,000 researchers applied to the programme",
+      "urls": [
+        "https://communities.springernature.com/posts/podcast-long-read-sequencing-episode-2",
+        "https://www.whatisbiotechnology.org/index.php/science/summary/nanopore/nanopore-sequencing-makes-it-possible-to-decode-the"
+      ]
+    },
+    {
+      "claim": "Early MinION reads were much less accurate than established sequencers, and accuracy improved by April 2015",
+      "urls": [
+        "https://www.engadget.com/2014-09-18-minion-usb-dna-sequencer-beta-test.html",
+        "https://phys.org/news/2014-02-oxford-nanopore-unveils-portable-genome.html",
+        "https://f1000research.com/articles/4-1075/v1"
+      ]
+    },
+    {
+      "claim": "The MinION was commercially available by mid-2015",
+      "urls": [
+        "https://web.archive.org/web/20151121024012/http://www.ipgroupplc.com/media-centre/ip-group-news/2015/2015-07-21.aspx",
+        "https://en.wikipedia.org/wiki/Oxford_Nanopore_Technologies"
+      ]
+    }
+  ],
+  "research_notes": "Cause of the delay: Lara Marks's history (What is Biotechnology?, drawing on interviews with Brown, Clarke and Willcocks and on Medeiros) says a major microchip design flaw found a few months after AGBT 2012 took nearly two years to fix, and GEN (Kevin Davies, 2021) says early launches were delayed by microchip design flaws; Phys.org in February 2014 instead said the company had trouble scaling up its pore technology and had to find alternative materials. The story uses the chip flaw, attributed to Marks, and does not give Phys.org's explanation. Participant numbers differ by measure and date: Sanghera (2023 podcast) recalls about 3,000 applications against 20 or 30 expected; Marks gives over 3,000 applicants and about 500 accepted by June 2014; F1000Research (2015) says the programme came to involve over 1,000 laboratories. The story gives the applications and the first ~500 acceptances and does not state a total. MAP start: F1000Research, EMBL-EBI and Marks give April 2014 (some later papers say June 2014 for the first releases); in the podcast Sanghera says 'this was in 15', which conflicts with all written sources, so the story uses April 2014. Phys.org shows a few prototypes were already with selected testers (e.g. David Jaffe) by February 2014. Accuracy: Engadget (September 2014) reports testers' 60-85% accuracy; F1000Research gives a 12% median total error for 2D reads with R7.3 chemistry in April 2015. These are different metrics and chemistries, so the story presents them as a progression with dates, not as a precise comparison. Commercial availability: IP Group's July 2015 note says the company had 'recently commented' the MinION was commercially available; Wikipedia says May 2015; the story says 'by July 2015'. The podcast transcript is speech-recognition with a human editor and carries a warning to check the audio, so Sanghera's podcast remarks are paraphrased, not quoted. The 'audible gasp' is Sanghera's recollection as reported by Marks (citing Pennisi in Science), and is paraphrased. 'Customer-ready' is quoted from the company's own 17 February 2012 press release. The slate names Sanghera and Bayley as founders; Bayley's own account says he founded the company, Willcocks led the business side and Sanghera became CEO, and the story follows that. Nature news articles (2012, 2014, 2015) were not cited because only previews load. The Dhammapada verse is applied by analogy to the swing between hype in 2012 and scepticism by 2014. Company field: written as \"Oxford Nanopore\" rather than \"Oxford Nanopore Technologies\" because the repeat screen matched the word \"Technologies\" in an unrelated company (Tiny Speck, later Slack Technologies, in the Stewart Butterfield edition); this is a different company and episode.",
+  "researched_at": "2026-11-01"
+}

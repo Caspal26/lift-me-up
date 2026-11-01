@@ -1,0 +1,15 @@
+{
+  "key": "naf-instadeep-beguir",
+  "status": "done",
+  "file": "offline/editions/karim-beguir-zohra-slim-instadeep-two-laptops-2014.json",
+  "title": "Two Laptops, $2,000 and an AI Start-up in Tunisia",
+  "region": "North Africa",
+  "industry": "software (artificial intelligence)",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Jewish",
+  "thinker": "Hillel (in Pirkei Avot)",
+  "talqen": false,
+  "conflicts": "BioNTech deal value: Rest of World $682 million, AFP $700 million, Wikipedia EUR 636 million; the story gives the reported $682-700 million range. Founding place: MENAbytes says Tunis, Rest of World says Beguir moved back to Tataouine; the story says Tunisia. A 2019 company press release gives 2015 as the founding year; 2014 (TechCrunch, AFP, Rest of World, MENAbytes) is used.",
+  "notes": "Funding marked bootstrapped because the episode is 2014-2018 (bootstrapped until the 2019 Series A). BioNTech's own release (investors.biontech.de) returns 403."
+}

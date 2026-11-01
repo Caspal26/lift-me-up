@@ -1,0 +1,15 @@
+{
+  "key": "eas-tsmc-chang",
+  "status": "done",
+  "file": "offline/editions/morris-chang-tsmc-four-day-foundry-plan-1985.json",
+  "title": "The Four Days Morris Chang Had to Plan a Chip Company for Taiwan",
+  "region": "East Asia",
+  "industry": "manufacturing (semiconductors)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Hindu",
+  "thinker": "Rabindranath Tagore",
+  "talqen": false,
+  "conflicts": "Starting capital: Chang (CHM, 2007) said $220 million with government 48% and Philips 27%; Caixin (2026) gives $145 million registered capital, 48.3% and 27.6%. The story omits the total and says about half and just over a quarter. Chang's own accounts differ on foresight: 'I only hoped for it' (2007 oral history) versus 'I saw it coming' (Acquired, 2025); the story gives both with dates.",
+  "notes": "Episode moved from the slate's 1987 to the 1985 planning decision (four-day business plan for K. T. Li), with the 1986 fundraising and 1987-1991 survival as aftermath; approx_date is 1985. The CHM oral-history PDF loads but the checker's text scan does not find the founder's name in it (it is a text PDF; pdftotext reads it fine). Caixin is paywalled beyond its summary and timeline, which carry the cited facts. Company set to 'TSMC' alone to avoid a false repeat-screen flag on the word 'Manufacturing'."
+}

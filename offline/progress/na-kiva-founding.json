@@ -1,0 +1,15 @@
+{
+  "key": "na-kiva-founding",
+  "status": "done",
+  "file": "offline/editions/matt-flannery-jessica-jackley-kiva-seven-tororo-loans-2005.json",
+  "title": "Seven Loans in Tororo: The Weekend Kiva Stopped Asking Permission",
+  "region": "North America",
+  "industry": "finance (microlending)",
+  "arc": "founding-decision",
+  "funding": "nonprofit",
+  "tradition": "Islamic and Persian",
+  "thinker": "Al-Ghazali",
+  "talqen": false,
+  "conflicts": "First loans: Flannery says $3,500 funded in a weekend in April 2005; Onyango (PBS 2006) says $3,100; Kiva dates the first funded loan to March 2005. The story says 'that spring' and gives both amounts with attribution. Elizabeth Omalla's loan amount is ambiguous between sources and is left out.",
+  "notes": "Main source is Flannery's own 2007 Innovations essay (PDF on a University of Wisconsin reading list), which loads but the checker cannot read names in a PDF; PBS Frontline/World pages and Kiva's site are the OK sources. Story includes the later Roodman criticism of the one-to-one lending claim, as reported by PBS."
+}

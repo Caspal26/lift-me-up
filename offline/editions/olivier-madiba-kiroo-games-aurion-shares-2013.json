@@ -1,0 +1,176 @@
+{
+  "id": "olivier-madiba-kiroo-games-aurion-shares-2013",
+  "title": "Turned Down by Banks, Kiro'o Games Sold Shares to Finish Aurion",
+  "dek": "In 2013 a Cameroonian game studio that no bank would fund began selling itself in small pieces, and took nearly three years to ship its first game.",
+  "story": {
+    "founder": "Olivier Madiba",
+    "company": "Kiro'o Games",
+    "event": "Funding the game Aurion by selling shares to small investors after banks refused, 2013 to 2016",
+    "approx_date": "2013-05",
+    "country": "Cameroon",
+    "region": "Central Africa",
+    "industry": "media (video games)",
+    "arc": "setback",
+    "funding": "mixed",
+    "summary": "In May 2013, with no bank or investment fund willing to back him, Olivier Madiba began selling percentages of his Yaoundé studio Kiro'o Games to small investors to pay for its first game, Aurion: Legacy of the Kori-Odan. The share sale closed in April 2015 at about €182,500, a Kickstarter in late 2015 raised just under €50,000, and the game went on sale on Steam in April 2016.",
+    "paragraphs": [
+      "At the end of May 2013, Olivier Madiba had just held two meetings he hoped would pay for a studio. In Yaoundé he presented Kiro'o Games, a planned studio making video games drawn from African myth, to guests including the minister of arts and culture; in Douala he pitched it to private investors. He was 27. He had wanted to make games since he was fourteen and had begun work on its first title, Aurion, as a student in 2003. Cameroon had no games industry for him to join.",
+      "What he knew was not encouraging. No bank or investment fund would finance the project, he later said, and some people told him his studio was \"just another African scam on the internet\", which he called humiliating. So in Douala he offered percentages of the studio itself to anyone who believed in it. The buyers came to include students, traders and professionals. He later said the team had not known that equity crowdfunding existed; they were trying to build their own simple Wall Street, mixing local traditions of collective fundraising with shareholding.",
+      "Selling it took nearly two years. Early on the team slept in their office for two months, and in the dry season the power could go for eight hours at a stretch; Madiba said they brainstormed by torchlight. By January 2015, having sold 30 per cent of the company over two rounds, they had €122,000 of the €180,000 they wanted. The round closed that April at 120 million CFA francs, a little over €182,500. In September 2015 a Kickstarter, run with the publisher Plug In Digital, asked backers for €40,000 more. With twelve days to go it had €22,571, and one games site called its fate anyone's guess. It closed just short of €50,000.",
+      "Aurion went on sale on Steam in April 2016, made by a team of 18. In the weeks after, the studio was still fixing bugs and repairing a faulty English translation. Madiba said a full PC game was partly meant to give future investors confidence. They stayed hard to win: in 2025 PocketGamer.biz reported that institutional investors had often turned the studio away as \"too early\", while about 800 small shareholders had put in some $900,000."
+    ]
+  },
+  "quote": {
+    "text": "Perhaps you mean by those who do not know you? What is that to you? For no other artisan cares for the opinion of those who know not his art.",
+    "thinker": "Epictetus",
+    "work": "Discourses and Enchiridion",
+    "locator": "Discourses, Book IV, Chapter 5, \"Against the Quarrelsome and Ferocious\"",
+    "translator": "George Long (1877)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/10661/pg10661.txt",
+    "source_title": "A Selection from the Discourses of Epictetus with the Encheiridion, tr. George Long, Project Gutenberg eBook #10661",
+    "connection": "Epictetus told his students to pay no mind to people who do not understand their craft. Madiba did not have that freedom: the sceptics who called his studio a scam held the money he needed, and selling them small shares was his way of answering them rather than ignoring them.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Two kinds of doubt run through this story. Some came from people who did not know what a games studio was. Some came from people whose money Madiba needed. Epictetus would let you shrug off the first kind, and he is right that it costs nothing to ignore. The second kind cannot simply be ignored, and Madiba answered it slowly, in small pieces, letting doubters become owners a packet at a time.",
+    "You will meet both kinds. When a no stings, it may help to ask which kind it is before deciding how much of your morning it deserves."
+  ],
+  "invitation": "Think of one recent doubt about your work that has stayed with you. Write down who voiced it and whether they know your craft, then decide whether it needs an answer this week or can be put down.",
+  "sources": [
+    {
+      "title": "Olivier Madiba : Nous voulons faire entrer l'Afrique dans l'univers du jeu vidéo",
+      "publisher": "Journal du Cameroun (30 May 2013)",
+      "url": "https://www.journalducameroun.com/olivier-madiba-nous-voulons-faire-entrer-lafrique-dans-lunivers-du-jeu-video/",
+      "kind": "founder-interview",
+      "supports": "Madiba had just held two investor conferences, in Yaoundé (on the project's cultural aims, with the minister of arts and culture present) and in Douala (for private investors); the decision to put percentages of the studio up for sale; Kiro'o as a studio for games drawn from African myths and traditions; his date of birth (10 October 1985), making him 27"
+    },
+    {
+      "title": "Finally, a video game hero for Africa",
+      "publisher": "CNN (20 January 2016)",
+      "url": "https://www.cnn.com/2016/01/20/africa/cameroon-video-game-fantasy-aurion",
+      "kind": "independent-reporting",
+      "supports": "Madiba's account of difficulty finding funds and of being told the studio was 'just another African scam on the internet', which he called humiliating; power outages; Kickstarter raised over $50,000; 18 employees"
+    },
+    {
+      "title": "Olivier Madiba : quand le jeu vidéo camerounais commence par un système participatif !",
+      "publisher": "Digital Business Africa (6 May 2020)",
+      "url": "https://www.digitalbusiness.africa/olivier-madiba-quand-le-jeu-video-camerounais-commence-par-un-systeme-participatif/",
+      "kind": "founder-interview",
+      "supports": "Madiba's statement that nobody believed in the project at first and no bank or investment fund would finance it; the equity crowdfunding scheme set up in 2013 with Jean-Yves Bassangna; his start in 2003 at the University of Yaoundé"
+    },
+    {
+      "title": "Start-up snapshot: Developing video games for African audiences",
+      "publisher": "How we made it in Africa (5 January 2015)",
+      "url": "https://www.howwemadeitinafrica.com/p/start-up-snapshot-developing-video-games-for-african-audiences",
+      "kind": "founder-interview",
+      "supports": "Wanted to make games since age 14; began Aurion in 2003; sold 30% of the company through equity crowdfunding over two rounds; €122,000 raised of a €180,000 target; the team had not known equity crowdfunding existed and imagined their own 'simple' Wall Street"
+    },
+    {
+      "title": "How Africa's Kiro'o Games shook up the gaming industry (first published in The Wall Street Journal, May 2016)",
+      "publisher": "David Kushner (author's archive on Substack)",
+      "url": "https://davidkushner.substack.com/p/masters-of-disruption-how-the-gamer-b62",
+      "kind": "independent-reporting",
+      "supports": "No games industry in Cameroon; power cuts of eight hours at a time in the dry season and brainstorming by flashlight; mixing a 'local, traditional way of fundraising' with shareholding; shares and Kickstarter raising about $270,000 in total; a team of 18 finishing Aurion for an April 2016 launch"
+    },
+    {
+      "title": "Jeu vidéo : Aurion, un Fantasy à l'africaine",
+      "publisher": "Jeune Afrique (April 2015)",
+      "url": "https://www.jeuneafrique.com/231646/economie/jeu-vid-o-aurion-un-fantasy-l-africaine/",
+      "kind": "independent-reporting",
+      "supports": "The idea dating from 2003 at university; the team sleeping on site for two months at the start; the mid-2013 call to buy shares; 120 million CFA francs (over €182,500) gathered by early April 2015"
+    },
+    {
+      "title": "'Aurion': The 1st all-African video game",
+      "publisher": "Anadolu Agency (15 April 2015)",
+      "url": "https://aa.com.tr/en/science-technology/aurion-the-1st-all-african-video-game/57178",
+      "kind": "independent-reporting",
+      "supports": "Madiba's description of equity crowdfunding and of his investors as including professionals, students and traders"
+    },
+    {
+      "title": "African-developed Aurion: Legacy of the Kori-Odan looking for funds on Kickstarter",
+      "publisher": "Destructoid (8 October 2015)",
+      "url": "https://www.destructoid.com/african-developed-aurion-legacy-of-the-kori-odan-looking-for-funds-on-kickstarter/",
+      "kind": "independent-reporting",
+      "supports": "Kickstarter with publisher Plug In Digital; €40,000 goal; €22,571 raised with 12 days left; outcome 'anyone's guess'"
+    },
+    {
+      "title": "Kiro'o Games to release first African-inspired action-RPG",
+      "publisher": "Bizcommunity (from Design Indaba, 7 March 2016)",
+      "url": "https://www.bizcommunity.com/Article/38/708/141819.html",
+      "kind": "independent-reporting",
+      "supports": "Investors sceptical until the ministry of arts and culture lent credibility; Kickstarter total of about €49,774; release on Steam due in April 2016"
+    },
+    {
+      "title": "Cameroonian Game Devs Want to Break the 'Exotic Wall' Created by the US",
+      "publisher": "VICE (3 May 2016)",
+      "url": "https://www.vice.com/en/article/cameroonian-game-devs-want-to-break-the-exotic-wall-created-by-the-us",
+      "kind": "independent-reporting",
+      "supports": "Release the previous month; fixing bugs and a faulty English translation after release; Madiba's aim of building confidence among potential investors with a PC game"
+    },
+    {
+      "title": "Kiro'o Games' lofty ambitions for the African games market",
+      "publisher": "PocketGamer.biz (14 May 2025)",
+      "url": "https://www.pocketgamer.biz/kiroo-games-lofty-ambitions-for-the-african-games-market",
+      "kind": "independent-reporting",
+      "supports": "Years of rejection by institutional investors ('too early' or 'not enough'); about $900,000 raised from 800 micro-investors through equity crowdfunding"
+    },
+    {
+      "title": "Cameroon: Pioneering Company Brings African Myths to Gaming",
+      "publisher": "allAfrica (André van Wyk, 29 January 2016)",
+      "url": "https://allafrica.com/stories/201601290938.html",
+      "kind": "independent-reporting",
+      "supports": "Funding difficult from the start and Cameroonian investors sceptical; Kickstarter of about $50,000; daily dry-season power outages"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "No bank or investment fund would back the project, and potential investors were sceptical or called it a scam",
+      "urls": [
+        "https://www.digitalbusiness.africa/olivier-madiba-quand-le-jeu-video-camerounais-commence-par-un-systeme-participatif/",
+        "https://www.cnn.com/2016/01/20/africa/cameroon-video-game-fantasy-aurion",
+        "https://allafrica.com/stories/201601290938.html"
+      ]
+    },
+    {
+      "claim": "In 2013 Madiba decided to sell shares in the studio to the public to fund Aurion",
+      "urls": [
+        "https://www.journalducameroun.com/olivier-madiba-nous-voulons-faire-entrer-lafrique-dans-lunivers-du-jeu-video/",
+        "https://www.jeuneafrique.com/231646/economie/jeu-vid-o-aurion-un-fantasy-l-africaine/",
+        "https://www.digitalbusiness.africa/olivier-madiba-quand-le-jeu-video-camerounais-commence-par-un-systeme-participatif/"
+      ]
+    },
+    {
+      "claim": "The share sale raised €122,000 of a €180,000 target by January 2015 and closed in April 2015 at 120 million CFA francs (over €182,500)",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/p/start-up-snapshot-developing-video-games-for-african-audiences",
+        "https://www.jeuneafrique.com/231646/economie/jeu-vid-o-aurion-un-fantasy-l-africaine/"
+      ]
+    },
+    {
+      "claim": "The autumn 2015 Kickstarter had a €40,000 goal and ended just short of €50,000",
+      "urls": [
+        "https://www.destructoid.com/african-developed-aurion-legacy-of-the-kori-odan-looking-for-funds-on-kickstarter/",
+        "https://www.bizcommunity.com/Article/38/708/141819.html",
+        "https://www.cnn.com/2016/01/20/africa/cameroon-video-game-fantasy-aurion"
+      ]
+    },
+    {
+      "claim": "Long dry-season power cuts during development",
+      "urls": [
+        "https://davidkushner.substack.com/p/masters-of-disruption-how-the-gamer-b62",
+        "https://allafrica.com/stories/201601290938.html"
+      ]
+    },
+    {
+      "claim": "Aurion went on sale on Steam in April 2016, made by a team of 18",
+      "urls": [
+        "https://davidkushner.substack.com/p/masters-of-disruption-how-the-gamer-b62",
+        "https://www.vice.com/en/article/cameroonian-game-devs-want-to-break-the-exotic-wall-created-by-the-us",
+        "https://www.cnn.com/2016/01/20/africa/cameroon-video-game-fantasy-aurion"
+      ]
+    }
+  ],
+  "research_notes": "Episode framing: the slate named crowdfunding in 2016; the documented decision is the May 2013 choice to sell percentages of the studio (Journal du Cameroun interview after the Yaoundé and Douala investor conferences), so the story opens there and runs to the April 2016 release. Funding is recorded as mixed (equity crowdfunding plus a rewards Kickstarter), not bootstrapped. Figures: How we made it in Africa (January 2015, Madiba's own words) gives €122,000 raised of a €180,000 target after selling 30%; Jeune Afrique (April 2015) gives 120 million CFA francs (over €182,500) gathered by early April 2015, which Wikipedia also dates to 10 April 2015 (€182,504). Kickstarter: Destructoid gives the €40,000 goal; Bizcommunity gives €49,774 and Wikipedia €49,775; CNN and allAfrica say over $50,000; the story says 'just short of €50,000'. The Wall Street Journal (Kushner) gives about $270,000 from shares plus Kickstarter together, roughly consistent with the euro sums at 2015-16 exchange rates; the story uses the euro figures. Later totals (579 subscribers and 375 million CFA francs, Digital Business Africa 2020; $900,000 from 800 micro-investors, PocketGamer.biz 2025) differ because they cover later rounds; the story uses only PocketGamer's 2025 figure and attributes it. The 'too early' wording is PocketGamer's summary, not a direct Madiba quotation, and is attributed to the publication. Founding dates vary (studio idea late 2012 per Madiba in 2013; Aurion work from 2003; Wikipedia's category says 2003): the story says he began work on Aurion in 2003 and does not give a studio founding year. Staff count: CNN (January 2016) and Kushner (spring 2016) say 18; Jeune Afrique and Anadolu (2015) say about 20; the story uses 18 at release. Kickstarter pages return 403 to the verifier and the WSJ is paywalled, so Kushner's article is cited from his own Substack reprint. Kushner says 'flashlights'; the story uses the British 'torchlight'. The Epictetus passage is the philosopher's reply to a student afraid of being despised; it is applied by analogy. The Gutenberg selection has no chapter numbers; the chapter 'Against the Quarrelsome and Ferocious' is Book IV, Chapter 5 in Long's complete Discourses.",
+  "researched_at": "2026-11-01"
+}

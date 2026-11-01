@@ -1,0 +1,15 @@
+{
+  "key": "eas-yamaha-organ",
+  "status": "done",
+  "file": "offline/editions/torakusu-yamaha-hamamatsu-reed-organ-1887.json",
+  "title": "Torakusu Yamaha's First Organ Looked Right but Was Out of Tune",
+  "region": "East Asia",
+  "industry": "manufacturing (musical instruments)",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Stoic",
+  "thinker": "Epictetus",
+  "talqen": false,
+  "conflicts": "Founding date of Nippon Gakki: Yamaha Corporation of America's page and Wikipedia say 1887, Yamaha Corporation's timeline says 12 October 1897 (matched by Gendai and BCN); used 1897. Year the second organ was accepted: Yamaha says 1887, Gendai says 1888; both given with attribution. Date of the first organ company varies (1887 v 1889); no date given.",
+  "notes": "Most detail is from Yamaha's own histories and is attributed as such; pivotal points cross-checked against BCN+R (2017) and Kodansha's Gendai Business (2024), both Japanese-language. The Hakone shoulder-pole crossing is told as company tradition. Isawa Shuji is not named because no cited source names him. Quote is Epictetus, Discourses II.11 (Long), on the quarter tone as learned, not innate knowledge."
+}

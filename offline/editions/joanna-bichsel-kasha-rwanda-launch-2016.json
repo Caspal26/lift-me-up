@@ -1,0 +1,153 @@
+{
+  "id": "joanna-bichsel-kasha-rwanda-launch-2016",
+  "title": "Kasha's Bet That Rwandan Women Would Order Private Products by Phone",
+  "dek": "In 2016 a Gates Foundation adviser left her post to sell women's health products in Rwanda by phone, and gave the idea three months to prove itself.",
+  "story": {
+    "founder": "Joanna Bichsel",
+    "company": "Kasha",
+    "event": "Leaving the Gates Foundation to launch a phone-ordered women's health store in Rwanda",
+    "approx_date": "2016",
+    "country": "Rwanda",
+    "region": "East Africa",
+    "industry": "healthcare (women's health e-commerce)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "After the birth of her daughter, Joanna Bichsel, a technology adviser at the Gates Foundation, left to start Kasha, launched in Rwanda in mid-2016 with Amanda Arch so that women could order contraceptives, menstrual products and other personal items confidentially by app, website, USSD shortcode or phone call. She gave it three months to show whether people would buy and come back; they did, and Kasha later expanded to Kenya, added wholesale and raised a $21 million Series B in 2023.",
+    "paragraphs": [
+      "Around 2015, Joanna Bichsel was on maternity leave with her second child, a daughter named Kasha. She was principal technology adviser for global development at the Bill & Melinda Gates Foundation, working on systems to move vaccines, family-planning supplies and other public-health goods in East and West Africa and South Asia. She later said it was during that leave that a business model came together.",
+      "What she knew came from the supply side and from ordinary shopping. Buying something private, she recalled, meant asking for it at a pharmacy counter in front of others, which was harder still in villages where everyone knows everyone. She told the Daily Nation in 2019 that she had been frustrated that women still struggled to get basic things because of stigma and poor distribution, and had questioned whether her job was her best contribution. She looked for a job doing what she had in mind, found none, and left the foundation to build it. The mobile phone, she said in 2016, was \"this perfect tool to be able to order confidentially.\"",
+      "In mid-2016 she launched Kasha in Rwanda with Amanda Arch, a former Microsoft colleague. A small market, she said, \"minimises some of the other complexities of starting the business,\" and she knew the region. Customers could order through an app or website, by calling, or with a USSD shortcode on any basic phone. By December the company had eight full-time staff. Her test was modest: run for three months and see whether people bought anything and came back. They did. An early call-centre agent later recalled customers who, unsure how it worked, simply walked into the office.",
+      "Money was harder. Investors, mostly men, she said, asked: \"why would you focus on women? Why would you limit yourself?\" Former bosses put in angel money, and she later said running the business was easier than fundraising. By the end of 2018 Kasha had delivered its 100,000th order, and in 2019 it opened in Kenya. Customers asked for baby products, men bought too, and small shops began ordering, so Kasha added wholesale. In 2023 it raised a $21 million Series B."
+    ]
+  },
+  "quote": {
+    "text": "Man's freedom is never in being saved troubles, but it is the freedom to take trouble for his own good, to make the trouble an element in his joy.",
+    "thinker": "Rabindranath Tagore",
+    "work": "Sadhana: The Realisation of Life",
+    "locator": "Chapter III, \"The Problem of Evil\"",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/6842/pg6842.txt",
+    "source_title": "Sadhana: The Realisation of Life, Project Gutenberg eBook #6842",
+    "connection": "Kasha was built to spare women one kind of trouble at the pharmacy counter, and to start it Bichsel took on a heavier kind herself. Tagore places freedom in choosing a trouble rather than escaping it, which is not the same as saying the choice was easy.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Bichsel did not begin with certainty. She began with two plain questions and three months to answer them: would anyone buy, and would they come back. That gave her a way to decide whether to continue that did not depend on how she felt on a hard morning, with a small child at home and investors asking why.",
+    "Some of what you carry this year you chose, and some arrived uninvited. Tagore's distinction is worth keeping. A chosen trouble can sit inside a good life; an unchosen one is not a verdict on you. Telling them apart may stop the second from borrowing the weight of the first."
+  ],
+  "invitation": "Write one question that, answered over the next three months, would tell you whether a piece of your work should continue. Keep it to a single line, and leave the answering for another day.",
+  "sources": [
+    {
+      "title": "'I think that in ten years, femtech will be huge', Joanna Bichsel on building Africa's first femtech e-commerce company (My Life in Tech, 12 August 2020)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2020/08/12/my-life-in-tech-joanna-bichsel/",
+      "kind": "founder-interview",
+      "supports": "Microsoft career and Gates Foundation work; the idea came after the birth of her second child, named Kasha; the three-month test ('will people buy anything? Will they come back?') and returning customers; launch in 2016 with co-founder Amanda Arch; why Rwanda, including the 'minimises some of the other complexities' quotation and familiarity with the region; investors asking 'why would you focus on women? Why would you limit yourself?', mostly male investors; former bosses as angel investors; running the business easier than fundraising"
+    },
+    {
+      "title": "Online store gives women better shopping options (4 May 2019)",
+      "publisher": "Daily Nation (Nation Media Group, Kenya)",
+      "url": "https://nation.africa/kenya/life-and-style/lifestyle/online-store-gives-women-better-shopping-options-164558",
+      "kind": "founder-interview",
+      "supports": "Principal technology adviser for Global Development at the Gates Foundation, working on supply chains for vaccines, family planning and other public-health commodities in East and West Africa and South Asia; left the foundation when her daughter was born to start Kasha; frustration at stigma and ineffective distribution; questioning whether her work was the best contribution; looked for a job doing what Kasha would do and could not find one; Kasha began in Rwanda and expanded to Kenya after about two years; early product range; customers asked for baby products and men bought too"
+    },
+    {
+      "title": "Kasha at 10: How one mother's idea became a disruptive Pan-African HealthTech company (8 June 2026)",
+      "publisher": "The New Times (Rwanda)",
+      "url": "https://www.newtimes.co.rw/article/36349/news/featured/kasha-at-10-how-one-mothers-idea-became-a-disruptive-pan-african-healthtech-company/amp",
+      "kind": "independent-reporting",
+      "supports": "The business model came together while Bichsel was on maternity leave; buying private products at a pharmacy counter in full view of others, harder in rural communities; started direct-to-consumer, then customers asked for family and household goods and boutiques began buying, so Kasha opened wholesale; early call-centre agent Yvette Mushimiyimana's recollection of customers coming to the office; fundraising difficult in the early years"
+    },
+    {
+      "title": "Microsoft Vets Launch Rwanda eCommerce Startup (23 December 2016)",
+      "publisher": "PYMNTS",
+      "url": "https://www.pymnts.com/?p=339135",
+      "kind": "independent-reporting",
+      "supports": "Contemporary report: Bichsel and Amanda Arch, two former Microsoft employees, launched Kasha in Rwanda; contraceptives, tampons and other personal care items; ordering by smartphone app, website, USSD shortcode or call centre; Bichsel's quotation that the mobile phone was 'this perfect tool to be able to order confidentially'; eight full-time employees including the co-founders"
+    },
+    {
+      "title": "Rwandan feminine e-commerce platform Kasha expands to Kenya (16 May 2019)",
+      "publisher": "Disrupt Africa",
+      "url": "https://disrupt-africa.com/2019/05/16/rwandan-feminine-e-commerce-platform-kasha-expands-to-kenya/",
+      "kind": "independent-reporting",
+      "supports": "Launched in July 2016; orders by website, app, SMS shortcode or phone call without a smartphone or internet; subtle packaging; hundreds of thousands of products sold in Rwanda; launch in Kenya in 2019"
+    },
+    {
+      "title": "There's a 'Deliveroo' for Tampons and Contraceptives in East Africa (17 January 2019)",
+      "publisher": "Global Citizen",
+      "url": "https://www.globalcitizen.org/en/content/deliveroo-tampons-condoms-uk-aid-kasha-femtech/",
+      "kind": "independent-reporting",
+      "supports": "Launched in 2016 in Rwanda before Kenya; discreet deliveries; more than 20,000 customers and the 100,000th order delivered by the end of 2018 (citing The Telegraph)"
+    },
+    {
+      "title": "This network helps women access hygiene products. Now it's protecting against COVID too (2020)",
+      "publisher": "Mastercard Newsroom",
+      "url": "https://newsroom.mastercard.com/news/perspectives/2020/this-network-helps-women-access-hygiene-products-now-it-s-protecting-against-covid-too",
+      "kind": "independent-reporting",
+      "supports": "Kasha sends contraceptives and home test kits in discreet packages; orders from any type of mobile phone without internet or a smartphone; named after Bichsel's daughter"
+    },
+    {
+      "title": "Kasha raises $21M Series B led by Knife Capital to expand health access platform across Africa (20 July 2023)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/?p=2571846",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2016; first year direct-to-consumer in Rwanda; small shops began ordering and Kasha moved into wholesale; $1.5 million seed from angel and impact investors; $3.6 million Series A; $21 million Series B in 2023"
+    },
+    {
+      "title": "Rwandan digital retail startup Kasha raises $21 million Series B (21 July 2023)",
+      "publisher": "The Condia",
+      "url": "https://thecondia.com/kasha-raises-series-b/",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2016; $21 million Series B led by Knife Capital; Bichsel previously an adviser at the Gates Foundation"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Kasha was launched in Rwanda in 2016 by Joanna Bichsel with Amanda Arch, a former Microsoft colleague.",
+      "urls": [
+        "https://www.pymnts.com/?p=339135",
+        "https://techcabal.com/2020/08/12/my-life-in-tech-joanna-bichsel/",
+        "https://disrupt-africa.com/2019/05/16/rwandan-feminine-e-commerce-platform-kasha-expands-to-kenya/"
+      ]
+    },
+    {
+      "claim": "The idea came together after the birth of her daughter Kasha, while Bichsel was at the Gates Foundation, and she left to start the company.",
+      "urls": [
+        "https://nation.africa/kenya/life-and-style/lifestyle/online-store-gives-women-better-shopping-options-164558",
+        "https://www.newtimes.co.rw/article/36349/news/featured/kasha-at-10-how-one-mothers-idea-became-a-disruptive-pan-african-healthtech-company/amp",
+        "https://techcabal.com/2020/08/12/my-life-in-tech-joanna-bichsel/"
+      ]
+    },
+    {
+      "claim": "Customers could order confidentially from a basic phone (USSD or SMS shortcode, or a call) without a smartphone or internet, and products were delivered discreetly.",
+      "urls": [
+        "https://www.pymnts.com/?p=339135",
+        "https://disrupt-africa.com/2019/05/16/rwandan-feminine-e-commerce-platform-kasha-expands-to-kenya/",
+        "https://newsroom.mastercard.com/news/perspectives/2020/this-network-helps-women-access-hygiene-products-now-it-s-protecting-against-covid-too"
+      ]
+    },
+    {
+      "claim": "Kasha expanded to Kenya in 2019.",
+      "urls": [
+        "https://disrupt-africa.com/2019/05/16/rwandan-feminine-e-commerce-platform-kasha-expands-to-kenya/",
+        "https://nation.africa/kenya/life-and-style/lifestyle/online-store-gives-women-better-shopping-options-164558"
+      ]
+    },
+    {
+      "claim": "Small shops began buying, and Kasha opened a wholesale business.",
+      "urls": [
+        "https://techcrunch.com/?p=2571846",
+        "https://www.newtimes.co.rw/article/36349/news/featured/kasha-at-10-how-one-mothers-idea-became-a-disruptive-pan-african-healthtech-company/amp"
+      ]
+    },
+    {
+      "claim": "Kasha raised a $21 million Series B in 2023.",
+      "urls": [
+        "https://techcrunch.com/?p=2571846",
+        "https://thecondia.com/kasha-raises-series-b/"
+      ]
+    }
+  ],
+  "research_notes": "Founding date: Disrupt Africa (2019, 2021) says Kasha launched in July 2016; The New Times (June 2026) says the company marked its tenth anniversary on 5 June 2026, which may be its registration date; the story says 'mid-2016'. Timing of the idea: the Daily Nation interview (2019) says Bichsel left the Gates Foundation when her daughter was born and the company started about a year later; The New Times (2026) says the model came together while she was on maternity leave; the story says 'around 2015' for the leave, because the Nation interview gives her daughter's age as four in May 2019. The three-month test rests on Bichsel's own account in TechCabal (2020) and is attributed to her as her test; it is not independently confirmed. Outcome figures differ by date and all come from the company: more than 20,000 customers and the 100,000th order by the end of 2018 (Global Citizen, January 2019, citing The Telegraph); 'hundreds of thousands of products' sold in Rwanda (Disrupt Africa, May 2019); 70,000 unique customers and 700,000 product units (TechCabal, August 2020); 'over 110 million products' in nine countries (Africa Health Ventures podcast notes, March 2026) and 'over 140 million products' (The New Times, June 2026). The story uses only the dated 100,000th-order milestone and does not use the later totals. Series A size disagrees: Disrupt Africa and Africa.com (November 2020) say US$3 million; TechCrunch (2023) says $3.6 million and The Condia's total of $26.1 million across three rounds matches $1.5m + $3.6m + $21m; the story does not give the Series A figure. Her Daily Nation remark that she could not find such a job ends in an exclamation mark in the original, so the story paraphrases it. The New Times interview of November 2019 and its January 2017 Seedstars report were not used because their article bodies do not load for the verifier. The Tagore passage comes from his story of a labourer's wife who would not have her son sent away to spare her trouble; it is applied by analogy. Sadhana was written in English by Tagore, so no translator is given.",
+  "researched_at": "2026-11-01"
+}

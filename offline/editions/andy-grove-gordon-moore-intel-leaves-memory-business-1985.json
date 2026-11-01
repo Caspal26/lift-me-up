@@ -1,0 +1,117 @@
+{
+  "id": "andy-grove-gordon-moore-intel-leaves-memory-business-1985",
+  "title": "What Would the New Guy Do? Intel's Exit From Memory Chips in 1985",
+  "dek": "In 1985 Intel's two leaders asked what a replacement would do about the memory chips that had made the company, and then did it themselves.",
+  "story": {
+    "founder": "Gordon Moore and Andy Grove",
+    "company": "Intel",
+    "event": "Deciding to leave the memory chip (DRAM) business that had built the company",
+    "approx_date": "1985",
+    "country": "United States",
+    "region": "North America",
+    "industry": "manufacturing (semiconductors)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "By 1985 Japanese makers were producing memory chips more cheaply and Intel's share of the DRAM market had collapsed. President Andy Grove asked chief executive Gordon Moore what a new management would do; Moore said it would get out of memories, and the two decided to do so themselves. Intel phased out DRAMs in 1985, closed eight older plants and cut its workforce by about 7,200 over two years, and concentrated on microprocessors.",
+    "paragraphs": [
+      "In the middle of 1985, by Andy Grove's account, he and Gordon Moore sat in his cubicle at Intel looking out of the window, \"very sad.\" Grove was the company's president; Moore, who had co-founded it in 1968, was chief executive. For about a year, as Grove later described it, the company had been wandering aimlessly.",
+      "Memory chips were what Intel had been built on. In 1970 it brought out low-cost memory on a chip, its first big hit, and for years it led the field. Then Japanese makers began producing memory cheaper and better, helped, one industry analyst notes, by cheap financing, and many American memory companies went under. By one account drawn from Grove's book, Intel's share of the DRAM market fell to 1.3 per cent in 1984. Grove and many staff were still attached to memory. Microprocessors, which Intel had also invented, were a side business, although IBM had chosen an Intel processor for its personal computer.",
+      "Grove asked a question. \"What would happen if somebody took us over, got rid of us? What would the new guy do?\" In Grove's written account Moore answered without hesitation, and in 2012 he gave the same answer: \"Get out of the memory business.\" The two men, Grove wrote, resolved to walk out of the door, come back in and do it themselves. He credited middle managers, who had already been shifting production wafers from memory to microprocessors. Intel phased out its dynamic memory chips in 1985 and put its weight behind microprocessors.",
+      "The cost was heavy. Over two years Intel closed eight older plants and cut its workforce by 7,200 people through attrition and layoffs, close to a third of its staff. Grove and Moore told shareholders that 1986 was \"the toughest year in Intel's history, filled with plant closings, layoffs and deep losses.\" Grove called shutting plants agonising: \"When we pulled out, we left a hole.\" He became chief executive in 1987 and spent, he said, ten years turning the company round. Asked in 2012 about young founders' talk of an exit strategy, he said: \"I hate it.\""
+    ]
+  },
+  "quote": {
+    "text": "the tenacity with which she clings to life, as though loth or afraid to die rather than drop untimely, preferring to rot on her stem",
+    "thinker": "Nitobe Inazō",
+    "work": "Bushido, the Soul of Japan",
+    "locator": "Chapter XV, \"The Influence of Bushido\"",
+    "tradition": "Japanese",
+    "source_url": "https://www.gutenberg.org/cache/epub/12096/pg12096.txt",
+    "source_title": "Bushido, the Soul of Japan, Project Gutenberg eBook #12096",
+    "connection": "Nitobe sets the rose, which clings to its stem, against the cherry blossom, ready to fall when its time comes. Intel let its first product fall only after a year of clinging, at the cost of thousands of jobs, and Grove scorned leaving when things get hard. The story leaves open which kind of letting go Nitobe's image honours.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Grove's question works because it lets you step outside your own history for a moment. A newcomer would not carry the pride, the years of effort or the habit of being the person who made that thing. Grove and Moore needed that distance to see what their own managers were already doing.",
+    "It is worth asking quietly, before any crisis forces it. Is there something you keep doing mainly because it is what you started with? The honest answer may be to keep it. But if a stranger in your chair would put it down, that is worth knowing, and kinder to know early."
+  ],
+  "invitation": "Pick one commitment you carry mostly out of habit. Ask what someone taking over your role tomorrow would do with it, and write their answer down without acting on it yet.",
+  "sources": [
+    {
+      "title": "Intel Legends Moore And Grove: Making It Last (Morning Edition transcript, 6 April 2012)",
+      "publisher": "NPR (Laura Sydell)",
+      "url": "https://www.npr.org/transcripts/150057676",
+      "kind": "founder-interview",
+      "supports": "Moore co-founded Intel in 1968 and hired Grove; the 1970 low-cost memory chip; Intel dominated memory until Japanese makers made chips cheaper and better and many American memory companies went under; Grove: 'we were sitting around in my cubicle, looking out the window, very sad', his question about what 'the new guy' would do, Moore's answer 'Get out of the memory business'; about 7,000 laid off, almost a third of the workforce; shutting plants agonising and 'when we pulled out, we left a hole'; microprocessors had been a side business Intel invented; ten years fixing the company; 'Exit strategy. I hate it.'"
+    },
+    {
+      "title": "Digital Pioneer Andrew Grove Led Intel's Shift From Chips To Microprocessors (Laura Sydell, NPR, 22 March 2016)",
+      "publisher": "KCUR (NPR)",
+      "url": "https://www.kcur.org/2016-03-22/digital-pioneer-andrew-grove-led-intels-shift-from-chips-to-microprocessors",
+      "kind": "independent-reporting",
+      "supports": "Grove was then Intel's president and Moore its CEO at the time of the conversation; cheap Japanese chips flooding the market in the 1980s; Intel turned to microprocessors"
+    },
+    {
+      "title": "Letter #15: Andy Grove and Gordon Moore (1986), excerpts from Intel's 1986 annual report letter to shareholders",
+      "publisher": "A Letter a Day (Kevin Gee)",
+      "url": "https://aletteraday.substack.com/p/letter-15-intel-1986",
+      "kind": "shareholder-letter",
+      "supports": "'We phased out of the dynamic random access memory (DRAM) business in 1985'; workforce reduced by 7200 people through attrition and layoffs; eight older, smaller plants closed in the past two years; 1986 'the toughest year in Intel's history, filled with plant closings, layoffs and deep losses'"
+    },
+    {
+      "title": "Revisiting Andy Grove's Only the Paranoid Survive (Ed McKernan, 19 November 2013)",
+      "publisher": "SemiWiki",
+      "url": "https://semiwiki.com/semiconductor-manufacturers/intel/2948-revisiting-andy-groves-only-the-paranoid-survive/",
+      "kind": "independent-reporting",
+      "supports": "Summary of Grove's 1996 book: the exit in mid-1985 after a year of 'wandering aimlessly'; staff emotionally attached to DRAM; Japanese advantage of cheap financing; Intel's share down to 1.3% in 1984; IBM's choice of the 8088 for its PC; Grove's question and Moore's answer 'without hesitation'; the two walk out of the door and come back in; the exit took three years and middle managers shifted wafers to microprocessors; plant closures and mass layoffs"
+    },
+    {
+      "title": "The rise and decline of Intel (Reuters timeline, 30 October 2024)",
+      "publisher": "The Star (Malaysia), Reuters",
+      "url": "https://www.thestar.com.my/tech/tech-news/2024/10/30/the-rise-and-decline-of-intel",
+      "kind": "independent-reporting",
+      "supports": "1985: Intel withdraws from the DRAM market and begins cutting its workforce; Grove becomes Intel's third CEO in 1987"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Intel left the DRAM memory business in 1985",
+      "urls": [
+        "https://www.npr.org/transcripts/150057676",
+        "https://aletteraday.substack.com/p/letter-15-intel-1986",
+        "https://www.thestar.com.my/tech/tech-news/2024/10/30/the-rise-and-decline-of-intel"
+      ]
+    },
+    {
+      "claim": "Grove asked Moore what a new management would do, and Moore said it would get out of memory",
+      "urls": [
+        "https://www.npr.org/transcripts/150057676",
+        "https://semiwiki.com/semiconductor-manufacturers/intel/2948-revisiting-andy-groves-only-the-paranoid-survive/",
+        "https://www.kcur.org/2016-03-22/digital-pioneer-andrew-grove-led-intels-shift-from-chips-to-microprocessors"
+      ]
+    },
+    {
+      "claim": "Japanese competitors had overtaken Intel in memory chips",
+      "urls": [
+        "https://www.npr.org/transcripts/150057676",
+        "https://semiwiki.com/semiconductor-manufacturers/intel/2948-revisiting-andy-groves-only-the-paranoid-survive/"
+      ]
+    },
+    {
+      "claim": "About 7,000 to 7,200 jobs were cut, close to a third of the workforce, and plants were closed",
+      "urls": [
+        "https://aletteraday.substack.com/p/letter-15-intel-1986",
+        "https://www.npr.org/transcripts/150057676"
+      ]
+    },
+    {
+      "claim": "Grove became Intel's chief executive in 1987",
+      "urls": [
+        "https://www.thestar.com.my/tech/tech-news/2024/10/30/the-rise-and-decline-of-intel",
+        "https://www.npr.org/transcripts/150057676"
+      ]
+    }
+  ],
+  "research_notes": "Layoff figures differ: Intel's 1986 shareholder letter (signed by Grove and Moore) says the workforce was reduced by 7,200 people 'through attrition and layoffs'; NPR (2012) says 7,000 were laid off, almost a third of the workforce; Encyclopedia.com's profile says 6,000; a business-school case exhibit cited in search results gives a 15% reduction in 1985 alone. The story uses the company's own 7,200 figure, says it included attrition and spanned two years, and keeps NPR's 'close to a third'. Timing of the decision: Grove's book (as summarised by SemiWiki) puts the conversation in mid-1985 after a year of drift and says the exit took three years; Robert Burgelman's research, cited secondhand, says Intel had decided in November 1984 not to produce the 1-megabit DRAM, and Christophe Lécuyer (Business History Review, 2019, abstract only seen) argues middle managers had de facto chosen to leave in 1983-84. The story keeps Grove's own timing and his credit to middle managers. Wording of the exchange: the story quotes Grove's and Moore's 2012 spoken versions from the NPR transcript; the book version ('He would get us out of memories') is described, not quoted, because the book itself was not consulted directly. Place: Grove said in 2012 they sat in his cubicle; SemiWiki's summary of the book places them in an office overlooking the Great America Ferris wheel; the story uses Grove's 2012 word. The 1.3% market share for 1984 rests on SemiWiki's summary of the book and is attributed. Intel's 1986 letter is cited from a blog that reproduces excerpts; the original annual report was not found online. Grove was Intel's first hire rather than a legal co-founder; Moore co-founded Intel with Robert Noyce. Funding: Intel was founded in 1968 with venture capital and was a listed company by 1985. Nitobe's passage contrasts the European rose with the Japanese cherry blossom; the quote uses only the rose half and the connection supplies the contrast.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "arthur-zang-cardiopad-first-prototype-2011",
+  "title": "The Bank Loan a Mother Took Out for the First Cardiopad",
+  "dek": "A young Cameroonian engineer set out to put heart tests in village clinics; his mother's loan paid for the prototype, and the sales figures that followed never quite agreed.",
+  "story": {
+    "founder": "Arthur Zang",
+    "company": "Himore Medical",
+    "event": "Deciding to build his own heart-test tablet and funding the first Cardiopad prototype with his mother's bank loan",
+    "approx_date": "2011",
+    "country": "Cameroon",
+    "region": "Central Africa",
+    "industry": "medical devices (cardiac diagnostics)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "From 2009 the Cameroonian engineer Arthur Zang, mentored by the cardiologist Samuel Kingué, turned heart-monitoring software into the Cardiopad, a touchscreen tablet that sends electrocardiograms from rural clinics to city cardiologists; his mother's bank loan paid for the first prototype and government money for a first batch. Uptake in Cameroon was slow, and sales figures reported in 2016 ranged from 43 kits to Zang's claim of hundreds; in 2021 his company, Himore Medical, said 267 Cameroonian health centres had the device.",
+    "paragraphs": [
+      "In 2009 Arthur Zang was an engineering student in Yaoundé when an internship at a local hospital gave him a mentor, the cardiologist Samuel Kingué. Kingué explained what rural patients faced when they needed a heart test. Zang later put the problem plainly: Cameroon had \"less than 50 cardiologists for more than 20m people,\" all in the big city hospitals, so patients elsewhere had to travel for every examination.",
+      "His first answer was software to help doctors follow patients' hearts, run on an off-the-shelf device. He then decided he needed hardware of his own: a touchscreen tablet that a health worker in a village clinic could use to record an electrocardiogram and send it over the mobile network to a cardiologist in the city. He had no training in medical electronics, and few schools in Cameroon taught it. \"I decided to teach myself medical electronics online,\" he said, and spent about six months doing so. Banks would not lend to a student without guarantees, so his mother, a nurse, took out a loan of 700,000 CFA francs, about $1,300, to pay for the first prototype.",
+      "Further money came slowly. Zang said that after he showed the prototype in a video, Cameroon's president gave him $30,000, enough to make the first 20 devices; WIPO put the government grant at about 30,000 euros. In December 2011 he applied for a patent, \"to reassure myself,\" he said. By 2014 he had won a Rolex Award and pilot tablets were being tested in clinics such as Mbankomo's. In 2015 the next stage stalled: he had expected health ministry contracts to pay for final adjustments, and they did not come.",
+      "The counts that followed depend on who was asked, and when. In April 2016 Zang put sales at 43 kits, half of them in Gabon. On 1 June a Cameroonian tech magazine reported about 300 assembled in Yaoundé and no order yet from any public hospital in Cameroon; Zang said the ministry wanted national and international approval first. Five days later CNN reported him saying he had sold hundreds. In December National Geographic said nearly 70. The health ministry took its first 20 in January 2017, and in 2021 his company, Himore Medical, said 267 Cameroonian health centres had one."
+    ]
+  },
+  "quote": {
+    "text": "All statistics consist of our attempts to represent statistically what is in motion; and in the process things assume a weight in our mind which they have not in reality.",
+    "thinker": "Rabindranath Tagore",
+    "work": "Sadhana: The Realisation of Life",
+    "locator": "Chapter III, \"The Problem of Evil\"",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/6842/pg6842.txt",
+    "source_title": "Sadhana: The Realisation of Life, Project Gutenberg eBook #6842",
+    "connection": "Tagore warns that counting what is still moving gives figures a weight they do not really have. The Cardiopad's tallies were snapshots of something changing, which explains some of their disagreement. Yet a hospital deciding whether to buy one still needed to know which snapshot was true.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Zang's first decision is the easy one to admire: when the right tool did not exist, he learnt enough to build it. The harder stretch came after the device worked, when the buyers he had counted on were slow, ministries wanted approvals, and his sales figures went round the press in versions that did not agree.",
+    "You may meet your own version of this with talQen. Laboratories and ministries move at their own pace, and someone will ask how many sites use it. Tagore is right that a number freezes something still moving, but the person asking is deciding whether to trust you. The count worth giving is the one you could defend to an auditor, with its date beside it."
+  ],
+  "invitation": "Write down one number you have said aloud about your work recently, such as users, sites or tests, and the date you last checked it. If there is no date, check it once today, then let it rest.",
+  "sources": [
+    {
+      "title": "How Cameroon's Rolex award winner created Africa's first medical tablet",
+      "publisher": "How we made it in Africa (17 July 2014)",
+      "url": "https://www.howwemadeitinafrica.com/p/how-cameroon-s-rolex-award-winner-created-africa-s-first-medical-table",
+      "kind": "founder-interview",
+      "supports": "Zang's own account: 'less than 50 cardiologists for more than 20m people', all in big city hospitals; meeting a cardiologist in 2009 who described rural patients' difficulty; 'I decided to teach myself medical electronics online', about six months of study; banks would not lend to a student without guarantees; his mother's $1,300 bank loan financed the first prototype; after a video demonstration the president gave him $30,000, which let him make the first 20 devices; Rolex Young Laureate 2014; two Cardio Pads in testing at Mbankomo; the company is Himore Medical."
+    },
+    {
+      "title": "Cardiopad: Reaching the Hearts of Rural Communities in Africa",
+      "publisher": "WIPO Magazine (Edward Harris, 22 September 2014)",
+      "url": "https://www.wipo.int/en/web/wipo-magazine/articles/cardiopad-reaching-the-hearts-of-rural-communities-in-africa-38958",
+      "kind": "independent-reporting",
+      "supports": "In 2009, while still a student, Zang began developing heart-monitoring software and consulted cardiologist Professor Samuel Kingué; he loaded his program onto an off-the-shelf device, then turned to developing his own hardware; about 30,000 euros of Cameroonian government funding for a prototype and a limited run made in China; patent application to OAPI in December 2011 ('I did it to reassure myself'); CHF 50,000 Rolex grant in 2014; pilot tablets being tested in Cameroonian hospitals; Himore Medical produces the tablet."
+    },
+    {
+      "title": "Getting to the Heart of the Matter in Rural Africa",
+      "publisher": "National Geographic (Gary Strauss, 9 December 2016, produced in partnership with the Rolex Awards)",
+      "url": "https://www.nationalgeographic.com/science/article/arthur-zang-explorer-moments-diagnosing-heart-disease-in-africa-technology",
+      "kind": "independent-reporting",
+      "supports": "Zang began combining technology and medicine in 2009 while at college in Yaoundé; cardiologist Samuel Kingue became his mentor during a hospital internship; he learnt electronics through the internet; his mother, a nurse, obtained a bank loan that let him complete a prototype; government money followed his videos; 30 Cardio-Pads built with a Chinese manufacturer; Himore had sold 'nearly 70'."
+    },
+    {
+      "title": "Young Inventor's Cardiopad Undergoing Trials in Cameroon",
+      "publisher": "Voice of America (Moki Edwin Kindzeka, 10 July 2014)",
+      "url": "https://www.voanews.com/a/young-inventors-cardiopad-undergoing-trials-in-cameroon/1954527.html",
+      "kind": "independent-reporting",
+      "supports": "Zang needed money and training; banks refused him loans; after he raised interest on social media President Paul Biya gave him funds; he learnt electronics online; the device was being tried in Cameroonian hospitals and cost about $4,000."
+    },
+    {
+      "title": "Arthur Zang : Comment j'ai pu atteindre Paul Biya en personne et obtenir des financements",
+      "publisher": "Digital Business Africa / TIC Mag (Beaugas Orain Djoyum, 1 June 2016)",
+      "url": "https://www.digitalbusiness.africa/arthur-zang-comment-jai-pu-atteindre-le-chef-de-letat-paul-biya-en-personne/",
+      "kind": "founder-interview",
+      "supports": "Zang's statement on Africa 24 that his mother's bank loan of 700,000 CFA francs paid for his first prototype; a 20 million CFA franc special prize from the head of state; about 300 Cardiopads assembled in Yaoundé with no order yet from Cameroonian public hospitals; Zang's explanation that the health ministry required national and international approval before ordering."
+    },
+    {
+      "title": "Révolution scientifique : Quand les hôpitaux camerounais boudent le CardioPad",
+      "publisher": "Camer.be (Frégist Bertrand Tchouta, 18 April 2016)",
+      "url": "https://www.camer.be/51250/13:1/cameroon-revolution-scientifique-quand-les-hopitaux-camerounais-boudent-le-cardiopad.html",
+      "kind": "independent-reporting",
+      "supports": "Zang's April 2016 figure of 43 kits sold, 50% of them in Gabon and others in India and Nepal; five Cameroonian hospitals equipped through a crowdfunding project; Zang's June 2015 statement that the health ministry was to award contracts whose money would fund final adjustments, and the stalled second phase."
+    },
+    {
+      "title": "Cameroonian inventor wins prize for handheld tablet bringing medicine to rural areas",
+      "publisher": "CNN (Ngala Killian Chimtom, 6 June 2016)",
+      "url": "https://edition.cnn.com/2016/06/06/africa/arthur-zang---cardio-pad-cameroon/index.html",
+      "kind": "independent-reporting",
+      "supports": "'Zang says he has sold hundreds of Cardio Pads in Cameroon, Gabon, India and Nepal'; fewer than 50 cardiologists for over 22 million people, almost all in Yaoundé and Douala; Africa Prize for Engineering Innovation."
+    },
+    {
+      "title": "The Cameroonian Ministry of Public Health purchases 20 Cardiopad, the medical tablet",
+      "publisher": "Business in Cameroon (22 January 2017)",
+      "url": "https://www.businessincameroon.com/ict/2201-6834-the-cameroonian-ministry-of-public-health-purchases-20-cardiopad-the-medical-tablet",
+      "kind": "independent-reporting",
+      "supports": "The Ministry of Public Health received its first 20 Cardiopads from Himore Medical; the article's own statement that 'officially, about 300 kits were sold in 2016'."
+    },
+    {
+      "title": "Slow at first, sales of Arthur Zang's Cardiopad is rising at an exponential rate in Cameroon",
+      "publisher": "Business in Cameroon (Brice R. Mbodiam, 18 October 2021)",
+      "url": "https://www.businessincameroon.com/health/1810-11972-slow-at-first-sales-of-arthur-zang-s-cardiopad-is-rising-at-an-exponential-rate-in-cameroon",
+      "kind": "independent-reporting",
+      "supports": "Himore Medical's statement that it had equipped 267 health centres in Cameroon since 2016; the 2015 stall and Zang's words that the ministry 'was supposed to award us contracts'; the first 20 ministry Cardiopads delivered in January 2017."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Zang began the work in 2009 as a student in Yaoundé, guided by the cardiologist Samuel Kingué",
+      "urls": [
+        "https://www.wipo.int/en/web/wipo-magazine/articles/cardiopad-reaching-the-hearts-of-rural-communities-in-africa-38958",
+        "https://www.nationalgeographic.com/science/article/arthur-zang-explorer-moments-diagnosing-heart-disease-in-africa-technology",
+        "https://www.howwemadeitinafrica.com/p/how-cameroon-s-rolex-award-winner-created-africa-s-first-medical-table"
+      ]
+    },
+    {
+      "claim": "He decided to build his own hardware and taught himself electronics online",
+      "urls": [
+        "https://www.wipo.int/en/web/wipo-magazine/articles/cardiopad-reaching-the-hearts-of-rural-communities-in-africa-38958",
+        "https://www.howwemadeitinafrica.com/p/how-cameroon-s-rolex-award-winner-created-africa-s-first-medical-table",
+        "https://www.voanews.com/a/young-inventors-cardiopad-undergoing-trials-in-cameroon/1954527.html"
+      ]
+    },
+    {
+      "claim": "Banks would not lend to him, and his mother's bank loan paid for the first prototype",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/p/how-cameroon-s-rolex-award-winner-created-africa-s-first-medical-table",
+        "https://www.nationalgeographic.com/science/article/arthur-zang-explorer-moments-diagnosing-heart-disease-in-africa-technology",
+        "https://www.digitalbusiness.africa/arthur-zang-comment-jai-pu-atteindre-le-chef-de-letat-paul-biya-en-personne/"
+      ]
+    },
+    {
+      "claim": "Money from Cameroon's president or government then paid for a first small batch",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/p/how-cameroon-s-rolex-award-winner-created-africa-s-first-medical-table",
+        "https://www.wipo.int/en/web/wipo-magazine/articles/cardiopad-reaching-the-hearts-of-rural-communities-in-africa-38958",
+        "https://www.voanews.com/a/young-inventors-cardiopad-undergoing-trials-in-cameroon/1954527.html"
+      ]
+    },
+    {
+      "claim": "In 2015 the next phase stalled when expected health ministry contracts did not come",
+      "urls": [
+        "https://www.camer.be/51250/13:1/cameroon-revolution-scientifique-quand-les-hopitaux-camerounais-boudent-le-cardiopad.html",
+        "https://www.businessincameroon.com/health/1810-11972-slow-at-first-sales-of-arthur-zang-s-cardiopad-is-rising-at-an-exponential-rate-in-cameroon"
+      ]
+    },
+    {
+      "claim": "Sales figures in 2016 disagreed: 43 kits (Zang, April), hundreds (Zang to CNN, June), nearly 70 (National Geographic, December)",
+      "urls": [
+        "https://www.camer.be/51250/13:1/cameroon-revolution-scientifique-quand-les-hopitaux-camerounais-boudent-le-cardiopad.html",
+        "https://edition.cnn.com/2016/06/06/africa/arthur-zang---cardio-pad-cameroon/index.html",
+        "https://www.nationalgeographic.com/science/article/arthur-zang-explorer-moments-diagnosing-heart-disease-in-africa-technology"
+      ]
+    }
+  ],
+  "research_notes": "Units sold or deployed (every figure found, by date and speaker): July 2014, Zang (How we made it in Africa): the president's $30,000 paid for the first 20 devices, Rolex money to fund 100 more; National Geographic (Dec 2016) instead says 30 were built with a Chinese manufacturer. January 2016, Zang (Business in Cameroon): 100 kits first, 200 more in February, 20 orders received. April 2016: Zang, relayed by Camer.be, said 43 kits sold, half in Gabon, others in India and Nepal; Africanews the next day said 47 sold in Gabon, India and Nepal out of some 300 he claimed to have produced; Business in Cameroon in 2021 recast the April figure as '43 out of the 300 Cardiopads sold were bought in Cameroon'. 1 June 2016, TIC Mag: about 300 assembled in Yaoundé, no order from Cameroonian public hospitals. 6 June 2016, CNN: 'Zang says he has sold hundreds'; the Royal Academy of Engineering material reproduced by This Is Africa (10 June) says 'hundreds of Cardio-Pads have been built'. December 2016, National Geographic: 'nearly 70' sold. January 2017, Business in Cameroon: ministry's first 20, and 'officially, about 300 kits were sold in 2016'. August 2020, Geneva Solutions: about a hundred Cameroonian hospitals and 150 abroad. October 2021, Himore via Business in Cameroon: 267 Cameroonian health centres, about 60 hospitals a year. Zang's 'hundreds' sits beside his own 43 seven weeks earlier and appears to count assembled units as sold; the story gives the 2016 figures with who said each and when, and gives the 2021 figure as the company's own, leaning on none. Funding: the slate said bootstrapped, but after the mother's loan the money was a government grant and prizes, so funding is 'mixed'. The loan is $1,300 in How we made it in Africa (2014) and 700,000 CFA francs in Zang's 2016 remarks (about $1,200 to $1,400); the government money is $30,000 in Zang's 2014 account and 'some 30,000 euros' in WIPO, so the story gives both. How he reached the president: in 2014 he credited a video and social media (NatGeo says YouTube videos; VOA says social media), but in June 2016 he said he reached the president through a journalist's article (written by the same journalist who reported his remarks), so the story says only that money came after he showed the prototype in a video, as he said. A separate 20 million CFA franc 'special prize' from the head of state, reported in 2016, is not used. Cardiologist counts vary (fewer than 50 per Zang in 2014 and CNN 2016; 'a few dozen' WIPO; 60 National Geographic 2016 and Zang 2020; VOA says 40 heart surgeons); the story quotes Zang's 2014 figure as his. The date of the decision to build hardware is not given precisely; WIPO dates the software to 2009 and the patent application to December 2011, and TIC Mag presented the tablet in November 2011, so approx_date is 2011. CNN loads for the verifier; WebFetch alone returned HTTP 451. The Tagore passage is about how statistics of death and decay mislead; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

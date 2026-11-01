@@ -1,0 +1,110 @@
+{
+  "id": "robert-owen-new-lanark-embargo-full-wages-1806",
+  "title": "When the Cotton Stopped, Robert Owen Kept Paying New Lanark",
+  "dek": "In 1806, by his own dating, an American embargo cut off New Lanark's cotton, and Robert Owen stopped the mills but kept every worker on full pay for four months.",
+  "story": {
+    "founder": "Robert Owen",
+    "company": "New Lanark Mills (New Lanark Twist Company)",
+    "event": "Stopping the mills during an American cotton embargo and paying the workers full wages for four months",
+    "approx_date": "1806",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "industry": "manufacturing (cotton spinning)",
+    "arc": "hard-responsibility",
+    "funding": "mixed",
+    "summary": "Robert Owen took charge of the New Lanark cotton mills in January 1800, after he and Manchester and London partners agreed to buy them from David Dale for £60,000 paid over twenty years, and found a suspicious workforce. When an American embargo, which Owen dated to 1806, cut off cotton, he stopped the machinery but paid everyone full wages to keep it clean for the four months it lasted, more than £7,000 by his own reckoning. He wrote that this won the workers' confidence; his partners remained a constraint until he bought the mills at auction for £114,100 at the end of 1813.",
+    "paragraphs": [
+      "Early in 1800 Robert Owen, aged 28, took charge of the cotton mills at New Lanark on the River Clyde, which he and a group of Manchester and London partners had agreed to buy from his future father-in-law, David Dale, for £60,000 over twenty years. The village held about 1,300 people living as families and between 400 and 500 pauper children from the parishes. They distrusted him as an outsider from England with new-fangled rules; in his autobiography, published in 1857, he recalled that most suspected he wanted only \"to squeeze as much gain out of them as possible.\"",
+      "In 1806, as Owen dated it, the United States closed its own ports in a diplomatic quarrel with Britain, and the American cotton on which New Lanark largely depended stopped coming. Nobody knew how long the embargo would last. Raw cotton prices soared, and spinners had to choose: keep working costly cotton and risk a collapse in prices when the ports reopened, or stop the machines and discharge their workers. Most, he wrote, discharged them.",
+      "Owen judged that carrying on was too hazardous. Dismissing people he had more than half trained to his methods, who would then face real privation, seemed to him \"cruel and unjust.\" So he stopped every machine, kept everyone, and paid full wages for keeping the idle machinery clean and in working order. The embargo lasted four months. By his own reckoning the village received more than £7,000 for its unemployed time, \"without a penny being deducted from the full wages of anyone.\" His biographer Frank Podmore, writing in 1906, says Owen had to persuade his partners to allow it, and notes that Dale was said to have done the same for 250 workers after a mill fire in 1788.",
+      "Owen wrote that the decision \"won the confidence and the hearts of the whole population,\" and the workers stopped obstructing his reforms. His partners, commercial men who expected a profit on top of interest, were harder to move; he blamed their \"mistaken notions\" for halting his progress. Podmore judges that Owen had no real free hand until after 31 December 1813, when, with new partners including the Quaker William Allen, he outbid the old ones at auction and bought the mills for £114,100."
+    ]
+  },
+  "quote": {
+    "text": "If thou hast a servant, treat him as thyself; for as thine own soul wilt thou have need of him: if thou treat him ill, and he depart and run away, which way wilt thou go to seek him?",
+    "thinker": "Ben Sira",
+    "work": "Ecclesiasticus (The Wisdom of Ben Sira) and the Wisdom of Solomon",
+    "locator": "Ecclesiasticus, chapter 33 (verse 31 in the usual numbering)",
+    "translator": "Revised Version of the Apocrypha (1895), as selected in the Wisdom of the East series (1910)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/77250/pg77250.txt",
+    "source_title": "The Wisdom of the Apocrypha, Project Gutenberg eBook #77250",
+    "connection": "Ben Sira gives the plain reason beneath the kindness: you will need the person you are tempted to let go. Owen named both motives, the hardship his workers faced and the training he had put into them, and the four months suggest the two belonged together.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Owen spent six years telling the people of New Lanark what he intended, and most of them did not believe him. Four idle months, paid in full, settled the question. People tend to learn who you are from what you do when the work stops through no fault of your own.",
+    "Building a company, you will have such stretches: a delay you did not cause, money slower than promised, a plan waiting on someone else. In those weeks the people near you, colleagues and family alike, notice what you protect. Ben Sira's point is that you will need them on the other side, and that is reason enough to look after them now."
+  ],
+  "invitation": "Think of one person whose steady work you rely on, at home or at work. Today, tell them plainly one thing they do that you would struggle to manage without.",
+  "sources": [
+    {
+      "title": "The Life of Robert Owen, by Himself (reprint of the 1857-58 edition, with an introduction by M. Beer; G. Bell and Sons, 1920)",
+      "publisher": "Internet Archive (University of Toronto copy)",
+      "url": "https://archive.org/stream/lifeofrobertowen00owenuoft/lifeofrobertowen00owenuoft_djvu.txt",
+      "kind": "memoir",
+      "supports": "Owen's own account (pp. 86-88 and 110-111): population of about 1,300 in families and 400-500 pauper children; workers' prejudice against an English stranger and suspicion that he wanted 'to squeeze as much gain out of them as possible'; partners as commercial men expecting profit beyond interest; the embargo dated 1806, its uncertain length, the rise in cotton prices and the spinners' dilemma, most of whom discharged their workers; carrying on 'most hazardous', discharging 'cruel and unjust'; stopping the machinery and paying full wages for keeping it clean; four months; more than seven thousand pounds 'without a penny being deducted from the full wages of anyone'; 'won the confidence and the hearts of the whole population'; partners' 'mistaken notions'"
+    },
+    {
+      "title": "Robert Owen: A Biography, volume I (Frank Podmore, 1906)",
+      "publisher": "Internet Archive",
+      "url": "https://archive.org/stream/robertowenbiogra01podm/robertowenbiogra01podm_djvu.txt",
+      "kind": "book",
+      "supports": "Purchase from Dale in early summer 1799 for £60,000 payable at £3,000 a year for twenty years; Owen entering on the management in January 1800; workers' hostility; in 1806 the embargo made working impossible and Owen persuaded his partners to allow full wages for the four months it lasted; Dale's precedent after the 1788 mill fire (250 people, citing Robert Dale Owen's Threading My Way); Owen not given a free hand until after 1813; new partners including William Allen and Jeremy Bentham; auction on 31 December 1813 won at £114,100"
+    },
+    {
+      "title": "The Life, Times, and Labours of Robert Owen (Lloyd Jones, 1890)",
+      "publisher": "Internet Archive (Cornell University Library copy)",
+      "url": "https://archive.org/details/cu31924030362820",
+      "kind": "book",
+      "supports": "Independent nineteenth-century retelling: the 1806 embargo, rising cotton prices and the choice between working on and stopping; Owen stopping the works and paying full wages for attending to the machinery for nearly four months, about seven thousand pounds"
+    },
+    {
+      "title": "Overview of his life",
+      "publisher": "The Robert Owen Museum, Newtown",
+      "url": "https://www.robertowenmuseum.co.uk/?p=829",
+      "kind": "independent-reporting",
+      "supports": "Owen and partners bought the New Lanark mills in 1799; partners worried about their investment; during the 1806 American embargo on cotton exports, when production stopped, Owen continued to pay his workers for four months"
+    },
+    {
+      "title": "Biography of Robert Owen",
+      "publisher": "Undiscovered Scotland",
+      "url": "https://undiscoveredscotland.co.uk/usbiography/o/robertowen.html",
+      "kind": "independent-reporting",
+      "supports": "Marriage to Caroline Dale on 30 September 1799; took over New Lanark on 1 January 1800 for £60,000; seen by the workforce as a harsh outsider; opinions softened when he kept the workers on full pay during a trade dispute with the USA in 1806 that stopped the cotton; later bid against his partners to take control for £114,100"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Owen and his partners bought New Lanark from David Dale for £60,000 and Owen took charge in January 1800",
+      "urls": [
+        "https://archive.org/stream/robertowenbiogra01podm/robertowenbiogra01podm_djvu.txt",
+        "https://undiscoveredscotland.co.uk/usbiography/o/robertowen.html"
+      ]
+    },
+    {
+      "claim": "The New Lanark workforce distrusted Owen as an outsider until the embargo episode",
+      "urls": [
+        "https://archive.org/stream/lifeofrobertowen00owenuoft/lifeofrobertowen00owenuoft_djvu.txt",
+        "https://undiscoveredscotland.co.uk/usbiography/o/robertowen.html"
+      ]
+    },
+    {
+      "claim": "During an American cotton embargo dated to 1806, Owen stopped the mills and kept paying the workers full wages for the four months it lasted",
+      "urls": [
+        "https://archive.org/stream/lifeofrobertowen00owenuoft/lifeofrobertowen00owenuoft_djvu.txt",
+        "https://www.robertowenmuseum.co.uk/?p=829",
+        "https://undiscoveredscotland.co.uk/usbiography/o/robertowen.html"
+      ]
+    },
+    {
+      "claim": "Owen took full control of New Lanark at the end of 1813 by outbidding his former partners, at £114,100",
+      "urls": [
+        "https://archive.org/stream/robertowenbiogra01podm/robertowenbiogra01podm_djvu.txt",
+        "https://undiscoveredscotland.co.uk/usbiography/o/robertowen.html"
+      ]
+    }
+  ],
+  "research_notes": "Date: every source consulted (Owen's autobiography, Lloyd Jones 1890, Podmore 1906, the Robert Owen Museum, Undiscovered Scotland) gives 1806, following Owen. The best-known United States embargo, the Embargo Act, was signed in December 1807 and lasted well over a year, so Owen's date and his four months may not match it exactly; no source read here reconciles the two, so the story says 'as Owen dated it' and does not name the act. Cost: the more-than-£7,000 figure is Owen's own claim ('more than seven thousand pounds sterling'); Lloyd Jones, drawing on Owen, says 'seven thousand pounds' over 'nearly four months'; Podmore, the museum and Undiscovered Scotland give four months and no sum. The story attributes the sum to Owen. Who decided: Owen writes as if he decided alone ('I therefore concluded'); Podmore says he persuaded his partners to allow it. The story reports Podmore's version as Podmore's. The Dale precedent of 1788 rests on Podmore's footnote citing Robert Dale Owen's Threading My Way ('is said to have paid'), and is hedged accordingly. Jeremy Bentham is not named among those who outbid the old partners because Podmore notes he apparently joined after the purchase was completed; William Allen was among the new partners. The 1920 Bell edition reprints the original 1857-58 text. Wikipedia gives 1818 for the opening of the Institute for the Formation of Character while Undiscovered Scotland gives 1816, so the story does not date it. Owen was Welsh-born; the story says the workers saw him as an outsider from England because Owen says they regarded him as a stranger from England. The Ben Sira passage concerns a household servant in its original setting; it is applied here by analogy to employees.",
+  "researched_at": "2026-11-01"
+}

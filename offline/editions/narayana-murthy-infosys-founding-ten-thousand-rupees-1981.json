@@ -1,0 +1,146 @@
+{
+  "id": "narayana-murthy-infosys-founding-ten-thousand-rupees-1981",
+  "title": "₹10,000, Six Colleagues and No Computer: Infosys Begins in Pune",
+  "dek": "In 1981 a manager who had already closed one software company left his job weeks before turning 35, with six young engineers and his wife's savings.",
+  "story": {
+    "founder": "N. R. Narayana Murthy and six co-founders",
+    "company": "Infosys Consultants (later Infosys)",
+    "event": "Founding Infosys in Pune with ₹10,000 from Sudha Murty's savings",
+    "approx_date": "1981-07",
+    "country": "India",
+    "region": "South Asia",
+    "industry": "software",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In July 1981 N. R. Narayana Murthy, then general manager of software at Patni Computer Systems, left to found Infosys in Pune with six younger colleagues, after an earlier venture, Softronics, had failed for lack of a domestic market. With no bank or venture finance available, Sudha Murty gave ₹10,000 of her ₹10,250 savings so the founders could take their equity, and a client advance kept the company going while it waited about three years for a computer import licence.",
+    "paragraphs": [
+      "In mid-1981, N. R. Narayana Murthy was general manager of software at Patni Computer Systems, a few weeks short of his 35th birthday. He had tried business once before. In the 1970s he started Softronics to write software for Indian companies and shut it within a year: there were hardly any computers in the country to run it on. His biggest mistake, he later said, was not understanding the size of the market. At Patni he spent about four years learning the American one, where minicomputers and databases were spreading through company departments.",
+      "He had a private conviction, he said, that if he did not become an entrepreneur before 35 he never would. When he told his team he was leaving to write software for American clients, six younger engineers, most with a year or so of experience, asked to come. Among them were Nandan Nilekani and Kris Gopalakrishnan. They had, in Murthy's words, \"lots of hopes, lots of dreams, some confidence, but no money.\" Indian banks did not understand software, and there was no venture capital. A client agreed to pay what he called a reasonably good advance.",
+      "Some of the six could not afford even a small share of the equity. Sudha Murty, an engineer with a job of her own, had saved ₹10,250. She gave her husband ₹10,000 and kept ₹250. \"I took a little bit of risk,\" she said in 2024; she had assumed she would write it off whether he succeeded or not. Infosys was founded in July 1981, and its first office was their home in Pune. Murthy decided she would not join the company. Good governance, he believed, meant keeping family out.",
+      "The start was slow. With no computer of their own, the six worked abroad at customers' sites, while Sudha helped Murthy at home as programmer, assistant and accountant. Importing a computer took about three years and many trips to Delhi; a telephone line could take years more. Infosys listed on Indian exchanges in 1993 and on NASDAQ in 1999. In January 2024, asked about keeping his wife out, Murthy said, \"I was wrongly idealistic.\""
+    ]
+  },
+  "quote": {
+    "text": "We hold nothing dearer than a benefit, so long as we are seeking one; we hold nothing cheaper after we have received it.",
+    "thinker": "Seneca",
+    "work": "Moral Letters to Lucilius (Epistulae Morales ad Lucilium)",
+    "locator": "Letter LXXXI, \"On Benefits\", section 28",
+    "translator": "Richard M. Gummere (1920)",
+    "tradition": "Stoic",
+    "source_url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_81",
+    "source_title": "Moral letters to Lucilius, Letter 81, translated by Richard Mott Gummere (Loeb Classical Library, volume 2, 1920), Wikisource",
+    "connection": "Seneca notices how a gift is prized while we seek it and cheapened once it is ours. Murthy has long credited Sudha's ₹10,000, yet kept her out of the company it helped start, and only decades later called that wrong. Both are true at once.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Most ventures rest on someone whose name is not on the founding papers. At Infosys it was an engineer who handed over nearly all her savings, kept the accounts at home and stayed outside the company because her husband thought that was the principled thing to do. Four decades later, he said it was not.",
+    "You will have people like this: someone who covered a shift, lent money, or listened late at night when the work was going badly. Gratitude comes easily at the start and fades quietly once things steady. Saying it plainly, and asking what part they would like to have, costs very little."
+  ],
+  "invitation": "Think of one person whose help made your work possible but whose name appears nowhere on it. Tell them today, in a sentence, what their help made possible.",
+  "sources": [
+    {
+      "title": "Oral History of N. R. Narayana Murthy, part 1 of 2 (interviewed by David C. Brock and Uday Kapoor, 13 May 2018), transcript",
+      "publisher": "Computer History Museum",
+      "url": "https://archive.computerhistory.org/resources/access/text/2019/03/102740329-05-01-acc.pdf",
+      "kind": "oral-history",
+      "supports": "Softronics closed within eight to nine months because of a structural lack of computers in India; about four years as general manager of software at Patni Computer Systems; his belief that he had to become an entrepreneur before his 35th year; born 20 August 1946 and company founded 7 July 1981; six bright youngsters from Patni asked to join him; 'lots of hopes, lots of dreams, some confidence, but no money'; a deal with a client who gave a reasonably good advance; Sudha gave the initial amount, 'equivalent to 10,000 rupees', because some colleagues could not contribute to equity; she had a job."
+    },
+    {
+      "title": "Murthy, N. R. Narayana oral history, part 1 of 2 (catalogue record 102740329)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/collections/catalog/102740329",
+      "kind": "oral-history",
+      "supports": "Catalogue record identifying the 2018 interview, its interviewers and transcript."
+    },
+    {
+      "title": "Oral History of N. R. Narayana Murthy, part 2 of 2 (interviewed by David C. Brock and Uday Kapoor, Bangalore, 8 January 2020), transcript",
+      "publisher": "Computer History Museum",
+      "url": "https://archive.computerhistory.org/resources/access/text/2020/09/102791998-05-01-acc.pdf",
+      "kind": "oral-history",
+      "supports": "Softronics closed in less than a year; 'the biggest mistake I committed was not ascertaining the size of the market'; studying the US market at Patni, where superminicomputers, OLTP software and relational databases were spreading; colleagues including Nandan Nilekani and Kris Gopalakrishnan with about a year to a year and a half of experience; banks would not lend to software firms and there was no venture capital; about three years and fifty visits to Delhi to get a licence to import a computer; telephones took years; Infosys founded in Pune; the six younger colleagues working abroad; Sudha helping as programmer, assistant and accountant; seven shareholder families; listings in 1993 and on NASDAQ in 1999."
+    },
+    {
+      "title": "Murthy, N. R. Narayana oral history, part 2 of 2 (catalogue record 102791998)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/collections/catalog/102791998",
+      "kind": "oral-history",
+      "supports": "Catalogue record identifying the 2020 interview and its transcript."
+    },
+    {
+      "title": "Narayana Murthy (Creating Emerging Markets oral history, interviewed by Joseph Fuller, Bengaluru, 2019)",
+      "publisher": "Baker Library Special Collections, Harvard Business School",
+      "url": "https://library.hbs.edu/special-collections-and-archives/collections/collection-areas/oral-histories/creating-emerging-markets/interviews/narayana-murthy",
+      "kind": "oral-history",
+      "supports": "His first software company for the domestic Indian market failed after about nine months; he turned to the US market and founded Infosys in 1981 with six other software professionals; no venture capital system in India at the time."
+    },
+    {
+      "title": "Infosys @ 40: Journey of the IT giant (Abhinav Singh, 1 July 2021)",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html",
+      "kind": "independent-reporting",
+      "supports": "Sudha Murty handed over her savings of Rs 10,000 in 1981; Murthy and six other engineers founded Infosys on 7 July 1981; 'The first headquarters was our house in Pune, near Deccan Gymkhana'; Data Basics Corporation the first and only customer for a long time; importing a computer took multiple visits to Delhi and a telephone took several years; Nilekani on waiting over two years for the first computer."
+    },
+    {
+      "title": "'Only investment I have done is Rs 10,000': Sudha Murty says took a 'little bit of risk' on Narayana Murthy (15 March 2024)",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/latest/corporate/story/only-investment-i-have-done-is-rs-10000-sudha-murty-says-took-a-little-bit-of-risk-on-narayana-murthy-421600-2024-03-15",
+      "kind": "founder-interview",
+      "supports": "Sudha Murty at the India Today Conclave: she gave Rs 10,000 of the Rs 10,250 she had and kept Rs 250; 'I took a little bit of risk'; she assumed she would write it off whether he succeeded or not; she was not sure he would succeed."
+    },
+    {
+      "title": "'I was wrongly idealistic': Narayana Murthy says he was wrong in not allowing his wife Sudha Murty to join Infosys (Saurabh Sharma, 4 January 2024)",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/amp/industry/it/story/i-was-wrongly-idealistic-narayana-murthy-says-he-was-wrong-in-not-allowing-his-wife-sudha-murty-to-join-infosys-411923-2024-01-04",
+      "kind": "founder-interview",
+      "supports": "Murthy, interviewed by CNBC-TV18's Shereen Bhan, on keeping Sudha out of Infosys because he felt good governance meant not bringing family in; 'I was wrongly idealistic'; Infosys co-founded in 1981 with Rs 10,000 from his wife."
+    },
+    {
+      "title": "Infosys co-founder Narayana Murthy opens up about his 'big regret' (4 January 2024)",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/news/biz-tech/2024/01/04/infosys-co-founder-narayana-murthy-opens-up-about-his-big-regret.html",
+      "kind": "independent-reporting",
+      "supports": "Second report of the CNBC-TV18 interview: Sudha provided the seed capital of Rs 10,000; Murthy believed good corporate governance meant not bringing family into the company; 'I was wrongly idealistic'."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Sudha Murty gave ₹10,000 from her savings to start Infosys.",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2019/03/102740329-05-01-acc.pdf",
+        "https://www.businesstoday.in/latest/corporate/story/only-investment-i-have-done-is-rs-10000-sudha-murty-says-took-a-little-bit-of-risk-on-narayana-murthy-421600-2024-03-15",
+        "https://www.theweek.in/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html"
+      ]
+    },
+    {
+      "claim": "Murthy and six younger colleagues founded Infosys in Pune in July 1981.",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2019/03/102740329-05-01-acc.pdf",
+        "https://www.theweek.in/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html",
+        "https://library.hbs.edu/special-collections-and-archives/collections/collection-areas/oral-histories/creating-emerging-markets/interviews/narayana-murthy"
+      ]
+    },
+    {
+      "claim": "Murthy's earlier software company failed within a year for lack of a domestic market.",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2020/09/102791998-05-01-acc.pdf",
+        "https://library.hbs.edu/special-collections-and-archives/collections/collection-areas/oral-histories/creating-emerging-markets/interviews/narayana-murthy"
+      ]
+    },
+    {
+      "claim": "Importing a computer took years and repeated trips to Delhi, and telephones took years.",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2020/09/102791998-05-01-acc.pdf",
+        "https://www.theweek.in/theweek/business/2021/07/01/infosys-at-40-journey-of-the-it-giant.html"
+      ]
+    },
+    {
+      "claim": "Murthy kept Sudha Murty out of Infosys on governance grounds and in 2024 called this 'wrongly idealistic'.",
+      "urls": [
+        "https://www.businesstoday.in/amp/industry/it/story/i-was-wrongly-idealistic-narayana-murthy-says-he-was-wrong-in-not-allowing-his-wife-sudha-murty-to-join-infosys-411923-2024-01-04",
+        "https://www.theweek.in/news/biz-tech/2024/01/04/infosys-co-founder-narayana-murthy-opens-up-about-his-big-regret.html"
+      ]
+    }
+  ],
+  "research_notes": "Founding date: Murthy (Computer History Museum, 2018), The Week (2021) and Oneindia give 7 July 1981; many company histories give 2 July 1981 as the incorporation date of Infosys Consultants Private Limited. The story says 'July 1981'. Capital: Murthy calls Sudha's money '$250, equivalent to 10,000 rupees' (the dollar figure does not match 1981 exchange rates, roughly ₹9 to the dollar, so the story uses rupees only); Sudha Murty (2024) says she had ₹10,250 and gave ₹10,000; The Week (2021) dates the handover to April 1981. Several outlets call it a loan; Sudha called it her only investment; Murthy says it went towards equity for colleagues who could not contribute. The story says she 'gave' it. Softronics: the CHM interviewer dates it to 1975-76 and the HBS summary to 1977; Murthy says it closed in eight or nine months, or 'less than a year'; the story says 'in the 1970s' and 'within a year'. Import licence: Murthy says about three years and fifty visits to Delhi; Nilekani (The Week, 2021) says over two years to get the first computer; Murthy elsewhere in the same interview says 'about three years to get our computer imported'. The story says about three years and many trips. The client advance is Murthy's description; The Week names Data Basics Corporation as the first and for long the only customer, but no source read here ties the advance explicitly to Data Basics, so the story does not name the client. The other four co-founders (N. S. Raghavan, S. D. Shibulal, K. Dinesh and Ashok Arora in most accounts) are not named because no source read for this edition lists them. The Infosys corporate history page and the PTI report in Business Standard and Deccan Herald block automated reading and are not cited. Sudha's role as programmer, assistant and accountant 'in those initial days' is Murthy's 2020 account; the 2024 reports concern her not joining the company formally. Wikipedia was not used.",
+  "researched_at": "2026-11-01"
+}

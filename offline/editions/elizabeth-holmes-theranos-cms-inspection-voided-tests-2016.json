@@ -1,0 +1,278 @@
+{
+  "id": "elizabeth-holmes-theranos-cms-inspection-voided-tests-2016",
+  "title": "The Inspection Report That Led Theranos to Void Two Years of Tests",
+  "dek": "In 2016 a regulator's findings at Theranos's California lab led the company to void every result from its own analysers and close its clinical labs.",
+  "story": {
+    "founder": "Elizabeth Holmes",
+    "company": "Theranos",
+    "event": "Voiding two years of Edison test results and closing the clinical labs after a federal inspection",
+    "approx_date": "2016",
+    "country": "United States",
+    "region": "North America",
+    "industry": "diagnostics",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "After an unannounced federal inspection of Theranos's Newark, California laboratory in late 2015 found deficiencies posing 'immediate jeopardy' to patients, Theranos in 2016 voided all results from its Edison analysers for 2014 and 2015, faced sanctions barring Elizabeth Holmes from running a lab for two years, and in October 2016 closed its clinical labs and wellness centres. The company dissolved in 2018; in 2022 Holmes was convicted on four counts of defrauding investors and acquitted on the patient-related counts.",
+    "paragraphs": [
+      "In late 2015, inspectors from the Centers for Medicare and Medicaid Services, the US regulator of clinical laboratories, made an unannounced inspection of Theranos's laboratory in Newark, California. In January 2016 they told the company that deficiencies there posed \"immediate jeopardy\" to patient health. Their 121-page report, released in redacted form in March, showed, by the Wall Street Journal's reading, that in October 2014 29 per cent of quality-control checks on the company's own analysers had fallen outside its acceptable range, and the machines had stayed in use.",
+      "Elizabeth Holmes, the founder and chief executive, told NBC in April: \"I feel devastated that we did not catch and fix these issues faster.\" The lab had stopped testing, she said, and would be rebuilt. She had hired a new laboratory director, Kingshuk Das, to answer the report. A federal appeals court later summarised his trial testimony: his review of 2014 and 2015 data found \"a possible patient impact for every test reported\" from the Edison devices, and when he told Holmes he believed they had not worked from the beginning, she attributed the results to lapses in laboratory controls rather than the device.",
+      "Theranos voided every Edison result from 2014 and 2015 and told regulators in May it had sent tens of thousands of corrected reports, some from conventional machines; in June a spokesperson put the share of all its results voided or corrected at under 1 per cent. In July the regulator moved to revoke the lab's certificate and to bar Holmes from running a laboratory for two years. \"We accept full responsibility for the issues at our laboratory,\" she said. In October she closed the clinical labs and wellness centres, cutting about 340 of 790 jobs.",
+      "In March 2018 she settled fraud charges from the Securities and Exchange Commission without admitting or denying them, paying a $500,000 penalty and giving up voting control. In June she was indicted and replaced as chief executive; in September, with no buyer found, Theranos told shareholders it would dissolve. In January 2022 a jury convicted her on four counts of defrauding investors, acquitted her on the patient counts and could not agree on three others. She was sentenced to 135 months; an appeals court upheld the convictions in 2025."
+    ]
+  },
+  "quote": {
+    "text": "The skilled coin-assayer plunges without hesitation his hand into the purse of the coiner of false money, and, relying on experience, separates good coins from bad.",
+    "thinker": "Al-Ghazali",
+    "work": "The Confessions (Deliverance from Error)",
+    "locator": "\"Divisions of the Philosophic Sciences\", section 6, Moral Philosophy",
+    "translator": "Claud Field (1909)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/58977/pg58977.txt",
+    "source_title": "The Confessions of Al Ghazzali, tr. Claud Field, Project Gutenberg eBook #58977",
+    "connection": "Ghazali's assayer does not refuse to touch a suspect purse; he reaches in and, trusting experience, sorts good coin from bad. At Theranos that sorting was done by inspectors and a laboratory director working through the company's own control records, and their findings shaped what followed more than any statement did.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "This is usually told as a story about a founder. Read through the court record, it is also a story about quality-control results that were written down, inspectors who read them, and a laboratory director who told the chief executive what they showed.",
+    "Your work sits on the assayer's side of that table. Most days it is routine: controls run, results checked, a few flagged and repeated. The routine is the point. A record kept carefully on an ordinary weekday is what lets someone tell good results from bad later, sometimes years after the fact."
+  ],
+  "invitation": "Pick one control result from this week that was flagged or repeated. Check that the note beside it would make sense to a stranger reading it a year from now, and add a line if it would not.",
+  "sources": [
+    {
+      "title": "United States v. Holmes and Balwani, No. 22-10312, opinion of 24 February 2025",
+      "publisher": "US Court of Appeals for the Ninth Circuit",
+      "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf",
+      "kind": "court-record",
+      "supports": "CMS's unannounced inspection in late 2015 and its conclusion of 'immediate jeopardy' to patient health; quality-control failures on Edison and modified third-party devices; Kingshuk Das hired in March 2016 to review and respond to the CMS report; his analysis of 2014 and 2015 quality-control data finding 'a possible patient impact for every test reported' from the Edison; his concern that the instruments were not performing from the very beginning; Holmes attributing the poor results to laboratory control failures rather than the device; Theranos voiding all patient tests run on the Edison; the jury's acquittal on the patient-related counts, conviction on four investor-related counts and deadlock on three; the convictions affirmed"
+    },
+    {
+      "title": "Theranos, CEO Holmes, and Former President Balwani Charged With Massive Fraud (press release 2018-41, 14 March 2018)",
+      "publisher": "US Securities and Exchange Commission",
+      "url": "https://www.sec.gov/news/press-release/2018-41",
+      "kind": "court-record",
+      "supports": "SEC fraud charges; Holmes's settlement: $500,000 penalty, ten-year officer and director bar, return of 18.9 million shares, relinquishing voting control; neither admitting nor denying the allegations"
+    },
+    {
+      "title": "Theranos on the Ropes as Scathing Regulatory Report Is Made Public (by Roger Parloff, 1 April 2016)",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2016/04/01/theranos-regulatory-report",
+      "kind": "independent-reporting",
+      "supports": "The 121-page CMS inspection report, released in redacted form on 31 March 2016, based on an inspection in November; the January citation; per the Wall Street Journal, 29% of quality-control checks on the proprietary devices in October 2014 outside Theranos's acceptable range, and the machines still used"
+    },
+    {
+      "title": "Government finds Theranos testing plagued with problems (by Aimee Picchi, 1 April 2016)",
+      "publisher": "CBS News (MoneyWatch)",
+      "url": "https://www.cbsnews.com/news/government-finds-theranos-testing-plagued-with-problems",
+      "kind": "independent-reporting",
+      "supports": "121-page report on the Newark lab inspection; more than one-quarter of quality-control checks outside the company's range; the January finding of 'immediate jeopardy to patient health and safety'"
+    },
+    {
+      "title": "US regulators find serious deficiencies at Theranos lab: WSJ (25 January 2016)",
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2016/01/25/us-regulators-find-serious-deficiencies-at-theranos-lab-wsj.html",
+      "kind": "independent-reporting",
+      "supports": "In January 2016, CMS inspectors found serious deficiencies at the Newark laboratory"
+    },
+    {
+      "title": "Theranos Chief Elizabeth Holmes Is 'Devastated' Over Lab Deficiencies (by Sy Mukherjee, 18 April 2016)",
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2016/04/18/theranos-holmes-devastated/",
+      "kind": "independent-reporting",
+      "supports": "Holmes's words on NBC's Today show, 'I feel devastated that we did not catch and fix these issues faster'; the proposed two-year ban"
+    },
+    {
+      "title": "Theranos CEO Elizabeth Holmes says she's 'devastated' by setbacks (by Rebecca Robbins, 18 April 2016)",
+      "publisher": "STAT",
+      "url": "https://www.statnews.com/2016/04/18/theranos-ceo-elizabeth-holmes-setbacks/",
+      "kind": "independent-reporting",
+      "supports": "The same Today interview and quotation"
+    },
+    {
+      "title": "Elizabeth Holmes 'Devastated' Over Theranos Problems (by Victor Luckerson, 18 April 2016)",
+      "publisher": "TIME",
+      "url": "https://time.com/4297840/elizabeth-holmes-theranos",
+      "kind": "independent-reporting",
+      "supports": "Holmes saying the lab had stopped testing and would be rebuilt from scratch"
+    },
+    {
+      "title": "Theranos reportedly voids two years of results from its Edison blood-testing devices (by Catherine Shu, 18 May 2016)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2016/05/18/theranos-voids-tests/",
+      "kind": "independent-reporting",
+      "supports": "All Edison results from 2014 and 2015 voided, per the Wall Street Journal; tens of thousands of corrected reports, including from traditional machines"
+    },
+    {
+      "title": "Theranos 'Voids Two Years of Edison Blood Test Results' (Reuters, 19 May 2016)",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/theranos-voids-two-years-edison-blood-test-results-n576661",
+      "kind": "independent-reporting",
+      "supports": "Theranos told CMS it voided two years of Edison results and issued tens of thousands of corrected reports, including tests run on traditional machines"
+    },
+    {
+      "title": "Theranos says it's changing results for less than 1% of blood tests (by Randy Lilleston, 6 June 2016)",
+      "publisher": "BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/theranos-says-its-changing-results-for-less-than-1-of-blood-tests/420393/",
+      "kind": "independent-reporting",
+      "supports": "A Theranos spokesperson's statement to Bloomberg that less than 1% of its results had been voided or corrected; the 29% quality-control figure"
+    },
+    {
+      "title": "Less Than 1 Percent Of Blood Test Results Voided Or Corrected, Theranos Says",
+      "publisher": "California Healthline (KFF Health News)",
+      "url": "https://californiahealthline.org/morning-breakout/less-than-1-percent-of-blood-test-results-voided-or-corrected-theranos-says",
+      "kind": "independent-reporting",
+      "supports": "Theranos's June 2016 claim that under 1 percent of results were voided or corrected"
+    },
+    {
+      "title": "CMS fines, cuts off testing at Theranos, bans Holmes (by Neil Versel, 8 July 2016)",
+      "publisher": "MedCity News",
+      "url": "https://medcitynews.com/2016/07/cms-fines-theranos/",
+      "kind": "independent-reporting",
+      "supports": "CMS moved to revoke the Newark lab's certificate and to bar Holmes from owning, operating or directing a lab for two years; Holmes's statement 'We accept full responsibility for the issues at our laboratory in Newark, California'"
+    },
+    {
+      "title": "Theranos is closing its labs and Wellness Centers (by Mariella Moon, 5 October 2016)",
+      "publisher": "Engadget",
+      "url": "https://www.engadget.com/2016/10/05/theranos-closing-labs/",
+      "kind": "independent-reporting",
+      "supports": "Holmes's open letter closing the clinical labs and wellness centres; 340 of 790 employees let go; focus on the miniLab"
+    },
+    {
+      "title": "Theranos closes its labs and wellness centers, lays off 340 (by Devin Coldewey and Sarah Buhr, 5 October 2016)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2016/10/05/theranos-closes-its-labs-and-wellness-centers-lays-off-340/",
+      "kind": "independent-reporting",
+      "supports": "Holmes's announcement of the closures and about 340 job losses; the July CMS sanctions"
+    },
+    {
+      "title": "Theranos Is Shutting Down For Good (CNN Money, 5 September 2018)",
+      "publisher": "CBS San Francisco",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/theranos-is-shutting-down-for-good",
+      "kind": "independent-reporting",
+      "supports": "David Taylor's email to shareholders announcing dissolution; more than 80 potential buyers approached without interest; Holmes indicted in June 2018 and Taylor succeeding her as CEO; the March 2018 SEC settlement"
+    },
+    {
+      "title": "Theranos founder Elizabeth Holmes sentenced to just over 11 years in prison (by Max Zahn, 19 November 2022)",
+      "publisher": "ABC7 News (ABC News)",
+      "url": "https://abc7news.com/theranos-founder-elizabeth-holmes-sentenced-to-just-over-11-years-i/12468948/",
+      "kind": "independent-reporting",
+      "supports": "Sentence of 135 months; conviction in January 2022 on four counts of investor fraud and conspiracy"
+    },
+    {
+      "title": "Appeals court upholds convictions of Theranos founder Elizabeth Holmes, former lover and business partner (2025)",
+      "publisher": "CBS San Francisco",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/theranos-founder-elizabeth-holmes-convictions-appeal",
+      "kind": "independent-reporting",
+      "supports": "The Ninth Circuit upheld Holmes's convictions in 2025"
+    },
+    {
+      "title": "Embattled blood-testing firm Theranos is reportedly set to dissolve (5 September 2018)",
+      "publisher": "CNBC (Reuters)",
+      "url": "https://www.cnbc.com/2018/09/05/embattled-blood-testing-firm-theranos-is-reportedly-set-to-dissolve.html",
+      "kind": "independent-reporting",
+      "supports": "Theranos to dissolve, per a shareholder email reported by the Wall Street Journal; Holmes and Balwani indicted in June 2018"
+    },
+    {
+      "title": "Report: Theranos to dissolve (by Alaric DeArment, 5 September 2018)",
+      "publisher": "MedCity News",
+      "url": "https://medcitynews.com/2018/09/report-theranos-to-dissolve/",
+      "kind": "independent-reporting",
+      "supports": "David Taylor's email announcing the dissolution; failed effort to raise capital or sell the company"
+    },
+    {
+      "title": "Theranos Founder Elizabeth Holmes Sentenced to More Than 11 Years in Prison (by Rohan Goswami, CNBC, 18 November 2022)",
+      "publisher": "NBC Bay Area",
+      "url": "https://www.nbcbayarea.com/news/business/money-report/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison/3082761/",
+      "kind": "independent-reporting",
+      "supports": "Sentence of 135 months by Judge Edward Davila; conviction in January 2022 on four counts; Theranos shut down in 2018"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "CMS inspected the Newark lab in late 2015 and found deficiencies posing 'immediate jeopardy' to patients, communicated in January 2016",
+      "urls": [
+        "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf",
+        "https://fortune.com/2016/04/01/theranos-regulatory-report",
+        "https://www.cbsnews.com/news/government-finds-theranos-testing-plagued-with-problems",
+        "https://www.cnbc.com/2016/01/25/us-regulators-find-serious-deficiencies-at-theranos-lab-wsj.html"
+      ]
+    },
+    {
+      "claim": "29 per cent of quality-control checks on Theranos's own devices in October 2014 fell outside its acceptable range",
+      "urls": [
+        "https://fortune.com/2016/04/01/theranos-regulatory-report",
+        "https://www.biopharmadive.com/news/theranos-says-its-changing-results-for-less-than-1-of-blood-tests/420393/",
+        "https://www.cbsnews.com/news/government-finds-theranos-testing-plagued-with-problems"
+      ]
+    },
+    {
+      "claim": "Holmes told NBC's Today in April 2016 that she felt devastated the issues were not caught and fixed faster",
+      "urls": [
+        "https://fortune.com/2016/04/18/theranos-holmes-devastated/",
+        "https://www.statnews.com/2016/04/18/theranos-ceo-elizabeth-holmes-setbacks/",
+        "https://time.com/4297840/elizabeth-holmes-theranos"
+      ]
+    },
+    {
+      "claim": "Theranos voided all Edison results from 2014 and 2015 and issued tens of thousands of corrected reports",
+      "urls": [
+        "https://techcrunch.com/2016/05/18/theranos-voids-tests/",
+        "https://www.nbcnews.com/tech/tech-news/theranos-voids-two-years-edison-blood-test-results-n576661",
+        "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf"
+      ]
+    },
+    {
+      "claim": "In June 2016 Theranos said under 1 per cent of its results had been voided or corrected",
+      "urls": [
+        "https://www.biopharmadive.com/news/theranos-says-its-changing-results-for-less-than-1-of-blood-tests/420393/",
+        "https://californiahealthline.org/morning-breakout/less-than-1-percent-of-blood-test-results-voided-or-corrected-theranos-says"
+      ]
+    },
+    {
+      "claim": "In July 2016 CMS moved to revoke the lab's certificate and bar Holmes from running a lab for two years",
+      "urls": [
+        "https://medcitynews.com/2016/07/cms-fines-theranos/",
+        "https://techcrunch.com/2016/10/05/theranos-closes-its-labs-and-wellness-centers-lays-off-340/",
+        "https://www.engadget.com/2016/10/05/theranos-closing-labs/"
+      ]
+    },
+    {
+      "claim": "In October 2016 Theranos closed its clinical labs and wellness centres, cutting about 340 of 790 jobs",
+      "urls": [
+        "https://www.engadget.com/2016/10/05/theranos-closing-labs/",
+        "https://techcrunch.com/2016/10/05/theranos-closes-its-labs-and-wellness-centers-lays-off-340/"
+      ]
+    },
+    {
+      "claim": "Holmes settled SEC fraud charges in March 2018 without admitting or denying them",
+      "urls": [
+        "https://www.sec.gov/news/press-release/2018-41",
+        "https://www.cbsnews.com/sanfrancisco/news/theranos-is-shutting-down-for-good"
+      ]
+    },
+    {
+      "claim": "Theranos told shareholders in September 2018 that it would dissolve",
+      "urls": [
+        "https://www.cbsnews.com/sanfrancisco/news/theranos-is-shutting-down-for-good",
+        "https://www.cnbc.com/2018/09/05/embattled-blood-testing-firm-theranos-is-reportedly-set-to-dissolve.html",
+        "https://medcitynews.com/2018/09/report-theranos-to-dissolve/"
+      ]
+    },
+    {
+      "claim": "In January 2022 Holmes was convicted on four investor-related counts and acquitted on the patient-related counts; sentenced to 135 months",
+      "urls": [
+        "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf",
+        "https://abc7news.com/theranos-founder-elizabeth-holmes-sentenced-to-just-over-11-years-i/12468948/",
+        "https://www.nbcbayarea.com/news/business/money-report/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison/3082761/"
+      ]
+    },
+    {
+      "claim": "The Ninth Circuit upheld the convictions in 2025",
+      "urls": [
+        "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/02/24/22-10312.pdf",
+        "https://www.cbsnews.com/sanfrancisco/news/theranos-founder-elizabeth-holmes-convictions-appeal"
+      ]
+    }
+  ],
+  "research_notes": "Told strictly from the Ninth Circuit's 2025 opinion, the SEC's 2018 release and major reporting, without characterising intent beyond the jury's verdict. Episode choice: the slate framed this as the 2018 dissolution, but Holmes had been replaced as chief executive by David Taylor in June 2018 and it was Taylor who announced the dissolution, so the story centres on the 2016 decisions Holmes made as CEO after the CMS inspection, with the dissolution and trial as aftermath. Outcome numbers: in May 2016 Theranos told CMS (per the Wall Street Journal, as reported by Reuters/NBC and TechCrunch) that it had voided all Edison results from 2014 and 2015 and sent tens of thousands of corrected reports, including some from conventional machines; in June 2016 a spokesperson told Bloomberg (per BioPharma Dive and California Healthline) that under 1 per cent of all its results had been voided or corrected. Both are given with who said them and when; they are not strictly contradictory, since the denominator was all tests the company had ever run. A Walgreens figure of about 31,000 affected customers appears only in sources that block the checker and is not used. Dates: CNBC and Fortune date CMS's deficiency letter to January 2016; BioPharma Dive says February; January is used. Fortune says the inspection was in November 2015 and the appeals court says late 2015; the story says late 2015. The 29 per cent figure is the Wall Street Journal's reading of the unredacted report, as reported by Fortune and BioPharma Dive (CBS says more than one-quarter); it is attributed to the Journal because the Journal's own articles are paywalled. Das's findings and Holmes's response to them are as summarised by the appeals court from his trial testimony, which Holmes challenged on appeal; the court also noted that evidence on whether the voiding was voluntary could support either view, so the story does not say whether it was. The July 2016 sanctions were to take effect after 60 days and were later settled; the story says CMS 'moved to' revoke and bar. Layoffs: Engadget gives 340 of 790; TechCrunch 'approximately 340'. Sentence: 135 months per ABC and CNBC; the $452 million restitution order upheld in 2025 is not used. Holmes quoted a line attributed to Rumi at her sentencing; it is not used, and the edition's quote is from al-Ghazali instead. The Ninth Circuit PDF loads but its text is not machine-read by the checker, so it shows as live without a name match.",
+  "researched_at": "2026-11-01"
+}

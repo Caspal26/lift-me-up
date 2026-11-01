@@ -1,0 +1,128 @@
+{
+  "id": "wilson-greatbatch-barn-pacemakers-1958",
+  "title": "Two Thousand Dollars and a Barn: Wilson Greatbatch's Pacemaker Years",
+  "dek": "In 1958 an engineer in Buffalo quit his jobs, handed his savings to his wife and spent two years building implantable pacemakers in the barn behind his house.",
+  "story": {
+    "founder": "Wilson Greatbatch",
+    "company": "Wilson Greatbatch's barn workshop (later Wilson Greatbatch Ltd)",
+    "event": "Quitting his jobs to build implantable pacemakers by hand in his barn, 1958 to 1960",
+    "approx_date": "1958-05",
+    "country": "United States",
+    "region": "North America",
+    "industry": "medical devices",
+    "arc": "breakthrough",
+    "funding": "bootstrapped",
+    "summary": "After a first implantable pacemaker ran in a dog at the Buffalo Veterans Administration hospital on 7 May 1958, Wilson Greatbatch quit his jobs and, living on $2,000 in savings, hand-built fifty pacemakers in the barn behind his house in Clarence, New York, over two years. From April 1960 the surgeon William Chardack implanted them in ten patients, and the device was licensed to Medtronic. Short battery life led Greatbatch to a lithium battery and, in 1970, his own company.",
+    "paragraphs": [
+      "In 1958 Wilson Greatbatch was making a living in Buffalo, New York, from more than one job, including managing an electronics division at Taber Instrument and teaching electrical engineering at the University of Buffalo. Two years earlier, building a circuit to record heart sounds, he had fitted a resistor of the wrong size. The circuit went blip, waited a second, and went blip again. \"Oh that's a pacemaker,\" he recalled thinking.",
+      "What he knew was mostly discouraging. Pacemakers of the day stayed outside the body: Paul Zoll's in Boston plugged into the wall, and the belt-worn units his friend Earl Bakken built in Minneapolis ran wires through the skin. For two years, he said, Buffalo doctors told him patients with complete heart block \"die in two years. There is nothing you can do about it.\" Then William Chardack, chief of surgery at the Veterans Administration hospital, paced his dog laboratory and told him that if he could do it, he could save ten thousand lives a year. On 7 May 1958 their first model, wrapped in electrical tape, ran in a dog for about four hours before body fluids got in and shorted it.",
+      "Taber would not take on the legal risk of an unproven implant, and no manufacturer was interested. So, by his own account, to his wife's consternation he quit all his jobs. He had $2,000 in cash, enough to keep the family for two years. He gave it to his wife, Eleanor, and went up to the wood-heated barn behind their house in Clarence. In two years he built fifty pacemakers by hand, learning to cast the circuits in solid epoxy after the tape failed.",
+      "In April 1960 Chardack implanted the first of ten in patients, two of them children; the first patient's pacemaker ran for eighteen months. The mercury batteries were the weak point. Their maker said six years, and few lasted more than two. Once there were ten successful patients, Greatbatch licensed the pacemaker to Medtronic. A decade later he developed a long-lived lithium battery and founded his own company, Wilson Greatbatch Ltd, to make batteries for pacemakers."
+    ]
+  },
+  "quote": {
+    "text": "The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration;-- this may be called perfect virtue.",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book VI, Chapter 20",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius puts the difficulty first and success after it. Greatbatch spent two years on the hardest part, sealing a working circuit inside a living body, before anyone would pay for it. The passage does not say who carries the cost while success waits; in the barn, it was his family.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Greatbatch's two years were not a leap into the dark. He knew how much money there was, how long it would last and who was holding it. He handed the savings to his wife and kept the work, which put a limit on the risk and a witness beside it.",
+    "You may be weighing how far to go with your own work, and at whose cost. Putting the difficulty first, as Confucius asks, does not mean carrying it alone or without an end date. Fifty pacemakers were built in that barn before ten went into patients, and someone at home knew exactly how long the money had to last."
+  ],
+  "invitation": "Tell one person at home how long you are prepared to give the hardest part of your work, and what you will look at when that time is up.",
+  "sources": [
+    {
+      "title": "Oral-History: Wilson Greatbatch (interviewed by Frederik Nebeker, IEEE History Center, 4 April 2000)",
+      "publisher": "Engineering and Technology History Wiki (IEEE History Center)",
+      "url": "https://ethw.org/Oral-History:Wilson_Greatbatch",
+      "kind": "oral-history",
+      "supports": "External pacemakers of the time (Zoll's wall-powered boxes, Bakken's belt-worn units with wires through the skin); two years of Buffalo doctors saying 'these people die in two years. There is nothing you can do about it'; meeting Chardack at the Veterans Hospital and his remark in the dog lab about saving ten thousand lives a year; the first animal run three weeks later lasting about four hours, sealed with electrical tape; the move to solid epoxy; first transistor pacemaker for an animal in 1958; quitting all his jobs to his wife's consternation; $2,000 in cash, enough for two years, given to his wife; the barn behind his house; fifty pacemakers in two years, made by himself; no manufacturer interested until patients were implanted; licensing to Medtronic after ten successful patients; the first patient's pacemaker running eighteen months in 1960; mercury batteries rated at six years but few running more than two; the lithium battery in 1970."
+    },
+    {
+      "title": "Setting the Pace",
+      "publisher": "MIT Technology Review (September 2001)",
+      "url": "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/",
+      "kind": "independent-reporting",
+      "supports": "The 1956 wrong-resistor circuit at the University of Buffalo; meeting Chardack, chief of surgery at the Buffalo VA hospital, in April 1958; the first dog implant on 7 May 1958, sealed in electrical tape and shorting out after four hours; epoxy encasement; Taber Instrument declining the legal liability; setting out on his own with $2,000; fifty pacemakers hand-made in a barn workshop; Chardack implanting the first of ten in patients in April 1960; Medtronic's licence; the later lithium battery."
+    },
+    {
+      "title": "Wilson Greatbatch, 1919–2011 (Memorial Tributes, Volume 18)",
+      "publisher": "National Academy of Engineering, National Academies Press (2014), tribute by Curt Holmes",
+      "url": "https://www.nationalacademies.org/read/18959/chapter/22",
+      "kind": "independent-reporting",
+      "supports": "The wrong-size resistor at Buffalo in 1956; his posts as manager of Taber Instrument's electronics division and assistant professor of electrical engineering; Taber not supporting the pacemaker work; the 7 May 1958 test controlling a dog's heartbeat at the Buffalo VA hospital; $2,000 in savings and the barn workshop behind his Clarence home; ten patients in 1960, including two children; licensing to Medtronic in 1961; his wife Eleanor; founding Wilson Greatbatch Ltd in 1970."
+    },
+    {
+      "title": "Hauptman, Greatbatch legacies",
+      "publisher": "University at Buffalo (Charlotte Hsu)",
+      "url": "https://www.buffalo.edu/home/feature_story/hauptman-greatbatch-legacies.html",
+      "kind": "independent-reporting",
+      "supports": "In 1956, as an assistant professor building a device to record heart sounds, he grabbed the wrong resistor; his recollection that the circuit went 'blip', waited a second and went 'blip' again, and 'Oh that's a pacemaker'; fifty prototypes made in a wood-heated barn in Clarence; Chardack and Andrew Gage at the Buffalo VA."
+    },
+    {
+      "title": "Wilson Greatbatch: Implantable Cardiac Pacemaker",
+      "publisher": "Lemelson-MIT Program, Massachusetts Institute of Technology",
+      "url": "https://lemelson.mit.edu/resources/wilson-greatbatch",
+      "kind": "independent-reporting",
+      "supports": "The wrong resistor in an oscillator for recording heart sounds; two years of refinement before the first successful implantable pacemaker; the corrosion-resistant lithium battery; founding his company in 1970 to develop long-lived batteries for pacemakers."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 1956 a wrong-sized resistor turned Greatbatch's heart-sound circuit into a pulsing one.",
+      "urls": [
+        "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/",
+        "https://www.buffalo.edu/home/feature_story/hauptman-greatbatch-legacies.html",
+        "https://www.nationalacademies.org/read/18959/chapter/22"
+      ]
+    },
+    {
+      "claim": "The first implant in a dog, on 7 May 1958, ran about four hours before failing.",
+      "urls": [
+        "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/",
+        "https://ethw.org/Oral-History:Wilson_Greatbatch",
+        "https://www.nationalacademies.org/read/18959/chapter/22"
+      ]
+    },
+    {
+      "claim": "Greatbatch left paid work and lived on $2,000 in savings while building pacemakers in his barn.",
+      "urls": [
+        "https://ethw.org/Oral-History:Wilson_Greatbatch",
+        "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/",
+        "https://www.nationalacademies.org/read/18959/chapter/22"
+      ]
+    },
+    {
+      "claim": "He built fifty pacemakers in the barn in about two years.",
+      "urls": [
+        "https://ethw.org/Oral-History:Wilson_Greatbatch",
+        "https://www.buffalo.edu/home/feature_story/hauptman-greatbatch-legacies.html",
+        "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/"
+      ]
+    },
+    {
+      "claim": "From 1960 the pacemaker was implanted in ten patients.",
+      "urls": [
+        "https://www.technologyreview.com/2001/09/01/235577/setting-the-pace/",
+        "https://www.nationalacademies.org/read/18959/chapter/22",
+        "https://ethw.org/Oral-History:Wilson_Greatbatch"
+      ]
+    },
+    {
+      "claim": "He founded his own company in 1970 to make long-lived batteries for pacemakers.",
+      "urls": [
+        "https://lemelson.mit.edu/resources/wilson-greatbatch",
+        "https://www.nationalacademies.org/read/18959/chapter/22"
+      ]
+    }
+  ],
+  "research_notes": "Leaving work: Greatbatch's 2000 oral history says he 'quit all my jobs'; MIT Technology Review says Taber Instrument declined the liability and he 'set out on his own' with $2,000; the NAE tribute says only that Taber did not support the research and he continued independently. The story uses his own account and the Taber refusal. Medtronic licence year: MIT Technology Review says 1960 and the oral history implies 1960 ('we essentially gave them patients'), while the NAE tribute says 1961; the story gives no year and dates it by his account ('once there were ten successful patients'). Battery life: he says Mallory insisted on publishing six years but few batteries ran more than two; MIT Technology Review describes the lithium battery as extending life from two to ten years; the story uses his figures. Resistor date: MIT Technology Review, UB and the NAE give 1956; Lemelson-MIT says 'late 1950s'; the story says two years before 1958. Patients: MIT Technology Review says Chardack implanted the first of ten in April 1960; the NAE adds that two were children; the oral history says the first patient's pacemaker ran eighteen months, without naming the patient, so no patient details are added. The often-quoted line about his 'elation' when the pacemaker took control of a heart comes from his later book, which could not be read online, so it is not used. Chardack's words are paraphrased because they reach the story only through Greatbatch's memory. The company field names the barn workshop because Wilson Greatbatch Ltd did not exist until 1970; the pacemaker itself was licensed to Medtronic.",
+  "researched_at": "2026-11-01"
+}

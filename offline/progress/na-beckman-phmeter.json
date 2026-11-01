@@ -1,0 +1,15 @@
+{
+  "key": "na-beckman-phmeter",
+  "status": "done",
+  "file": "offline/editions/arnold-beckman-ph-meter-for-lemon-chemist-1935.json",
+  "title": "A Second Meter for a Lemon Laboratory: Arnold Beckman's $195 Gamble",
+  "region": "North America",
+  "industry": "diagnostics (laboratory instruments)",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "American",
+  "thinker": "Ralph Waldo Emerson",
+  "talqen": true,
+  "conflicts": "Sales: Caltech's Engineering & Science (1986) says 87 sold in 1935 and 444 in 1936; its 2004 obituary says 87 in the first three months; the Science History Institute says 444 'twelve months later'; the 1974 article says the 600 sold 'in a couple of years'. Story uses the 1986 year-by-year figures, attributed to Caltech's magazine. Leaving Caltech: 1939 (Beckman's oral history, 2004 obituary, 2004 ACS/Caltech release) vs 1940 (1974 article, Science History Institute); story uses 1939. Date of Joseph's request: Beckman recalled late 1934, the 1974 article says spring 1935, and archive letters between the two are dated 1933-34; story says 'as Beckman remembered it'. Litmus: ten-cent vial (Beckman) vs five-cent piece (1974); story quotes Beckman.",
+  "notes": "Repeat screen flags the Wallace Coulter seed edition as 'same-founder' because of the shared company word 'Beckman' (Coulter's company field names Beckman Coulter), but lets it through: different founder, years apart, little shared vocabulary. The core is Beckman's own 1978 Caltech oral history. This is the one edition in my group that mentions talQen."
+}

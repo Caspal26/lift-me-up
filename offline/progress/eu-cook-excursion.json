@@ -1,0 +1,15 @@
+{
+  "key": "eu-cook-excursion",
+  "status": "done",
+  "file": "offline/editions/thomas-cook-leicester-loughborough-excursion-1841.json",
+  "title": "A Shilling to Loughborough: Thomas Cook's First Excursion Train",
+  "region": "Europe",
+  "industry": "travel and tourism",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Ancient Egyptian",
+  "thinker": "Ptahhotep",
+  "talqen": false,
+  "conflicts": "Passenger numbers: 485 (Leicester Museums, Leicester City Council), nearly 500 (Leicestershire County Council 2023), 570 (Fraser Rae's 1891 company history and the 1892 obituary); the story gives all three with who said them. Fraser Rae's scanned text prints 670 once, against 570 twice elsewhere; treated as a misprint. Leicestershire County Council dates the idea to July, against 9 June in Fraser Rae and Story of Leicester; June followed. Story of Leicester's 'Midland Railway Company' is anachronistic; Midland Counties Railway used.",
+  "notes": "Industry changed from the slate's hospitality to travel and tourism. Company field written as 'Thomas Cook (later Thomas Cook & Son)'. Fraser Rae's book was the firm's own jubilee history, so details resting only on it are attributed to 'his firm's history'. The 'first excursion' claim is hedged because Fraser Rae concedes earlier members-only Mechanics' Institute trains."
+}

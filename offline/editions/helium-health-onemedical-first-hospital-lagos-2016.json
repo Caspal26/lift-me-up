@@ -1,0 +1,126 @@
+{
+  "id": "helium-health-onemedical-first-hospital-lagos-2016",
+  "title": "The Lagos Start-up That Took On Lost Hospital Records",
+  "dek": "A Lagos politician who was also a doctor told two young founders about a bigger problem than the one they were pitching; by December 2016 their records software was running in its first hospital.",
+  "story": {
+    "founder": "Adegoke Olubusi, Dimeji Sofowora, Tito Ovia",
+    "company": "OneMedical (later Helium Health)",
+    "event": "Turning to hospital records and deploying the first paperless hospital system in Nigeria",
+    "approx_date": "2016",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "healthcare (health records software)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "After the then Speaker of the Lagos House of Assembly, a doctor, told Adegoke Olubusi that untraceable patient records were a bigger problem than the one he was pitching, Olubusi and his school friend Dimeji Sofowora began building hospital records software in 2015 as OneMedical. Self-funded until it won the 2016 Etisalat Prize for Innovation, the company deployed its first hospital system in December 2016; Tito Ovia joined in January 2017, and after Y Combinator and a $2 million raise in 2017 it became Helium Health.",
+    "paragraphs": [
+      "Adegoke Olubusi, an engineer who grew up in Lagos, studied in the United States and helped start a messaging app, was travelling in Nigeria to research telecoms and connectivity as a possible next venture. With one of his future co-founders, he recalls, he visited the office of the then Speaker of the Lagos House of Assembly, a doctor by profession. The Speaker listened to their pitch, then offered to tell them about \"an even bigger problem that no one wants to take on\": patients' medical records that could not be found or traced.",
+      "Olubusi took it on. In 2015 he asked Dimeji Sofowora, a friend since their schooldays at King's College in Lagos, to join him in a healthcare data start-up. Sofowora had studied law in Leeds and was working at the Lagos firm Aluko & Oyebode, on track for a legal career. After some thought he committed to the company full time, and persuaded his former boss to make an angel investment. They called it OneMedical. Research and a first version began in 2015, with a pilot in mid-2016. Until late that year, when it won the 5 million naira Etisalat Prize for Innovation, the company paid its own way.",
+      "They knew how far the hospitals had to come. Most of those that signed up, Sofowora said, had no computers at all, so the company sometimes helped them buy equipment through its hardware suppliers. The team went from hospital to hospital and was often turned away. \"Here, we don't understand the concept of 'no',\" Olubusi said later. \"We go back.\" The first hospital system went live in December 2016. In January 2017 Tito Ovia joined, a biomedical scientist who had worked at the Lagos State AIDS Control Agency, to lead marketing and sales.",
+      "In mid-2017 the company went through Y Combinator, raised $2 million and renamed itself Helium Health. By late 2018 its system was in between 60 and 70 hospitals in Lagos, Akwa Ibom, Abuja and Liberia, and in 2020 it raised a further $10 million."
+    ]
+  },
+  "quote": {
+    "text": "Then if your strength suffices in the single case you might take in hand a larger number; but if you fail to relieve one, how could you possibly hope to succeed with many?",
+    "thinker": "Xenophon (reporting Socrates)",
+    "work": "Memorabilia",
+    "locator": "Book III, Chapter VI",
+    "translator": "H. G. Dakyns (1897)",
+    "tradition": "Classical Greek",
+    "source_url": "https://www.gutenberg.org/cache/epub/1177/pg1177.txt",
+    "source_title": "The Memorabilia, tr. Henry Graham Dakyns, Project Gutenberg eBook #1177",
+    "connection": "Socrates told the young Glaucon to prove himself on one household before trying to run a city. The hospital managers who turned the founders away were applying much the same test. The story leaves open whether each 'no' was an obstacle to refuse or advice worth taking.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "You know this problem from the inside: a result that cannot be traced, a record that lives in one book on one bench. talQen is meant for that gap, and you will meet the doubts the Helium founders met, perhaps more politely put: come back when others are using it.",
+    "Socrates' test is a fair one, and also a kind one. It asks for one working site, not a country. A single laboratory where the paper has truly gone is evidence nobody can argue with, and it is a reasonable thing to aim for this season, without carrying the rest of the continent on your back while you do it."
+  ],
+  "invitation": "Think of the one laboratory most likely to say yes first. Write down the single process you would move off paper there, and what you would see if it had worked.",
+  "sources": [
+    {
+      "title": "Nigerian health-tech entrepreneur believes the sector's untapped potential is 'incredible' (interview with Adegoke Olubusi, 6 May 2020)",
+      "publisher": "How we made it in Africa",
+      "url": "https://www.howwemadeitinafrica.com/p/nigerian-health-tech-entrepreneur-believes-the-sector-s-untapped-poten",
+      "kind": "founder-interview",
+      "supports": "Olubusi grew up in Lagos, studied at Morgan State University and Johns Hopkins, and helped create KingsChat in 2014; while researching telecoms and connectivity in Nigeria he and a co-founder visited the then Speaker of the Lagos House of Assembly, a doctor, who described 'an even bigger problem that no one wants to take on', untraceable medical records; OneMedical established with Tito Ovia and Dimeji Sofowora in 2016; the first product moved hospitals from paper to digital records; slow uptake and repeated rejections; 'Here, we don't understand the concept of \"no\". We go back'; the $10 million raise in 2020."
+    },
+    {
+      "title": "An Unlikely Band Of Entrepreneurs Are Reducing Cost, Wait Times In Nigerian Hospitals (14 November 2018)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2018/11/14/an-unlikely-band-of-entrepreneurs-are-reducing-cost-wait-times-in-nigerian-hospitals/",
+      "kind": "independent-reporting",
+      "supports": "Olubusi and Sofowora as original founders, friends since King's College, Lagos; the company first named OneMedical, renamed Helium Health in August 2017; Sofowora's law studies in Leeds, work at Aluko & Oyebode, Olubusi approaching him in 2015, his decision to commit fully and the angel investment from his former boss; timeline: research and MVP from 2015, pilot mid-2016, Etisalat Prize (N5 million) in late 2016 with operations self-funded before it, first hospital deployed December 2016, Y Combinator from June 2017, $2 million raised in August to September 2017; Ovia joining in January 2017 after working at the Lagos State AIDS Control Agency, leading marketing and sales; most hospitals had zero computers and the company sometimes helped them buy hardware; deployed in 60-plus hospitals, client list over 70 by 2018 across Lagos, Akwa Ibom, Abuja and Liberia."
+    },
+    {
+      "title": "Winners emerge in 2016 Etisalat Prize for Innovation (10 November 2016)",
+      "publisher": "ThisDay",
+      "url": "https://thisdaylive.com/index.php/2016/11/10/winners-emerge-in-2016-etisalat-prize-for-innovation",
+      "kind": "independent-reporting",
+      "supports": "Team OneMedical, including Adegoke Olubusi, won the Most Innovative Product/Service category and the N5 million prize in November 2016."
+    },
+    {
+      "title": "Tito Ovia is using technology to drive a revolution in the African healthcare system (18 March 2021)",
+      "publisher": "Nairametrics",
+      "url": "https://nairametrics.com/2021/03/18/tito-ovia-is-using-technology-to-drive-a-revolution-in-the-african-healthcare-system",
+      "kind": "independent-reporting",
+      "supports": "Ovia co-founded Helium Health to digitise hospital records; her earlier work for Orbis and the Lagos State AIDS Control Agency; OneMedical won the Etisalat Prize in 2016, was accepted into Y Combinator in 2017 and received $2 million in investment."
+    },
+    {
+      "title": "Deal: Nigerian-based Helium Health completes $10m funding round (11 May 2020)",
+      "publisher": "Nairametrics",
+      "url": "https://nairametrics.com/2020/05/11/deal-nigerian-based-helium-health-completes-10m-funding-round",
+      "kind": "independent-reporting",
+      "supports": "Helium Health's aim of ending paper-based health record keeping; MVP launched in 2016; Y Combinator Summer 2017; over $2 million raised in funding and grants including Etisalat and angel investors; the $10 million round in 2020; over 70 hospitals at the time."
+    },
+    {
+      "title": "After raising $10 million, Helium Health will offer loans to hospitals across Africa (13 May 2020)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2020/05/13/after-raising-10-million-helium-health-will-offer-loans-to-hospitals-across-africa/",
+      "kind": "independent-reporting",
+      "supports": "Olubusi, Sofowora and Ovia as co-founders; the first goal of digitising hospital records; the $10 million raise in 2020."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Helium Health began as OneMedical, building software to replace paper hospital records, around 2015 to 2016.",
+      "urls": [
+        "https://techcabal.com/2018/11/14/an-unlikely-band-of-entrepreneurs-are-reducing-cost-wait-times-in-nigerian-hospitals/",
+        "https://www.howwemadeitinafrica.com/p/nigerian-health-tech-entrepreneur-believes-the-sector-s-untapped-poten",
+        "https://nairametrics.com/2020/05/11/deal-nigerian-based-helium-health-completes-10m-funding-round"
+      ]
+    },
+    {
+      "claim": "OneMedical won the N5 million Etisalat Prize for Innovation in November 2016.",
+      "urls": [
+        "https://thisdaylive.com/index.php/2016/11/10/winners-emerge-in-2016-etisalat-prize-for-innovation",
+        "https://techcabal.com/2018/11/14/an-unlikely-band-of-entrepreneurs-are-reducing-cost-wait-times-in-nigerian-hospitals/",
+        "https://nairametrics.com/2021/03/18/tito-ovia-is-using-technology-to-drive-a-revolution-in-the-african-healthcare-system"
+      ]
+    },
+    {
+      "claim": "The company went through Y Combinator in 2017 and raised $2 million.",
+      "urls": [
+        "https://techcabal.com/2018/11/14/an-unlikely-band-of-entrepreneurs-are-reducing-cost-wait-times-in-nigerian-hospitals/",
+        "https://nairametrics.com/2021/03/18/tito-ovia-is-using-technology-to-drive-a-revolution-in-the-african-healthcare-system"
+      ]
+    },
+    {
+      "claim": "Tito Ovia had worked at the Lagos State AIDS Control Agency before joining.",
+      "urls": [
+        "https://techcabal.com/2018/11/14/an-unlikely-band-of-entrepreneurs-are-reducing-cost-wait-times-in-nigerian-hospitals/",
+        "https://nairametrics.com/2021/03/18/tito-ovia-is-using-technology-to-drive-a-revolution-in-the-african-healthcare-system"
+      ]
+    },
+    {
+      "claim": "Helium Health raised $10 million in 2020.",
+      "urls": [
+        "https://techcabal.com/2020/05/13/after-raising-10-million-helium-health-will-offer-loans-to-hospitals-across-africa/",
+        "https://nairametrics.com/2020/05/11/deal-nigerian-based-helium-health-completes-10m-funding-round",
+        "https://www.howwemadeitinafrica.com/p/nigerian-health-tech-entrepreneur-believes-the-sector-s-untapped-poten"
+      ]
+    }
+  ],
+  "research_notes": "Founders and timing: How we made it in Africa (2020) says OneMedical was established with Ovia and Sofowora in 2016; TechCabal (2018) says Olubusi and Sofowora were the original founders, with work starting in 2015, and that Ovia joined in January 2017 after meeting Sofowora through a friend; a Forbes-derived profile instead says Olubusi had known Ovia since college. The story follows TechCabal's dated timeline and still names all three as co-founders, as the company does. ThisDay's 2016 prize report names the winning OneMedical team as Ojeniyi James, Adegoke Olubusi and Oluwole Gbenga, probably early team members; they are not named in the story. The Speaker meeting rests on Olubusi's own account; he does not name the Speaker, and the story does not either; the meeting is undated, and the story places it before the 2015 start of work, as his account implies. Hospital numbers disagree widely: TechCabal (November 2018) says 60-plus hospitals in its introduction and a client list over 70 in its timeline; Techpoint (2019, blocked to automated checks) gave 107; in May 2020 Nairametrics said over 70 while TechCabal said over 300. The story uses only the 2018 range of 60 to 70 and gives no later count. Funding: self-funded with an angel investment until the Etisalat Prize, then Y Combinator ($120,000) and $2 million in 2017, so the episode is marked 'mixed'. Olubusi's surname appears as both Olubusi and Olubisi in the press; Olubusi is used. The 'no' quotation is from 2020 and describes the company's approach generally. The Xenophon passage is Socrates' advice to Glaucon about governing Athens, applied by analogy.",
+  "researched_at": "2026-11-01"
+}

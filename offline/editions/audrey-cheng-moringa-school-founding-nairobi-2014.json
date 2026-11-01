@@ -1,0 +1,138 @@
+{
+  "id": "audrey-cheng-moringa-school-founding-nairobi-2014",
+  "title": "The Coding School Audrey Cheng Started Before It Had a Story to Tell",
+  "dek": "In 2014 a student working for a Nairobi investor saw start-ups unable to hire developers, and co-founded a fee-charging coding school with no graduates to show.",
+  "story": {
+    "founder": "Audrey Cheng",
+    "company": "Moringa School",
+    "event": "Founding a fee-charging coding school in Nairobi after seeing start-ups unable to hire developers",
+    "approx_date": "2014-04",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "education (technology skills training)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In 2014 Audrey Cheng, a Northwestern University student working in Nairobi for the seed investor Savannah Fund, found the start-ups she helped could not hire enough software developers. In April 2014 she and Frank Tamre founded Moringa School, a for-profit coding school; its first small class began in January 2015, and by 2018 it had more than 600 students.",
+    "paragraphs": [
+      "In the spring of 2014 Audrey Cheng, an American journalism student at Northwestern University, had taken a term off to work in Nairobi for Savannah Fund, a seed investor in African technology start-ups. She ran its second accelerator class. Part of the job was helping the young companies hire, and, she later said, \"it became clear that finding high quality talent was hard in this market.\" Firms were struggling to find software developers.",
+      "She looked at how programming was taught. University computer science, she found, was mostly theoretical and out of date, and she said it took a Kenyan graduate an average of five years to find full-time work while employers went short of skills. The short, intensive coding schools she knew from the United States were barely present in Kenya; a non-profit, the Nairobi Developer School, was one of the few. \"You don't get to build these amazing companies without that kind of skill,\" she said later.",
+      "In April 2014, with a co-founder, Frank Tamre, she set up Moringa School as a fee-charging company rather than a charity, which she later argued kept it accountable to students. The plan was a 12-week course in Android, Ruby on Rails and user-interface design, with curriculum help from Hack Reactor, a San Francisco code school, and an internship to follow. There was nothing to show yet. \"We didn't have any stories to tell,\" she recalled; everything rested on persuading students to pay for a course that had never run, while a widely reported scandal over fake certificates from unauthorised colleges made a new kind of school harder to trust.",
+      "The first class began in January 2015. TechMoran reported five students chosen from more than 120 applicants and kept small so each could get individual attention; a later profile put the number at four. Within three weeks they were building websites and apps, and 18 places were planned for the next cohort. By late 2018 Moringa had about 55 staff, more than 600 students and a campus in Rwanda. Cheng led the school until 2021 and stayed on its board."
+    ]
+  },
+  "quote": {
+    "text": "I had to summon a good deal of courage to take a student who had been studying cube root and “banking and discount,” and explain to him that the wisest thing for him to do first was thoroughly master the multiplication table.",
+    "thinker": "Booker T. Washington",
+    "work": "Up from Slavery",
+    "locator": "Chapter VIII, \"Teaching School in a Stable and a Hen-House\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+    "source_title": "Up from Slavery: An Autobiography, Project Gutenberg eBook #2376",
+    "connection": "In the first weeks of his school at Tuskegee, Washington found students proud of advanced subjects they could not use. Cheng's reading of Kenya's theoretical curricula was a similar diagnosis, and Washington names what it asks of a teacher: the nerve to say plainly where a student should begin.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Cheng had nothing to point to when she asked her first students to pay: no graduates, no placements, only a reading of the market and a plan. Most new work starts like that, and it is fair to find it uncomfortable.",
+    "Washington adds a quieter kind of nerve. Some of the most useful things you can tell a person, a trainee, a colleague, even yourself, are unglamorous: master this first, then the rest. It can feel like a step down to say it. Often it is the kindest and quickest route, and it is easier to say on a morning when you are not rushing."
+  ],
+  "invitation": "Think of someone you are teaching or helping at the moment. Today, name for them, kindly, the one basic skill that would make the rest easier, and offer to sit with them while they practise it.",
+  "sources": [
+    {
+      "title": "Talent shortage prompts entrepreneur to start a tech school in Kenya",
+      "publisher": "How we made it in Africa (19 November 2018)",
+      "url": "https://www.howwemadeitinafrica.com/talent-shortage-prompts-entrepreneur-to-start-a-tech-school-in-kenya/",
+      "kind": "founder-interview",
+      "supports": "Cheng ran Savannah Fund's second accelerator class in Nairobi in 2014; her quotation that finding high quality talent was hard in this market; university curricula theoretical and outdated; her figure of five years for a Kenyan graduate to find full-time work; first class in January 2015, put at four students; 'We didn't have any stories to tell'; selling courses before any success stories; the fake-certificate scandal as a threat to the launch; about 55 staff and more than 600 students; Rwanda campus"
+    },
+    {
+      "title": "American entrepreneur shares lessons learned from running a business in Kenya",
+      "publisher": "How we made it in Africa (13 June 2016)",
+      "url": "https://www.howwemadeitinafrica.com/p/american-entrepreneur-shares-lessons-learned-from-running-a-business-i",
+      "kind": "founder-interview",
+      "supports": "Cheng moved to Kenya in 2014 to work for a seed investor; tech businesses struggling to find software developers to hire; coding schools common in the US had not reached Kenya; Moringa School founded in April 2014 with co-founder Frank Tamre"
+    },
+    {
+      "title": "New Developer School Launches in Kenya",
+      "publisher": "TechMoran (Sam Wakoba, 2 October 2014)",
+      "url": "https://techmoran.com/?p=37829",
+      "kind": "independent-reporting",
+      "supports": "Contemporary account: Moringa to open on 12 January 2015 with an intensive 12-week pilot class in Android, Ruby on Rails and UI/UX, followed by an internship; for-profit, unlike the non-profit Nairobi Dev School; Hack Reactor helped set up the curriculum; Cheng formerly an associate at Savannah Fund; co-founder Frank Tamre; students willing to pay"
+    },
+    {
+      "title": "Kenya's Moringa School wants to take code mainstream",
+      "publisher": "TechMoran (Sam Wakoba, 1 February 2015)",
+      "url": "https://techmoran.com/?p=42770",
+      "kind": "independent-reporting",
+      "supports": "First cohort of five students chosen from over 120 applicants and kept small for individualised attention; students built websites and apps within three weeks; second cohort of 18 planned; Hack Reactor hackers in residence; the gap left by the NGO-backed Nairobi Developer School"
+    },
+    {
+      "title": "Medill alumna Audrey Cheng leads software development school in Nairobi",
+      "publisher": "The Daily Northwestern (William Clark, 11 November 2020)",
+      "url": "https://dailynorthwestern.com/2020/11/11/campus/medill-alumna-audrey-cheng-leads-software-development-school-in-nairobi/",
+      "kind": "founder-interview",
+      "supports": "Cheng, Medill class of 2015, took the spring quarter of her junior year off to work with Savannah Fund in Nairobi; her quotation 'You don't get to build these amazing companies without that kind of skill'; Moringa as a company rather than a charity, accountable to students; campuses in Kenya and Rwanda"
+    },
+    {
+      "title": "DOB Equity invests in Nairobi-based technology learning accelerator Moringa School",
+      "publisher": "DOB Equity (31 October 2019)",
+      "url": "https://dobequity.squarespace.com/dob-equity-news/dob-equity-invests-in-nairobi-based-technology-learning-accelerator-moringa-school",
+      "kind": "company-archive",
+      "supports": "Moringa founded in Nairobi in 2014; equity investment by DOB Equity in 2019 (amount undisclosed); more than 1,800 students trained since 2014"
+    },
+    {
+      "title": "Audrey Cheng, 2022 Laureate",
+      "publisher": "Global Business Hall of Fame",
+      "url": "https://businesshalloffame.org/audrey-cheng",
+      "kind": "independent-reporting",
+      "supports": "Cheng is co-founder, former CEO and board member of Moringa School"
+    },
+    {
+      "title": "Audrey Cheng",
+      "publisher": "Wikipedia (supplementary)",
+      "url": "https://en.wikipedia.org/wiki/Audrey_Cheng",
+      "kind": "independent-reporting",
+      "supports": "Supplementary only: Cheng stepped down as CEO in March 2021 and remained on the board"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 2014 Cheng was working in Nairobi for Savannah Fund and saw start-ups struggling to hire software developers",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/talent-shortage-prompts-entrepreneur-to-start-a-tech-school-in-kenya/",
+        "https://dailynorthwestern.com/2020/11/11/campus/medill-alumna-audrey-cheng-leads-software-development-school-in-nairobi/",
+        "https://techmoran.com/?p=37829"
+      ]
+    },
+    {
+      "claim": "Cheng and Frank Tamre founded Moringa School in Nairobi in 2014",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/p/american-entrepreneur-shares-lessons-learned-from-running-a-business-i",
+        "https://techmoran.com/?p=37829",
+        "https://dobequity.squarespace.com/dob-equity-news/dob-equity-invests-in-nairobi-based-technology-learning-accelerator-moringa-school"
+      ]
+    },
+    {
+      "claim": "Moringa was set up as a fee-charging company rather than a charity",
+      "urls": [
+        "https://techmoran.com/?p=37829",
+        "https://dailynorthwestern.com/2020/11/11/campus/medill-alumna-audrey-cheng-leads-software-development-school-in-nairobi/"
+      ]
+    },
+    {
+      "claim": "The first, very small class began in January 2015 (five students by TechMoran, four by How we made it in Africa)",
+      "urls": [
+        "https://techmoran.com/?p=42770",
+        "https://www.howwemadeitinafrica.com/talent-shortage-prompts-entrepreneur-to-start-a-tech-school-in-kenya/"
+      ]
+    },
+    {
+      "claim": "Cheng later stepped down as CEO and remained on the board",
+      "urls": [
+        "https://businesshalloffame.org/audrey-cheng",
+        "https://en.wikipedia.org/wiki/Audrey_Cheng"
+      ]
+    }
+  ],
+  "research_notes": "Size of the first class: TechMoran (1 February 2015, written while the class was running) reports five students chosen from over 120 applicants and quotes Cheng; How we made it in Africa (2018) says, in its own narration, that the class started with four students. The story gives TechMoran's contemporary figure and notes the later one. Dates: How we made it in Africa (2016) dates the founding to April 2014; TechMoran (October 2014) says the school would open on 12 January 2015 and How we made it in Africa (2018) says the class began in January 2015; the Daily Northwestern (2020) says the first class started in May 2014, which conflicts with the two contemporary TechMoran reports and is not used. Coding schools in Kenya: the 2016 profile says US-style coding schools had not yet reached Kenya, while TechMoran (2014) calls Moringa the third developer school in Kenya and names the non-profit Nairobi Dev School; the story says such schools were barely present and names the non-profit. The five-year graduate job figure is Cheng's own claim and is attributed to her. Outcome figures differ and are left out of the story: the school's own claimed placement rate is 95% (How we made it in Africa 2018; Daily Northwestern 2020), while DOB Equity (2019) gives more than 89% employed within three months; staff and student numbers for 2018 come from How we made it in Africa. Funding: the founding finance is not documented in the sources; the school charged fees from the start and TechMoran (2015) said it was in talks to raise funding; DOB Equity made an undisclosed equity investment in 2019; 'venture' reflects that later equity. Her age at founding varies in secondary profiles (20, 21 or 22) and is left out. The end of her time as CEO (March 2021) rests on Wikipedia, used once as a supplement, and the Global Business Hall of Fame's description of her as former CEO and board member; the story says only 'until 2021'. The Washington passage describes the first weeks of his school at Tuskegee; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "john-bogle-vanguard-first-index-fund-not-managed-1975",
+  "title": "'This Fund Is Not Managed': John Bogle's First Index Fund, 1975",
+  "dek": "Fired from Wellington and left with a company barred from managing money, Bogle proposed a fund that needed no manager.",
+  "story": {
+    "founder": "John C. Bogle",
+    "company": "Vanguard",
+    "event": "Proposing and launching the first index mutual fund inside Vanguard's narrow charter",
+    "approx_date": "1975-09",
+    "country": "United States",
+    "region": "North America",
+    "industry": "finance (mutual funds)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "Fired as chief executive of Wellington Management in January 1974, John Bogle stayed on as chairman of the Wellington funds, whose board created Vanguard to administer them but barred it from investment management. In September 1975 he persuaded the board to approve an index fund on the grounds that it was not managed. The 1976 underwriting raised about $11 million against hopes of up to $150 million; Bogle refused to return the money, and First Index Investment Trust opened on 31 August 1976.",
+    "paragraphs": [
+      "On 23 January 1974, John Bogle was fired as chief executive of Wellington Management Company, after the 1966 merger that had brought in new partners went sour. \"My new partners ganged up and fired me,\" he said later. The next day the board of the Wellington funds, largely independent of the management company, met in New York. Bogle was still the funds' chairman. He urged the directors to run the funds themselves; they would only let him study the options.",
+      "In September 1974 they chose the option he had ranked last. A new company, which he named Vanguard, would run the funds' administration, while Wellington kept investment management and selling. Vanguard began work on 1 May 1975. Bogle saw a gap in that narrow charter: a fund that simply held the stocks of the S&P 500 needed no manager. His 1951 Princeton thesis had concluded that funds could make no claim to beat the market indexes, and Paul Samuelson's 1974 essay \"Challenge to Judgment\" had all but asked for such a fund.",
+      "Over the summer of 1975, with two young colleagues, Jim Riepe and Jan Twardowski, he built the case. Working on a mechanical calculator, he found that from 1945 to 1975 the average fund had returned 9.7 per cent a year, against 11.3 per cent for the index. \"This fund is not managed,\" he told the directors. Most of their discussion was about whether it fitted Vanguard's mandate, and in September 1975 they approved it.",
+      "Raising the money was harder. Stocks had nearly halved in 1973 and 1974, and on road shows in a dozen cities the brokers were cool on a fund implying that picking managers was a loser's game. Bogle had told his board he hoped for $50 million to $150 million. The offering raised about $11 million, and the underwriters wanted to give it back. \"I said, 'Hell no,'\" Bogle recalled. First Index Investment Trust opened on 31 August 1976.",
+      "In February 1977, by eight votes to five, the directors let Vanguard sell its funds itself, without sales charges. The index fund had no mutual fund competitor until 1984. It is now the Vanguard 500 Index Fund."
+    ]
+  },
+  "quote": {
+    "text": "One of the vizirs was displaced, and withdrew into a fraternity of dervishes, whose blessed society made its impression upon him and afforded consolation to his mind.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter I, \"Of the Customs of Kings\", Story XV",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Saadi's displaced vizier found consolation out of office and, in the rest of the story, turned down the king's offer to take him back. Bogle, fired one day, was in front of a board the next, fighting for the job. Saadi does not say which of them chose more wisely, and neither does this story.",
+    "stance": "challenges"
+  },
+  "reflection": [
+    "Bogle's story is usually told as a comeback, and it was one. But its shape is narrower than the legend: a dismissal he did not want, a charter that barred him from the work he knew best, and a launch that raised a fraction of its target. He worked inside each limit instead of waiting for it to lift.",
+    "Saadi's vizier offers the other path, and it deserves a hearing. Not every closed door is a puzzle to solve. When something in your work is taken away or made smaller, you are allowed to ask first whether you actually want it back."
+  ],
+  "invitation": "Name one limit you are working under this month. Before you push against it, write one line on whether you truly want what lies on the other side of it.",
+  "sources": [
+    {
+      "title": "The First Index Mutual Fund: A History of Vanguard Index Trust and the Vanguard Index Strategy (John C. Bogle, 1997)",
+      "publisher": "The Vanguard Group, Bogle Financial Markets Research Center (archived by the Internet Archive)",
+      "url": "http://web.archive.org/web/20080411182554/http://www.vanguard.com:80/bogle_site/lib/sp19970401.html",
+      "kind": "memoir",
+      "supports": "Bogle's account based on his board presentations and contemporary notes: Vanguard began operations on 1 May 1975 with administration only, not investment management or marketing; Riepe and Twardowski; formal proposal at the September 1975 board meeting and discussion focused on the mandate; 1945-1975 returns of 9.7 per cent for funds and 11.3 per cent for the S&P 500; target of '$50 million to $150 million' in his letter to the board; near-50 per cent fall in stocks in 1973-74; four underwriters led by Dean Witter; road shows in a dozen cities and the 'loser's game' reaction; $11.4 million raised; opening on 31 August 1976; the February 1977 vote of 8 to 5 to end Wellington's distribution and drop sales charges; Wells Fargo's index mutual fund of 1984 as the second"
+    },
+    {
+      "title": "Acceptance Remarks, 2017 CME Group Melamed-Arditti Innovation Award (John C. Bogle, 14 November 2017)",
+      "publisher": "John C. Bogle Center for Financial Literacy",
+      "url": "https://boglecenter.net/wp-content/uploads/CME-Award-11-14-17.pdf",
+      "kind": "memoir",
+      "supports": "Bogle's timeline: 1951 thesis conclusion; collapse of the 1966 merger; fired as CEO of Wellington Management on 23 January 1974 ('My new partners ganged up and fired me'); funds' board meeting in New York the next day, when he was still chairman; Vanguard founded on 24 September 1974 on his last-choice option and named by him; Samuelson's 'Challenge to Judgment'; the mechanical-calculator study; 'This fund is not managed'; board approval in September 1975; the August 1976 offering called 'an abject failure'; no mutual fund competitor until 1984"
+    },
+    {
+      "title": "Birth of the Index Mutual Fund: 'Bogle's Folly' Turns 40 (Jason Zweig, 31 August 2016; first published in The Wall Street Journal)",
+      "publisher": "Jason Zweig (The Wall Street Journal)",
+      "url": "https://jasonzweig.com/?p=5486",
+      "kind": "independent-reporting",
+      "supports": "First Index Investment Trust (now Vanguard 500 Index Fund) opened with $11.3 million against a $150 million target; underwriters wanted to give investors their money back and Bogle's 'I said, Hell no'; critics called it un-American; directors approved partly because they were tired of his pressing; Vanguard carved out of Wellington Management; Samuelson's 1974 article"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Bogle was fired as chief executive of Wellington Management in January 1974, and the new Vanguard was confined to administration, not investment management",
+      "urls": [
+        "https://boglecenter.net/wp-content/uploads/CME-Award-11-14-17.pdf",
+        "http://web.archive.org/web/20080411182554/http://www.vanguard.com:80/bogle_site/lib/sp19970401.html",
+        "https://jasonzweig.com/?p=5486"
+      ]
+    },
+    {
+      "claim": "In September 1975 the board approved the index fund after Bogle argued that it involved no investment management",
+      "urls": [
+        "https://boglecenter.net/wp-content/uploads/CME-Award-11-14-17.pdf",
+        "http://web.archive.org/web/20080411182554/http://www.vanguard.com:80/bogle_site/lib/sp19970401.html"
+      ]
+    },
+    {
+      "claim": "The 1976 underwriting raised about $11 million, far short of the target",
+      "urls": [
+        "https://jasonzweig.com/?p=5486",
+        "http://web.archive.org/web/20080411182554/http://www.vanguard.com:80/bogle_site/lib/sp19970401.html",
+        "https://boglecenter.net/wp-content/uploads/CME-Award-11-14-17.pdf"
+      ]
+    },
+    {
+      "claim": "First Index Investment Trust began operations on 31 August 1976",
+      "urls": [
+        "https://jasonzweig.com/?p=5486",
+        "http://web.archive.org/web/20080411182554/http://www.vanguard.com:80/bogle_site/lib/sp19970401.html"
+      ]
+    }
+  ],
+  "research_notes": "Bogle told this story several times and his own accounts differ. Board meeting: 18 September 1975 in his 1997 history, 27 September 1975 in his 2017 remarks; the story says September 1975. Amount raised: $11.4 million (1997) and $11.3 million (2017 remarks; Zweig 2016); the story says about $11 million. Target: his 1997 history quotes his letter to the board, 'in the $50 million to $150 million range', and elsewhere calls $150 million the initial objective (as does Zweig); his 2017 remarks say the offering was planned for $250 million. The story uses the contemporary board-letter range. Board vote: the 2017 remarks call the approval unanimous, while Zweig (interviewing Bogle in 2016) reports one director voted for it but refused to join the fund's board, and that directors approved partly because they were tired of his pressing; the story says only that they approved it. The 1945-1975 return figures (9.7 and 11.3 per cent, a 1.6-point gap) are from the 1997 history; the 2017 remarks give the same 1.6-point edge and say he worked it out on a Monroe mechanical calculator. Bogle's 2017 remarks say the merger 'collapsed in 1974' and that his 'new partners' fired him; the story does not assign further blame. The 2017 PDF loads but the checker cannot read its compressed text, so it shows as live without a name match. Funding is 'mixed': Vanguard was owned by the funds it served, and the fund's capital came from a public brokers' underwriting. The New York Times obituary and Morningstar's 2026 retrospective were blocked (403) and are not cited. Quote: the Saadi passage is the opening of the story in which the displaced vizier later declines reinstatement; the connection describes the rest of the story.",
+  "researched_at": "2026-11-01"
+}

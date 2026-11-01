@@ -1,0 +1,118 @@
+{
+  "id": "werner-siemens-johann-georg-halske-backyard-workshop-1847",
+  "title": "Three Lathes in a Berlin Backyard: How Siemens & Halske Began",
+  "dek": "In October 1847 an army officer and an instrument maker opened a telegraph workshop on a cousin's loan, and the officer took nearly two years to leave the army.",
+  "story": {
+    "founder": "Werner von Siemens and Johann Georg Halske",
+    "company": "Telegraphen-Bauanstalt von Siemens & Halske (later Siemens)",
+    "event": "Opening a telegraph workshop in a Berlin rear building on a cousin's loan, and leaving the army in 1849",
+    "approx_date": "1847-10",
+    "country": "Germany",
+    "region": "Europe",
+    "industry": "telecoms (telegraph equipment)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In October 1847 the Prussian artillery officer Werner Siemens and the instrument maker Johann Georg Halske opened a telegraph workshop in a rented rear building at Schöneberger Strasse 19, Berlin, on a 6,000-thaler loan from Siemens's cousin Georg in return for six years' share of profits. Siemens stayed in the army while serving on Prussia's telegraph commission; after the 1848 revolution halted the commission, the firm built the Berlin to Frankfurt line, and in June 1849 Siemens left public service for the firm.",
+    "paragraphs": [
+      "On 12 October 1847, three lathes were set up in a rented rear building at Schöneberger Strasse 19 in Berlin, close to the Anhalter railway station, and work began. Werner Siemens, a 30-year-old Prussian artillery officer, used the ground floor; the workshop was one flight up; his partner, the instrument maker Johann Georg Halske, lived above it. Their agreement founding the Telegraphen-Bauanstalt von Siemens & Halske was dated 1 October.",
+      "The partnership began with a doubt. Siemens had designed a dial telegraph that broke its own circuit after each step, so receiver and sender could not drift apart, and asked Halske to build it. Halske doubted it would work. Siemens, by his own account, made a pair from cigar boxes, tin plate, scraps of iron and insulated copper wire, and they worked. Halske offered to leave his own small firm to make telegraphs with him.",
+      "Siemens sat on the army commission choosing a telegraph system for Prussia, which was weighing his instruments and his gutta-percha-insulated wire. He later wrote that he could have hoped to head the future state telegraphs, but \"a position of dependence was not congenial to me.\" He also had younger brothers and sisters to support. Neither partner had money, so his cousin Georg Siemens, a Berlin lawyer, lent them 6,000 thalers for a share of the profits over six years. Siemens stayed in the army for now, meaning to leave once the commission had finished its work.",
+      "It never finished. A public competition he expected to win opened on 15 March 1848; three days later revolution broke out in Berlin, and the commission simply stopped. With no orders at all, Halske kept the workshop making telegraph apparatus. That summer came the firm's first large government order, a line to Frankfurt am Main, more than 650 kilometres away, whose construction Siemens directed from a state post. By early 1849 it carried news from Frankfurt to Berlin within the hour. But the buried wires were already losing insulation, and he chafed under civil-service superiors. In June 1849 he asked to leave the army, then gave up the state post too. When Prussian orders soon dried up, contracts from Russia carried the firm."
+    ]
+  },
+  "quote": {
+    "text": "good thoughts (though God accept them) yet, towards men, are little better than good dreams, except they be put in act; and that cannot be, without power and place, as the vantage, and commanding ground.",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay 11, \"Of Great Place\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Bacon holds that good ideas stay dreams until power and place stand behind them. Siemens turned down the place on offer for a workshop of his own, yet his first great line was built from a government post. Whether he gave up power or only moved it, the story leaves open.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Founding stories are often told as a single leap. Siemens's was slower. He opened the workshop in 1847 but kept his army post, and left only in 1849, after he had seen what public office would actually ask of him. In between, the person who kept things going was Halske, making instruments nobody had ordered.",
+    "If you are keeping one foot in paid work while you build something of your own, that is not a lack of nerve. It may be the honest way to learn which kind of dependence you can live with. It also helps to notice who is quietly keeping the workshop open while you are pulled elsewhere."
+  ],
+  "invitation": "Send one sentence of thanks today to someone who kept something running while your attention was elsewhere, at work or at home. Name the specific thing they did.",
+  "sources": [
+    {
+      "title": "Personal Recollections of Werner von Siemens, translated by W. C. Coupland (Asher & Co., 1893), full text",
+      "publisher": "Internet Archive (University of California Libraries scan)",
+      "url": "https://archive.org/stream/personalrecollec00siemrich/personalrecollec00siemrich_djvu.txt",
+      "kind": "memoir",
+      "supports": "The self-interrupting dial telegraph; Halske's doubt and the cigar-box, tin-plate, iron and copper-wire models that worked; Halske ready to leave his firm (Böttcher & Halske); care for younger brothers and sisters; resolution in autumn 1847 to found a telegraph factory with Halske; the 6,000-thaler loan from cousin George Siemens, a Berlin barrister, for a six-year share of profit; workshop opened 12 October 1847 in the back of a house in the Schöneberger Strasse where both took rooms; the prospect of heading the Prussian state telegraphs set aside because 'a position of dependence was not congenial to me'; staying in the army until the commission finished; competition opened 15 March 1848 and ended with the revolution on 18 March; Halske kept the workshop working with an entire lack of orders; the subterranean line to Frankfurt directed by Siemens from the new telegraph department; working in early 1849 so the imperial election was known the same hour in Berlin; insulation faults and friction with superiors; discharge requested in June 1849 and the state post resigned"
+    },
+    {
+      "title": "Halske, Johann Georg (Sigfrid von Weiher, Neue Deutsche Biographie 7, 1966; Franz Maria Feldhaus, Allgemeine Deutsche Biographie 49, 1904)",
+      "publisher": "Deutsche Biographie (Historical Commission, Bavarian Academy of Sciences)",
+      "url": "https://www.deutsche-biographie.de/116420979.html",
+      "kind": "book",
+      "supports": "Founding of the Telegraphen-Bauanstalt von Siemens & Halske on 1 October 1847; rented rear building at Schönebergerstraße 19 facing the Anhalter Bahnhof, Siemens on the ground floor, workshop one flight up, Halske's rooms two flights up; three lathes set up and work begun on 12 October 1847; 6,000 thalers borrowed from cousin Georg Siemens against a six-year share of profits; Halske as manager of the workshop; Siemens leaving the army in June 1849"
+    },
+    {
+      "title": "Werner von Siemens (1816-1892), biography",
+      "publisher": "Siemens Historical Institute (2016)",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:782bbeff44b427c909de6feeaa67625f2959365b/001-biography-werner-von-siemens-201604.pdf",
+      "kind": "company-archive",
+      "supports": "Born 13 December 1816; Prussian army from 1834; the 1847 pointer telegraph; Siemens & Halske founded in Berlin on 1 October 1847 by Siemens and precision mechanic Halske; Siemens left the army in 1849; summer 1848 order for a Berlin to Frankfurt am Main line of over 650 kilometres; relations with the Prussian Telegraph Administration soured, no further contracts, crisis overcome through orders from Russia from 1851"
+    },
+    {
+      "title": "Siemens made Berlin",
+      "publisher": "visitBerlin (Berlin Tourismus & Kongress GmbH)",
+      "url": "https://www.visitberlin.de/en/siemens-made-berlin",
+      "kind": "independent-reporting",
+      "supports": "Founding in October 1847 in a backyard in Schöneberger Straße 19; the house no longer stands and the site is by the Anhalter Bahnhof S-Bahn station"
+    },
+    {
+      "title": "Personalities: Werner von Siemens and Johann Georg Halske",
+      "publisher": "Siemens (history and heritage pages)",
+      "url": "https://www.siemens.com/lv-lv/company/history-heritage/personalities/",
+      "kind": "company-archive",
+      "supports": "Halske built the pointer telegraph Siemens had designed and was willing to take on the risk of co-founding the company in 1847"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Werner Siemens and Johann Georg Halske founded the Telegraphen-Bauanstalt von Siemens & Halske in Berlin in October 1847 (agreement dated 1 October)",
+      "urls": [
+        "https://assets.new.siemens.com/siemens/assets/api/uuid:782bbeff44b427c909de6feeaa67625f2959365b/001-biography-werner-von-siemens-201604.pdf",
+        "https://www.deutsche-biographie.de/116420979.html",
+        "https://www.visitberlin.de/en/siemens-made-berlin"
+      ]
+    },
+    {
+      "claim": "The workshop was in a rented rear building at Schöneberger Strasse 19 and began work on 12 October 1847",
+      "urls": [
+        "https://archive.org/stream/personalrecollec00siemrich/personalrecollec00siemrich_djvu.txt",
+        "https://www.deutsche-biographie.de/116420979.html",
+        "https://www.visitberlin.de/en/siemens-made-berlin"
+      ]
+    },
+    {
+      "claim": "Siemens's cousin Georg Siemens lent the partners 6,000 thalers in return for a six-year share of the profits",
+      "urls": [
+        "https://archive.org/stream/personalrecollec00siemrich/personalrecollec00siemrich_djvu.txt",
+        "https://www.deutsche-biographie.de/116420979.html"
+      ]
+    },
+    {
+      "claim": "In 1848 the firm received its first large government order, the telegraph line from Berlin to Frankfurt am Main",
+      "urls": [
+        "https://assets.new.siemens.com/siemens/assets/api/uuid:782bbeff44b427c909de6feeaa67625f2959365b/001-biography-werner-von-siemens-201604.pdf",
+        "https://archive.org/stream/personalrecollec00siemrich/personalrecollec00siemrich_djvu.txt"
+      ]
+    },
+    {
+      "claim": "Siemens left the army in 1849 to work for the firm",
+      "urls": [
+        "https://assets.new.siemens.com/siemens/assets/api/uuid:782bbeff44b427c909de6feeaa67625f2959365b/001-biography-werner-von-siemens-201604.pdf",
+        "https://www.deutsche-biographie.de/116420979.html",
+        "https://archive.org/stream/personalrecollec00siemrich/personalrecollec00siemrich_djvu.txt"
+      ]
+    }
+  ],
+  "research_notes": "Founding date: the Siemens Historical Institute and the NDB give 1 October 1847 for the founding; Siemens's memoir and the NDB give 12 October 1847 as the day the workshop opened (three lathes set up). The story gives both, as agreement and first working day. Loan: Siemens's memoir and the NDB/ADB entry say 6,000 thalers from his cousin (Justizrat) Georg Siemens for a six-year profit share; a page at britishtelephones.com, excerpting the Siemens website, gives start-up capital of 6,842 thalers and a 'ten-man operation'. The story uses the founder's own 6,000 and gives no headcount. When Halske and Siemens met: the NDB says 1845 (both founding members of the Berlin Physical Society); siemens.com says early 1847. The memoir places the cigar-box demonstration before the founding without a firm date, so the story dates neither. Frankfurt line: the Siemens Historical Institute calls it the firm's first large government order (summer 1848, over 650 km); the memoir describes Siemens directing construction as an official seconded to the new telegraph department while Halske's workshop made the equipment. Both are reflected. 'Within the hour' paraphrases the memoir's statement that the Frankfurt imperial election (March 1849) was known the same hour in Berlin; the memoir dates the line's working to 'the winter of 1849'. ADB (1904) says Halske left the firm in 1848; the NDB (1966) says he withdrew from management in 1864 and left at the end of 1867, as siemens.com also says; this does not affect the story. Funding is marked bootstrapped: a family loan for a profit share, with Siemens writing that the firm then grew without outside capital. Siemens was ennobled ('von') in 1888, so the story calls him Werner Siemens. Bacon's essay is about holding high office; it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

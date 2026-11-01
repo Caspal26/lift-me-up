@@ -1,0 +1,15 @@
+{
+  "key": "na-ford-detroit",
+  "status": "done",
+  "file": "offline/editions/henry-ford-detroit-automobile-company-dissolution-1901.json",
+  "title": "Henry Ford's First Car Company Folds, and He Builds a Racer",
+  "region": "North America",
+  "industry": "transport (motor vehicles)",
+  "arc": "closure",
+  "funding": "venture",
+  "tradition": "Renaissance and early modern",
+  "thinker": "François de La Rochefoucauld",
+  "talqen": false,
+  "conflicts": "Founding 5 August 1899 (Bryan/HFHA, automotivehistory.org) vs July 1899 (The Henry Ford records); no founding date given. Dissolution January 1901 (Bryan, The Henry Ford records) vs 'by November 1900' (automotivehistory.org) vs failed 'by summer 1901' (Henry Ford curators, 2021); January 1901 used. Vehicles 'no more than 20' / 'about 20' / Ford's 'nineteen or twenty'; 'no more than twenty' used. Henry Ford Company formed November 1901 (Bryan, automotivehistory.org) vs 1902 (Henry Ford lesson page); November used. Ford's 1922 memoir merges his first two companies and dates his resignation to March 1902; the story says that resignation was from the second company.",
+  "notes": "Funding changed from mixed to venture (outside investors led by William H. Murphy; Ford had no personal funds). Causes of failure given only in Ford's own words, labelled as his account; historians' attributions to Ford's perfectionism or stockholders' haste are recorded in research_notes but not used in the story. Quote stance: challenges (luck in the Winton race vs Ford's tidy memoir)."
+}

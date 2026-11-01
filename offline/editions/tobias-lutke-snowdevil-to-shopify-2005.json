@@ -1,0 +1,127 @@
+{
+  "id": "tobias-lutke-snowdevil-to-shopify-2005",
+  "title": "The Snowboard Shop Whose Software Became Shopify",
+  "dek": "In 2004 Tobias Lütke wrote his own store software for Snowdevil, an online snowboard shop in Ottawa, then spent a year and a half turning it into Shopify.",
+  "story": {
+    "founder": "Tobias Lütke and Scott Lake",
+    "company": "Snowdevil (later Shopify)",
+    "event": "Turning the snowboard shop's home-made store software into Shopify",
+    "approx_date": "2005",
+    "country": "Canada",
+    "region": "North America",
+    "industry": "software (e-commerce)",
+    "arc": "change-of-direction",
+    "funding": "mixed",
+    "summary": "In 2004 Tobias Lütke, a German programmer in Ottawa, and Scott Lake started Snowdevil, an online snowboard shop; frustrated by off-the-shelf store software, Lütke wrote his own in Ruby on Rails and relaunched the shop on 31 January 2005. The partners then spent about eighteen months, unpaid and backed by about $200,000 from friends and family and a $250,000 angel investment, turning the software into Shopify, which launched in June 2006.",
+    "paragraphs": [
+      "In late 2004, at the Bridgehead coffee shop on Elgin Street in Ottawa, Tobias Lütke's laptop chimed with an email headed \"New Order!\". Snowdevil, the online snowboard shop he had started with Scott Lake, had made its first sale, to a buyer in Pennsylvania. He later said it was the moment he became an entrepreneur.",
+      "Lütke, a 24-year-old German programmer, had moved to Ottawa to be with Fiona McKean and was burned out from writing what he called \"the driest of the dry kind of stuff\". He met Lake, a family friend twelve years older, at the McKeans' dinner table, and in September 2004 they incorporated Snowdevil to sell high-end boards. \"At the beginning, there was no grand plan,\" Lake said. Lütke meant to be a retailer, not a coder, but off-the-shelf store software made his skin crawl: Yahoo Stores, he said, barely let him change the background colour of the top frame. When a friend pointed him to Ruby on Rails, a new framework, he decided the problem was his tools, not programming, and wrote Snowdevil's store himself. He later recalled two months' work; his post to Rails developers when the new store went live on 31 January 2005 said close to four.",
+      "The shop had a good first season, about 40 boards by one count, and a small profit. But the partners found the software more interesting than the boards. They spent about a year and a half turning it into a product for other merchants, which Lütke later judged \"slightly too long\". Neither took a salary, and Lütke and McKean lived with her parents. About ten friends and relatives, including her father and his uncle, put in roughly $200,000, and around the launch a Toronto angel, John Phillips, added $250,000. Lake named the software Shopify.",
+      "It launched in June 2006. The first office was a table at the same coffee shop, and in October 2006, by Lake's recollection, revenue was $8,000. The first pricing, a cut of sales with no subscription, was in Lütke's words \"an unsustainable business model\". Lake left in 2008, and Lütke, until then focused only on the product, became chief executive. \"Shopify is the software that I hoped to find in 2004 for Snowdevil,\" he said in 2010."
+    ]
+  },
+  "quote": {
+    "text": "the user of them must have the greatest experience of them, and he must indicate to the maker the good or bad qualities which develop themselves in use; for example, the flute-player will tell the flute-maker which of his flutes is satisfactory to the performer",
+    "thinker": "Plato",
+    "work": "The Republic",
+    "locator": "Book X (601d)",
+    "translator": "Benjamin Jowett",
+    "tradition": "Classical Greek",
+    "source_url": "https://www.gutenberg.org/cache/epub/1497/pg1497.txt",
+    "source_title": "The Republic, tr. Benjamin Jowett, Project Gutenberg eBook #1497",
+    "connection": "Plato gives the user, not the maker, the real knowledge of whether a thing is good. Lütke was a frustrated shopkeeper before he was a software vendor, and he built for the merchant he had been, which is why he could call Shopify the software he had hoped to find.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Lütke did not set out to build a software company. He set out to sell snowboards, and the software was in his way. Because he was the frustrated user, he knew which faults mattered and which did not; Plato's flute-player would have recognised the position.",
+    "You use plenty of tools that make your skin crawl a little, at work and at home. That irritation is information, and it is most useful when it is precise: not that a system is bad, but the exact place it fails you. Lütke's own regret, that he polished his fix slightly too long before showing it, is worth keeping beside that."
+  ],
+  "invitation": "Pick one tool you use every day that frustrates you. Write one sentence naming the exact moment it fails you, as precisely as Lütke's background colour, and keep the note where you will see it.",
+  "sources": [
+    {
+      "title": "Q&A with Tobias Lütke of Shopify (Matt Linderman, 3 June 2010)",
+      "publisher": "Signal v. Noise (37signals/Basecamp)",
+      "url": "https://signalvnoise.com/posts/2378-qa-with-tobias-ltke-of-shopify",
+      "kind": "founder-interview",
+      "supports": "Lütke's own account: programming burnout and 'the driest of the dry kind of stuff'; moved to Canada a year before 2004; off-the-shelf systems (Miva, osCommerce, Yahoo Stores) made his skin crawl; Yahoo Stores barely allowed him to change the background colour of the top frame; a friend told him about Ruby on Rails; it was uninspired languages, not programming, that had burned him out; two months building the Snowdevil store software; a great 2004 season and a profit; about a year and a half until Shopify's 2006 release, 'slightly too long'; 'Shopify is the software that I hoped to find in 2004 for Snowdevil'; no salaries for him and co-founder Scott; living with his wife's parents; friends and family chipped in for equity; angel investor John H. Phillips. The post notes the angel investment."
+    },
+    {
+      "title": "BOOK EXCERPT: The Shopify Story — it all started with snowboard sales (Larry MacDonald, 2024)",
+      "publisher": "Ottawa Citizen (excerpt from The Shopify Story, ECW Press)",
+      "url": "https://ottawacitizen.com/opinion/book-excerpt-the-shopify-story-it-all-started-with-snowboard-sales",
+      "kind": "book",
+      "supports": "Lütke followed Fiona McKean to Ottawa; met Scott Lake, a family friend 12 years older, at the McKeans' dinner table; Snowdevil incorporated on 28 September 2004; Lake's 'At the beginning, there was no grand plan'; Lütke worked from the Bridgehead coffee shop on Elgin Street; the first order, from Pennsylvania, arrived as a 'New Order!' email (the excerpt misprints the year as 2014); his remark that this made him an entrepreneur; about 40 snowboards and a modest profit in the first year; Daniel Weinand told him about Ruby on Rails; Lütke's Rails community post that Snowdevil launched on 31 January 2005 after close to four months of programming."
+    },
+    {
+      "title": "Our Canadian CEO of the year you've probably never heard of (Trevor Cole, 27 November 2014)",
+      "publisher": "The Globe and Mail (Report on Business magazine)",
+      "url": "https://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/",
+      "kind": "independent-reporting",
+      "supports": "Lütke 24 and burned out; Lake 12 years older, met through McKean family events; Snowdevil sold high-end boards; both realised the software might be the better product; about $200,000 from some ten friends and family including McKean's father and Lütke's uncle; company named Jaded Pixel and the software named Shopify by Lake; launch in 2006; first office a table in the Bridgehead coffee shop on Elgin Street; October 2006 revenue of $8,000 and Lake's departure in 2008 (Lake's recollections); John Phillips' $250,000 angel investment; Lütke had focused only on product until he became CEO."
+    },
+    {
+      "title": "How Shopify Became the Go-To E-commerce Platform for Startups (Katherine Duncan, 12 March 2012)",
+      "publisher": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/science-technology/how-shopify-became-the-go-to-ecommerce-platform-for-startups/222967",
+      "kind": "independent-reporting",
+      "supports": "Frustration with rigid e-commerce platforms; Lütke and Lake became more interested in the platform than in snowboards; a year and a half improving the software; $200,000 from friends and family and $250,000 from an angel; launch in 2006 as Shopify; co-founders without salaries for nearly two years."
+    },
+    {
+      "title": "FASTEST GROWING COMPANIES: #1 - Shopify (3 May 2010), Internet Archive copy",
+      "publisher": "Ottawa Business Journal",
+      "url": "https://web.archive.org/web/20100506125942/http://www.obj.ca/Other/Special-Reports/2010-05-03/article-1047045/FASTEST-GROWING-COMPANIES:-",
+      "kind": "independent-reporting",
+      "supports": "Lütke and partners set up a rudimentary online snowboard shop while his wife studied; angel and family funding around the June 2006 launch; the firm was started 'on an unsustainable business model', taking only a percentage of sales with no subscription fees."
+    },
+    {
+      "title": "Fluke and luck: Shopify's co-founder profited from both (Diane Jermyn, 5 October 2012)",
+      "publisher": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/report-on-business/small-business/sb-growth/success-stories/fluke-and-luck-shopifys-co-founder-profited-from-both/article4575360/?page=all",
+      "kind": "founder-interview",
+      "supports": "Lütke and a partner started an online snowboard shop in 2004, wrote their own shopping-cart code and realised the business was in the software; Shopify formally launched by 2006; Lütke's account of no salary, coffee-shop working, living with his parents-in-law and a Toronto angel investor."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Lütke and Lake started Snowdevil, an online snowboard shop in Ottawa, in 2004.",
+      "urls": [
+        "https://ottawacitizen.com/opinion/book-excerpt-the-shopify-story-it-all-started-with-snowboard-sales",
+        "https://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/",
+        "https://signalvnoise.com/posts/2378-qa-with-tobias-ltke-of-shopify"
+      ]
+    },
+    {
+      "claim": "Frustrated by off-the-shelf store software, Lütke wrote Snowdevil's store himself in Ruby on Rails.",
+      "urls": [
+        "https://signalvnoise.com/posts/2378-qa-with-tobias-ltke-of-shopify",
+        "https://ottawacitizen.com/opinion/book-excerpt-the-shopify-story-it-all-started-with-snowboard-sales",
+        "https://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/"
+      ]
+    },
+    {
+      "claim": "They spent about a year and a half turning the software into Shopify without salaries.",
+      "urls": [
+        "https://signalvnoise.com/posts/2378-qa-with-tobias-ltke-of-shopify",
+        "https://www.entrepreneur.com/science-technology/how-shopify-became-the-go-to-ecommerce-platform-for-startups/222967"
+      ]
+    },
+    {
+      "claim": "Funding came from about $200,000 from friends and family and a $250,000 angel investment from John Phillips.",
+      "urls": [
+        "https://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/",
+        "https://www.entrepreneur.com/science-technology/how-shopify-became-the-go-to-ecommerce-platform-for-startups/222967",
+        "https://signalvnoise.com/posts/2378-qa-with-tobias-ltke-of-shopify"
+      ]
+    },
+    {
+      "claim": "Shopify launched in June 2006.",
+      "urls": [
+        "https://web.archive.org/web/20100506125942/http://www.obj.ca/Other/Special-Reports/2010-05-03/article-1047045/FASTEST-GROWING-COMPANIES:-",
+        "https://www.theglobeandmail.com/report-on-business/rob-magazine/meet-our-ceo-of-the-year/article21734931/",
+        "https://www.theglobeandmail.com/report-on-business/small-business/sb-growth/success-stories/fluke-and-luck-shopifys-co-founder-profited-from-both/article4575360/?page=all"
+      ]
+    }
+  ],
+  "research_notes": "Build time: Lütke told Signal v. Noise (2010) he spent two months building the Snowdevil store software, but his own Rails community post at the time, quoted in Larry MacDonald's book, says the site launched on 31 January 2005 after close to four months; the story gives both. First sale: MacDonald's excerpt dates it to 'a day in November of 2014', an evident misprint since Snowdevil was incorporated on 28 September 2004 and the Rails site launched in January 2005; the story says late 2004. Where they worked: the Globe and Mail (2012) says the shop ran out of Lütke's garage; MacDonald and the Globe (2014) put him at the Bridgehead coffee shop, which the story follows. Funding: Signal v. Noise has Lütke saying friends and family 'chipped in a bit', while the Globe (2014) and Entrepreneur give about $200,000; the angel investment is $250,000 in both. The Signal v. Noise post was withdrawn from its 'Profitable & Proud' series because of that angel money, so funding is set to 'mixed', not the slate's 'bootstrapped'. Timing of the angel cheque is not precisely dated; the Ottawa Business Journal says angel and family funding came around the June 2006 launch, and Lütke says it met payroll for the first year. Lake's departure: the Globe (2014) says 2008; Entrepreneur says 'shortly after launch'; the story uses 2008. The $8,000 revenue figure is Lake's recollection, as the Globe notes; Lütke declined to give figures. The friend who pointed Lütke to Rails is Daniel Weinand in MacDonald's account; the story says 'a friend'. Weinand, often counted as a third co-founder, is not named in the founder field because the episode turns on Lütke and Lake. Lütke's age (24) is the Globe's.",
+  "researched_at": "2026-11-01"
+}

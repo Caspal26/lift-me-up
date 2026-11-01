@@ -1,0 +1,126 @@
+{
+  "id": "samuel-gikandi-africas-talking-sms-api-2012",
+  "title": "The Year Africa's Talking Nearly Closed and Built an SMS API Instead",
+  "dek": "In 2012, with savings falling each month, Samuel Gikandi and Eston Kimani stopped selling to consumers and opened their text-message tools to developers.",
+  "story": {
+    "founder": "Samuel Gikandi, Eston Kimani",
+    "company": "Africa's Talking",
+    "event": "Turning from failed consumer products to an SMS and USSD API for developers after nearly shutting down",
+    "approx_date": "2012",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "software (telecoms APIs)",
+    "arc": "change-of-direction",
+    "funding": "mixed",
+    "summary": "Samuel Gikandi and Eston Kimani, MIT classmates, set up Africa's Talking in Nairobi in 2010 and tried group buying, e-commerce and consumer SMS products; by Gikandi's account they almost shut down in 2012. After a $20,000 seed investment and three months in San Francisco, they released an API in mid-2012 that let developers send SMS and use short codes and USSD without their own telecom infrastructure. The company turned profitable in 2013 and by 2018 had more than 17,000 developer accounts.",
+    "paragraphs": [
+      "In 2012 Samuel Gikandi was working full time on trading systems for Morgan Stanley in Hong Kong while helping to run a small Nairobi company from afar. He and his MIT classmate Eston Kimani had set up Africa's Talking in 2010 as a holding company to explore ideas: a group-buying site, an e-commerce platform, then a way to send text messages from email. Kimani was working on it full time. The big break, Gikandi later said, was not coming, and \"every month-end, we could see our savings going down.\"",
+      "What they knew by then came mostly from what had not worked. Online shopping had not taken off; as Gikandi later told the IFC, \"people just aren't online.\" The business brought in money, but not the numbers they thought the market warranted, and in 2012, he said, \"we almost shut down.\" Instead they applied for fellowships, including Echoing Green, which drew the notice of Silicon Valley investors and a $20,000 seed investment from Better Ventures.",
+      "In San Francisco for three months, the founders talked about a different customer. Rather than sell their own products to the public, they would offer an API, so that other developers could build text-message services without dealing with mobile operators themselves. Gikandi said it was not obvious it would work, because \"most people were focusing on consumers rather than developers.\" A Nairobi tech site reported in July 2012 that the API had gone live two weeks earlier, after testing from late June, and already had 460 users. It let developers send and receive bulk SMS, connect short codes and use USSD without their own infrastructure or a licence. A company engineer later recalled a team of two developers and an intern.",
+      "Gikandi moved back to Kenya. The company turned profitable in 2013, he said, and by the end of that year, by the engineer's account, it had more than 400 active accounts. It went years without more outside money, which Gikandi said \"instilled a lot of discipline in us.\" In 2015 the founders split the business: Kimani took the consumer products into Focus Mobile, and Gikandi kept the developer platform. By 2018, when the IFC invested $5 million, Africa's Talking had more than 17,000 developer accounts and 20 mobile operators in six countries."
+    ]
+  },
+  "quote": {
+    "text": "Place no hope in the power that thou hast—riches may go from thee. A bag of silver and gold is emptied; the purse of an artisan remains filled.",
+    "thinker": "Saadi",
+    "work": "The Bustan (The Orchard)",
+    "locator": "Chapter VII, Concerning Education, Discourse on the Training of Sons",
+    "translator": "A. Hart Edwards (1911)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/60471/pg60471.txt",
+    "source_title": "The Bustān of Sadi, tr. A. Hart Edwards, Project Gutenberg eBook #60471",
+    "connection": "Saadi's point is that money empties and skill does not. The founders' savings fell month after month; what they still had was the ability to build, and that is what the 2012 API was made from, by two developers and an intern.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Gikandi's line about month-ends is one many founders recognise: the slow arithmetic of savings, checked at the same point every month. What turned Africa's Talking round was not a burst of confidence. It was a plainer reading of what had already failed, and a decision to serve the people who build things rather than compete with them.",
+    "You may be doing some version of that arithmetic yourself. It helps to pull apart the two questions it tangles together: is the money running out, and is the idea wrong? They have different answers and deserve different conversations, ideally not both on the same tired evening."
+  ],
+  "invitation": "Write down one thing you tried that did not work, and beside it one line on what it told you about who actually needs your work.",
+  "sources": [
+    {
+      "title": "Timing, talent - two of the biggest obstacles African startups face: Samuel Gikandi, CEO Africa's Talking (TechPoint, 26 January 2017)",
+      "publisher": "TechPoint Africa (Brenda Wangari); Internet Archive copy",
+      "url": "https://web.archive.org/web/20241111101943/https://techpoint.africa/2017/01/26/samuel-gikandi-africas-talking-ceo/",
+      "kind": "founder-interview",
+      "supports": "Gikandi's Morgan Stanley work in New York and Hong Kong; 2010 decision to explore Kenya's tech sector; Africa's Talking set up with MIT classmate Eston as a holding company; group-buying site, e-commerce platform and SMSLeopard; 'we almost shut down in 2012'; fellowships including Echoing Green; $20,000 seed from Better Ventures; three months in San Francisco; idea of an API for developers and 'most people were focusing on consumers rather than developers'; APIs released around August 2012; profitable in 2013 with no other funding since; 'instilled a lot of discipline in us'; 2015 split into Focus Mobile (Eston) and the API business (Gikandi); Gikandi working full time and his partner full time on the company; 'every month-end, we could see our savings going down'"
+    },
+    {
+      "title": "Africa's Talking releases own API for mobile developers in Africa (25 July 2012)",
+      "publisher": "HumanIPO",
+      "url": "https://humanipo.com/news/1016/africas-talking-releases-own-api-for-mobile-developers-in-africa",
+      "kind": "independent-reporting",
+      "supports": "Contemporary report: Africa's Talking founded in January 2010 by Eston Kimani and Samuel Gikandi; SMS API released about two weeks before 25 July 2012 after testing from late June; 460 users; bulk SMS sending and receiving, short codes, alphanumeric sender IDs and USSD without hosting infrastructure or a CCK licence; Hub Ventures accelerator in Silicon Valley, with Kimani representing the company"
+    },
+    {
+      "title": "Africa's Talking (IFC story, April 2018)",
+      "publisher": "International Finance Corporation (an investor in the company)",
+      "url": "https://www.ifc.org/en/stories/2010/africa-talking",
+      "kind": "independent-reporting",
+      "supports": "Gikandi's move back to Kenya in 2012; first building an e-commerce platform; 'people just aren't online'; turn to software developers; growth since 2012 from five people in one country with one operator to more than 60 staff, 17,000 developer accounts and 20 operators in six countries; IFC's $5 million equity investment"
+    },
+    {
+      "title": "Scaling Africa's Talking (DevCraft Nairobi, 2016)",
+      "publisher": "Ian Juma, Africa's Talking engineer, Speaker Deck",
+      "url": "https://speakerdeck.com/ianjuma/scaling-africastalking-devcraft-nairobi",
+      "kind": "company-archive",
+      "supports": "Summer 2012 start building two-way SMS APIs with almost no active clients; team of two developers and one intern; profitable by the end of 2013 with more than 400 active accounts"
+    },
+    {
+      "title": "Samuel Gikandi and Bilha Ndirangu",
+      "publisher": "Startup Guide",
+      "url": "https://www.startupguide.com/samuel-gikandi-and-bilha-ndirangu",
+      "kind": "founder-interview",
+      "supports": "Founded in 2010 by Gikandi and Kimani after MIT; several pivots before an API platform; the founders spent their own money in the early years while Gikandi kept a full-time job; founders not 'married to any particular vision or product'"
+    },
+    {
+      "title": "Platform helps Africa go mobile (MIT News, republished 11 June 2019)",
+      "publisher": "Zach Winn, MIT News, via Phys.org",
+      "url": "https://phys.org/news/2019-06-platform-africa-mobile.html",
+      "kind": "independent-reporting",
+      "supports": "Gikandi and Kimani as MIT alumni and founders; text, voice and mobile API tools for businesses; an $8.6 million funding round in 2018"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Samuel Gikandi and Eston Kimani set up Africa's Talking in 2010",
+      "urls": [
+        "https://web.archive.org/web/20241111101943/https://techpoint.africa/2017/01/26/samuel-gikandi-africas-talking-ceo/",
+        "https://humanipo.com/news/1016/africas-talking-releases-own-api-for-mobile-developers-in-africa",
+        "https://www.startupguide.com/samuel-gikandi-and-bilha-ndirangu"
+      ]
+    },
+    {
+      "claim": "Early consumer and e-commerce products did not work before the turn to developers",
+      "urls": [
+        "https://web.archive.org/web/20241111101943/https://techpoint.africa/2017/01/26/samuel-gikandi-africas-talking-ceo/",
+        "https://www.ifc.org/en/stories/2010/africa-talking",
+        "https://www.startupguide.com/samuel-gikandi-and-bilha-ndirangu"
+      ]
+    },
+    {
+      "claim": "The SMS API for developers was released in mid-2012",
+      "urls": [
+        "https://humanipo.com/news/1016/africas-talking-releases-own-api-for-mobile-developers-in-africa",
+        "https://web.archive.org/web/20241111101943/https://techpoint.africa/2017/01/26/samuel-gikandi-africas-talking-ceo/",
+        "https://speakerdeck.com/ianjuma/scaling-africastalking-devcraft-nairobi"
+      ]
+    },
+    {
+      "claim": "Africa's Talking became profitable in 2013",
+      "urls": [
+        "https://web.archive.org/web/20241111101943/https://techpoint.africa/2017/01/26/samuel-gikandi-africas-talking-ceo/",
+        "https://speakerdeck.com/ianjuma/scaling-africastalking-devcraft-nairobi"
+      ]
+    },
+    {
+      "claim": "In 2018 the company raised outside investment, including $5 million from the IFC",
+      "urls": [
+        "https://www.ifc.org/en/stories/2010/africa-talking",
+        "https://phys.org/news/2019-06-platform-africa-mobile.html"
+      ]
+    }
+  ],
+  "research_notes": "Founding year: HumanIPO (July 2012) says January 2010, and Gikandi (TechPoint 2017, Startup Guide) says 2010; the MIT News piece republished by Phys.org says the pair founded the company in 2012, which matches the year the API business began and Gikandi moved home. The story uses 2010 for the holding company and 2012 for the change of direction. API date: HumanIPO, writing on 25 July 2012, says the API went live about two weeks earlier after testing from late June; Gikandi in 2017 recalled 'around August 2012'; Startup Guide says the founders settled on APIs in 2014, probably meaning the point it was clearly scalable. The story follows the contemporary report. Funding: Gikandi says $20,000 seed from Better Ventures and no other funding after turning profitable in 2013 (as of 2017); an engineer's 2016 slides describe 'no VC' in summer 2012, which may mean no institutional round. Funding is set to mixed (founders' savings plus a small seed). The IFC piece is by an investor and is used only for Gikandi's quotation, his 2012 return and growth figures. Where Gikandi was in San Francisco: TechPoint says 'we travelled to San Francisco for three months', while HumanIPO says Kimani represented the company at the Hub Ventures accelerator in Silicon Valley; the story says the founders spent three months there. Later events (the CEO succession to Bilha Ndirangu in 2019 and reported boardroom and court disputes in 2025) lie outside this episode and are not covered. The TechPoint page blocks automated requests, so an Internet Archive copy is cited. The Saadi passage is advice on teaching a son a trade; it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

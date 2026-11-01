@@ -1,0 +1,131 @@
+{
+  "id": "ashraf-sabry-fawry-first-bill-network-2008",
+  "title": "Ashraf Sabry's Bet That Egyptians Would Pay Bills at the Corner Shop",
+  "dek": "In 2008 an executive left his job and put most of his savings into a bill-payment network that had to win investors, billers and shopkeepers in turn.",
+  "story": {
+    "founder": "Ashraf Sabry",
+    "company": "Fawry",
+    "event": "Leaving a corporate job to build Egypt's first shared electronic bill-payment network",
+    "approx_date": "2008",
+    "country": "Egypt",
+    "region": "North Africa",
+    "industry": "fintech (electronic bill payment)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In 2008 Ashraf Sabry left his job to found Fawry, by his account investing 80 per cent of his personal resources while he persuaded institutional investors, and carrying the integration cost to win Vodafone as the first biller. After 18 months of preparation Fawry soft-launched in Cairo on 1 December 2009 and in April 2010 began taking cash bill payments at 700 shops in Cairo and Alexandria; Sabry later said it was almost bankrupt after three years, but by 2013 it reported more than 10 million users and 20,000 payment locations.",
+    "paragraphs": [
+      "In 2008 Ashraf Sabry, a former IBM engineer who had spent seven years as vice-chairman and chief operating officer of Raya Holding, left his job. He later recalled having limited time to convince investors that \"customers would trust paying their bills electronically at a grocery store\". He committed, he said, 80 per cent of his personal financial resources to the venture and kept looking for backers until he had convinced the founding investors.",
+      "The problem he wanted to solve was ordinary. Most Egyptian bills were paid in cash, at a company counter or to a collector at the door. A survey Fawry commissioned from Ipsos found most people would rather send someone else to queue, and collectors increasingly found empty homes because both partners were at work. Sabry put online payment at 0.04 per cent of the 1.3 billion bills collected each year.",
+      "A network is useless without companies to pay, and the first one he had to win, he said, was Vodafone. Joining meant building an integration and letting a newcomer into its valuable distribution network, and many inside resisted. Sabry chose to carry the cost of the implementation himself, found an ally within Vodafone and offered a commercial deal it could accept. At a soft launch in Cairo on 1 December 2009, after 18 months of preparation, Fawry had signed Vodafone, Mobinil, Etisalat and Telecom Egypt and linked eight banks. Sabry's target was modest: a little over 100,000 banked customers within a year.",
+      "But by Fawry's estimate about nine in ten Egyptians were unbanked or under-banked. In April 2010 Fawry began taking cash at 700 pharmacies, supermarkets and convenience stores in Cairo and Alexandria: the shopkeeper keyed in a phone number, took the money and printed a receipt. Sabry later said the company was \"almost bankrupt after three years\". It held on. When the IFC invested $6 million in February 2013, Fawry reported more than 10 million users and over 20,000 payment locations, and Sabry described its founding as \"a lengthy, difficult process\"."
+    ]
+  },
+  "quote": {
+    "text": "Wherever a desired result is achieved by the co-operation of many independent persons, its existence as a fact is a pure consequence of the precursive faith in one another of those immediately concerned.",
+    "thinker": "William James",
+    "work": "The Will to Believe, and Other Essays in Popular Philosophy",
+    "locator": "\"The Will to Believe\" (1896), section IX",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/26659/pg26659.txt",
+    "source_title": "The Will to Believe, and Other Essays in Popular Philosophy, Project Gutenberg eBook #26659",
+    "connection": "Sabry credits his own persistence. James, listing a commercial system among his examples, puts the weight elsewhere: a network exists only because many people trust one another before the proof arrives. Vodafone, the banks and 700 shopkeepers each had to move before the others had shown they would.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Founders' stories are usually told as one person refusing to give up. Sabry tells his that way too, and his savings were genuinely on the line. But a bill-payment network cannot be willed into being by one person. Someone inside Vodafone had to argue for it, a shopkeeper had to take a stranger's cash and trust it would be credited, and a customer had to trust the receipt.",
+    "Much of what you are building depends on trust like that, extended before it is earned. It is not weakness to need it. It may help to notice who has already given you some, and to thank them."
+  ],
+  "invitation": "Think of one person who trusted your work before there was much evidence it would succeed. Send them a short message today saying what that trust made possible.",
+  "sources": [
+    {
+      "title": "The journey so far: Ashraf Sabry, CEO, Fawry (11 July 2019), archived copy",
+      "publisher": "How we made it in Africa (Maritz Publishing), via the Internet Archive",
+      "url": "https://web.archive.org/web/20250911124721/https://www.howwemadeitinafrica.com/the-journey-so-far-ashraf-sabry-ceo-fawry/63485/",
+      "kind": "founder-interview",
+      "supports": "Leaving his job in 2008 with limited time to convince investors that customers would trust paying bills at a grocery store; committing 80% of his personal financial resources; searching for investors until the founding investors agreed; Vodafone as the first biller and its internal resistance over integration costs and a new competitor in its distribution network; his decision to carry the implementation cost, find a champion inside Vodafone and offer an appealing commercial deal; being almost bankrupt after three years"
+    },
+    {
+      "title": "Fawry eyes 3 pct of Egypt's banked population (1 December 2009)",
+      "publisher": "Daily News Egypt",
+      "url": "https://www.dailynewsegypt.com/2009/12/01/fawry-eyes-3-pct-of-egypts-banked-population/",
+      "kind": "independent-reporting",
+      "supports": "Soft launch in Cairo; target of 2 to 3 per cent of the banked population, a little over 100,000 people, within a year; telecom billers first (Vodafone, Mobinil, Etisalat, Telecom Egypt and others); eight banks linked; 18 months of preparation; online payment at 0.04 per cent of 1.3 billion bills a year; Sabry naming convincing investors as the first challenge; Ipsos study finding collectors meeting empty homes"
+    },
+    {
+      "title": "Fawry launches first nation-wide electronic bill payment and presentment network in Egypt (press release, 1 December 2009)",
+      "publisher": "Fawry, published on Zawya",
+      "url": "https://www.zawya.com/en/press-release/fawry-launches-first-nation-wide-electronic-bill-payment-and-presentment-network-in-egypt-966833",
+      "kind": "company-archive",
+      "supports": "Launch date of 1 December 2009; company founded in mid-2008 with paid-up capital of EGP 46 million; telecom billers and banks on the network; Ipsos survey in which 84 per cent preferred to send someone else to pay bills because of queues"
+    },
+    {
+      "title": "Fawry brings bill payment service to retailers (9 April 2010)",
+      "publisher": "Daily News Egypt",
+      "url": "https://www.dailynewsegypt.com/2010/04/09/fawry-brings-bill-payment-service-to-retailers/",
+      "kind": "independent-reporting",
+      "supports": "Cash bill payment launched at 700 retailers in Cairo and Alexandria; pharmacies, supermarkets and convenience stores; how a payment works (retailer keys in a phone number, takes cash, issues a receipt); under-banked and unbanked consumers at about 90 per cent of the population; ATM payment from December 2009; company established in 2008"
+    },
+    {
+      "title": "IFC to invest $6m in 'Fawry' (5 February 2013)",
+      "publisher": "Daily News Egypt",
+      "url": "https://dailynewsegypt.com/2013/02/05/ifc-to-invest-6m-in-fawry/",
+      "kind": "independent-reporting",
+      "supports": "IFC's $6 million investment; Sabry calling Fawry a company founded by Egyptians 'through a lengthy, difficult process'; more than 10 million users, 43 providers and more than 20,000 payment locations"
+    },
+    {
+      "title": "Egypt gets $6 m from IFC to promote e-payments (2013)",
+      "publisher": "The North Africa Post",
+      "url": "https://northafricapost.com/2571-egypt-gets-6-m-from-ifc-to-promote-e-payments.html",
+      "kind": "independent-reporting",
+      "supports": "IFC investment to expand Fawry's payment terminals; cash used in about 99 per cent of household transactions; more than 10 million users, 43 service providers and more than 20,000 payment locations"
+    },
+    {
+      "title": "How Fawry Became Egypt's First Fintech Titan (2021)",
+      "publisher": "Fintech News Middle East",
+      "url": "https://fintechnews.ae/9539/fintechegypt/how-fawry-became-egypts-first-fintech-titan/",
+      "kind": "independent-reporting",
+      "supports": "Sabry's background at IBM and seven years as vice-chairman and COO of Raya Holding; idea conceived in 2007 and company founded in 2008; initial investors; a launch in two cities in 2010; 400,000 customers within six months"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Ashraf Sabry founded Fawry in 2008 after leaving his job",
+      "urls": [
+        "https://web.archive.org/web/20250911124721/https://www.howwemadeitinafrica.com/the-journey-so-far-ashraf-sabry-ceo-fawry/63485/",
+        "https://www.zawya.com/en/press-release/fawry-launches-first-nation-wide-electronic-bill-payment-and-presentment-network-in-egypt-966833",
+        "https://fintechnews.ae/9539/fintechegypt/how-fawry-became-egypts-first-fintech-titan/"
+      ]
+    },
+    {
+      "claim": "Telecom operators, starting with Vodafone, were the first billers on the network",
+      "urls": [
+        "https://web.archive.org/web/20250911124721/https://www.howwemadeitinafrica.com/the-journey-so-far-ashraf-sabry-ceo-fawry/63485/",
+        "https://www.dailynewsegypt.com/2009/12/01/fawry-eyes-3-pct-of-egypts-banked-population/",
+        "https://www.zawya.com/en/press-release/fawry-launches-first-nation-wide-electronic-bill-payment-and-presentment-network-in-egypt-966833"
+      ]
+    },
+    {
+      "claim": "Fawry soft-launched in Cairo on 1 December 2009 after about 18 months of preparation",
+      "urls": [
+        "https://www.dailynewsegypt.com/2009/12/01/fawry-eyes-3-pct-of-egypts-banked-population/",
+        "https://www.zawya.com/en/press-release/fawry-launches-first-nation-wide-electronic-bill-payment-and-presentment-network-in-egypt-966833"
+      ]
+    },
+    {
+      "claim": "In 2010 Fawry began cash bill payment through retailers in two cities, Cairo and Alexandria",
+      "urls": [
+        "https://www.dailynewsegypt.com/2010/04/09/fawry-brings-bill-payment-service-to-retailers/",
+        "https://fintechnews.ae/9539/fintechegypt/how-fawry-became-egypts-first-fintech-titan/"
+      ]
+    },
+    {
+      "claim": "By early 2013 Fawry reported more than 10 million users and over 20,000 payment locations",
+      "urls": [
+        "https://dailynewsegypt.com/2013/02/05/ifc-to-invest-6m-in-fawry/",
+        "https://northafricapost.com/2571-egypt-gets-6-m-from-ifc-to-promote-e-payments.html"
+      ]
+    }
+  ],
+  "research_notes": "Launch dates and sizes differ. Fawry's press release and Daily News Egypt date the soft launch (ATM and bank channels) to 1 December 2009; Daily News Egypt reports the retail cash service starting at 700 retailers in Cairo and Alexandria in April 2010, alongside 2,200 ATMs; Fintech News (2021) says the offering launched in March 2010 with 5,000 points of service in two cities. The story uses the contemporary 700-retailer figure and does not use 5,000. Early investors: in December 2009 Sabry named Raya, EFG Hermes and HSBC as major shareholders; Fintech News lists Ideavelopers as an initial investor joined by Raya, Arab African International Bank, HSBC, Alexbank and later the IFC; the story names none and records funding as mixed (Sabry's own money plus institutional shareholders). The 80 per cent of personal resources, the Vodafone negotiation and the near-bankruptcy after three years rest on Sabry's own 2019 interview and are attributed to him. Later figures: in February 2013 Fawry reported more than 10 million users and over 20,000 locations (Daily News Egypt, North Africa Post); Fintech News reports 400,000 customers in the first six months, which the story does not use. The 0.04 per cent figure is Sabry's, as reported in December 2009. The How we made it in Africa page moved when the site changed platform, so an Internet Archive copy is cited. The James passage comes from his argument that some facts cannot exist without prior faith; 'precursive' is his word.",
+  "researched_at": "2026-11-01"
+}

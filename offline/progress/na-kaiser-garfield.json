@@ -1,0 +1,15 @@
+{
+  "key": "na-kaiser-garfield",
+  "status": "done",
+  "file": "offline/editions/sidney-garfield-desert-center-prepaid-care-1933.json",
+  "title": "The Desert Hospital That Was Going Broke Until It Was Paid in Advance",
+  "region": "North America",
+  "industry": "healthcare",
+  "arc": "change-of-direction",
+  "funding": "bootstrapped",
+  "tradition": "Hindu",
+  "thinker": "Rabindranath Tagore",
+  "talqen": false,
+  "conflicts": "Prepayment rates: Garfield's 1986 oral history gives 12.5 per cent of premiums (about eight cents per worker per day) from insurers plus five cents a day from workers for non-work illness; Kaiser Permanente's history agrees on five cents; Crosson (Permanente Journal) says 'a dime a day'. The story uses Garfield's figures, attributed. Kaiser's page says Henry Kaiser sent Hatch; Garfield says he did not know Kaiser then and Hatch proposed it himself; the story follows Garfield. Bed count (15 vs 12) omitted.",
+  "notes": "The main source is Garfield's own AHA oral history (PDF; it loads but its scanned text does not trigger the name check). Company field is 'Contractors General Hospital (later Kaiser Permanente)'; the repeat screen flagged several hospital editions as same-founder on shared words but let it through. PubMed Central pages intermittently return a browser check to scripted requests."
+}

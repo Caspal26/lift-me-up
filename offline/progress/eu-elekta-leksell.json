@@ -1,0 +1,15 @@
+{
+  "key": "eu-elekta-leksell",
+  "status": "done",
+  "file": "offline/editions/lars-leksell-elekta-founded-for-tax-1972.json",
+  "title": "Elekta Began as a Student's Tax Idea in His Father's Flat",
+  "region": "Europe",
+  "industry": "medical devices (neurosurgery and radiosurgery)",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Confucian",
+  "thinker": "Confucius",
+  "talqen": false,
+  "conflicts": "Purpose of the founding: Elekta's history, Dan Leksell and Larry Leksell all say the 1972 company was a tax arrangement living on stereotactic-frame royalties and 'had nothing to do with Gamma Knife'; the Centre for Business History note and Wikipedia say it was founded to commercialise the Gamma Knife. Story follows the first group. Pittsburgh: Cancerworld (Larry) and Wikipedia say the first US unit was installed in 1986 and Larry says his father died three months after its inauguration; Elekta's archive-based history says the contract came in late 1986 after Lars died in January 1986 and the first operation was in August 1987. Story says only that the sale was signed late in 1986. Early revenue: 200,000 SEK after two years (Elekta) vs 'a few hundred thousand dollars' undated (Cancerworld paraphrase); story uses Elekta's figure. Elekta's claim that Stockholm had the only Gamma Knife in 1982 conflicts with its own account of the UCLA prototype (1981), so it was dropped.",
+  "notes": "Slate episode corrected: the company was not founded to make the Gamma Knife, and Larry (Laurent) Leksell, not Lars, did the founding; both are listed. Funding set to bootstrapped (slate: mixed). Quote stance complicates. My first choice, Analects IX.18 (the mound), was taken minutes earlier by the Lego edition, so VII.11 is used instead."
+}

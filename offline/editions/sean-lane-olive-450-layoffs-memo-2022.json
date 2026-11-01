@@ -1,0 +1,140 @@
+{
+  "id": "sean-lane-olive-450-layoffs-memo-2022",
+  "title": "The Memo Sean Lane Sent the Day Olive Cut 450 Jobs",
+  "dek": "In July 2022 the founder of a $4 billion hospital-software company laid off a third of his staff and wrote that the missteps were his; fifteen months later it wound down.",
+  "story": {
+    "founder": "Sean Lane",
+    "company": "Olive (Olive AI)",
+    "event": "Cutting 450 jobs and narrowing the business, fifteen months before the company wound down",
+    "approx_date": "2022-07",
+    "country": "United States",
+    "region": "North America",
+    "industry": "healthcare (hospital administration software)",
+    "arc": "hard-responsibility",
+    "funding": "venture",
+    "summary": "On 19 July 2022 Olive, a Columbus, Ohio, company automating hospital billing and insurance work, cut 450 jobs, about a third of its staff; founder and chief executive Sean Lane wrote that fast growth and lack of focus were missteps he took responsibility for, and narrowed the company to the link between providers and payers. Olive cut 215 more jobs in February 2023, sold its business lines during 2023, and on 31 October 2023 sold its core units to Waystar and Humata Health and began winding down.",
+    "paragraphs": [
+      "On Tuesday 19 July 2022, people working for Olive, a Columbus, Ohio, company whose software automated hospitals' billing and insurance paperwork, learned by email whether they still had jobs. For 450 of them, about a third of a staff that had numbered 1,300 in early June, the answer was no, and their work stopped that day. They were promised at least ten weeks' pay and two months of benefits, with more for longer service.",
+      "Sean Lane had founded Olive in 2012. A year before the cuts it had raised $400 million at a valuation of $4 billion. In his note to staff, Lane listed the economy, a shifting industry and changing customer expectations, but he did not stop there. \"We also must reconcile missteps we made,\" he wrote. The company's \"fast-paced growth and lack of focus strained our product and engineering resources,\" he said, and added: \"I take responsibility for this.\" He called it \"the most difficult decision I've had to make as CEO.\"",
+      "His remedy was to narrow. \"We will focus on doing one thing, doing it incredibly well, and measuring what matters,\" he wrote. That one thing was the connection between hospitals and insurers, starting with revenue-cycle automation for providers and utilisation management for payers, which he said brought in 80 per cent of revenue.",
+      "The narrowing did not hold. In February 2023 Olive cut another 215 jobs, citing economic conditions for technology companies and expected financial strain on healthcare providers. During 2023 it sold its utilisation-management business, one of the two lines Lane had chosen, to Availity, and a business-intelligence product to BurstIQ. On 31 October 2023 it sold its clearinghouse and patient-access units to Waystar and its prior-authorisation unit to Humata Health, saying it would wind down the rest. It had raised more than $800 million. The fate of its last employees was not disclosed."
+    ]
+  },
+  "quote": {
+    "text": "Three things have no durability without their concomitants: property without trade, knowledge without debate, or a sovereignty without government.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, \"Of the Duties of Society\", maxim VII",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Saadi names things that cannot last without what sustains them, and money without trade comes first. Olive had raised more than $800 million, and Lane's own memo said the work beneath it had lost focus. Whether narrowing to one thing in 2022 could still have supplied that trade, the record does not say.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Lane's memo did something many such notes avoid: beside the economy, it named his own part in one plain sentence. That did not save the company, and it did not make the day easier for the 450 people opening their emails. Owning a mistake and repairing it are different jobs, and the second can take longer than the money allows.",
+    "When something you lead goes wrong, at work or at home, you may feel pulled between explaining the circumstances and naming your share. Both can be true at once. The people affected often need the second first, and then a clear account of what will change."
+  ],
+  "invitation": "Think of one thing that went less well this month in which you had a part. Write a single sentence naming your share, without the circumstances, and decide whether one person needs to hear it.",
+  "sources": [
+    {
+      "title": "Columbus tech company Olive lays off 450 employees (19 July 2022)",
+      "publisher": "The Columbus Dispatch, via Yahoo News",
+      "url": "https://www.yahoo.com/news/columbus-tech-company-olive-lays-182434711.html",
+      "kind": "independent-reporting",
+      "supports": "Olive announced 450 job cuts on Tuesday 19 July 2022; work stopped immediately; pay and benefits for 60 days and two weeks' severance per year of service; Lane founded Olive in 2012; $400 million raised a year earlier at a $4 billion valuation; Lane's quotations: 'the most difficult decision I've had to make as CEO', 'we also must reconcile missteps we made', 'Our fast-paced growth and lack of focus strained our product and engineering resources', 'I take responsibility for this', 'We will focus on doing one thing, doing it incredibly well, and measuring what matters'; the chosen focus on the provider-payer connection, Autonomous Revenue Cycle and Utilization Management, said to be 80% of revenue; headquarters in downtown Columbus"
+    },
+    {
+      "title": "Q&A: Columbus unicorn Olive on why it's cutting 450 jobs yet confident in future (Carrie Ghose, 19 July 2022)",
+      "publisher": "Columbus Business First, via NBC4 WCMH-TV",
+      "url": "https://digital-release.nbc4i.com/?p=1193534",
+      "kind": "independent-reporting",
+      "supports": "Employees notified by email whether they were staying or losing their jobs; at least 10 weeks' pay, more for tenure over a year, and two months of benefits; about 1,300 employees as of early June 2022; Lane's view that retrenchment was essential for survival"
+    },
+    {
+      "title": "Olive AI cuts 215 jobs as tech and healthcare industries struggle (Carrie Ghose, 10 February 2023)",
+      "publisher": "Columbus Business First, via NBC4 WCMH-TV",
+      "url": "https://digital-release.nbc4i.com/news/columbus-business-first/olive-ai-cuts-215-jobs-as-tech-and-healthcare-industries-struggle/amp",
+      "kind": "independent-reporting",
+      "supports": "Olive cut another 215 jobs on Thursday 9 February 2023; company statement citing continued economic conditions affecting tech companies and anticipated financial strain among healthcare providers"
+    },
+    {
+      "title": "Olive Shutters Business After Sale to Waystar and Humata Health (Fred Pennic, 31 October 2023)",
+      "publisher": "HIT Consultant",
+      "url": "https://hitconsultant.net/2023/10/31/olive-shutters-business-after-sale-to-waystar-and-humata-health/",
+      "kind": "independent-reporting",
+      "supports": "On 31 October 2023 Olive announced it would shut down after selling its Clearinghouse and Patient Access units to Waystar and its Prior Authorization unit to Humata Health; earlier in 2023 it sold its utilization management unit to Availity and its business intelligence solution to BurstIQ; founded 2012; over $900 million raised and a $4 billion valuation"
+    },
+    {
+      "title": "Olive AI selling rest of business to Waystar Health and Humata Health, winding down: reports (Donna Cusano, 31 October 2023)",
+      "publisher": "Telecare Aware",
+      "url": "https://telecareaware.com/olive-ai-selling-rest-of-business-to-waystar-health-and-humata-health-winding-down-reports/",
+      "kind": "independent-reporting",
+      "supports": "Text of Olive's closing statement ('With the sale of our core business units, Olive will wind down the remainder of its business'); sale prices and staff transitions not disclosed; the July 2022 layoff of 450 (one third of staff) and February 2023 layoff of 215; sales of business intelligence to BurstIQ and utilization management to Availity between February and June 2023; over $850 million raised in nine rounds"
+    },
+    {
+      "title": "Shaken and stirred (Rock Weekly, 6 November 2023)",
+      "publisher": "Rock Health",
+      "url": "https://rockhealth.com/rock-weekly/shaken-and-stirred",
+      "kind": "independent-reporting",
+      "supports": "Olive announced it was shutting down and selling its assets; raised over $800 million in venture funding at a peak valuation of $4 billion; Olive's self-described 'fast-paced growth and lack of focus'; sale to Waystar and Humata Health"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 19 July 2022 Olive cut 450 jobs, about a third of its staff.",
+      "urls": [
+        "https://www.yahoo.com/news/columbus-tech-company-olive-lays-182434711.html",
+        "https://digital-release.nbc4i.com/?p=1193534",
+        "https://telecareaware.com/olive-ai-selling-rest-of-business-to-waystar-health-and-humata-health-winding-down-reports/"
+      ]
+    },
+    {
+      "claim": "Lane attributed the cuts in part to the company's own fast growth and lack of focus.",
+      "urls": [
+        "https://www.yahoo.com/news/columbus-tech-company-olive-lays-182434711.html",
+        "https://rockhealth.com/rock-weekly/shaken-and-stirred"
+      ]
+    },
+    {
+      "claim": "Departing employees received at least about ten weeks' pay and two months of benefits.",
+      "urls": [
+        "https://digital-release.nbc4i.com/?p=1193534",
+        "https://www.yahoo.com/news/columbus-tech-company-olive-lays-182434711.html"
+      ]
+    },
+    {
+      "claim": "Olive cut another 215 jobs in February 2023.",
+      "urls": [
+        "https://digital-release.nbc4i.com/news/columbus-business-first/olive-ai-cuts-215-jobs-as-tech-and-healthcare-industries-struggle/amp",
+        "https://telecareaware.com/olive-ai-selling-rest-of-business-to-waystar-health-and-humata-health-winding-down-reports/"
+      ]
+    },
+    {
+      "claim": "During 2023 Olive sold its utilisation-management unit to Availity and a business-intelligence product to BurstIQ.",
+      "urls": [
+        "https://hitconsultant.net/2023/10/31/olive-shutters-business-after-sale-to-waystar-and-humata-health/",
+        "https://telecareaware.com/olive-ai-selling-rest-of-business-to-waystar-health-and-humata-health-winding-down-reports/"
+      ]
+    },
+    {
+      "claim": "On 31 October 2023 Olive sold its remaining core units to Waystar and Humata Health and began winding down.",
+      "urls": [
+        "https://hitconsultant.net/2023/10/31/olive-shutters-business-after-sale-to-waystar-and-humata-health/",
+        "https://telecareaware.com/olive-ai-selling-rest-of-business-to-waystar-health-and-humata-health-winding-down-reports/",
+        "https://rockhealth.com/rock-weekly/shaken-and-stirred"
+      ]
+    },
+    {
+      "claim": "Olive had raised $400 million at a $4 billion valuation in 2021 and more than $800 million in all.",
+      "urls": [
+        "https://www.yahoo.com/news/columbus-tech-company-olive-lays-182434711.html",
+        "https://rockhealth.com/rock-weekly/shaken-and-stirred",
+        "https://hitconsultant.net/2023/10/31/olive-shutters-business-after-sale-to-waystar-and-humata-health/"
+      ]
+    }
+  ],
+  "research_notes": "Episode: the slate named the October 2023 shutdown, but no account of that decision in Sean Lane's own words could be found in a source that loads; the closure was announced in a brief company statement, and the memos Axios reported on are behind a 403. The best-documented founder moment is the July 2022 layoff memo, quoted at length by the Columbus Dispatch, so the story is built on that decision and tells the 2023 wind-down as what followed; arc is set to hard-responsibility accordingly. The story does not say who made the October 2023 decision, because no loadable source names Lane as its author or confirms his role at that date. Funding totals differ: Rock Health says over $800 million, Telecare Aware over $850 million in nine rounds, HIT Consultant (company boilerplate) over $900 million; the story uses 'more than $800 million'. Severance: Business First says at least ten weeks' pay plus two months of benefits, more for tenure over a year; the Dispatch says pay and benefits for 60 days plus two weeks' severance per year of service; the story uses Business First's wording. Headcount before the cut: 1,300 in early June 2022 (Business First); Telecare Aware calls the 450 one third of staff and the 215 in February 2023 35 per cent. Telecare Aware also mentions a further July layoff of 450 in a sentence that appears to repeat the 2022 cut; it is not used. Blame: Telecare Aware's editorial comparisons and earlier critical reporting (an April 2022 Axios investigation, KLAS reviews) are not repeated; the story attributes cause only as Lane and the company put it. Sale prices (reported elsewhere as $10 million from Waystar and $1.25 million from Humata) come from sources that block automated requests and are left out. Saadi's maxim is from the Gulistan's chapter of rules for conduct and concerns what makes wealth, learning and rule endure; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

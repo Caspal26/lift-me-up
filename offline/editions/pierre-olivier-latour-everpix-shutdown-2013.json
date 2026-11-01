@@ -1,0 +1,112 @@
+{
+  "id": "pierre-olivier-latour-everpix-shutdown-2013",
+  "title": "The Autumn Everpix Chose a Careful Ending Over One More Month",
+  "dek": "In late 2013 the founders of a much-praised photo service could not raise a Series A, let a month's reprieve go and spent what was left closing it gently.",
+  "story": {
+    "founder": "Pierre-Olivier Latour, Kevin Quennesson and Wayne Fan",
+    "company": "Everpix",
+    "event": "Shutting down the Everpix photo service after failing to raise a Series A",
+    "approx_date": "2013-11",
+    "country": "United States",
+    "region": "North America",
+    "industry": "software (consumer photo service)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Everpix, a San Francisco photo-organising service founded in 2011 by Pierre-Olivier Latour, Kevin Quennesson and Wayne Fan, had about 50,000 users and some 7,000 paying subscribers but could not raise a Series A, and a sale to Path fell through. A last offer of one more month's funding did not go ahead; they sold the technology to pay for refunds, photo downloads and staff salaries, announced the closure on 5 November 2013 and shut the service on 15 December; in January 2014 they published the company's internal data.",
+    "paragraphs": [
+      "One day in October 2013, the seven people of Everpix met in their co-working space in San Francisco to plan its shutdown. Wayne Fan, a co-founder, put up a mock-up of the screen customers would see, describing refunds for the paying subscribers, if the money could be found. Pierre-Olivier Latour, whose idea it had been, said they could not pay an Amazon Web Services bill of about $35,000 due on the third. For a month the staff had been working for minimum wage.",
+      "Latour and Kevin Quennesson, French engineers who had worked on Apple's Quartz Composer, started Everpix in 2011 with Fan to gather and sort people's photo collections automatically. Critics praised it, and people did pay: The Verge reported that 12.4 per cent of free users subscribed, about twice Evernote's rate. By the founders' count, sales reached about $40,000 a month, enough to run the service but not to pay salaries.",
+      "What they lacked was growth fast enough for investors. Over 2013 Latour toured venture firms for $5 million; one partner doubted a $100 million subscription business could be built in photos \"in this age of free photo tools\". The seed investor, Index Ventures, declined to lead the round, and a tentative sale to Path collapsed. In August the founders had told their investors they had to \"either fold the company or sell it\". At the end, an investor who loved the product offered to fund one more month. Employees worried it would only prolong the inevitable, and the existing investors objected.",
+      "So they closed it, as carefully as the money allowed. They set about selling the technology, without any user photos or data, to cover an estimated $200,000 for refunds, time for users to download their pictures, and full salaries for the staff. The closure was announced on 5 November 2013, and the service ended on 15 December. The founders acknowledged they had spent too long on the product and too little on growth. \"I have more respect for someone who starts a restaurant and puts their life savings into it than what I've done,\" Latour said.",
+      "In January 2014 they published hundreds of files on GitHub: metrics, accounts and the unedited notes from investors who had passed, so others could learn from them."
+    ]
+  },
+  "quote": {
+    "text": "He, if the whole world flattered him, would not be affected thereby, nor if the whole world blamed him would he lose his faith in himself. For Yung can distinguish between the intrinsic and the extrinsic, between honour and shame",
+    "thinker": "Zhuangzi",
+    "work": "Zhuangzi (Chuang Tzŭ)",
+    "locator": "Chapter I, \"Transcendental Bliss\"",
+    "translator": "Herbert A. Giles (1889)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/59709/pg59709.txt",
+    "source_title": "Chuang Tzŭ: Mystic, Moralist, and Social Reformer, tr. Herbert A. Giles, Project Gutenberg eBook #59709",
+    "connection": "Everpix was praised everywhere and refused everywhere, often in the same email. Zhuangzi's philosopher would be moved by neither. But a company cannot entirely ignore the outside verdict when that verdict decides whether salaries are paid, and the story leaves that tension standing.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "The Everpix team could not choose whether their company survived. They could choose how it ended: refunds before anything else, time for people to take their photographs home, wages paid in full, and the data left open for whoever came next.",
+    "Not every piece of work you do will last, however good it is, and however much it is liked. Praise and rejection may even arrive in the same message, as they did for Latour. What stays within your reach is how you treat the people who trusted you on the way out, and that part is never wasted."
+  ],
+  "invitation": "Think of one thing you have promised someone that would matter if your plans changed suddenly. Write down, in one sentence, how you would keep that promise anyway.",
+  "sources": [
+    {
+      "title": "Out of the picture: why the world's best photo startup is going out of business (Casey Newton)",
+      "publisher": "The Verge, 5 November 2013",
+      "url": "https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup",
+      "kind": "independent-reporting",
+      "supports": "The October 2013 meeting of the seven staff; Fan's mock-up of the refund screen; the AWS bill of about $35,000 and Latour's remark; minimum wage for the past month; Latour's and Quennesson's Apple and Quartz Composer background; Fan brought on as co-founder; incorporation in August 2011; subscription prices; 12.4 per cent conversion against about 6 per cent for Evernote; 55,000 users and 6,800 paid subscribers; the $5 million Series A attempt; the VC email about 'this age of free photo tools'; Index declining to lead; the collapsed Path deal; the investor's offer of another month, employees' worries and Index and Strive's objection; selling the technology without user data; the estimated $200,000 for refunds, downloads and full salaries; founders' admitted mistakes; Latour's restaurant remark."
+    },
+    {
+      "title": "Everpix-Intelligence: README and Timeline & Numbers",
+      "publisher": "Everpix (company repository on GitHub, published 9 January 2014)",
+      "url": "https://github.com/everpix/Everpix-Intelligence",
+      "kind": "company-archive",
+      "supports": "Founded in 2011; $2.3 million raised over its lifetime; no Series A; shutdown announced 5 November 2013; 50,000 users including 7,000 subscribers; subscription sales of about $40,000 a month, enough for variable but not fixed costs; the dataset of metrics, financials, investor reports and unedited VC feedback released so that others could learn; timeline with Kevin and Wayne joining Pierre as co-founders in summer 2011."
+    },
+    {
+      "title": "Everpix August 2013 Report (monthly investor report)",
+      "publisher": "Everpix (company repository on GitHub)",
+      "url": "https://raw.githubusercontent.com/everpix/Everpix-Intelligence/master/Investor%20Reports/2013-08.md",
+      "kind": "shareholder-letter",
+      "supports": "The founders' own account to investors in August 2013: no cash left to pay salaries in September; 45,000+ users and 5,500+ subscribers; 13 per cent conversion; VC feedback from three Series A tours; 'we just can't raise money and therefore have to either fold the company or sell it in the coming weeks'."
+    },
+    {
+      "title": "Everpix, The Cloud-Based Photo Startup, Is Shutting Down (Colleen Taylor)",
+      "publisher": "TechCrunch, 5 November 2013",
+      "url": "https://techcrunch.com/2013/11/05/everpix-shutting-down/",
+      "kind": "independent-reporting",
+      "supports": "Shutdown announced 5 November 2013; sign-ups stopped and apps read-only; operations ending on 15 December 2013; failure to secure funding or an acquirer; $1.8 million raised from investors including Index Ventures and 500 Startups."
+    },
+    {
+      "title": "Everpix goes out of business, subscribers will be refunded (Megan Lavey-Heaton)",
+      "publisher": "Engadget, 5 November 2013",
+      "url": "https://www.engadget.com/2013-11-05-everpix-goes-out-of-business-subscribers-will-be-refunded.html",
+      "kind": "independent-reporting",
+      "supports": "Subscribers to be refunded; users able to download their photos until 15 December; the technology being sold to cover costs; the Path deal falling through."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Everpix announced its closure on 5 November 2013 and ended the service on 15 December 2013.",
+      "urls": [
+        "https://techcrunch.com/2013/11/05/everpix-shutting-down/",
+        "https://www.engadget.com/2013-11-05-everpix-goes-out-of-business-subscribers-will-be-refunded.html",
+        "https://github.com/everpix/Everpix-Intelligence"
+      ]
+    },
+    {
+      "claim": "Everpix closed because it could not raise further funding (a Series A) or complete a sale.",
+      "urls": [
+        "https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup",
+        "https://techcrunch.com/2013/11/05/everpix-shutting-down/",
+        "https://github.com/everpix/Everpix-Intelligence"
+      ]
+    },
+    {
+      "claim": "Users paid: several thousand subscribers (6,800 per The Verge, about 7,000 per the founders) and subscription sales of roughly $40,000 a month that covered running costs but not fixed costs.",
+      "urls": [
+        "https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup",
+        "https://github.com/everpix/Everpix-Intelligence"
+      ]
+    },
+    {
+      "claim": "The technology was sold to pay for subscriber refunds and the closure, and users could download their photos.",
+      "urls": [
+        "https://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup",
+        "https://www.engadget.com/2013-11-05-everpix-goes-out-of-business-subscribers-will-be-refunded.html"
+      ]
+    }
+  ],
+  "research_notes": "The slate described Everpix as a service 'people loved but did not pay for'; the sources show people did pay (The Verge: 12.4 per cent of free users subscribed; the founders: about $40,000 a month in subscription sales), so the story says paid subscriptions covered running costs but not salaries, and that growth, not willingness to pay, was the investors' concern. User and subscriber figures differ slightly: The Verge gives 55,000 users and 6,800 paid subscribers; the founders' README gives 50,000 users including 7,000 subscribers at the announcement; their August 2013 report gave 45,000+ and 5,500+. The story gives no user total and cites only the conversion rate and monthly sales. Funding: TechCrunch says $1.8 million (the seed money before the bridge loan); the founders and The Verge give $2.3 million including Index's $500,000 bridge (the founders' timeline lists a $525,000 bridge note); the story does not state a total. Conversion: The Verge says 12.4 per cent, the August investor report says 13 per cent; the story uses The Verge's figure. The October meeting was attended by The Verge's reporter, whom the founders say they invited to chronicle their last weeks (README). Wayne Fan is included as a co-founder, as both The Verge and the founders' timeline describe him. Engadget reported full refunds; the story says only 'refunds'. The GitHub release date (9 January 2014) is from the repository's first commit.",
+  "researched_at": "2026-11-01"
+}

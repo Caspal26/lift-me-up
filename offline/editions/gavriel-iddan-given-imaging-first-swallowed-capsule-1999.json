@@ -1,0 +1,131 @@
+{
+  "id": "gavriel-iddan-given-imaging-first-swallowed-capsule-1999",
+  "title": "The Basement Near Tel Aviv Where the First Camera Pill Was Swallowed",
+  "dek": "Gavriel Iddan carried the idea of a swallowable camera for nearly two decades; in late 1999 a colleague swallowed the first one while the team watched a screen.",
+  "story": {
+    "founder": "Gavriel Iddan and Gavriel Meron",
+    "company": "Given Imaging",
+    "event": "Building the first wireless capsule camera and testing it in a human in 1999",
+    "approx_date": "1999-10",
+    "country": "Israel",
+    "region": "Middle East",
+    "industry": "medical devices (diagnostic imaging)",
+    "arc": "breakthrough",
+    "funding": "venture",
+    "summary": "Gavriel Iddan, an electro-optical engineer at Israel's defence research agency Rafael, spent years developing the idea of a swallowable wireless camera to view the small intestine, but could not raise money for it. Given Imaging was incorporated in 1998 with Rafael's backing and Gavriel Meron as chief executive; its engineers built the capsule's parts, and in late 1999 the British gastroenterologist Paul Swain became the first person to swallow one. The device was reported in Nature in May 2000 and cleared by the US Food and Drug Administration in August 2001.",
+    "paragraphs": [
+      "In October 1999, eight to ten people from a young Israeli company crowded into the basement office of the gastroenterologist Eitan Scapa in Ramat Hasharon, near Tel Aviv, watching a screen. Paul Swain, a gastroenterologist from the Royal London Hospital, had just become the first person to swallow a wireless camera capsule. For more than three hours it would not leave his stomach, until Scapa passed an endoscope, without sedation, and moved it on into the small bowel.",
+      "The capsule began with Gavriel Iddan, an electro-optical engineer at Rafael, Israel's defence research agency, who had worked on the optical \"eye\" of guided missiles. On a sabbatical in Boston in 1981, by one history of the device, Scapa told him that fibre-optic scopes could not reach most of the small intestine. A camera on a cable could not go that far, and early camera chips used so much power that a tiny battery would last minutes. In 1993 Iddan proposed splitting the system in three: a swallowed camera and transmitter, a recorder worn on the body, and software to make hours of pictures reviewable. Funding was harder. \"I tried in vain to raise money,\" he said in 2001; people thought it \"good for a movie but not for a business\". Rafael lent him its labs but would not invest.",
+      "Parts of the answer came from elsewhere: low-power CMOS imaging chips and white LEDs. In January 1998, with Rafael's backing, Gavriel Meron and the engineer Arkady Glukhovsky incorporated Given Imaging to build the capsule; the European Patent Office counts Iddan as a co-founder. Meron concluded the parts could not be bought and would have to be made. An outside expert predicted a CMOS chip at body temperature would be too noisy for sharp images, but the engineer Dov Avni knew Tower Semiconductor in Israel had solved the problem, and the team went ahead. Working prototypes followed in January 1999.",
+      "In May 2000 Iddan, Meron, Glukhovsky and Swain reported the capsule's first human tests in Nature; ten healthy volunteers had swallowed it. Some doctors had doubts: it could not be stopped, steered or sent back. The US Food and Drug Administration cleared it in August 2001, and by about 2011 the European Patent Office reported close to 1.5 million uses."
+    ]
+  },
+  "quote": {
+    "text": "The ripeness, or unripeness, of the occasion (as we said) must ever be well weighed; and generally it is good, to commit the beginnings of all great actions to Argus, with his hundred eyes, and the ends to Briareus, with his hundred hands; first to watch, and then to speed.",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay XXI, \"Of Delays\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Bacon credits the long watcher with judgment and the finish to many hands. The capsule had both, but Iddan's own account is that his watching was not a choice: for years nobody would pay to build it. Waiting for the right moment and being made to wait can look the same from outside.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Iddan's idea made sense in 1981 and could not be built for well over a decade. The parts it needed did not yet exist, and the people who might have paid for it thought it belonged in a film. What carried it in the end was a chain of people: a doctor who named a problem, an engineer who kept hold of it, a manager who raised money, a camera specialist, and a colleague willing to swallow the result.",
+    "Some of your ideas may be early rather than wrong. It helps to write down what would have to exist for one of them to work, and who, besides you, it would need."
+  ],
+  "invitation": "Pick one idea you once set aside as unworkable. Write one line naming the missing piece that stopped it, then spend five minutes today finding out whether that piece exists now.",
+  "sources": [
+    {
+      "title": "The history of time for capsule endoscopy (Annals of Translational Medicine, 2017)",
+      "publisher": "Annals of Translational Medicine (Samuel N. Adler)",
+      "url": "https://atm.amegroups.org/article/view/14507/html",
+      "kind": "independent-reporting",
+      "supports": "Iddan's 1981 sabbatical from Rafael's electro-optical design section and Scapa's explanation that fibre optics left the small bowel out of reach; power limits of CCD chips; the 1993 three-part design; the CMOS article by Eric Fossum; Iddan meeting Meron in 1994; Meron's conclusion that components had to be made rather than bought; the Sarnoff expert's prediction about CMOS noise at body temperature and Avni's knowledge of Tower Semiconductor's process; Meron founding Given Imaging in 1998; working prototypes in January 1999; Paul Swain becoming the first human to swallow a capsule in October 1999 in Scapa's office in Ramat Hasharon, with 8 to 10 team members watching; the capsule staying in his stomach for over three hours until Scapa moved it with an endoscope without sedation; FDA clearance in 2001."
+    },
+    {
+      "title": "Camera-in-a-pill gives a closer look",
+      "publisher": "ISRAEL21c (1 November 2001)",
+      "url": "https://archive.israel21c.org/camera-in-a-pill-gives-a-closer-look/",
+      "kind": "founder-interview",
+      "supports": "Iddan headed Rafael's electro-optical design section and worked on the seeker, the 'eye' of missiles; his quotes 'I tried in vain to raise money' and that people thought the idea 'good for a movie but not for a business'; Rafael let him use its labs but would not invest; CMOS, ASIC and white LED advances; Dov Avni's camera chip; Meron also volunteered to swallow the pill; FDA marketing clearance in August 2001; the $60 million IPO in October 2001."
+    },
+    {
+      "title": "Given Imaging Ltd. (International Directory of Company Histories)",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/given-imaging-ltd",
+      "kind": "business-school-case",
+      "supports": "Meron and Glukhovsky incorporating Given (Gastrointestinal Video Endoscopy) in January 1998 in conjunction with Rafael; Glukhovsky's earlier work for Rafael Development Corporation; CMOS chips and white LEDs making the capsule possible; testing on ten people by summer 2000; FDA clearance in August 2001; IPO in October 2001."
+    },
+    {
+      "title": "Gavriel Iddan (European Inventor Award finalist)",
+      "publisher": "European Patent Office",
+      "url": "https://www.epo.org/en/news-events/european-inventor-award/meet-the-finalists/gavriel-iddan",
+      "kind": "independent-reporting",
+      "supports": "Iddan pioneering wireless capsule endoscopy in the mid-1990s; co-founding Given Imaging in 1998; release in 2001; close to 1.5 million uses of the PillCam SB in more than 75 countries; the difficulty of examining the small intestine with earlier tools."
+    },
+    {
+      "title": "A transmitter pill to swallow: Camera records digestive tract",
+      "publisher": "The Seattle Times (25 May 2000)",
+      "url": "https://archive.seattletimes.com/archive/20000525/4022958/a-transmitter-pill-to-swallow-camera-records-digestive-tract",
+      "kind": "independent-reporting",
+      "supports": "Initial results published in Nature; ten healthy volunteers swallowed the capsules; Paul Swain of the Royal London Hospital directed the tests and swallowed a capsule himself; sceptical comments that the capsule could not look around, go back, stop or be steered."
+    },
+    {
+      "title": "Lights, Camera, Swallow! (Discover, Vol. 21 No. 7, July 2000)",
+      "publisher": "Discover magazine (copy hosted on Eric Fossum's website)",
+      "url": "https://ericfossum.com/Articles/Cumulative%20Articles%20about%20EF/Pill%20Camera%20in%20DISCOVER%20Vol.htm",
+      "kind": "independent-reporting",
+      "supports": "Given Imaging's camera capsule using a CMOS camera and white LEDs; preliminary human trials in England and Israel; Swain one of the developers and a volunteer in the human trials; citation of the Nature paper by Iddan, Meron, Glukhovsky and Swain (25 May 2000)."
+    },
+    {
+      "title": "First wireless capsule endoscope to be swallowed by a person",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8819639/first-wireless-capsule-endoscope-to-be-swallowed-by-a-person",
+      "kind": "company-archive",
+      "supports": "The capsule, made in Israel by Given Imaging, was the first swallowed by a person, in late 1999, by Paul Swain, who led the London group; the Israeli and London groups joined forces in 1997; Iddan proposed dividing the system into three parts."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Iddan could not raise money for the capsule for years, and the idea needed later advances in CMOS imaging chips and white LEDs",
+      "urls": [
+        "https://archive.israel21c.org/camera-in-a-pill-gives-a-closer-look/",
+        "https://atm.amegroups.org/article/view/14507/html",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/given-imaging-ltd"
+      ]
+    },
+    {
+      "claim": "Given Imaging was set up in 1998 with Rafael's backing, with Gavriel Meron leading it",
+      "urls": [
+        "https://atm.amegroups.org/article/view/14507/html",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/given-imaging-ltd",
+        "https://www.epo.org/en/news-events/european-inventor-award/meet-the-finalists/gavriel-iddan"
+      ]
+    },
+    {
+      "claim": "Paul Swain was the first person to swallow the capsule, in late 1999",
+      "urls": [
+        "https://atm.amegroups.org/article/view/14507/html",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8819639/first-wireless-capsule-endoscope-to-be-swallowed-by-a-person"
+      ]
+    },
+    {
+      "claim": "The first human tests, in ten healthy volunteers, were reported in Nature in May 2000",
+      "urls": [
+        "https://archive.seattletimes.com/archive/20000525/4022958/a-transmitter-pill-to-swallow-camera-records-digestive-tract",
+        "https://ericfossum.com/Articles/Cumulative%20Articles%20about%20EF/Pill%20Camera%20in%20DISCOVER%20Vol.htm"
+      ]
+    },
+    {
+      "claim": "The US FDA cleared the capsule in August 2001",
+      "urls": [
+        "https://archive.israel21c.org/camera-in-a-pill-gives-a-closer-look/",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/given-imaging-ltd"
+      ]
+    }
+  ],
+  "research_notes": "Founders: sources disagree. Encyclopedia.com (International Directory of Company Histories) says Meron and Glukhovsky incorporated Given in January 1998 in conjunction with Rafael; Adler (2017) says Meron founded it in 1998; the European Patent Office says Iddan co-founded it in 1998. The story gives the incorporation as encyclopedia.com describes it and notes the EPO's view, and the founder field names both Iddan (inventor) and Meron. Dates of the idea: Adler, drawing on Iddan's own 2004 history, puts the Boston sabbatical and Scapa's remark in 1981, the cable-free idea on a second sabbatical about ten years later and the three-part design in 1993; ISRAEL21c (2001) says the capsule idea came 'while on sabbatical eight years ago in Boston' (about 1993). The story uses Adler's 1981 and 1993 and attributes the 1981 detail to 'one history of the device'. First swallow: Adler and the Science Museum say Paul Swain was first, in October / late 1999; ISRAEL21c and encyclopedia.com add that Meron also swallowed one, and both Swain (Discover) and Meron (ISRAEL21c) compared it to an aspirin. Imager: Discover (2000) says the CMOS camera was developed by Photobit; Adler and ISRAEL21c credit Given's engineer Dov Avni, with Tower Semiconductor's process; the story does not say who designed the chip. Usage figures: encyclopedia.com gives some 350,000 patients (mid-2000s), Adler about 850 studies by April 2002, and the EPO close to 1.5 million uses (about 2011); these are different dates, and the story gives only the EPO figure with its date. IPO price: ISRAEL21c gives $12 a share, encyclopedia.com $12.60; both say $60 million raised; not used in the story. Funding marked venture: Meron raised the money (Adler) with Rafael's backing; Rafael Development Corporation's exact stake is not given in these sources. The Nature paper's own page (nature.com/articles/35013140) intermittently serves a bot check, so it is not listed; its authors and date are confirmed by the Discover copy and Adler. The Science Museum page returns 403 to the verifier and is listed as a supplementary source.",
+  "researched_at": "2026-11-01"
+}

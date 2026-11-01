@@ -1,0 +1,135 @@
+{
+  "id": "earl-bakken-medtronic-battery-pacemaker-1957",
+  "title": "The Test Box Earl Bakken Found Keeping a Child Alive",
+  "dek": "In late 1957 Earl Bakken built a battery pacemaker in his Minneapolis garage as a test instrument and found it on a child the next day; the blackout story he told about it has since been questioned.",
+  "story": {
+    "founder": "Earl Bakken",
+    "company": "Medtronic",
+    "event": "Building a transistorised battery pacemaker for C. Walton Lillehei's heart-block patients",
+    "approx_date": "1957-12",
+    "country": "United States",
+    "region": "North America",
+    "industry": "medical devices",
+    "arc": "breakthrough",
+    "funding": "bootstrapped",
+    "summary": "In late 1957 Earl Bakken, whose Minneapolis garage firm Medtronic repaired hospital electronics, built a small battery-powered pacemaker from a transistorised metronome circuit at the request of the surgeon C. Walton Lillehei, whose heart-block patients depended on mains-powered stimulators. Tested on a dog, it was put on a child the next day. Bakken long tied the request to the Twin Cities blackout of 31 October 1957, but a September 1957 letter in Lillehei's papers shows a battery pacemaker was already being developed.",
+    "paragraphs": [
+      "Medtronic began in 1949 in a garage in northeast Minneapolis, where Earl Bakken and his brother-in-law, Palmer Hermundslie, repaired hospital electronics. In its first month, Bakken later said, it took in $8. By 1957 he was a regular in the University of Minnesota's operating rooms, keeping the surgeon C. Walton Lillehei's monitors working.",
+      "Lillehei's open-heart repairs on children carried a known hazard. Stitches near the heart's conduction system left some patients in heart block, and from early 1957 his team kept them alive with a wire to the heart and a stimulator that plugged into the mains, with extension cords trailing down corridors. On 31 October 1957 an explosion at a transformer blacked out much of the Twin Cities. In Bakken's account, children on the wards lost power, one on a mains pacemaker died, and Lillehei asked him for a battery version.",
+      "Bakken's first idea was a car battery and an inverter on a cart. Back in the garage he decided that was far more than a heart needed, and adapted a two-transistor metronome circuit from Popular Electronics, since a metronome ticks at heart rates. He put it in a small box and, about a month later, had it tested on a dog. He meant to go back and build a model for people. Returning the next day, he said, \"There was a child in there with this pacemaker connected to him.\" Lillehei, he recalled, would not risk losing another child to a power failure. Bakken had seen it as a one-off job for the university; by 1960 Medtronic was deep in debt.",
+      "The story he told for decades has since been questioned. In 2014 the University of Minnesota Archives found a letter Lillehei wrote on 16 September 1957, six weeks before the blackout, describing a \"feather weight transistorized pacemaker\" run on a dry cell, under development by his own team with an engineer, Robert Bruss. Newspapers had reported that the hospital had auxiliary power, and the archivist found no death certificate matching the child. Bakken himself said a portable pacemaker would probably have come anyway."
+    ]
+  },
+  "quote": {
+    "text": "The things in reference to which the Master exercised the greatest caution were—fasting, war, and sickness.",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book VII, Chapter 12",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius was most careful about sickness. When the test box worked, two careful men disagreed: the engineer wanted a model built for people, and the surgeon judged a box tried once on a dog safer than a stimulator tied to the mains. Both were cautious about sickness, in opposite directions.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "You were trained to validate before you release. Bakken had that instinct; Lillehei, with a sick child in front of him, judged that waiting was the bigger risk. Neither was simply right, and the same disagreement will reach you whenever someone needs a tool before it is finished.",
+    "The archive holds a second lesson. The story everyone told, Bakken included, was tidier than the record, and the tidy version left out Lillehei's own engineer. When you tell the story of talQen's early days, keep the dated notes beside the memory. They are fairer to everyone who was really there."
+  ],
+  "invitation": "Write today's date on a short note about one decision you made this week and why you made it, and put it somewhere you will find it a year from now.",
+  "sources": [
+    {
+      "title": "Voices of Minnesota: Earl Bakken, Part 2 of 2 (16 October 1995), with transcript",
+      "publisher": "Minnesota Public Radio archive",
+      "url": "https://archive.mpr.org/stories/1995/10/16/voices-minnesota-earl-bakken-part-2-2",
+      "kind": "founder-interview",
+      "supports": "Medtronic set up in 1949 in a garage in northeast Minneapolis by Bakken and his brother-in-law to service medical electronic equipment; $8 gross business in the first month; Bakken's account of the 1957 Twin Cities power failure and the child lost on an AC-operated pacemaker; Lillehei asking for battery backup; the cart idea rejected because a heart needed only a small pulse; the Popular Electronics metronome circuit put in a box; tried on animals one day and on children the next; the company's near-bankruptcy in 1960."
+    },
+    {
+      "title": "Halloween blackout of '57 spurs creation of portable pacemaker (29 October 2007)",
+      "publisher": "MPR News",
+      "url": "https://www.mprnews.org/2007/10/29/batterypacemaker/",
+      "kind": "founder-interview",
+      "supports": "Mains-powered pacemakers in the children's recovery unit; the Halloween 1957 blackout; Lillehei asking Bakken for a battery-powered portable pacemaker; the car battery and inverter plan; the metronome circuit from Popular Electronics ('A metronome has the same rates as heart rates'); testing on a laboratory dog and Bakken's plan to build a human version; 'There was a child in there with this pacemaker connected to him'; Lillehei saying he would not risk losing another child to a power failure; Bakken's view that a portable pacemaker would probably have been invented anyway."
+    },
+    {
+      "title": "Oral-History: Earl Bakken (interview by Frederik Nebeker, IEEE History Center, 22 June 2007)",
+      "publisher": "Engineering and Technology History Wiki (IEEE History Center)",
+      "url": "https://ethw.org/Oral-History:Earl_Bakken",
+      "kind": "oral-history",
+      "supports": "Bakken working in Lillehei's laboratory and operating room keeping monitoring equipment going; heart block in at least 20% of patients after septal repair; the AC-powered Grass stimulator; the cart plan; adapting a two-transistor metronome circuit from Popular Electronics; the device made in December 1957 as a test instrument for dogs and used on a child the next day; his worry about whether it was reliable; seeing it as a 'special' for the university; Medtronic getting deeper into debt by 1960. (Paraphrased; the transcript's terms reserve quotation rights.)"
+    },
+    {
+      "title": "Tricks & Treats: The Halloween Blackout of 1957 & The Transistorized Pacemaker (30 October 2014)",
+      "publisher": "continuum, University of Minnesota Libraries (University Archives, Open Heart Project); Internet Archive copy",
+      "url": "http://web.archive.org/web/20230808162244/https://www.continuum.umn.edu/2014/10/tricks-treats-the-halloween-blackout-of-1957-the-transistorized-pacemaker/",
+      "kind": "independent-reporting",
+      "supports": "The often-told version (Lillehei stopping Bakken the day after the blackout; about a month of work; prototype presented in December); Lillehei's first myocardial electrode for heart block on 30 January 1957 with a plug-in Grass stimulator and extension cords through hallways; Lillehei's letter of 16 September 1957 to Owen Wangensteen describing a 'feather weight transistorized pacemaker' activated by a dry cell, under development by Stirling, Gott and the engineer Robert Bruss; newspaper reports of the 31 October blackout caused by an explosion at the Black Dog transformer, with power restored to campus by 11:30 a.m. and the hospital on auxiliary power; death certificates showing no child heart-block death that day."
+    },
+    {
+      "title": "Heart Block and the Development of the Pacemaker (1957), University of Minnesota cardiovascular history",
+      "publisher": "Visible Heart Laboratories, University of Minnesota",
+      "url": "https://www.vhlab.umn.edu/atlas/umn-cv-history/1957-58.shtml",
+      "kind": "independent-reporting",
+      "supports": "Heart block in 10 to 20% of Lillehei's early septal-defect patients; the plug-in stimulator limiting patients to the length of the cord; Medtronic as a two-person repair company of Bakken and Palmer Hermundslie; the Popular Electronics metronome circuit; the prototype tested on an animal by Vincent Gott and taken by Lillehei to a patient overnight; only a few hundred Model 5800 pacemakers sold between 1959 and 1964."
+    },
+    {
+      "title": "Remembering Earl Bakken, Inventor of the First Wearable, Battery-Powered Pacemaker (October 2018)",
+      "publisher": "IEEE Spectrum (The Institute)",
+      "url": "https://spectrum.ieee.org/remembering-earl-bakken-inventor-of-the-first-wearable-batterypowered-pacemaker",
+      "kind": "independent-reporting",
+      "supports": "Bakken and Palmer Hermundslie founding Medtronic in Minneapolis in 1949 to repair medical equipment; Lillehei's request in October 1957; the battery-powered wearable pacemaker built within four weeks; testing on dogs, then use on children with heart block after surgery."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Medtronic was founded in 1949 in Minneapolis by Bakken and his brother-in-law Palmer Hermundslie as a medical-electronics repair business.",
+      "urls": [
+        "https://archive.mpr.org/stories/1995/10/16/voices-minnesota-earl-bakken-part-2-2",
+        "https://spectrum.ieee.org/remembering-earl-bakken-inventor-of-the-first-wearable-batterypowered-pacemaker",
+        "https://www.vhlab.umn.edu/atlas/umn-cv-history/1957-58.shtml"
+      ]
+    },
+    {
+      "claim": "Lillehei's heart-block patients were paced by mains-powered stimulators, and he asked Bakken for a battery-powered one.",
+      "urls": [
+        "https://www.mprnews.org/2007/10/29/batterypacemaker/",
+        "https://ethw.org/Oral-History:Earl_Bakken",
+        "http://web.archive.org/web/20230808162244/https://www.continuum.umn.edu/2014/10/tricks-treats-the-halloween-blackout-of-1957-the-transistorized-pacemaker/"
+      ]
+    },
+    {
+      "claim": "Bakken adapted a transistorised metronome circuit from Popular Electronics.",
+      "urls": [
+        "https://ethw.org/Oral-History:Earl_Bakken",
+        "https://www.vhlab.umn.edu/atlas/umn-cv-history/1957-58.shtml",
+        "https://www.mprnews.org/2007/10/29/batterypacemaker/"
+      ]
+    },
+    {
+      "claim": "The device was built in about a month and was ready in December 1957.",
+      "urls": [
+        "https://spectrum.ieee.org/remembering-earl-bakken-inventor-of-the-first-wearable-batterypowered-pacemaker",
+        "http://web.archive.org/web/20230808162244/https://www.continuum.umn.edu/2014/10/tricks-treats-the-halloween-blackout-of-1957-the-transistorized-pacemaker/",
+        "https://ethw.org/Oral-History:Earl_Bakken"
+      ]
+    },
+    {
+      "claim": "After a test on a dog, the prototype was put on a child the next day.",
+      "urls": [
+        "https://www.mprnews.org/2007/10/29/batterypacemaker/",
+        "https://www.vhlab.umn.edu/atlas/umn-cv-history/1957-58.shtml",
+        "https://ethw.org/Oral-History:Earl_Bakken"
+      ]
+    },
+    {
+      "claim": "A widespread blackout hit the Twin Cities on 31 October 1957.",
+      "urls": [
+        "http://web.archive.org/web/20230808162244/https://www.continuum.umn.edu/2014/10/tricks-treats-the-halloween-blackout-of-1957-the-transistorized-pacemaker/",
+        "https://www.mprnews.org/2007/10/29/batterypacemaker/"
+      ]
+    }
+  ],
+  "research_notes": "The central conflict is the origin story. Bakken (MPR 1995 and 2007; IEEE oral history 2007) and MPR's 2007 report say a child on a mains-powered pacemaker died in the 31 October 1957 blackout and that this prompted Lillehei's request. The University of Minnesota Archives (2014) found Lillehei's letter of 16 September 1957 describing a dry-cell transistorized pacemaker already under development by his team with the engineer Robert Bruss; contemporary newspapers said the hospital had auxiliary power and campus power was back by 11:30 a.m.; and Minnesota death certificates show no child heart-block death that day (a 25-year-old died of unrelated causes; the next matching death was on 9 November). (A search snippet from a Springer chapter says Lillehei reported no deaths in an interview with Bakken, but the chapter is behind a login and was not read, so it is not relied on.) The story gives Bakken's version explicitly as his account and then sets out the archival evidence; it does not claim the blackout caused the invention or that a child died. Other disagreements: the Visible Heart Laboratories page says the outage was caused by 'a storm', while the archive cites newspaper reports of an explosion at the Black Dog transformer, which the story follows; the same page dates first clinical use to 1958, while Bakken's oral history and the archive put the device in December 1957, so the story says 'about a month later' without a clinical date; IEEE Spectrum says Lillehei 'implanted' the device, but it was external and wired to the heart, so the story avoids that word; Bakken said Medtronic took in $8 in its first month (MPR 1995), while IEEE Spectrum says $8 in its first year, so the story attributes the figure to Bakken. The MPR 1995 transcript is machine-generated; the quoted lines come from the 2007 MPR report. The IEEE oral history reserves quotation rights, so it is paraphrased only. The archive post is cited from an Internet Archive copy because continuum.umn.edu timed out and the libnews.umn.edu address now redirects to an index. Funding: Medtronic was self-funded until 1960, when, near bankruptcy, it took bank loans and a small business investment company stake (MPR 1995). The Confucian line (Analects VII.12) is printed in the Gutenberg text with a double hyphen before 'fasting', rendered here as a dash.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,15 @@
+{
+  "key": "eas-huawei-ren",
+  "status": "done",
+  "file": "offline/editions/ren-zhengfei-huawei-reselling-switches-1987.json",
+  "title": "When Huawei Sold Other People's Switches in Shenzhen",
+  "region": "East Asia",
+  "industry": "telecoms",
+  "arc": "founding-decision",
+  "funding": "bootstrapped",
+  "tradition": "Renaissance and early modern",
+  "thinker": "Michel de Montaigne",
+  "talqen": false,
+  "conflicts": "Founding accounts conflict and are attributed: Huawei's biography says Ren was dissatisfied at South Sea Oil, while Ren (CNBC, BBC StoryWorks, 2019) says he was cheated and let go; both are given. Huawei's milestones say it began as agent for a Hong Kong PBX maker, while Ren names an earlier Zhuhai supplier before Hung Nien; both are given. Ren placed the first 40-line switch in rural markets (CNBC) and in hotels (StoryWorks), so the story names no market. Capital is CNY21,000 (Huawei, Reuters) or about $5,000 (Ash Center); the yuan figure is used. The number of co-investors is not stated. Ren's claim that no state money was involved is attributed, alongside Reuters' and the Ash Center's note that Huawei's ties to the state are questioned.",
+  "notes": "The story keeps to the 1987 start and leaves out the later security and sanctions disputes, mentioning only, attributed, that Huawei's ties to officialdom have long been questioned. Ren's own words come from Huawei's published transcripts (CNBC's transcript is independent of Huawei). The BBC StoryWorks interview is from BBC's commercial content arm and is used only for Ren's own account. Company field set to 'Huawei' (not 'Huawei Technologies'), because the repeat screen matched the word 'Technologies' with Slack Technologies."
+}

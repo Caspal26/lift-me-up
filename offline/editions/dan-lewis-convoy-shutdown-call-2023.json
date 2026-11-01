@@ -1,0 +1,132 @@
+{
+  "id": "dan-lewis-convoy-shutdown-call-2023",
+  "title": "The Thirteen-Minute Call That Closed Convoy",
+  "dek": "In October 2023 the Seattle trucking start-up shut its core business after a failed sale, and its co-founder told staff there would be no severance.",
+  "story": {
+    "founder": "Dan Lewis (with co-founder Grant Goodale)",
+    "company": "Convoy",
+    "event": "Closing the digital freight marketplace's core business and laying off most staff without severance",
+    "approx_date": "2023-10",
+    "country": "United States",
+    "region": "North America",
+    "industry": "logistics (digital freight brokerage)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "On 19 October 2023 Convoy, the Seattle digital freight marketplace co-founded in 2015 by Dan Lewis and Grant Goodale and valued at $3.8 billion in 2022, closed its core business after more than four months of failing to find a buyer during a freight recession. Most of its roughly 500 remaining staff were laid off without severance, which Lewis said had been taken out of the company's hands by its lenders. Flexport bought Convoy's technology, without its liabilities, on 1 November 2023.",
+    "paragraphs": [
+      "On Thursday 19 October 2023, Dan Lewis spoke to the employees of Convoy, the Seattle trucking marketplace he had co-founded eight years earlier, on a video call that lasted 13 minutes. A memo that day had told most of them it was their last day. \"I hoped this day would never come,\" he said, according to GeekWire, which obtained a recording. \"In fact, I really couldn't fathom it.\" He broke down as he explained that there would be no severance.",
+      "Lewis and Grant Goodale, both formerly of Amazon, had founded Convoy in 2015 to match shippers with truckers through software. Investors including Bill Gates and Jeff Bezos put in about $1 billion, and in 2022 a $260 million round, part of it venture debt, valued the company at $3.8 billion. Then freight rates fell from their pandemic highs and investors turned away from unprofitable late-stage companies. Convoy went through four rounds of layoffs in a year, falling from a peak of about 1,500 people to about 500, and closed its Atlanta office.",
+      "What Lewis knew that autumn, by his memo, was that the company had spent more than four months looking for a buyer or another way through, and that the most likely acquirers were suffering from the same freight slump. A deal had been lined up and fell through at the last minute, GeekWire's sources said. Convoy was weeks from running out of money. \"We were running up the down escalator,\" Lewis wrote, \"and it kept speeding up.\" Before the doors closed, staff spent several days making sure every shipment already on the road reached its destination.",
+      "Severance was the decision he could not make. \"In the final hour of this, our ability to make that decision and our available budget was taken away by our lenders,\" he told staff. Mark Okerstrom, the former Expedia chief executive who had joined Convoy in 2019, asked them to write down an answer for anyone who asked what had happened: \"The markets crushed us.\" Neither man took questions. Less than two weeks later Flexport bought Convoy's technology, but not its liabilities, for an undisclosed sum, and kept a small group of its product and engineering staff."
+    ]
+  },
+  "quote": {
+    "text": "they crush and maim happiness; for they both bring pain with them and hinder many activities. Yet even in these nobility shines through, when a man bears with resignation many great misfortunes, not through insensibility to pain but through nobility and greatness of soul.",
+    "thinker": "Aristotle",
+    "work": "Nicomachean Ethics",
+    "locator": "Book I, chapter 10",
+    "translator": "W. D. Ross (1908)",
+    "tradition": "Classical Greek",
+    "source_url": "http://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+    "source_title": "Nicomachean Ethics, tr. W. D. Ross, The Internet Classics Archive (MIT)",
+    "connection": "Aristotle grants what Okerstrom told staff: great misfortunes do crush. He then places nobility in how misfortune is borne, which leaves an awkward question over Convoy's last day, when much of the weight fell on employees who left without severance.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "The hardest line in this story is not about markets. It is Lewis explaining that the choice to pay people on their way out had passed to his lenders. Some obligations can be honoured only while you still control the money, and they are easiest to protect long before the last hour.",
+    "You are a long way from that kind of room. Even so, it is worth knowing, in calm times, what you would want to guarantee the people who work with you if things went wrong, and which agreements might quietly take that out of your hands."
+  ],
+  "invitation": "Pick one agreement you have signed or are about to sign, and read only the part that says who decides what happens if things go badly.",
+  "sources": [
+    {
+      "title": "'The markets crushed us': In tearful farewell to employees, Convoy execs reflect on shutdown",
+      "publisher": "GeekWire (October 2023); Internet Archive copy",
+      "url": "https://web.archive.org/web/20260505181454/https://www.geekwire.com/2023/the-markets-crushed-us-in-tearful-farewell-to-employees-convoy-execs-reflect-on-shutdown/",
+      "kind": "independent-reporting",
+      "supports": "The company-wide video call on Thursday, from a recording GeekWire viewed; 13-minute length; Lewis's 'I hoped this day would never come' and 'couldn't fathom it'; Lewis breaking down over no severance and his statement that lenders took away the decision and budget; Okerstrom's 'The markets crushed us' and request that staff write it down; neither took questions; exhaustive process with Goldman Sachs; an M&A deal that fell through at the last minute (sources); four rounds of layoffs; about 500 employees down from a peak of about 1,500; founded in 2015 by two former Amazon employees; about $1 billion raised from investors including Bill Gates and Jeff Bezos; $3.8 billion valuation after $260 million in 2022, including $100 million of venture debt from Hercules Capital"
+    },
+    {
+      "title": "Convoy collapse: Read CEO's memo detailing sudden shutdown of Seattle trucking startup",
+      "publisher": "GeekWire (19 October 2023); Internet Archive copy",
+      "url": "https://web.archive.org/web/20260201140947/https://www.geekwire.com/2023/convoy-collapse-read-ceos-memo-detailing-sudden-shutdown-of-seattle-trucking-startup/",
+      "kind": "independent-reporting",
+      "supports": "Full text of Lewis's memo: actions over the past few days to get all in-transit shipments to their destinations; closing core business operations; 'today is your last day'; more than four months exhausting strategic options; freight recession and capital contraction also hurting logical acquirers; 'running up the down escalator'; co-founders Dan Lewis and Grant Goodale; closure of the Atlanta office"
+    },
+    {
+      "title": "Bezos-backed freight firm Convoy shuts down after slashing hundreds of jobs. Read the CEO's memo to employees",
+      "publisher": "CNBC (Riley de León, 19 October 2023)",
+      "url": "https://www.cnbc.com/2023/10/19/bezos-backed-freight-firm-convoy-shuts-down-read-ceo-memo-here.html",
+      "kind": "independent-reporting",
+      "supports": "2022 raise of $260 million at a $3.8 billion valuation led by Baillie Gifford and Hercules Capital; about 500 employees before the shutdown; multiple rounds of layoffs and the closed Atlanta office; Lewis's memo citing a freight recession and capital-markets contraction; trucking rates falling from pandemic highs"
+    },
+    {
+      "title": "Convoy Shuts Down After Failing to Find Buyer",
+      "publisher": "Transport Topics (Connor D. Wolf, 19 October 2023)",
+      "url": "https://www.ttnews.com/articles/convoy-stops-orders-cuts-jobs",
+      "kind": "independent-reporting",
+      "supports": "Convoy founded in 2015; on pace to run out of money within weeks; no viable option found after many months; most employees laid off with a small group kept for the wind-down; 'perfect storm' and 'running up the down escalator'"
+    },
+    {
+      "title": "Bezos-backed trucking startup Convoy shuts down (Bloomberg, via Fortune)",
+      "publisher": "Fortune (Spencer Soper and Lizette Chapman, Bloomberg, 19 October 2023)",
+      "url": "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/",
+      "kind": "independent-reporting",
+      "supports": "Four-month search for an acquirer failed; more than $1 billion raised according to PitchBook; $3.8 billion valuation in 2022; headcount cut from about 1,500 to about 500; on track to run out of money within weeks; investors including Bezos and Gates"
+    },
+    {
+      "title": "Flexport acquires technology of former digital freight unicorn Convoy",
+      "publisher": "TechCrunch (Rebecca Bellan, 1 November 2023)",
+      "url": "https://techcrunch.com/2023/11/01/flexport-acquires-technology-of-former-digital-freight-unicorn-convoy/",
+      "kind": "independent-reporting",
+      "supports": "Flexport acquired Convoy's assets but not the company or its liabilities; terms undisclosed; a small group of Convoy's core product and engineering team retained"
+    },
+    {
+      "title": "Flexport buys Convoy tech stack, plans to relaunch truckload service",
+      "publisher": "Supply Chain Dive (Edwin Lopez, 1 November 2023)",
+      "url": "https://www.supplychaindive.com/news/Flexport-buys-Convoy-tech-stack-relaunch-truckload-service/698556/",
+      "kind": "independent-reporting",
+      "supports": "Flexport bought Convoy's tech stack for an undisclosed sum, without its liabilities, weeks after the shutdown; retained a small group from product and engineering"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Convoy closed its core business on 19 October 2023 after more than four months failing to find a buyer",
+      "urls": [
+        "https://web.archive.org/web/20260201140947/https://www.geekwire.com/2023/convoy-collapse-read-ceos-memo-detailing-sudden-shutdown-of-seattle-trucking-startup/",
+        "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/",
+        "https://www.ttnews.com/articles/convoy-stops-orders-cuts-jobs"
+      ]
+    },
+    {
+      "claim": "Convoy had about 500 employees before the shutdown, down from a peak of about 1,500",
+      "urls": [
+        "https://web.archive.org/web/20260505181454/https://www.geekwire.com/2023/the-markets-crushed-us-in-tearful-farewell-to-employees-convoy-execs-reflect-on-shutdown/",
+        "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/"
+      ]
+    },
+    {
+      "claim": "Convoy raised $260 million at a $3.8 billion valuation in 2022 and about $1 billion in total",
+      "urls": [
+        "https://www.cnbc.com/2023/10/19/bezos-backed-freight-firm-convoy-shuts-down-read-ceo-memo-here.html",
+        "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/",
+        "https://web.archive.org/web/20260505181454/https://www.geekwire.com/2023/the-markets-crushed-us-in-tearful-farewell-to-employees-convoy-execs-reflect-on-shutdown/"
+      ]
+    },
+    {
+      "claim": "Convoy was weeks from running out of money",
+      "urls": [
+        "https://www.ttnews.com/articles/convoy-stops-orders-cuts-jobs",
+        "https://fortune.com/2023/10/19/convoy-trucking-tech-startup-shuts-down-jeff-bezos-investor/"
+      ]
+    },
+    {
+      "claim": "Flexport bought Convoy's technology, without its liabilities, on 1 November 2023 and kept a small group of staff",
+      "urls": [
+        "https://techcrunch.com/2023/11/01/flexport-acquires-technology-of-former-digital-freight-unicorn-convoy/",
+        "https://www.supplychaindive.com/news/Flexport-buys-Convoy-tech-stack-relaunch-truckload-service/698556/"
+      ]
+    }
+  ],
+  "research_notes": "Total funding: GeekWire says around $1 billion; Bloomberg (via Fortune), citing PitchBook, says more than $1 billion; the story says about $1 billion. The 2022 round: CNBC says $260 million led by Baillie Gifford and Hercules Capital; GeekWire says it included $100 million of venture debt from Hercules; the story says part of it was venture debt. Layoff rounds: GeekWire counts four in the past year, CNBC says multiple. The severance account rests on GeekWire's report of the recorded call, including Lewis's own statement blaming the lenders' control of the budget; it is attributed to him and not stated as fact. GeekWire reports that the farewell statement 'I hoped this day would never come' was said on the call; the memo itself used 'We hoped'. The failed last-minute deal comes from GeekWire's unnamed sources and is attributed. The memo's 'running up the down escalator…. and it kept speeding up' is quoted in two parts around 'Lewis wrote'; nothing is omitted between them. Okerstrom's title is given as in GeekWire (former Expedia CEO who joined in 2019); his exact Convoy title is not relied on. The Flexport price was undisclosed; a later unverified estimate is not used. GeekWire blocks automated requests, so Internet Archive copies are cited. Lewis's later work is outside this episode and not covered. The Aristotle passage is about the effect of great misfortunes on a happy life; it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

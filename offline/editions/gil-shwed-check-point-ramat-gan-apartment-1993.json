@@ -1,0 +1,125 @@
+{
+  "id": "gil-shwed-check-point-ramat-gan-apartment-1993",
+  "title": "A Year in a Ramat Gan Flat: Check Point's First Firewall",
+  "dek": "In 1993 Gil Shwed and two friends decided their firewall could not be built in the evenings, raised just enough to stop, and spent a year in a borrowed flat.",
+  "story": {
+    "founder": "Gil Shwed, Shlomo Kramer, Marius Nacht",
+    "company": "Check Point Software Technologies",
+    "event": "Deciding not to build the firewall at night, raising a small sum and working for a year in a Ramat Gan apartment",
+    "approx_date": "1993",
+    "country": "Israel",
+    "region": "Middle East",
+    "industry": "software (network security)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In 1993 Gil Shwed revived a traffic-screening idea from his army service as companies began connecting to the internet, and with Shlomo Kramer and Marius Nacht decided to work on it full time rather than at night. BRM, a software firm, put in a small sum for about half the company, and the three spent about a year in an apartment in Ramat Gan belonging to Kramer's grandmother. Their product, FireWall-1, won best of show at NetWorld+Interop in 1994, and Check Point went public in 1996.",
+    "paragraphs": [
+      "In 1993 Gil Shwed, then 24, went back to an idea he had put away. In the army he had been asked to connect two classified computer networks, literally behind a wall from each other, he said, without weakening the more secret one. Finding nothing suitable to buy, he wrote a small engine that screened traffic and let through only what was allowed. It took a few weeks and it worked. But on leaving the army he saw no exciting market for it, and for two years he did other work.",
+      "Then the internet opened to companies, and the first ones to connect asked, he recalled, how to keep students from 15,000 universities out of their files. Shwed took the idea to two friends: Shlomo Kramer, with whom he had served, and Marius Nacht, a colleague from the software firm Optrotech. The question, he said, was whether to keep their day jobs and build the product at night. They decided not to. \"We can't develop it at night and wait until we got the product right. We have to run fast.\"",
+      "Running fast took money they did not have. The software ran on Sun workstations costing about $10,000 each, and they reckoned they needed something like $100,000 for computers and flights to America. Two or three months later BRM, then a software company, invested for about half of Check Point: $250,000 by Shwed's later account, though Globes reported $150,000 in 1997 and $400,000 in 2008. The three then spent about a year in Kramer's grandmother's apartment in Ramat Gan, programming 12 to 14 hours a day, a colleague told ISRAEL21c.",
+      "The prototype's first test was on BRM's own network. Within minutes, Shwed said, the console showed someone trying to break in; he assumed a bug, then traced the intruders, and police later arrested two teenagers. By spring 1994 the product, FireWall-1, had about 20 trial sites, and 19 wanted to buy it. Sent to America to find customers, Shwed was invited to show it at the NetWorld+Interop trade show in Las Vegas, where it won best of show. He later said the company became profitable after spending about $100,000 of BRM's money, and never raised more before going public in 1996."
+    ]
+  },
+  "quote": {
+    "text": "You must elect your work; you shall take what your brain can, and drop all the rest. Only so, can that amount of vital force accumulate, which can make the step from knowing to doing.",
+    "thinker": "Ralph Waldo Emerson",
+    "work": "The Conduct of Life",
+    "locator": "Essay II, \"Power\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/39827/pg39827.txt",
+    "source_title": "The Conduct of Life, Project Gutenberg eBook #39827",
+    "connection": "Shwed knew his idea worked two years before he acted on it. Emerson names what was missing in between: not knowledge but the choice of one piece of work, with everything else set down, which is what turning down the night shift amounted to.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Most of us have an idea that already works somewhere, in a notebook or a small trial, and has waited for a better moment. What changed for Shwed was partly the world, and partly a decision about hours: they would not fit the idea around their jobs.",
+    "That choice is not open to everyone, and it was not free; it cost them half the company. But the question underneath it is worth asking honestly. Is the thing you care about getting your best hours, or only the tired ones that are left at the end of the day?"
+  ],
+  "invitation": "Look at tomorrow and mark one block of your best hours, even an hour, for the piece of work that matters most to you. Decide now what you will drop to keep it.",
+  "sources": [
+    {
+      "title": "Exclusive interview with the founder of a $1.9 billion dollar cyber security company (Gil Shwed, Check Point), full transcript",
+      "publisher": "Mixergy (Andrew Warner, 27 September 2019)",
+      "url": "https://mixergy.com/interviews/check-point-with-gil-shwed/",
+      "kind": "founder-interview",
+      "supports": "Shwed's army project to connect two classified networks 'behind the wall from one another'; the screening engine as a few weeks' project that worked; no exciting market, two years of other work; 1993 opening of the internet to companies and the question about 15,000 universities; Kramer met in the army; the day-jobs-at-night question and 'We can't develop it at night and wait until we got the product right. We have to run fast.'; Sun computers at $10,000 each; aiming for about $100,000; $250,000 from BRM two or three months later for about half of Check Point; first prototype test on BRM's network, intrusion alert within 5 or 10 minutes, two teenagers arrested; about 20 beta sites, 19 wanting to buy; April 1994 trip to the US; invitation to NetWorld+Interop and Best of Show; profitable after about $100,000 and no further funding."
+    },
+    {
+      "title": "Checking in with Check Point's Gil Shwed",
+      "publisher": "ISRAEL21c (archive)",
+      "url": "https://archive.israel21c.org/?p=3026",
+      "kind": "independent-reporting",
+      "supports": "Check Point launched in 1993 from a cramped, hot apartment in Ramat Gan when Shwed was not yet 25; Shwed, Kramer and Nacht worked for a year in Kramer's grandmother's apartment; a colleague's account of programming 12-14 hours a day; Shwed's quotes on the first year; public debut at the 1994 NetWorld Interop show in Las Vegas, sharing a booth, and winning best of show."
+    },
+    {
+      "title": "Check Point profile",
+      "publisher": "The Register (23 April 2013)",
+      "url": "https://theregister.com/2013/04/23/check_point_profile/",
+      "kind": "independent-reporting",
+      "supports": "Shwed's army work connecting networks with differing access; meeting Marius Nacht at Optrotech; Kramer served with Shwed in the IDF; idea developed in April 1993 and company started in July 1993; a year in a relative's apartment programming 12-14 hours a day; 1994 NetWorld Interop best-in-show; 1994 Sun Microsystems OEM agreement; public in 1996."
+    },
+    {
+      "title": "Looking-out for Another Check Point",
+      "publisher": "Globes (Ilan Lutenberg, 10 July 1997)",
+      "url": "https://en.globes.co.il/en/article-364076",
+      "kind": "independent-reporting",
+      "supports": "Nir Barkat of BRM: the Check Point team came to BRM in 1993 with an idea for internet data protection; BRM helped with the concept, went with them to the US and funded operations; $150,000 invested for a 50% share; IPO in June 1996."
+    },
+    {
+      "title": "High-tech businessman Nir Barkat wins Jerusalem mayoralty",
+      "publisher": "Globes (Lilach Weissman and Batya Feldman, 12 November 2008)",
+      "url": "https://en.globes.co.il/en/article-1000397398",
+      "kind": "independent-reporting",
+      "supports": "BRM had been an antivirus software company; Shwed, Nacht and Kramer sought financing for a firewall company; BRM invested $400,000 for a 50% stake."
+    },
+    {
+      "title": "Gil Shwed: \"This is the perfect time to step down. We have peaked on all levels\"",
+      "publisher": "Calcalist / CTech (Sophie Shulman, 6 February 2024)",
+      "url": "https://calcalistech.com/ctechnews/article/r12vts1jt",
+      "kind": "founder-interview",
+      "supports": "Shwed: 'I was 24-years-old when we started the company'; in the early years they had to convince people of the internet's reality and potential."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Check Point was founded in 1993 by Shwed, Kramer and Nacht, from an idea rooted in Shwed's army work on connecting networks",
+      "urls": [
+        "https://mixergy.com/interviews/check-point-with-gil-shwed/",
+        "https://theregister.com/2013/04/23/check_point_profile/",
+        "https://archive.israel21c.org/?p=3026"
+      ]
+    },
+    {
+      "claim": "BRM invested for about half (50%) of the company",
+      "urls": [
+        "https://mixergy.com/interviews/check-point-with-gil-shwed/",
+        "https://en.globes.co.il/en/article-364076",
+        "https://en.globes.co.il/en/article-1000397398"
+      ]
+    },
+    {
+      "claim": "The three worked for about a year in an apartment in Ramat Gan belonging to Kramer's grandmother (a relative), programming 12-14 hours a day",
+      "urls": [
+        "https://archive.israel21c.org/?p=3026",
+        "https://theregister.com/2013/04/23/check_point_profile/"
+      ]
+    },
+    {
+      "claim": "FireWall-1 won best of show at NetWorld+Interop in Las Vegas in 1994",
+      "urls": [
+        "https://mixergy.com/interviews/check-point-with-gil-shwed/",
+        "https://archive.israel21c.org/?p=3026",
+        "https://theregister.com/2013/04/23/check_point_profile/"
+      ]
+    },
+    {
+      "claim": "Check Point went public in 1996",
+      "urls": [
+        "https://en.globes.co.il/en/article-364076",
+        "https://theregister.com/2013/04/23/check_point_profile/"
+      ]
+    }
+  ],
+  "research_notes": "BRM's investment is the main conflict: Shwed (Mixergy, 2019) says $250,000 for about half the company; Globes in 1997, quoting BRM's Nir Barkat at length, gives $150,000 for 50%; Globes in 2008 gives $400,000 for 50%; Wikipedia repeats $250,000 citing Mixergy. All agree on roughly half the company, so the story states the half and gives the three figures with who said them and when. Founding month: The Register says the idea was developed in April 1993 and the company started in July 1993, while Shwed told the press in February 2024 that he had begun 'exactly 31 years ago this week'; the story says only 1993. Age: Shwed says he was 24 (Calcalist 2024) and ISRAEL21c 'not yet 25', while the Jewish Virtual Library (Encyclopaedia Judaica) says 25; the story uses his own figure. Year he left the army: ISRAEL21c and The Register say 1990, and in Mixergy he puts the working idea in 1991; the story avoids the year. The apartment: ISRAEL21c says Kramer's grandmother's apartment in Ramat Gan; The Register says a relative's apartment; Shwed in Mixergy describes the three as sitting in Tel Aviv (Ramat Gan adjoins it); the story follows ISRAEL21c. The '12 to 14 hours' figure is a colleague quoted by ISRAEL21c and repeated by The Register. The intrusion during the first test, the arrests, the beta-site count and the claim of profitability after about $100,000 rest on Shwed's own account and are attributed to him. The ISRAEL21c article is undated on the page; its reference to Shwed as 35 and to Forbes's 2002 list places it around 2003. Funding is 'venture' rather than the slate's 'bootstrapped': BRM was then a software company, not a fund, but it bought about half the equity.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "markus-villig-taxify-tallinn-first-summer-2013",
+  "title": "The Summer Markus Villig Went Car to Car Recruiting Taxi Drivers",
+  "dek": "In 2013 a 19-year-old school leaver borrowed his university money from his parents to build a taxi app, and the first version barely worked.",
+  "story": {
+    "founder": "Markus Villig",
+    "company": "Taxify (later Bolt)",
+    "event": "Borrowing his parents' university savings to build Taxify and rescuing its buggy first launch",
+    "approx_date": "2013-08",
+    "country": "Estonia",
+    "region": "Europe",
+    "industry": "transport (ride-hailing software)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In 2013 Markus Villig, 19 and just out of school in Tallinn, spent the summer recruiting taxi drivers in person and borrowed €5,000 that his parents had set aside for his university studies to pay a freelancer for a first version of Taxify. The app launched in August full of bugs; he fixed it himself and kept recruiting drivers, reaching about twenty rides a day by early September. Taxify, renamed Bolt in 2019, had been used about 300,000 times in Tallinn by July 2014.",
+    "paragraphs": [
+      "In the spring of 2013 Markus Villig, 19, was sitting his final exams at Tallinn's Secondary Science School and, by his own account, found he had time on his hands. His older brother Martin had brought an idea back from a frustrating attempt to get a taxi in Kyiv: an app to connect passengers with drivers. In Tallinn, about thirty taxi companies still took bookings by phone; on a Friday night, Villig recalled, you might call ten of them and wait half an hour for a car that never came. A survey he sent round his school drew about 600 replies.",
+      "The drivers were harder. He told the interviewer Andrew Warner in 2019 that he spent about three months going car to car, and that most drivers told him to get out. Many spoke Russian, which he spoke poorly, and he had nothing to show them but an idea. No engineer would join, and agencies turned the work down until one freelancer offered to build a first version for €5,000. He did not have it.",
+      "So he asked his parents, a teacher and a construction and government worker who had never run a business. The money was what they had put aside for his university studies. They agreed, he recalled, warning that if he spent it all he would be paying his own rent. His mother, Reet, later helped sign up Russian-speaking drivers.",
+      "Taxify launched in August 2013, and it went badly. Press releases about a 19-year-old taking on the taxi trade brought customers, but the prototype was full of bugs, drivers who had given their numbers did not sign up, and people could not get cars. \"It was now or never,\" he later said. He worked around the clock, learned enough mobile development to repair the app, and kept recruiting drivers. By early September it was close to the critical mass it needed: about twenty rides a day.",
+      "That autumn he started computer science at the University of Tartu, and left after one semester. A developer, Oliver Leisalu, answered an online advert and joined; Martin came on full time about a year in. By July 2014, Postimees reported, Taxify had been used about 300,000 times in Tallinn. In 2019 it was renamed Bolt."
+    ]
+  },
+  "quote": {
+    "text": "One regards it as dividing us from the object of our desire; in that case we count every step of our journey over it as something attained by force in the face of obstruction. The other sees it as the road which leads us to our destination; and as such it is part of our goal.",
+    "thinker": "Rabindranath Tagore",
+    "work": "Sadhana: The Realisation of Life",
+    "locator": "Chapter I, \"The Relation of the Individual to the Universe\"",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/6842/pg6842.txt",
+    "source_title": "Sadhana: The Realisation of Life, Project Gutenberg eBook #6842",
+    "connection": "Villig's summer could be counted as pure obstruction: drivers who told him to leave, borrowed money, an app that barely ran. Tagore, speaking of a road, offers the other reading, in which the journey is already part of the goal. By Villig's own account, those weeks going car to car were how he learned whether the idea had legs.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "It is easy to tell this as a story about nerve. It is also a story about two parents who had saved for one future and handed it over for another, with a plain word about rent, and a mother who then went out to help sign up drivers in a language her son struggled with.",
+    "Some of the work in front of you will feel like obstruction: the refusals, the version that breaks in front of people. Tagore's suggestion is not that it stops hurting, only that it may already be part of where you are going. And behind most first attempts are people who quietly carried some of the risk."
+  ],
+  "invitation": "Think of one person who carried part of the risk when you began something, whether money, time or patience. Tell them today, in a sentence, what it made possible.",
+  "sources": [
+    {
+      "title": "Marathon Series: Bolt and the Estonian founder with a billion dollar valuation at age 25 (interview transcript)",
+      "publisher": "Mixergy (Andrew Warner, published 21 September 2019)",
+      "url": "https://mixergy.com/?p=88334",
+      "kind": "founder-interview",
+      "supports": "Villig's own account: Tallinn taxis ordered by phone and radio, calling ten companies and waiting 30 minutes; the school survey with 600 replies; three months at 19 going on the streets recruiting drivers one by one, most telling him to get out, many speaking Russian; no engineers would join and agencies were tried for two months until a freelancer offered to build the first version for €5,000; his parents (a teacher and a construction and government worker, never entrepreneurs) lent him the money set aside for his university studies with the warning about paying his own rent; the first version was extremely buggy and he took over its development."
+    },
+    {
+      "title": "Estonia's Taxify: a licence not to drive",
+      "publisher": "Invest in Estonia (Ede Schank Tamkivi, May 2019)",
+      "url": "https://investinestonia.com/estonias-taxify-a-licence-not-to-drive/",
+      "kind": "independent-reporting",
+      "supports": "Martin Villig's idea after trying to get a taxi in Kyiv in 2012; Markus having time on his hands during his final school exams; about 30 taxi companies in Tallinn; the school survey of about 600; drivers telling him to get out and his weak Russian; the developer's price for a prototype; parents lending him the money set aside for university; his mother Reet helping sign up Russian-speaking drivers; press releases about a 19-year-old shaking up the taxi industry; the buggy prototype, drivers not signing up, customers unable to get taxis; his 'It was now or never' quotation; working round the clock, learning mobile development, near critical mass of about 20 rides a day by the beginning of September; starting at Tartu University; Oliver Leisalu joining through a php.net forum advert; Martin joining full time a year in."
+    },
+    {
+      "title": "How a college dropout became Europe's youngest founder of a billion-dollar company",
+      "publisher": "CNBC Make It (21 October 2019)",
+      "url": "https://www.cnbc.com/2019/10/21/how-bolt-ceo-markus-villig-became-europes-youngest-unicorn-founder.html",
+      "kind": "independent-reporting",
+      "supports": "Villig at 19 dropped out after one semester of computer science at the University of Tartu; started with a €5,000 family loan to build a prototype in the summer after leaving school; recruited taxi drivers in person on the streets of Tallinn; the 2019 rebranding from Taxify to Bolt."
+    },
+    {
+      "title": "Taxify trying to save the cab companies",
+      "publisher": "Postimees (28 July 2014)",
+      "url": "https://news.postimees.ee/2870467/taxify-trying-to-save-the-cab-companies",
+      "kind": "independent-reporting",
+      "supports": "Contemporary report: Villig, then 20, a graduate of Tallinna Reaalkool; Taxify used about 300,000 times in Tallinn in a little over a year since it was established; available in larger Estonian cities and Riga; about a dozen staff in Estonia; at the time it worked with taxi companies rather than single drivers."
+    },
+    {
+      "title": "How Markus built Sh100bn Bolt Company",
+      "publisher": "Business Daily Africa (4 April 2020)",
+      "url": "https://www.businessdailyafrica.com/bd/lifestyle/profiles/how-markus-built-sh100bn-bolt-company-2286034",
+      "kind": "founder-interview",
+      "supports": "Villig's first-person account of quitting computer science at the University of Tartu in his first semester, and of €5,000 from his brother and parents to hire a local mobile app developer."
+    },
+    {
+      "title": "Taxify CEO Markus Villig's fresh outlook addresses Uber problems",
+      "publisher": "European CEO (2018)",
+      "url": "https://europeanceo.com/?p=30314",
+      "kind": "independent-reporting",
+      "supports": "Idea taking root by spring 2013 as he finished school; Taxify born in August 2013; bootstrapping, recruiting drivers personally and using the money his parents had set aside for his college tuition."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Villig borrowed €5,000 from his family to pay for the first version of the app.",
+      "urls": [
+        "https://mixergy.com/?p=88334",
+        "https://www.cnbc.com/2019/10/21/how-bolt-ceo-markus-villig-became-europes-youngest-unicorn-founder.html",
+        "https://www.businessdailyafrica.com/bd/lifestyle/profiles/how-markus-built-sh100bn-bolt-company-2286034"
+      ]
+    },
+    {
+      "claim": "The money had been set aside by his parents for his university studies.",
+      "urls": [
+        "https://mixergy.com/?p=88334",
+        "https://investinestonia.com/estonias-taxify-a-licence-not-to-drive/",
+        "https://europeanceo.com/?p=30314"
+      ]
+    },
+    {
+      "claim": "He recruited taxi drivers in person on the streets of Tallinn, and most refused him.",
+      "urls": [
+        "https://mixergy.com/?p=88334",
+        "https://investinestonia.com/estonias-taxify-a-licence-not-to-drive/",
+        "https://www.cnbc.com/2019/10/21/how-bolt-ceo-markus-villig-became-europes-youngest-unicorn-founder.html"
+      ]
+    },
+    {
+      "claim": "Taxify launched in August 2013 and the first prototype was very buggy.",
+      "urls": [
+        "https://europeanceo.com/?p=30314",
+        "https://investinestonia.com/estonias-taxify-a-licence-not-to-drive/",
+        "https://mixergy.com/?p=88334"
+      ]
+    },
+    {
+      "claim": "He left the University of Tartu after one semester.",
+      "urls": [
+        "https://www.cnbc.com/2019/10/21/how-bolt-ceo-markus-villig-became-europes-youngest-unicorn-founder.html",
+        "https://www.businessdailyafrica.com/bd/lifestyle/profiles/how-markus-built-sh100bn-bolt-company-2286034"
+      ]
+    }
+  ],
+  "research_notes": "Money: Villig told Mixergy (2019) that a freelancer offered to build the first version for €5,000 and that he asked his parents for exactly that; CNBC (2019) and estonia.ee say a €5,000 family loan; Business Daily Africa (2020) has him saying his brother, then working in the US, and his parents gave him €5,000 to hire a developer; Invest in Estonia (2019) says a developer asked €7,000 for a prototype and that his first budget was €200, without giving the sum his parents lent. The story uses €5,000, his own figure, as the freelancer's offer, and says his parents lent it, as he told Mixergy. On Mixergy he also said the sum was a lot of money 'in 2014'; every other source and the launch date put the loan in 2013. Refusals: Mixergy has him saying 90% of drivers told him to get out; Invest in Estonia says 8 out of 10. The story says 'most'. His parents' words differ by telling (Mixergy: if he spent it all he would pay his own rent; Invest in Estonia: 'It's up to you now, what you spend this money on'); the story paraphrases the Mixergy version as his recollection. Launch: European CEO says Taxify was born in August 2013; Invest in Estonia describes a crazy month ending near critical mass by the beginning of September; Postimees in July 2014 said it had been established a little over a year. On Mixergy Villig said the company moved quickly from taxi companies to private drivers, but Postimees reported in July 2014 that Taxify was still working through taxi companies, so the story leaves the shift out. Martin Villig is counted by Bolt as a co-founder; the sources say the idea was his and that he joined full time about a year in, so the founder field names Markus, whose decision this was. European CEO wrongly places his 'computer programming course' at the Secondary Science School after starting the company; the story follows Postimees, which says he graduated from that school.",
+  "researched_at": "2026-11-01"
+}

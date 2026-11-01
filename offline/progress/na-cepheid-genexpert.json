@@ -1,0 +1,15 @@
+{
+  "key": "na-cepheid-genexpert",
+  "status": "done",
+  "file": "offline/editions/kurt-petersen-tom-gutshall-cepheid-postal-anthrax-trials-2001.json",
+  "title": "When the Postal Service Tested Cepheid's Machine for Anthrax",
+  "region": "North America",
+  "industry": "diagnostics",
+  "arc": "breakthrough",
+  "funding": "mixed",
+  "tradition": "Confucian",
+  "thinker": "Confucius",
+  "talqen": false,
+  "conflicts": "Defence funding: $3.2 million by 1997 (IEEE Spectrum 2019) vs $15 million by 2001 (Wikipedia); only the dated 1997 figure is used. Rollout: 2003 (Petersen, Cepheid narrative) vs 2004 on Cepheid's own timeline, with the CDC in 2004 still describing about 300 centres as planned; the story attributes 2003 to Petersen and Cepheid and gives the CDC plan separately. Outcome claim 'over 15 million results with no false positives' is Cepheid's own and is labelled a company figure. Xpert GBS 2006 (Cepheid narrative, Wikipedia) vs 2005 (Cepheid timeline); 2006 used. Casualties agree (GAO 22 cases, 5 deaths; NPR 5 deaths plus 17 infected).",
+  "notes": "Funding changed from venture to mixed (defence contracts, venture money and a 2000 IPO). The episode rests mainly on Kurt Petersen's account in IEEE Spectrum; no loading interview with Tom Gutshall was found, so he appears only in the founding lunch. The San Francisco Chronicle articles cited by Wikipedia block automated requests and were not used. Stance 'complicates': the Confucius line about neglecting the distant sits against a company that set its clinical aim aside to meet an emergency."
+}

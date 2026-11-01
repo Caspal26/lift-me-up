@@ -1,0 +1,14 @@
+# Generated or local-only; the keystore lives outside the repository entirely.
+work/
+app/www/
+app/android/app/build/
+app/android/build/
+app/android/.gradle/
+app/android/local.properties
+app/gradle.log*
+app/build-debug.log
+*.jks
+*.keystore
+keystore.properties
+dist/
+texts/

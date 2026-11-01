@@ -1,0 +1,133 @@
+{
+  "id": "samir-ibrahim-sunculture-rainmaker-pay-as-you-grow-2017",
+  "title": "SunCulture's Move From a $4,500 Kit to a $100 Deposit",
+  "dek": "Selling solar irrigation outright reached only farmers with capital; in 2017 SunCulture launched a cheaper pump that farmers paid for in monthly instalments.",
+  "story": {
+    "founder": "Samir Ibrahim and Charles Nichols",
+    "company": "SunCulture",
+    "event": "Moving from selling an expensive solar irrigation kit outright to a cheaper pump sold on pay-as-you-grow credit",
+    "approx_date": "2017-10",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "agriculture (solar irrigation)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "SunCulture, founded in Nairobi by Samir Ibrahim and Charles Nichols, began by selling a solar drip-irrigation kit for about $4,500 to $5,000, which only farmers with capital or high-value crops could afford. With grants from the GSMA and Shell Foundation it designed a cheaper pump and piloted pay-as-you-grow financing, and in October 2017 launched the RainMaker for a $100 deposit and monthly payments. Sales rose sharply, passing 10,000 pumps by 2020 and close to 40,000 by 2023.",
+    "paragraphs": [
+      "In April 2013 Charles Nichols and Samir Ibrahim, both 24, were selling one product from Nairobi: the AgroSolar Irrigation Kit, a solar pump, raised tank and drip lines priced at 380,000 shillings, about $4,500. Ibrahim had used his holiday from PwC in New York to visit Nichols, then left the firm to join him. Asked about their biggest challenge, Nichols named the price: most people, he said, did not have that sum \"stuffed under their mattresses\". For now they sold to customers with capital or a bank relationship.",
+      "The founders later wrote that most people knew SunCulture as a company that sold expensive products, \"which was true\". They had chosen to put relevance and quality before affordability. Their buyers grew high-value crops and averaged about $14,000 an acre a year, and many, TechCrunch later reported, had city jobs and rural land. For a maize farmer earning roughly $600 an acre, the kit, still at least $3,690 all-in early in 2017, made no sense.",
+      "The change came in two parts. In 2015 a £100,000 grant from the GSMA paid for the design of a cheaper pump. In 2016 Shell Foundation and the UK's Transforming Energy Access programme gave $300,000 to pilot what SunCulture called Pay-As-You-Grow. In January 2017 Ibrahim described bundles of irrigation, seed, fertiliser, insurance and farming advice, repaid over two years, with smaller payments during the growing season and larger ones after harvest. He disliked the word pivot. \"I would call it an addition to the business model,\" he said.",
+      "In October 2017 SunCulture launched the RainMaker, a solar pump with sprinklers that a farmer could take home for a $100 deposit and $45 to $65 a month. A connected pump could be switched off remotely after missed payments, but the founders found that customers fell behind mainly when one broke. Ibrahim said they sold more in the months after the October launch than in all previous years combined.",
+      "Shell Foundation's account says the pilot sold over 900 pumps and showed that farmers repaid reliably when the product worked and support was in place. By 2020 SunCulture had passed 10,000 pumps, and in December that year it raised $14 million. By 2023 the count was close to 40,000."
+    ]
+  },
+  "quote": {
+    "text": "He that sheweth mercy will lend unto his neighbour; and he that strengtheneth him with his hand keepeth the commandments. Lend to thy neighbour in time of his need; and pay thou thy neighbour again in due season.",
+    "thinker": "Ben Sira",
+    "work": "Ecclesiasticus (The Wisdom of Ben Sira)",
+    "locator": "Ecclesiasticus, chapter 29 (verses 1-2 in the usual numbering)",
+    "translator": "Wisdom of the East series (1910)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/77250/pg77250.txt",
+    "source_title": "The Wisdom of the Apocrypha, Project Gutenberg eBook #77250",
+    "connection": "Ben Sira treats a loan as mercy, with duties on both sides. SunCulture's loans were a business, backed by a pump that could be switched off remotely, yet the founders found the bargain broke most often on their side, when a pump failed.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "SunCulture's first kit was a good product offered at the wrong moment in most farmers' year. The change that mattered was less about the pump than about when money had to change hands: a small deposit now, the rest as the harvest came in.",
+    "You know from ordinary Kenyan life how much depends on timing: school fees in January, a bill that lands before payday, a colleague who could say yes next month but not this one. An offer can be fair and still arrive too early. Asking when, as well as how much, is a kind of respect."
+  ],
+  "invitation": "Ask one person you work with or for when in their month money is tightest, and write their answer down before you plan anything that needs them to pay or commit.",
+  "sources": [
+    {
+      "title": "Two entrepreneurs looking to transform agriculture through solar-powered irrigation (Dinfin Mulupi, 15 April 2013)",
+      "publisher": "How we made it in Africa",
+      "url": "https://www.howwemadeitinafrica.com/p/two-entrepreneurs-looking-to-transform-agriculture-through-solar-power",
+      "kind": "founder-interview",
+      "supports": "Both founders aged 24; Ibrahim used his vacation days from PwC to meet Nichols in Nairobi and left PwC; the AgroSolar kit priced at 380,000 shillings (US$4,500); selling to clients with capital or existing bank relationships; Nichols naming cost as the biggest challenge and the 'stuffed under their mattresses' remark"
+    },
+    {
+      "title": "Making it Rain: Emerging Opportunities for Improved Solar Water Pumps (Charlie Nichols and Samir Ibrahim, 12 December 2017)",
+      "publisher": "Shell Foundation",
+      "url": "https://shellfoundation.org/learning/making-it-rain-emerging-opportunities-for-improved-solar-water-pumps/",
+      "kind": "memoir",
+      "supports": "Founders' own account: known as a company selling expensive products, 'which was true'; about $5,000 when they started; relevance and quality before affordability; at least $3,690 all-in in early 2017; AgroSolar buyers averaging $14,000/acre/year against about $600 for maize farmers; RainMaker launched 'this October' with Shell Foundation, UK Government and GSMA support; $100 deposit and $45-65 a month; remote deactivation after default; customers falling behind mainly because of broken pumps; promising Pay-As-You-Grow trial results"
+    },
+    {
+      "title": "How One Startup is Deploying Agtech in Developing Markets (Louisa Burwood-Taylor, 9 January 2017)",
+      "publisher": "AgFunderNews",
+      "url": "https://agfundernews.com/how-one-startup-is-deploying-agtech-in-developing-markets",
+      "kind": "founder-interview",
+      "supports": "Ibrahim's account of the pay-as-you-grow pilot with Shell Foundation and Syngenta: bundled irrigation, inputs, insurance and agronomy support financed over two years with variable payments; his rejection of the word pivot and 'I would call it an addition to the business model'"
+    },
+    {
+      "title": "Building a Successful Climate-Tech Startup: The SunCulture Story",
+      "publisher": "Shell Foundation (case study)",
+      "url": "https://shellfoundation.org/?p=9841",
+      "kind": "independent-reporting",
+      "supports": "AgroSolar pump at $5,000 beyond most smallholders and no loans available; 2015 £100,000 GSMA grant for the cheaper RainMaker 1; 2016 $300,000 from Shell Foundation and UK TEA to pilot PAYGrow; over 900 pumps sold in the pilot and reliable repayment when the product worked and support was in place; over 10,000 pumps by 2020; close to 40,000 by 2023; 2020 Series A"
+    },
+    {
+      "title": "Sunny Days Ahead: How SunCulture is harnessing the sun to irrigate small farms across Africa (Anthony Randazzo, reprinted 16 September 2019)",
+      "publisher": "SEE Change Magazine",
+      "url": "https://www.seechangemagazine.com/?p=5991",
+      "kind": "independent-reporting",
+      "supports": "Systems first priced at $5,000; the move to the cheaper RainMaker with sprinklers; Ibrahim: 'We sold more products since launching the Rainmaker in October than we've sold in all previous years combined'; customer financing on a pilot basis"
+    },
+    {
+      "title": "SunCulture wants to turn Africa into the world's next bread basket, one solar water pump at a time (Jonathan Shieber, 4 December 2020)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/?p=2082553",
+      "kind": "independent-reporting",
+      "supports": "Early customers were middle-income 'telephone farmers' with city jobs and rural land who would spend $5,000; systems later $500 to $1,000 under pay-as-you-grow; $14 million raised in December 2020"
+    },
+    {
+      "title": "Samir Ibrahim – Saving Kenyan Agriculture One Drip at a Time (2 August 2017)",
+      "publisher": "Global Opportunity Explorer",
+      "url": "https://goexplorer.org/samir-ibrahim-saving-kenyan-agriculture-one-drip-at-a-time/",
+      "kind": "founder-interview",
+      "supports": "Founders sketched the plan in New York in 2011 and were in Kenya within a year; in August 2017 SunCulture was piloting its Pay-As-You-Grow financing platform with the Shell Foundation; low bank lending to agriculture"
+    },
+    {
+      "title": "From NYC To Nairobi: Interview With SunCulture, Audience Choice Award Winners 2011-12 (10 December 2012, from Forbes)",
+      "publisher": "NextBillion",
+      "url": "https://nextbillion.net/news/from-nyc-to-nairobi-interview-with-sunculture-audience-choice-award-winners-2011-12",
+      "kind": "independent-reporting",
+      "supports": "Origins in the NYU Stern Social Venture Competition; Ibrahim's finance background and Nichols's engineering background; the move to Kenya and the AgroSolar Irrigation Kit"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "SunCulture's first kit cost about $4,500 to $5,000 and reached mainly buyers with capital or high-value crops",
+      "urls": [
+        "https://www.howwemadeitinafrica.com/p/two-entrepreneurs-looking-to-transform-agriculture-through-solar-power",
+        "https://techcrunch.com/?p=2082553",
+        "https://shellfoundation.org/learning/making-it-rain-emerging-opportunities-for-improved-solar-water-pumps/"
+      ]
+    },
+    {
+      "claim": "SunCulture piloted pay-as-you-grow financing with Shell Foundation from 2016",
+      "urls": [
+        "https://shellfoundation.org/?p=9841",
+        "https://agfundernews.com/how-one-startup-is-deploying-agtech-in-developing-markets",
+        "https://goexplorer.org/samir-ibrahim-saving-kenyan-agriculture-one-drip-at-a-time/"
+      ]
+    },
+    {
+      "claim": "The cheaper RainMaker launched in October 2017 and sales rose sharply afterwards",
+      "urls": [
+        "https://shellfoundation.org/learning/making-it-rain-emerging-opportunities-for-improved-solar-water-pumps/",
+        "https://www.seechangemagazine.com/?p=5991"
+      ]
+    },
+    {
+      "claim": "SunCulture passed 10,000 pumps by 2020 and raised a Series A of $14 million in 2020",
+      "urls": [
+        "https://shellfoundation.org/?p=9841",
+        "https://techcrunch.com/?p=2082553"
+      ]
+    }
+  ],
+  "research_notes": "Price of the first kit: How we made it in Africa (April 2013) gives 380,000 shillings (US$4,500); the founders (2017), SEE Change, TechCrunch and Shell Foundation give about $5,000 at the start; the founders also give a minimum all-in cost of $3,690 in early 2017. The story gives the 2013 figure for 2013 and the 2017 figure for 2017. RainMaker price: SEE Change says $500; the founders give a $100 deposit and $45-65 a month; TechCrunch (2020) says $500 to $1,000 for a system; the story uses the founders' payment terms. Launch date: the founders' piece says the RainMaker launched 'this October' and its page metadata gives publication on 12 December 2017; it also cites the kit's early-2017 price, so the launch is dated October 2017. SEE Change's piece (a 2019 reprint from the Impact Money blog) says the company 'pivoted last year' and quotes Ibrahim on sales since the October launch without a year; the story attributes the sales remark without a date. Founding date: the founders say they sketched the plan in 2011 (Global Opportunity Explorer; NextBillion/Forbes), Shell Foundation says founded 2012, the founders say they have sold products since 2013; the story gives no founding year. Units: Shell Foundation's figures (over 900 in the pilot, over 10,000 by 2020, close to 40,000 by 2023) are used; other reports give 45,000 units or 35,000 financed farmers at later dates. Ibrahim himself rejected the word 'pivot' in January 2017, calling financing an addition to the business model; the arc is set to change-of-direction because the product, price and customer all changed, and the story reports his objection. 'Stuffed under their mattresses' is Nichols's phrase from 2013. The Ben Sira passage is from the Revised Version text reprinted in the Wisdom of the East series; it is applied by analogy to instalment credit tied to harvests.",
+  "researched_at": "2026-11-01"
+}

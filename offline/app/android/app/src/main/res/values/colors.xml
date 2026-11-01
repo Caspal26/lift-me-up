@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The PWA's palette (public/styles.css). -->
+    <color name="lmu_bg">#F7F2EA</color>
+    <color name="lmu_accent">#A84A24</color>
+    <color name="colorPrimary">#A84A24</color>
+    <color name="colorPrimaryDark">#F7F2EA</color>
+    <color name="colorAccent">#A84A24</color>
+</resources>

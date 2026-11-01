@@ -1,0 +1,146 @@
+{
+  "id": "kurt-petersen-tom-gutshall-cepheid-postal-anthrax-trials-2001",
+  "title": "When the Postal Service Tested Cepheid's Machine for Anthrax",
+  "dek": "In December 2001 a small Silicon Valley company built for doctors' offices put its DNA tester through postal anthrax trials, and set its first aim aside for a while.",
+  "story": {
+    "founder": "Tom Gutshall and Kurt Petersen",
+    "company": "Cepheid",
+    "event": "Putting its DNA-testing machines through US Postal Service anthrax trials after the 2001 attacks",
+    "approx_date": "2001-12",
+    "country": "United States",
+    "region": "North America",
+    "industry": "diagnostics",
+    "arc": "breakthrough",
+    "funding": "mixed",
+    "summary": "Cepheid, co-founded in 1996 by Kurt Petersen, Tom Gutshall and others to make PCR testing small enough for doctors' offices, had defence funding and anthrax among its targets when the 2001 anthrax letters killed five people. It put its machines through US Postal Service trials in December 2001, then built with Northrop Grumman a detector mounted on mail-sorting equipment, launched in 2003, while its clinical work was temporarily set aside. Its first clinical test followed in 2006.",
+    "paragraphs": [
+      "As the summer of 2001 ended, Cepheid, the Sunnyvale company Kurt Petersen had co-founded five years earlier, had shipped about 80 of its first DNA-testing machines. The idea went back to a lunch in Palo Alto where Petersen pitched Tom Gutshall, who began drawing a business plan on the paper place mat. Their aim was PCR, the method of copying DNA to detect it, made small and fast enough for a doctor's office. The next machine, the GeneXpert, would go from raw sample to answer, and its first prototype was due in December.",
+      "Part of the money had come from the US Defense Department, which by 1997 had put $3.2 million into Cepheid in the hope of a bioweapons detector, and anthrax was already among the things it could find. In IEEE Spectrum that October, Petersen pointed to the unglamorous problem: the field had concentrated on amplifying and detecting DNA \"while ignoring sample preparation, which can be just as complicated.\"",
+      "Then letters carrying anthrax spores went through the post. By the US Government Accountability Office's count they caused 22 cases and five deaths; nine postal workers fell ill, and two at the Brentwood sorting centre in Washington died. Cepheid was suddenly news; Petersen recalled running live tests on Good Morning America and CNN. When the Postal Service invited anyone with detection technology to demonstrate it, Cepheid put its machines through trials in December 2001. \"It went perfectly,\" Petersen said. After months more testing it teamed up with Northrop Grumman to build a detector fixed to mail-sorting machines, and, by the company's own account, its focus temporarily shifted away from clinics.",
+      "The programme launched in 2003, by the accounts of Petersen and Cepheid. In 2004 the Centers for Disease Control described plans for about 300 mail centres, each sampling the air around the machines that handle incoming letters. Cepheid says it has since delivered over 15 million results with no false positives, a company figure. Then it went back to its first aim: its first clinical test, for Group B streptococcus in childbirth, came in 2006, and the cartridges were later adapted for tuberculosis, flu and, in 2020, Covid-19."
+    ]
+  },
+  "quote": {
+    "text": "If a man take no thought about what is distant, he will find sorrow near at hand.",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book XV (Wei Ling Kung), Chapter 11",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius warns that neglecting what is distant brings sorrow close at hand. In 2001 the near need was urgent and real, and Cepheid answered it while its distant aim, a test in every clinic, waited. Whether the detour delayed that aim or paid for it, the record does not say.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Cepheid's people had built for one purpose and were asked, in an emergency, to serve another. They said yes, and they also kept the original aim in view, returning to clinics a few years later. The urgent request did not erase the distant plan; it postponed it.",
+    "You will get urgent requests that happen to fit what you have built, and some will be worth saying yes to. It helps to name the distant aim out loud when you do, so that a temporary shift stays temporary and nobody, including you, forgets what the work was first meant for."
+  ],
+  "invitation": "Write one sentence saying what your work is for five years from now. Put it where you will see it the next time an urgent request arrives.",
+  "sources": [
+    {
+      "title": "Kurt Petersen, 2019 IEEE Medal of Honor recipient, is Mr. MEMS",
+      "publisher": "IEEE Spectrum (2019)",
+      "url": "https://spectrum.ieee.org/kurt-petersen-2019-ieee-medal-of-honor-recipient-is-mr-mems",
+      "kind": "founder-interview",
+      "supports": "Lunch with Tom Gutshall at the California Café in Palo Alto and the business plan drawn on a place mat; aim of PCR small and fast enough for a doctor's office; co-founding Cepheid in 1996 with Gutshall and others, licensing Livermore technology; $3.2 million from the Defense Department by 1997 for a bioweapons detector; about 80 Smart Cyclers shipped by the end of summer 2001; first GeneXpert prototype due December 2001; anthrax already among detectable substances; live PCR on Good Morning America and CNN; Postal Service invitation and December 2001 tests ('It went perfectly'); partnership with Northrop Grumman for a biodetector hooked to mail-sorting machines, rolled out in 2003"
+    },
+    {
+      "title": "Biological warfare canaries (1 October 2001)",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/biological-warfare-canaries",
+      "kind": "independent-reporting",
+      "supports": "Contemporary description of Cepheid's PCR biodetector; Petersen as Cepheid's president and his remark about the field ignoring sample preparation"
+    },
+    {
+      "title": "A Rapid Test for Covid-19 Arrives Via a 20-year-old Technology Already in Many Hospitals (Tekla S. Perry, 2020)",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/a-rapid-test-for-covid19-arrives-via-a-20yearold-technology-already-in-many-hospitals",
+      "kind": "independent-reporting",
+      "supports": "The system was a prototype in September 2001; Cepheid won a set of Postal Service competitions; its systems attached to mail-sorting machines screen most US mail; later tests for flu, strep, tuberculosis and other diseases; FDA authorisation for Covid-19 testing in 2020"
+    },
+    {
+      "title": "Mission & History",
+      "publisher": "Cepheid",
+      "url": "https://www.cepheid.com/en-US/about-us/mission-history.html",
+      "kind": "company-archive",
+      "supports": "Founded 1996; focus temporarily shifted after the 2001 attacks; GeneXpert at the heart of the Postal Service biohazard detection system built with Northrop Grumman; programme launched in 2003; company claim of over 15 million results with no false positives; anthrax cartridge for postal sorting offices listed under 2004; return to clinical work with Xpert GBS (described as launched in 2006; listed under 2005 on the timeline)"
+    },
+    {
+      "title": "Responding to Detection of Aerosolized Bacillus anthracis by Autonomous Detection Systems in the Workplace (MMWR Recommendations and Reports, 2004)",
+      "publisher": "Centers for Disease Control and Prevention",
+      "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5307a1.htm",
+      "kind": "independent-reporting",
+      "supports": "The Biohazard Detection System developed under Postal Service contract to detect aerosolised anthrax spores using automated sampling and tests such as real-time PCR; plans for about 300 mail processing and distribution centres; units installed on or near equipment that processes incoming mail"
+    },
+    {
+      "title": "U.S. Postal Service: Better Guidance Is Needed to Ensure an Appropriate Response to Anthrax Contamination (GAO-04-239, September 2004)",
+      "publisher": "US Government Accountability Office",
+      "url": "https://www.gao.gov/products/gao-04-239",
+      "kind": "independent-reporting",
+      "supports": "The 2001 letters caused 22 cases of anthrax, five of them fatal; nine postal employees at Trenton and Brentwood contracted anthrax and two Brentwood employees died; the Postal Service later installed biological detectors in mail processing facilities"
+    },
+    {
+      "title": "Timeline: How The Anthrax Terror Unfolded (15 February 2011)",
+      "publisher": "NPR",
+      "url": "https://www.npr.org/2011/02/15/93170200/timeline-how-the-anthrax-terror-unfolded",
+      "kind": "independent-reporting",
+      "supports": "Letters began arriving a week after 11 September 2001; five deaths and 17 others infected; two Brentwood postal workers confirmed dead on 23 October 2001"
+    },
+    {
+      "title": "Cepheid (company)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cepheid_Inc.",
+      "kind": "independent-reporting",
+      "supports": "Supplementary: the six co-founders including Thomas Gutshall and Kurt Petersen; Gutshall as chief executive 1996-2002; Defense Department as main early funder; a temporary hold on some healthcare development to work with Northrop Grumman on the postal contract; Xpert GBS cleared in 2006"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Cepheid's machines were tested by the Postal Service after the 2001 attacks and Cepheid built the postal anthrax detector with Northrop Grumman.",
+      "urls": [
+        "https://spectrum.ieee.org/kurt-petersen-2019-ieee-medal-of-honor-recipient-is-mr-mems",
+        "https://www.cepheid.com/en-US/about-us/mission-history.html",
+        "https://en.wikipedia.org/wiki/Cepheid_Inc."
+      ]
+    },
+    {
+      "claim": "The anthrax letters caused 22 cases and five deaths, including two Brentwood postal workers.",
+      "urls": [
+        "https://www.gao.gov/products/gao-04-239",
+        "https://www.npr.org/2011/02/15/93170200/timeline-how-the-anthrax-terror-unfolded"
+      ]
+    },
+    {
+      "claim": "The detection system was fitted to mail-sorting equipment and launched in 2003, with about 300 centres planned.",
+      "urls": [
+        "https://spectrum.ieee.org/kurt-petersen-2019-ieee-medal-of-honor-recipient-is-mr-mems",
+        "https://www.cepheid.com/en-US/about-us/mission-history.html",
+        "https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5307a1.htm"
+      ]
+    },
+    {
+      "claim": "Cepheid temporarily shifted focus away from clinical development to the postal work.",
+      "urls": [
+        "https://www.cepheid.com/en-US/about-us/mission-history.html",
+        "https://en.wikipedia.org/wiki/Cepheid_Inc."
+      ]
+    },
+    {
+      "claim": "The Defense Department funded Cepheid's early work on a bioweapons detector.",
+      "urls": [
+        "https://spectrum.ieee.org/kurt-petersen-2019-ieee-medal-of-honor-recipient-is-mr-mems",
+        "https://en.wikipedia.org/wiki/Cepheid_Inc."
+      ]
+    },
+    {
+      "claim": "Cepheid's first clinical test, Xpert GBS, came in 2006.",
+      "urls": [
+        "https://www.cepheid.com/en-US/about-us/mission-history.html",
+        "https://en.wikipedia.org/wiki/Cepheid_Inc."
+      ]
+    }
+  ],
+  "research_notes": "Defense funding: IEEE Spectrum (2019) says the Defense Department had provided $3.2 million by 1997; Wikipedia says Cepheid had received $15 million from it by 2001. These are different dates and may both be right, so the story uses only the 1997 figure with its date. Rollout date: Petersen (IEEE 2019) and Cepheid's narrative say 2003; Cepheid's own timeline lists the anthrax cartridge under 2004, and the CDC's 2004 report still describes installation in about 300 centres as planned, so the story says the programme launched in 2003 'by the accounts of Petersen and Cepheid' and gives the CDC's 2004 plan separately. Outcome figure: 'over 15 million results with no false positives' is Cepheid's own undated claim and is presented as a company figure; no independent count was found. Petersen's 2019 claim that all US mail is screened by Cepheid machines and IEEE's 2020 'most mail' differ slightly and neither is used. First clinical test: Cepheid's narrative and Wikipedia say Xpert GBS launched or was cleared in 2006, while the same Cepheid page's timeline lists it under 2005; the story uses 2006. Anthrax casualties: GAO gives 22 cases and five deaths; NPR gives five deaths and 17 others infected, which agrees. The 'temporary hold on some healthcare development' detail in Wikipedia cites a San Francisco Chronicle article (9 March 2003) that blocks automated requests and could not be read, so the story relies on Cepheid's own wording that its focus 'temporarily shifted'. Tom Gutshall's role rests on Petersen's account of the founding lunch; no interview with Gutshall was found in a loading source. The October 2001 IEEE Spectrum quotation may have been given before the attacks; the story says only that it appeared that October. Funding is set to mixed rather than venture: defence contracts, venture money and a June 2000 public offering all funded the company.",
+  "researched_at": "2026-11-01"
+}

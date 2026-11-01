@@ -1,0 +1,124 @@
+{
+  "id": "jeremy-johnson-andela-ends-junior-developer-programme-2019",
+  "title": "The Week Andela Ended Its Junior Developer Programme",
+  "dek": "In September 2019 Andela, known for training young African engineers, let its junior developers go in three countries and stopped training new ones there.",
+  "story": {
+    "founder": "Jeremy Johnson",
+    "company": "Andela",
+    "event": "Laying off junior developers in Nigeria, Kenya and Uganda and ending training there",
+    "approx_date": "2019-09",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "education (software talent)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "In September 2019 Andela, co-founded in Lagos in 2014 and led by Jeremy Johnson, laid off about 400 to 420 junior developers in Nigeria, Kenya and Uganda and ended its training programme in those countries, saying customer demand had shifted to experienced engineers. Weeks earlier Johnson had said the company would hire about 1,000 engineers that year. Those leaving received severance and placement help through local tech hubs; Andela disclosed projected revenue above $50 million, refocused on senior developers and went fully remote in 2020.",
+    "paragraphs": [
+      "In late August 2019, Jeremy Johnson, Andela's co-founder and chief executive, gave TechCrunch the numbers for the company he had helped start in Lagos in 2014. It employed 1,575 developers, chosen from about one in a hundred applicants, and expected to hire around 1,000 that year. About 120, he said, would leave because there was no role for them or because they chose to go. The company was not profitable, he added, though revenue was growing.",
+      "What the company knew was that demand had moved. Its customers, mainly in the United States, wanted experienced engineers; a vice-president, Seni Sulyman, later told Quartz that American bootcamps and university courses were producing plenty of juniors. In May Andela had started courting mid-level and senior developers. Johnson's summary was blunt: \"We've hired more junior developers than we are able to place in remote roles.\"",
+      "In mid-September the company confirmed it was letting junior engineers go in Nigeria, Kenya and Uganda: 400, Johnson told TechCrunch; about 420 by the figures Andela gave TechCabal, 250 in Nigeria and Uganda and some 170 in Kenya. Training of new developers would stop in those countries. Those leaving were offered severance and help finding work through tech hubs including CcHub in Lagos and iHub in Nairobi. Johnson said they \"want, and deserve, authentic work experiences that we are not able to provide.\" At the same time Andela disclosed, for the first time, that its 2019 revenue would pass $50 million.",
+      "Andela kept to the new course. It said it would bring in hundreds of experienced engineers: 500 the next year, by Johnson's account to TechCrunch, or 700 by the end of 2020, by TechCabal's report. In November it opened in Egypt, hiring only senior developers. In May 2020 it laid off another 135 staff, and that July it closed its campuses and went fully remote, with about 1,200 employees."
+    ]
+  },
+  "quote": {
+    "text": "Entreat not evil a servant that worketh truly, nor a hireling that giveth thee his life. Let thy soul love a wise servant; defraud him not of liberty.",
+    "thinker": "Ben Sira",
+    "work": "Ecclesiasticus (The Wisdom of Jesus the Son of Sirach)",
+    "locator": "Ecclesiasticus, chapter 7 (verses 20-21 in the usual numbering)",
+    "translator": "Revised Version of the Apocrypha (1895), as selected in the Wisdom of the East series (1910)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/77250/pg77250.txt",
+    "source_title": "The Wisdom of the Apocrypha, Project Gutenberg eBook #77250",
+    "connection": "Ben Sira writes for a household with servants and hired hands, and his rule is short: do not deal badly with the one who gives you his working life. Andela's juniors had signed on for years. The severance and placement help were real; whether they met Ben Sira's standard is left to the reader.",
+    "stance": "challenges"
+  },
+  "reflection": [
+    "Andela's leaders read the market correctly and still had to tell several hundred young engineers that the company had taken on more of them than it could use. Johnson did not pretend the cost fell only on the business; he said it fell on people who deserved better.",
+    "You may one day bring people into something uncertain, whether staff, volunteers or early users. It is worth deciding now what you would owe them if your plans changed: how much notice, what help, what honesty. Those promises are easier to keep when you have made them to yourself before anyone needs them."
+  ],
+  "invitation": "Think of one person who depends on a plan of yours. Write down what you would tell them, and what you would offer, if that plan had to change next month.",
+  "sources": [
+    {
+      "title": "What is Andela, the Africa tech talent accelerator? (Jake Bright, 29 August 2019)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2019/08/29/what-is-andela-the-africa-tech-talent-accelerator/",
+      "kind": "founder-interview",
+      "supports": "Johnson's figures weeks before the layoffs: 1,575 developers employed, about 1,000 to be hired that year, about 120 expected to leave, acceptance of about 1 per cent of applicants; Andela not profitable but revenue growing; co-founded in 2014"
+    },
+    {
+      "title": "Africa-focused Andela cuts 400 staff as it confirms $50M in revenue (Jake Bright, 17 September 2019)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2019/09/17/africa-focused-andela-cuts-400-staff-as-it-confirms-50m-in-revenue/",
+      "kind": "founder-interview",
+      "supports": "Cut of 400 junior engineers across Kenya, Uganda and Nigeria; shift in demand to more senior talent; Johnson's 'We've hired more junior developers than we are able to place in remote roles'; severance and placement assistance with partners such as CcHub and iHub; first disclosure of revenue above $50 million for 2019; plan to bring in 500 more developers the next year; 1,575 engineers before the cuts"
+    },
+    {
+      "title": "Andela, with a projected $50m revenue, lays off 420 developers (17 September 2019)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2019/09/17/andela-with-a-projected-50m-revenue-lays-off-420-developers/",
+      "kind": "independent-reporting",
+      "supports": "250 junior developers laid off in Nigeria and Uganda and about 170 in Kenya; end of the training programme in those countries, with training limited to Rwanda; Johnson's statement that the juniors 'want, and deserve, authentic work experiences that we are not able to provide'; partner hubs iHub, Innovation Village and CcHUB; plan to hire 700 senior developers by the end of 2020; Seni Sulyman's explanation to Quartz about US bootcamps and university programmes; the May 2019 campaign for mid-level and senior engineers; projected 2019 revenue of $50 million"
+    },
+    {
+      "title": "Andela eyes senior developers as it expands to Egypt (5 November 2019)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2019/11/05/andela-launches-egypt/",
+      "kind": "independent-reporting",
+      "supports": "Fully remote centre in Egypt hiring only senior developers, in line with the September decision to move away from hiring and training junior developers"
+    },
+    {
+      "title": "Andela lays off 135 staff across four locations, most senior staff to take pay-cuts (5 May 2020)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2020/05/05/andela-layoffs-135-staff/",
+      "kind": "independent-reporting",
+      "supports": "135 staff laid off in May 2020; 420 staff, mainly junior developers from the fellowship programme, let go in September 2019"
+    },
+    {
+      "title": "Andela, which builds engineering teams tapping African talent, goes fully remote and opens to the wider continent (Ingrid Lunden, 1 July 2020)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2020/07/01/andela-which-builds-remote-engineering-teams-tapping-african-talent-goes-fully-remote-and-opens-to-the-wider-continent/",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2014 out of Lagos; co-founders including Jeremy Johnson; 135 employees laid off in May 2020; closing physical campuses and going fully remote; about 1,200 employees"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In September 2019 Andela laid off about 400 junior developers in Nigeria, Kenya and Uganda.",
+      "urls": [
+        "https://techcrunch.com/2019/09/17/africa-focused-andela-cuts-400-staff-as-it-confirms-50m-in-revenue/",
+        "https://techcabal.com/2019/09/17/andela-with-a-projected-50m-revenue-lays-off-420-developers/",
+        "https://techcabal.com/2020/05/05/andela-layoffs-135-staff/"
+      ]
+    },
+    {
+      "claim": "Andela said the cause was customer demand shifting to more experienced engineers, and stopped training junior developers in those countries.",
+      "urls": [
+        "https://techcrunch.com/2019/09/17/africa-focused-andela-cuts-400-staff-as-it-confirms-50m-in-revenue/",
+        "https://techcabal.com/2019/09/17/andela-with-a-projected-50m-revenue-lays-off-420-developers/"
+      ]
+    },
+    {
+      "claim": "Those laid off were offered severance and placement help through local tech hubs.",
+      "urls": [
+        "https://techcrunch.com/2019/09/17/africa-focused-andela-cuts-400-staff-as-it-confirms-50m-in-revenue/",
+        "https://techcabal.com/2019/09/17/andela-with-a-projected-50m-revenue-lays-off-420-developers/"
+      ]
+    },
+    {
+      "claim": "Andela disclosed projected 2019 revenue of $50 million at the same time.",
+      "urls": [
+        "https://techcrunch.com/2019/09/17/africa-focused-andela-cuts-400-staff-as-it-confirms-50m-in-revenue/",
+        "https://techcabal.com/2019/09/17/andela-with-a-projected-50m-revenue-lays-off-420-developers/"
+      ]
+    },
+    {
+      "claim": "In May 2020 Andela laid off another 135 staff, and later went fully remote.",
+      "urls": [
+        "https://techcabal.com/2020/05/05/andela-layoffs-135-staff/",
+        "https://techcrunch.com/2020/07/01/andela-which-builds-remote-engineering-teams-tapping-african-talent-goes-fully-remote-and-opens-to-the-wider-continent/"
+      ]
+    }
+  ],
+  "research_notes": "Number laid off: Johnson told TechCrunch 400 junior engineers; Andela told TechCabal 250 in Nigeria and Uganda plus about 170 in Kenya (about 420), and TechCabal's 2020 report repeats 420, while its November 2019 report says 400. The story gives both figures with who said what. Hiring plan: Johnson told TechCrunch Andela would bring in 500 more developers the next year; TechCabal reported a plan for 700 senior developers by the end of 2020; both are given. Headcount: 1,575 before the cuts (Johnson, August 2019); about 1,200 engineers (TechCabal, November 2019); over 1,300 staff on the May 2020 call (TechCabal); about 1,200 employees after the May 2020 cuts (TechCrunch, July 2020). The story uses 1,575 and the July 2020 figure. The slate called those laid off 'trainees'; the sources describe them as salaried junior developers who had entered through the fellowship, so the story calls them junior developers. Commitment length: TechCrunch (August 2019) says juniors made a minimum two-year commitment, TechCabal describes a four-year agreement after six months' training; the story says only that they had signed on for years. Seni Sulyman's explanation is from Quartz as reported by TechCabal; the Quartz article blocks automated requests and is not listed. The 'about 120' expected to leave includes those who chose to go, per Johnson. Funding: venture ($181 million by 2019 per TechCrunch and TechCabal). Ben Sira's lines are addressed to a household employer of servants and hired workers; they are applied by analogy.",
+  "researched_at": "2026-11-01"
+}

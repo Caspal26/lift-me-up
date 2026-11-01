@@ -1,0 +1,121 @@
+{
+  "id": "peter-farrell-colin-sullivan-rescare-buys-cpap-1989",
+  "title": "When Baxter Walked Away From CPAP, Peter Farrell Bought It",
+  "dek": "In 1989 a Baxter executive took over the homemade sleep-apnoea machine his employer no longer wanted and started ResCare in Sydney.",
+  "story": {
+    "founder": "Colin Sullivan and Peter Farrell",
+    "company": "ResCare (later ResMed)",
+    "event": "Buying Colin Sullivan's CPAP technology from Baxter and founding ResCare",
+    "approx_date": "1989",
+    "country": "Australia",
+    "region": "Oceania",
+    "industry": "medical devices (sleep apnoea treatment)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In the early 1980s Sydney physician Colin Sullivan treated obstructive sleep apnoea with continuous positive airway pressure delivered through a homemade nasal mask, and his laboratory went on to make about 1,000 machines for patients. Baxter took up the technology in 1986–87 and sold it in 1988–89, then lost interest; in 1989 Peter Farrell, Baxter's research vice-president in Sydney, formed ResCare to take it over. ResCare sold about $1 million of machines in its first year, became profitable in 1992 and listed as ResMed in 1995.",
+    "paragraphs": [
+      "Early in the 1980s Colin Sullivan, a respiratory physician at Royal Prince Alfred Hospital in Sydney, found a patient for an idea he had kept to himself: a scaffolder whose workmates feared he was falling asleep at heights. Each time he dozed, his airway closed. The standard treatment was a hole cut in the windpipe. Sullivan instead rigged a blower, pool hose and a nasal mask sealed to the face with silicone, and raised the air pressure until the blockage stopped. Next morning, he recalled, the man woke alert, with his colour vision back. Sullivan called the method continuous positive airway pressure, or CPAP, and published it in The Lancet in 1981.",
+      "The kit was crude: the first blower had been designed for a spa bath and was too loud to sit near the bed, and masks were cast from plaster models of each patient's nose. Still, his laboratory became a small factory, making about 1,000 machines over the decade for home use. In 1986 Sullivan, who had patented the idea himself, took it to Baxter's new research centre in Sydney. Sullivan introduced Peter Farrell, a biomedical engineer and Baxter vice-president, to Eddie, the first person to use CPAP at home. Farrell asked why anyone would sleep attached to something that sounded like a freight train. \"This machine saved my job, saved my marriage and saved my life,\" Eddie said.",
+      "Baxter invested, and in 1988 and 1989 sold an improved version as the Sullivan Nasal CPAP System. Then it lost interest. By 1989 it had sold its respiratory therapy division, and Farrell later said it had \"bigger fish to fry.\" Posted to Japan for Baxter, he had seen how rarely sleep apnoea was diagnosed in Asia. \"I realized I could not let this opportunity go by,\" he said.",
+      "In 1989 he formed ResCare to take over Baxter's CPAP rights and device business. Accounts of the money differ: Farrell has said he raised $1 million from Australian investors, while a 2013 interview said he put in $1.25 million of his own. In its first financial year ResCare sold about $1 million of machines, a quarter of them abroad, and lost about $250,000. It made its first profit in 1992, and in 1995 listed on Nasdaq as ResMed."
+    ]
+  },
+  "quote": {
+    "text": "The Lord created medicines out of the earth; and a prudent man will have no disgust at them.",
+    "thinker": "Ben Sira",
+    "work": "Ecclesiasticus (The Wisdom of Ben Sira)",
+    "locator": "Ecclesiasticus, chapter 38 (verse 4 in the usual numbering)",
+    "translator": "Wisdom of the East series (1910)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/77250/pg77250.txt",
+    "source_title": "The Wisdom of the Apocrypha, Project Gutenberg eBook #77250",
+    "connection": "Early CPAP was easy to find repellent: a mask sealed on every night, a blower like a freight train. Ben Sira's prudent man is the one who has no disgust at a remedy that works. Eddie was one, and so was Farrell when he took up what Baxter put down.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Farrell's decision rested less on the machine than on the man who used it. A patient who keeps a noisy, uncomfortable treatment because it gave him back his job and his marriage is telling you something no market report can.",
+    "You hear versions of this too: the colleague who sticks with an awkward workaround because it saves her an hour, the relative who puts up with a clumsy device because it fixes the thing that matters. It is easy to judge work by how it looks. It is usually wiser to judge it by what people will put up with to keep it."
+  ],
+  "invitation": "Ask one person who uses something you made or look after what they would miss most if it disappeared tomorrow. Write their answer down in their own words.",
+  "sources": [
+    {
+      "title": "The Sydney student who changed how the world sleeps",
+      "publisher": "Forbes Australia (Mark Whittaker, 20 October 2025)",
+      "url": "https://www.forbes.com.au/covers/magazine/the-sydney-student-who-changed-how-the-world-sleeps/",
+      "kind": "independent-reporting",
+      "supports": "Sullivan's own account of his first patient, a scaffolder falling asleep at heights; tracheostomy as standard care; the blower, pool hose and nasal mask glued on with silicone sealant; raising the pressure until the apnoea stopped; the patient waking with colour vision restored; Sullivan naming CPAP; the laboratory producing some 1,000 devices over the next decade; Sullivan's private patents and wish to develop CPAP in Australia; Farrell, a UNSW professor setting up a lab for Baxter; Eddie, the first person with a CPAP machine at home, and his words 'This machine saved my job, saved my marriage and saved my life'; Baxter closing its Australian lab in 1989; Farrell raising $1 million and paying Baxter $558,000 for the IP; first-year sales of about a million dollars, 25% export (Chris Roberts)"
+    },
+    {
+      "title": "Breathing easier during sleep: Case study",
+      "publisher": "National Health and Medical Research Council (Australian Government), developed with Professor Ron Grunstein, ResMed and the University of Sydney",
+      "url": "https://nhmrc.gov.au/node/8143",
+      "kind": "independent-reporting",
+      "supports": "Sullivan's NHMRC-funded team at the University of Sydney and Royal Prince Alfred Hospital; surgery and tracheostomy as earlier treatment; the first airflow generator designed for a spa bath, weighing 6.75 kg and too noisy to be near the patient; masks from plaster casts of each patient's nose glued on with silicone rubber; Farrell appointed a Baxter vice-president of R&D in 1984 and establishing the Baxter Centre for Medical Research in 1986; Sullivan approaching Farrell; the Sullivan Nasal CPAP System marketed by Baxter in 1988 and 1989; Baxter selling its respiratory therapy division by 1989; Farrell raising funding from investors and forming ResCare Holdings; ResCare becoming ResMed in 1995; government commercialisation grants"
+    },
+    {
+      "title": "The ResMed story",
+      "publisher": "ResMed Australia",
+      "url": "https://resmed.com.au/about-us/the-resmed-story",
+      "kind": "company-archive",
+      "supports": "Sullivan and colleagues at the University of Sydney developed the first CPAP device and published in The Lancet; Sullivan had patented the technology; he approached Baxter in 1986; Farrell invested in the technology on Baxter's behalf in 1987; in 1989, after Baxter decided not to enter the sleep apnoea market, Farrell founded the company to buy Sullivan's technology from Baxter"
+    },
+    {
+      "title": "Peter Craig Farrell (member profile)",
+      "publisher": "Horatio Alger Association of Distinguished Americans (2022)",
+      "url": "https://horatioalger.org/members/detail/peter-craig-farrell",
+      "kind": "founder-interview",
+      "supports": "Farrell's background in chemical and biomedical engineering; his posting to Japan as Baxter's vice-president of R&D for the Pacific and seeing sleep apnoea underdiagnosed in Asia; Baxter judging CPAP too experimental in 1989; 'I realized I could not let this opportunity go by'; raising $1 million from Australian investors and founding ResCare in 1989; about $1 million of sales in the first year; profitable from 1992; public in 1995 under the name ResMed"
+    },
+    {
+      "title": "ResMed chief Peter Farrell: The man who never rests to make sure you can",
+      "publisher": "SmartCompany (Anthony Black, from LeadingCompany, 12 March 2013)",
+      "url": "https://www.smartcompany.com.au/people-human-resources/what-the-hell-are-you-snoring-about/",
+      "kind": "founder-interview",
+      "supports": "Farrell first hearing of the treatment in June 1986 while setting up Baxter's research arm in Sydney; the Darth Vader-like mask and freight-train noise; Sullivan treating about 100 patients; putting Baxter's money into it; Baxter having 'bigger fish to fry'; Farrell paying a total of $1.25 million of his own money for the business in 1989; $1 million in sales and a $250,000 net loss in 1990; Nasdaq listing in 1995"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Sullivan's first CPAP equipment was improvised and crude, with a noisy blower and masks sealed to the face with silicone",
+      "urls": [
+        "https://www.forbes.com.au/covers/magazine/the-sydney-student-who-changed-how-the-world-sleeps/",
+        "https://nhmrc.gov.au/node/8143"
+      ]
+    },
+    {
+      "claim": "Baxter took up the technology in 1986–87 and sold it as the Sullivan Nasal CPAP System before losing interest in 1989",
+      "urls": [
+        "https://nhmrc.gov.au/node/8143",
+        "https://resmed.com.au/about-us/the-resmed-story",
+        "https://www.smartcompany.com.au/people-human-resources/what-the-hell-are-you-snoring-about/"
+      ]
+    },
+    {
+      "claim": "In 1989 Farrell formed ResCare to take over the CPAP technology from Baxter",
+      "urls": [
+        "https://horatioalger.org/members/detail/peter-craig-farrell",
+        "https://nhmrc.gov.au/node/8143",
+        "https://resmed.com.au/about-us/the-resmed-story",
+        "https://www.forbes.com.au/covers/magazine/the-sydney-student-who-changed-how-the-world-sleeps/"
+      ]
+    },
+    {
+      "claim": "ResCare sold about $1 million of machines in its first year",
+      "urls": [
+        "https://horatioalger.org/members/detail/peter-craig-farrell",
+        "https://www.smartcompany.com.au/people-human-resources/what-the-hell-are-you-snoring-about/",
+        "https://www.forbes.com.au/covers/magazine/the-sydney-student-who-changed-how-the-world-sleeps/"
+      ]
+    },
+    {
+      "claim": "The company took the name ResMed in 1995, the year it listed",
+      "urls": [
+        "https://nhmrc.gov.au/node/8143",
+        "https://horatioalger.org/members/detail/peter-craig-farrell",
+        "https://www.smartcompany.com.au/people-human-resources/what-the-hell-are-you-snoring-about/"
+      ]
+    }
+  ],
+  "research_notes": "The money in 1989 is the main conflict. Farrell's Horatio Alger profile (2022) quotes him: he raised $1 million from Australian investors and licensed the patents; Forbes Australia (2025) says he raised $1 million and paid Baxter $558,000 for the IP; SmartCompany (2013, from LeadingCompany) says he put up $1.25 million of his own money and paid Baxter for the business; the NHMRC case study says he raised funding from investors. The story gives Farrell's own $1 million-from-investors account and the 2013 own-money version, and leaves out the purchase price. Funding is therefore 'mixed' (outside investors, Farrell's own money by one account, and Australian Government commercialisation grants listed by the NHMRC). When Baxter took up CPAP: the Horatio Alger profile says 1981, which conflicts with ResMed (Sullivan approached Baxter in 1986, investment in 1987), the NHMRC case study (Baxter centre founded 1986) and SmartCompany (Farrell first heard of it in June 1986); the story uses 1986. Who ran Baxter's Sydney centre: ResMed says Chris Lynch was its managing director and passed Sullivan to Farrell; the NHMRC says Farrell established it; the story says only that Sullivan took the idea to Baxter's new research centre, where Farrell was a vice-president. Why Baxter withdrew: the NHMRC says it had sold its respiratory therapy division; Farrell (SmartCompany) says it had 'bigger fish to fry'; the Horatio Alger profile says it judged CPAP too experimental; Forbes says it closed its Australian lab. The story uses the first two. Date of the first patient: sources give 1980 or 1981 (the Lancet paper is 1981), so the story says 'early in the 1980s'. First-year figures: about $1 million of sales (Horatio Alger, Forbes via Chris Roberts, SmartCompany), with SmartCompany giving a $250,000 net loss in 1990 and Roberts a 25% export share. Listing: SmartCompany says Nasdaq in 1995; Horatio Alger and the NHMRC say the name changed to ResMed in 1995. Eddie's words are a patient's quotation reported by Forbes Australia from Farrell's account. A Marks & Clerk patent blog and a Dentaltown article (which gives yet another figure, $600,000) were read but not cited because of errors in their accounts. Ben Sira's verse is about honouring physicians and their remedies; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

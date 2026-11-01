@@ -1,0 +1,126 @@
+{
+  "id": "kristo-kaarmann-taavet-hinrikus-transferwise-founding-2010",
+  "title": "The £500 Shortfall That Became TransferWise",
+  "dek": "A bank's hidden exchange-rate cut on a Christmas bonus led two Estonians in London to swap money between themselves, then spend a year making the swap a licensed business.",
+  "story": {
+    "founder": "Kristo Käärmann and Taavet Hinrikus",
+    "company": "TransferWise (later Wise)",
+    "event": "Turning a private currency swap into a licensed money-transfer company",
+    "approx_date": "2010",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "industry": "fintech (international money transfer)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "After losing about £500 to a bank's exchange-rate margin on a £10,000 bonus in 2008, Kristo Käärmann began swapping pounds and Estonian money at the mid-market rate with his friend Taavet Hinrikus. Käärmann registered a company in England in March 2010; the pair spent about a year on licences, regulation and testing, cleared their plans with the Financial Services Authority, and launched TransferWise in 2011, relying largely on their savings until a New York fund invested in 2012 after about 15 investors had turned them down.",
+    "paragraphs": [
+      "In 2008 Kristo Käärmann, a 28-year-old Estonian management consultant in London, received a Christmas bonus of £10,000. Interest rates were higher at home, so he sent it from his British current account to his Estonian savings account and paid a £15 fee. A week later, he said, £500 less than he expected had arrived. He had assumed the bank would use the rate he saw on Reuters and Bloomberg; it had used one about five per cent worse. \"It was my mistake,\" he told the BBC.",
+      "His fix was informal. His friend Taavet Hinrikus, Skype's first employee, was paid in Estonian money but lived in London, while Käärmann earned pounds and had bills in Estonia. Each topped up the other's account at that day's mid-market rate, so no money crossed a border. Friends joined in, and within a year, Postimees reported, they had saved thousands of euros. \"We thought that if we could do it between ourselves, it should be possible between others as well,\" Käärmann said.",
+      "On 31 March 2010 he registered a company in England, Exchange Solutions, with £100 of share capital. Hinrikus later said the pair began work on it that spring or summer. The next year went on licences, learning the regulations, designing the service and testing it, and they cleared their plans with the Financial Services Authority before launching. Käärmann recalled the regulator saying it had never seen anything like them. He also remembered how much was unknown: \"Would anyone trust this website set up by two Estonian dudes?\"",
+      "TransferWise opened to the public in 2011. For its first year, Käärmann said, it ran mostly on their savings, and customers came in a trickle by word of mouth until a technology website reviewed it. By February 2012 it reported about €10 million moved in roughly 5,500 transfers. That year the founders pitched about 15 investors, and all said no. \"No-one in Europe would touch us,\" Käärmann said; the first large cheque, $1.3 million, came from IA Ventures in New York. The company became Wise in 2021 and listed its shares in London that July."
+    ]
+  },
+  "quote": {
+    "text": "For he saith, 'I will obtain by myself for myself,' and saith not, 'I will obtain because I am allowed.' But the limits of justice are steadfast; it is that which a man repeateth from his father.",
+    "thinker": "Ptahhotep",
+    "work": "The Instruction of Ptahhotep (and of Ke'gemni)",
+    "locator": "Precept 5",
+    "translator": "Battiscombe G. Gunn (1906)",
+    "tradition": "Ancient Egyptian",
+    "source_url": "https://www.gutenberg.org/cache/epub/30508/pg30508.txt",
+    "source_title": "The Instruction of Ptah-Hotep and the Instruction of Ke'Gemni, tr. Battiscombe G. Gunn, Project Gutenberg eBook #30508",
+    "connection": "Ptahhotep sets the man who takes for himself against the one who takes because he is allowed. Käärmann and Hinrikus had a scheme that already worked among friends, yet they spent a year on licences and went to the regulator before a single stranger used it.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Käärmann's starting point was not a market study but an embarrassment: he had trusted a number he did not check, and he said so plainly. You will have small irritations of your own, the form that needs three signatures, the result that travels by a slower road than it should. Most are only annoyances. A few turn out to be problems other people share, as the swap did when friends asked to join.",
+    "The year that followed is the part that is easy to skip in the telling. Licences, regulation, testing: none of it is exciting, and all of it came before the first customer. If part of your week is that kind of permission-seeking work, it still counts as work."
+  ],
+  "invitation": "Write down one inconvenience you have quietly worked around this month. Ask one colleague today whether they work around it too, and leave it at that.",
+  "sources": [
+    {
+      "title": "The mistake that led to a £1.2bn business (The Boss series)",
+      "publisher": "BBC News (Will Smale, 28 January 2019)",
+      "url": "https://www.bbc.com/news/business-46985443",
+      "kind": "founder-interview",
+      "supports": "2008 £10,000 Christmas bonus while a 28-year-old management consultant in London; higher interest rates in Estonia; £15 fee and £500 shortfall a week later; expected the Reuters and Bloomberg rate, bank used one 5% worse; 'It was my mistake'; informal swap with Taavet Hinrikus at the mid-market rate, pounds for kroons; a network of Estonian friends; launch in 2011; first year grown organically on savings; word-of-mouth trickle and a jump after a review on a technology website; FSA clearance and licences secured before launch and the regulator's reaction; about 15 investors turned them down in early 2012; 'No-one in Europe would touch us'; first funding from IA Ventures; the 'two Estonian dudes' remark."
+    },
+    {
+      "title": "Founders of Wise showed how to become billionaires",
+      "publisher": "Postimees (Tõnis Oja, 9 July 2021)",
+      "url": "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires",
+      "kind": "independent-reporting",
+      "supports": "Käärmann registered Exchange Solutions in England and Wales on 31 March 2010 with £100 share capital, renamed TransferWise on 19 July 2012 and Wise in February 2021; Hinrikus: work began 'in spring or summer of 2010'; Hinrikus Skype's first employee, paid in kroons; friends involved and thousands of euros saved within a year; Käärmann's 'We thought that if we could do it between ourselves' quotation; a year spent founding the company, getting licences, learning regulation, designing and testing; public in 2011; Seedcamp's $70,000 in August 2011; 15 investors declined in 2012; IA Ventures invested $1.3 million; London listing on 7 July 2021."
+    },
+    {
+      "title": "Our story",
+      "publisher": "Wise",
+      "url": "https://wise.com/gb/about/our-story",
+      "kind": "company-archive",
+      "supports": "Company's own account: launched in 2011; Taavet, Skype's first employee, lived in London and was paid in euros; Kristo was paid in pounds and had a mortgage in euros in Estonia; each month they used the mid-market rate and topped up each other's accounts; founded as TransferWise, later renamed Wise."
+    },
+    {
+      "title": "Peer-to-peer currency exchange service TransferWise handles $13.4m in its first year",
+      "publisher": "The Next Web (Martin Bryant, 28 February 2012)",
+      "url": "https://thenextweb.com/news/peer-to-peer-currency-exchange-service-transferwise-handles-13-4m-in-its-first-year",
+      "kind": "independent-reporting",
+      "supports": "About €10 million transferred in roughly 5,500 transactions in the first year; flat £1 fee under £300; euro and pound only; backed by Seedcamp; Hinrikus as Skype's employee number one."
+    },
+    {
+      "title": "TransferWise's founder made an 'incredibly stupid' mistake that inspired his $1.6 billion company",
+      "publisher": "CNBC Make It (Alexandra Gibbs, 28 January 2019)",
+      "url": "https://www.cnbc.com/2019/01/28/transferwise-kristo-kaarmann-on-what-led-up-to-the-business-idea.html",
+      "kind": "independent-reporting",
+      "supports": "Second report of the 2008 £10,000 bonus, £15 fee, £500 shortfall and 5% worse rate; the founders met at a party, both worked in London, and swapped money at the mid-market rate on a set day each month; a network of Estonian friends; launch in 2011."
+    },
+    {
+      "title": "London-based Estonian start-up TransferWise wins an important startup prize at the Europas in Berlin",
+      "publisher": "Estonian World (Silver Tambur, 25 January 2013)",
+      "url": "https://estonianworld.com/technology/london-based-estonian-start-up-transferwise-wins-an-important-startup-prize-at-the-europas-in-berlin/",
+      "kind": "independent-reporting",
+      "supports": "Business model developed in 2010 and company launched in early 2011; the personal swap at the day's mid-market rate on Reuters; Hinrikus as Skype's first employee and Käärmann formerly of Deloitte."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 2008 Käärmann lost about £500 to his bank's exchange-rate margin, plus a £15 fee, on a £10,000 bonus sent to Estonia",
+      "urls": [
+        "https://www.bbc.com/news/business-46985443",
+        "https://www.cnbc.com/2019/01/28/transferwise-kristo-kaarmann-on-what-led-up-to-the-business-idea.html",
+        "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires"
+      ]
+    },
+    {
+      "claim": "Käärmann and Hinrikus swapped money between their own accounts at the mid-market rate before starting the company",
+      "urls": [
+        "https://www.bbc.com/news/business-46985443",
+        "https://wise.com/gb/about/our-story",
+        "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires"
+      ]
+    },
+    {
+      "claim": "Work on the company began in 2010 and the service launched in 2011",
+      "urls": [
+        "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires",
+        "https://estonianworld.com/technology/london-based-estonian-start-up-transferwise-wins-an-important-startup-prize-at-the-europas-in-berlin/",
+        "https://www.bbc.com/news/business-46985443"
+      ]
+    },
+    {
+      "claim": "Licences and regulatory clearance were secured before launch",
+      "urls": [
+        "https://www.bbc.com/news/business-46985443",
+        "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires"
+      ]
+    },
+    {
+      "claim": "In 2012 about 15 investors turned the founders down before IA Ventures invested",
+      "urls": [
+        "https://www.bbc.com/news/business-46985443",
+        "https://news.postimees.ee/7289229/founders-of-wise-showed-how-to-become-billionaires"
+      ]
+    }
+  ],
+  "research_notes": "Currencies in the swap disagree. The BBC (2019) says Käärmann wanted to swap pounds for kroons and Hinrikus the reverse; Postimees (2021) says Hinrikus was paid in kroons; Wise's own page and CNBC say Hinrikus was paid in euros and Käärmann had a euro mortgage in Estonia; Estonian World (2013) mentions a Belgian mortgage, which no other source repeats. Estonia used the kroon until 1 January 2011, so the story says 'Estonian money' and 'bills in Estonia'. Founding date: Postimees cites the registry (Exchange Solutions, 31 March 2010; renamed TransferWise 19 July 2012) and Hinrikus's 'spring or summer of 2010'; Wise and most press give 2011 as the launch; the story uses both. First funding: Käärmann told the BBC the first year ran on savings and that their first funding came from IA Ventures in 2012, but Postimees, citing filings, says Seedcamp put in $70,000 in August 2011 (The Next Web also calls the company Seedcamp-backed in February 2012). The story says the first year ran 'mostly' on savings and calls IA Ventures' $1.3 million the first large cheque. First-year volume: The Next Web (February 2012) reports about €10 million in about 5,500 transactions; the Startups.co.uk Young Guns profile says £10 million; the story uses the contemporary euro figure. The BBC Mundo Spanish version converts the bonus to US$13,000 and the loss to US$650; the story keeps the pounds of the English original. Käärmann's employer is given as Deloitte (Wise, Estonian World) and PricewaterhouseCoopers (CNBC 2019); the story says only 'management consultant'. Hinrikus is described as Skype's director of strategy until 2008 (Postimees) and as 'then director at Skype' (BBC) at the time of the swap; the story calls him Skype's first employee only. The regulator's reaction is Käärmann's recollection and is attributed. Later outcome figures (users, monthly volume, valuations) vary by date and source and are not used beyond the 2021 London listing. The Ptahhotep precept concerns the covetous man who oversteps the law; it is applied here by analogy to the founders' choice to seek permission first.",
+  "researched_at": "2026-11-01"
+}

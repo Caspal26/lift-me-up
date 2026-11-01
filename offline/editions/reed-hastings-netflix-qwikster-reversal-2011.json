@@ -1,0 +1,139 @@
+{
+  "id": "reed-hastings-netflix-qwikster-reversal-2011",
+  "title": "Three Weeks of Qwikster, and the Morning Netflix Took It Back",
+  "dek": "In September 2011 Reed Hastings announced Netflix would split off its DVD service as Qwikster; on 10 October he cancelled the plan but kept the price rise.",
+  "story": {
+    "founder": "Reed Hastings",
+    "company": "Netflix",
+    "event": "Announcing, then cancelling, the Qwikster split of the DVD-by-post service",
+    "approx_date": "2011-10",
+    "country": "United States",
+    "region": "North America",
+    "industry": "media (film and television rental and streaming)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "After a July 2011 price change that raised the cost of Netflix's combined DVD and streaming plan by about 60 per cent, Reed Hastings apologised on 18 September for how it was announced and said the DVD service would become a separate business called Qwikster. Three weeks later, on 10 October, he cancelled Qwikster but kept the price rise. Netflix reported losing about 800,000 US subscribers in the third quarter, and Hastings later wrote that the episode led Netflix to expect staff to voice disagreement.",
+    "paragraphs": [
+      "On Sunday 18 September 2011, Reed Hastings posted a letter on Netflix's blog and emailed it to members. It began: \"I messed up. I owe everyone an explanation.\" In July, Netflix had split its combined plan for DVDs by post and streaming into two plans of $7.99 each, so members who wanted both would pay about $16 a month instead of $9.99, a rise of about 60 per cent. Thousands complained online. Days earlier the company had warned it expected to lose about 600,000 US subscribers that quarter, and its shares fell 26 per cent in two days.",
+      "The letter apologised for how the change had been announced, not for the change itself. For five years, Hastings wrote, his greatest fear had been that Netflix would fail to make the leap from DVDs to streaming: \"Companies rarely die from moving too fast, and they frequently die from moving too slowly.\" So the DVD service would become a separate business called Qwikster, with its own website and chief executive. He was frank that members using both would need two accounts. \"It is possible we are moving too fast – it is hard to say,\" he added.",
+      "Many members said they did not want to manage two accounts. Three weeks later, on the morning of Monday 10 October, Hastings posted again: \"It is clear that for many of our members two websites would make things more difficult.\" There would be one website, one account and one password, \"in other words, no Qwikster.\" The price rise stayed. He called it necessary and said there would be no more price changes.",
+      "The quarter that ended in September, before the reversal, had already cost Netflix about 800,000 US subscribers (810,000 by one trade magazine's count), leaving about 23.8 million. In their 24 October letter to shareholders, Hastings and the finance chief David Wells wrote that long-term members had \"felt shocked by the pricing changes\" and called the cancelled rebranding a lesser cause. Shares, near $300 in July, fell more than 27 per cent after hours. In his 2020 book No Rules Rules, Hastings wrote that many staff had thought Qwikster a bad idea, and that Netflix now expects people who disagree to say so."
+    ]
+  },
+  "quote": {
+    "text": "Meanwhile we have to live to-day by what truth we can get to-day, and be ready to-morrow to call it falsehood.",
+    "thinker": "William James",
+    "work": "Pragmatism: A New Name for Some Old Ways of Thinking",
+    "locator": "Lecture VI, \"Pragmatism's Conception of Truth\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/5116/pg5116.txt",
+    "source_title": "Pragmatism: A New Name for Some Old Ways of Thinking, Project Gutenberg eBook #5116",
+    "connection": "James asks us to act on the best truth we have today and be ready to call it false tomorrow. Hastings showed that readiness about the second website within three weeks. He did not show it about the price, which his own letter said drove most of the cancellations, and James does not say whether he should have.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Hastings did two hard things in three weeks: he admitted in public that he had handled people badly, and he withdrew a plan he had just defended. What he kept, the price, was by his own account the part that had cost him most members. Reversing the visible decision is not always the same as reversing the one that hurt.",
+    "His later lesson was quieter. People close to him had doubts and did not say so. Most of us work among people who will not tell us we are wrong unless we ask plainly and make it safe to answer, especially when we are tired or sure of ourselves."
+  ],
+  "invitation": "Before you settle your next decision that affects other people, ask one colleague directly for the strongest reason it might be a mistake, and hear the whole answer before you reply.",
+  "sources": [
+    {
+      "title": "An Explanation and Some Reflections (Netflix blog, 18 September 2011; Wayback Machine copy)",
+      "publisher": "Netflix (Reed Hastings), archived by the Internet Archive",
+      "url": "https://web.archive.org/web/2011/http://blog.netflix.com/2011/09/explanation-and-some-reflections.html",
+      "kind": "company-archive",
+      "supports": "'I messed up. I owe everyone an explanation.'; the apology for the way the separation and price changes were announced; his five-year fear about the leap to streaming and 'Companies rarely die from moving too fast, and they frequently die from moving too slowly'; renaming the DVD service Qwikster with its own website and Andy Rendich as CEO; two accounts and ratings that would not carry across; 'It is possible we are moving too fast – it is hard to say'."
+    },
+    {
+      "title": "DVDs will be staying at netflix.com (Netflix blog, 10 October 2011; Wayback Machine copy)",
+      "publisher": "Netflix (Reed Hastings), archived by the Internet Archive",
+      "url": "https://web.archive.org/web/2011/http://blog.netflix.com/2011/10/dvds-will-be-staying-at-netflixcom.html",
+      "kind": "company-archive",
+      "supports": "'It is clear that for many of our members two websites would make things more difficult'; one website, one account, one password, 'in other words, no Qwikster'; the July price change called necessary and no more price changes."
+    },
+    {
+      "title": "Netflix to Split Off DVD-By-Mail Service as 'Qwikster'",
+      "publisher": "Next TV / Broadcasting+Cable (19 September 2011)",
+      "url": "https://www.nexttv.com/news/netflix-split-dvd-mail-service-qwikster-112448",
+      "kind": "independent-reporting",
+      "supports": "Hastings's 'I messed up' post on Sunday and the email to customers; the forecast loss of about 600,000 US customers in the third quarter and the 26% share fall in two days; the July change to separate $7.99 streaming and DVD plans."
+    },
+    {
+      "title": "Netflix Killing Qwikster but Keeping Price Increase",
+      "publisher": "CBS News (10 October 2011)",
+      "url": "https://www.cbsnews.com/news/netflix-killing-qwikster-but-keeping-price-increase",
+      "kind": "independent-reporting",
+      "supports": "Subscribers objected to managing two accounts; the reversal announced in a Monday-morning blog post; the July price change, a $6-a-month rise for DVD subscribers, kept and called 'necessary'; shares near $300 before the July announcement."
+    },
+    {
+      "title": "Netflix Cancels Plan for DVDs on Qwikster",
+      "publisher": "ABC News (October 2011)",
+      "url": "https://abcnews.go.com/blogs/technology/2011/10/netflix-cancels-plan-for-dvds-on-qwikster/",
+      "kind": "independent-reporting",
+      "supports": "The reversal less than a month after the Qwikster announcement; quotations from Hastings's post; the price increase kept."
+    },
+    {
+      "title": "Netflix Account Losses Much Higher Than Expected After Pricing Backlash",
+      "publisher": "HuffPost (October 2011)",
+      "url": "https://www.huffpost.com/entry/netflix-account-losses-q3-2011_n_1029269",
+      "kind": "independent-reporting",
+      "supports": "Loss of 800,000 subscribers in the third quarter, from 24.6 million to 23.8 million; the shareholder letter's statement that long-term members 'felt shocked by the pricing changes' and its reference to the 'proposed-and-now-cancelled rebranding'; the 60% rise from $9.99 for the combined plan; thousands of blog comments; shares near $324 before the price change."
+    },
+    {
+      "title": "Netflix Posts 810K Sub Loss in Q3",
+      "publisher": "Home Media Magazine (24 October 2011)",
+      "url": "https://www.homemediamagazine.com/netflix/netflix-posts-810k-sub-loss-q3-25443",
+      "kind": "independent-reporting",
+      "supports": "Record loss of 810,000 net US subscribers in the quarter ended 30 September, ending at 23.79 million; letter by Hastings and CFO David Wells; Qwikster's impact described as 'relatively minor'; shares down more than 27% after hours."
+    },
+    {
+      "title": "Netflix's Hastings on the Art of the (Employee) Deal",
+      "publisher": "Next TV (2020)",
+      "url": "https://www.nexttv.com/news/netflixs-hastings-on-the-art-of-the-employee-deal",
+      "kind": "independent-reporting",
+      "supports": "Hastings's account in No Rules Rules that employees get in trouble if they disagree and say nothing, a practice he traces to the aborted Qwikster decision, which many staff had thought a bad idea."
+    },
+    {
+      "title": "Netflix Won't Send You DVDs Anymore; Now They'll Come From 'Qwikster'",
+      "publisher": "NPR (19 September 2011)",
+      "url": "https://www.npr.org/2011/09/19/140593241/netflix-wont-send-you-dvds-anymore-now-theyll-come-from-qwikster",
+      "kind": "independent-reporting",
+      "supports": "Contemporary account of the Qwikster announcement and the earlier price split, under which customers wanting both services would pay more."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 18 September 2011 Hastings apologised ('I messed up') and announced the DVD service would become Qwikster",
+      "urls": [
+        "https://web.archive.org/web/2011/http://blog.netflix.com/2011/09/explanation-and-some-reflections.html",
+        "https://www.nexttv.com/news/netflix-split-dvd-mail-service-qwikster-112448",
+        "https://www.npr.org/2011/09/19/140593241/netflix-wont-send-you-dvds-anymore-now-theyll-come-from-qwikster"
+      ]
+    },
+    {
+      "claim": "The July 2011 change raised the price of the combined plan from $9.99 to about $16, roughly 60 per cent",
+      "urls": [
+        "https://www.huffpost.com/entry/netflix-account-losses-q3-2011_n_1029269",
+        "https://www.cbsnews.com/news/netflix-killing-qwikster-but-keeping-price-increase",
+        "https://www.nexttv.com/news/netflix-split-dvd-mail-service-qwikster-112448"
+      ]
+    },
+    {
+      "claim": "On 10 October 2011 Hastings cancelled Qwikster but kept the price rise",
+      "urls": [
+        "https://web.archive.org/web/2011/http://blog.netflix.com/2011/10/dvds-will-be-staying-at-netflixcom.html",
+        "https://www.cbsnews.com/news/netflix-killing-qwikster-but-keeping-price-increase",
+        "https://abcnews.go.com/blogs/technology/2011/10/netflix-cancels-plan-for-dvds-on-qwikster/"
+      ]
+    },
+    {
+      "claim": "Netflix lost about 800,000 (810,000) US subscribers in the third quarter of 2011, mainly, its letter said, because of the pricing changes",
+      "urls": [
+        "https://www.huffpost.com/entry/netflix-account-losses-q3-2011_n_1029269",
+        "https://www.homemediamagazine.com/netflix/netflix-posts-810k-sub-loss-q3-25443"
+      ]
+    }
+  ],
+  "research_notes": "Subscriber loss: HuffPost and most reports give 800,000 (24.6 million to 23.8 million); Home Media Magazine gives 810,000 net (to 23.79 million), apparently the exact figure from the shareholder letter. The story gives 'about 800,000' and names the 810,000 count. Netflix's own September forecast was a loss of about 600,000 (Next TV); CBS described it as cutting its customer estimate by 1 million, which is consistent with a swing from expected growth to a loss. Share price: CBS says near $300 before the July announcement, HuffPost a 52-week high of about $324; the story says near $300. On 10 October itself ABC reported shares up about 10% in the morning and CBS down almost 7% by late afternoon, so the story leaves out the day's move. HuffPost dates the price split to June; Netflix's own blog list, Next TV and CBS place it in July, which the story uses. The September letter's 'over the past two months' and the 10 October post both date the price change to July. Netflix's blog posts are no longer on netflix.com (the old URLs redirect to its newsroom), so Internet Archive copies are cited. The quarter's subscriber loss happened before the 10 October reversal; the story says so to avoid implying the reversal failed to win members back. The No Rules Rules point is cited through Next TV's report of the book rather than the book itself.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,15 @@
+{
+  "key": "sas-tataair-jrd",
+  "status": "done",
+  "file": "offline/editions/jrd-tata-first-airmail-karachi-bombay-1932.json",
+  "title": "J. R. D. Tata Flies the First Mail From Karachi, Without a Subsidy",
+  "region": "South Asia",
+  "industry": "transport (aviation)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "American",
+  "thinker": "William James",
+  "talqen": false,
+  "conflicts": "Initial investment Rs 200,000 (Tata heritage page, DT Next) vs Rs 1 lakh (Madras Musings); Rs 200,000 used and attributed to the group's account. Mail load: Lala's figures (55 lb Bombay, 8 lb Ahmedabad, 47 lb Madras, 6 lb Bellary) vs a circulating 25 kg; no weight used. Madras arrival 16 Oct (A Fleeting Peace) vs 17 Oct (Madras Musings); not dated in story. Proposal credited to Newall and Vintcent (Tata archives) or Vintcent alone (Wings for a Nation, JRD); story credits Vintcent, as JRD did.",
+  "notes": "Funding kept as mixed: a department of Tata Sons funded with group money and run on the postal surcharge after two subsidy requests were refused. The checker's repeat screen flagged azim-premji-wipro (same-founder level) but let it through; it is a different founder and company. Quote stance: affirms. Sources lean on Tata's own heritage pages (including an excerpt of R. M. Lala's biography) with Madras Musings, DT Next and A Fleeting Peace as independent cross-checks."
+}

@@ -1,0 +1,139 @@
+{
+  "id": "gregory-rockson-mpharma-prescriptions-to-pharmacy-stock-2017",
+  "title": "Why mPharma Stopped Digitising Prescriptions and Took On the Stock",
+  "dek": "mPharma began in 2013 by trying to put prescriptions online; by 2017 Gregory Rockson had it managing pharmacies' stock, because the drugs were not on the shelves.",
+  "story": {
+    "founder": "Gregory Rockson",
+    "company": "mPharma",
+    "event": "Moving from a digital prescription tool to managing independent pharmacies' drug inventory",
+    "approx_date": "2017",
+    "country": "Ghana",
+    "region": "West Africa",
+    "industry": "pharmaceuticals (supply and retail)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "mPharma, founded in Accra in 2013 by Gregory Rockson, Daniel Shoukimas and James Finucane, began with a digital prescription tool meant to show doctors and patients where drugs were in stock, piloted at a hospital in Lusaka. By 2017 it had changed course to managing small pharmacies' inventory: forecasting demand, buying in bulk, financing stock and carrying the risk of over- or under-stocking, which Rockson said answered the stockouts caused by Africa's order-driven supply chain.",
+    "paragraphs": [
+      "In November 2014 Gregory Rockson, chief executive of mPharma, began a post on the company blog with a death. About a year earlier, it said, a woman in a Ghanaian hospital had died while doctors waited for drugs and supplies the hospital did not have. Her son spent two hours looking for a pharmacy that had them, and came back to find she had died.",
+      "Rockson's diagnosis then was mostly about information. Drugs expired in one place while patients went without in another, and more than 99% of prescriptions in Africa, he wrote, were still written by hand. mPharma, founded in 2013 with Daniel Shoukimas and James Finucane, set out to replace the prescription pad with a digital tool linked to stock information. From August 2013 it ran a pilot with Zambia's health ministry at Levy Mwanawasa General Hospital in Lusaka, which showed, for one, that a free substitute for cephalexin was going undispensed. He was candid about the obstacles: most health facilities lacked basic internet.",
+      "By early 2017, according to a later analysis on a Harvard Business School site, the prescription network had been set aside. It had captured what doctors wrote but little about what pharmacies stocked, sold or charged. mPharma instead took over the stock of small independent pharmacies: forecasting demand, buying on their combined behalf and financing the inventory, and, as UN Dispatch put it in 2019, carrying the financial risk when drugs were over- or under-stocked. Rockson now described the problem as one of ordering: distributors waited for purchase orders, so \"both parties are unable to forecast demand which leads to frequent stockouts.\"",
+      "In November 2017 mPharma raised a $6.6 million Series A. It then served more than 70 outlets in four countries, mostly private hospital pharmacies, and said it had cut some patients' drug costs by up to 30%. By 2019 it counted 243 pharmacies and clinics in its network, and that year it bought 85% of Haltons, Kenya's second-largest pharmacy chain. The road was not smooth: in September 2023 it cut about 150 staff, which Rockson put down to the steep fall of the Nigerian naira. In 2025 he handed the chief executive's role to Kwesi Arhin and became chairman."
+    ]
+  },
+  "quote": {
+    "text": "The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter I, \"The Twin-Verses\", verse 19",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "The verse is hard on knowledge that never becomes action. mPharma's first tool counted other people's prescriptions and stock; by 2017 it held the stock itself. Yet it still builds datasets and sells market intelligence, and the line between counting a herd and tending it is thinner than the verse allows.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Rockson's first answer was a sensible one, and the pilot taught real things. It still was not where the medicine was getting stuck. His later explanation was about orders and shelves, not prescriptions, and the company changed what it did to match.",
+    "You will have a first answer to most problems, and it will often be partly right. When something keeps failing anyway, it can help to stand where the failure actually happens, at the shelf, the bench or the front desk, and watch for a while before deciding what to fix next."
+  ],
+  "invitation": "Pick one problem that keeps coming back in your week. Before trying another fix, spend twenty minutes where it actually happens and write down one thing you had not expected to see.",
+  "sources": [
+    {
+      "title": "A Data Driven Approach to Increasing Access to Medicines in Africa (mPharma blog, November 2014; Wayback Machine copy)",
+      "publisher": "mPharma, archived by the Internet Archive",
+      "url": "https://web.archive.org/web/20190716090847/https://www.mpharma.com/2014/11/17/a-data-driven-approach-to-increasing-access-to-medicines-in-africa/",
+      "kind": "company-archive",
+      "supports": "The CEO's post: the woman who died about a year earlier while her son spent two hours seeking drugs and supplies; drugs expiring in some places while needed in others; more than 99% of prescriptions on paper; the digital tool to replace the prescription notepad, linked to stock information; lack of internet at most facilities; the pilot with the Zambian Health Ministry at Levy Mwanawasa General Hospital, Lusaka, from August 2013; the cephalexin substitution finding."
+    },
+    {
+      "title": "mPharma – Is a Platform Model Always Successful?",
+      "publisher": "Harvard Business School Digital Initiative, MBA Student Perspectives (Yifei Wu, 29 October 2022)",
+      "url": "https://aiinstitute.hbs.edu/platform-digit/submission/mpharma-is-a-platform-model-always-successful/",
+      "kind": "business-school-case",
+      "supports": "Founded 2013; original electronic prescription network linking doctors, patients and pharmacies; it captured prescription data but little dispensing data; pivot by early 2017 to supply management with a vendor-managed inventory model."
+    },
+    {
+      "title": "mPharma raises $6.6 million from international investors",
+      "publisher": "Graphic Online, Ghana (23 November 2017, from Quartz)",
+      "url": "https://www.graphic.com.gh/business/business-news/mpharma-raises-6-6-million-from-international-investors.html",
+      "kind": "independent-reporting",
+      "supports": "mPharma taking over partner pharmacies' inventory management, forecasting demand, negotiating with suppliers and financing inventory; Rockson's explanation of the 'push' data model, distributors waiting for purchase orders and 'both parties are unable to forecast demand which leads to frequent stockouts'; $6.6 million Series A; more than 70 outlets in four countries, mostly private hospital pharmacies; up to 30% lower drug costs in some cases; earlier seed funding led by Social Capital."
+    },
+    {
+      "title": "A startup disrupting the prescription drug business in Africa is getting major Silicon Valley support",
+      "publisher": "NextBillion, William Davidson Institute (28 November 2017, from Quartz Africa)",
+      "url": "https://nextbillion.net/news/startup-disrupting-prescription-drug-business-africa-getting-major-silicon-valley-support/",
+      "kind": "independent-reporting",
+      "supports": "mPharma managing prescription drug inventory for pharmacies and suppliers in four countries and providing inventory financing; $6.6 million Series A."
+    },
+    {
+      "title": "A Revolution in Access to Medicine is Underway in Five African Countries",
+      "publisher": "UN Dispatch (Mark Leon Goldberg, 15 April 2019)",
+      "url": "https://undispatch.com/?p=46299",
+      "kind": "independent-reporting",
+      "supports": "mPharma managing participating pharmacies' drug supply and assuming the financial risk if drugs are over- or under-stocked; small independent pharmacies serve most people in its markets."
+    },
+    {
+      "title": "Ghana's mPharma partners with Ethiopian conglomerate to enter its eighth market",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 10 March 2021)",
+      "url": "https://techcrunch.com/2021/03/10/ghanas-mpharma-partners-with-ethiopian-conglomerate-to-enter-its-eighth-market/",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2013 by Daniel Shoukimas, Gregory Rockson and James Finucane; vendor-managed inventory as its specialty; 2019 acquisition of 85% of Haltons, Kenya's second-largest pharmacy chain."
+    },
+    {
+      "title": "mPharma raises $35 million in round joined by Tinder co-founder's JAM fund, Bharti executive",
+      "publisher": "TechCrunch (Annie Njanja, 5 January 2022)",
+      "url": "https://techcrunch.com/2022/01/05/mpharma-raises-35million-in-round-participated-by-tinder-co-founders-jam-fund-bharti-executive/",
+      "kind": "independent-reporting",
+      "supports": "Founders and 2013 founding; market intelligence services; Bloom pharmacy software building population health datasets."
+    },
+    {
+      "title": "Solid as a Rock: Rockson's mPharma Receives Award and Knocks Out Competition",
+      "publisher": "Westminster College (Sarah Rummel Backer, 10 April 2019)",
+      "url": "https://news.wcmo.edu/solid-as-a-rock-rocksons-mpharma-receives-award-and-knocks-out-competitors/",
+      "kind": "independent-reporting",
+      "supports": "mPharma managing inventory and procurement for pharmacies and clinics; 243 pharmacies and clinics in its network in 2019; Social Capital's 2015 investment."
+    },
+    {
+      "title": "mPharma Founder Gregory Rockson Steps Down as CEO After 11 Years",
+      "publisher": "Launch Base Africa (15 September 2025)",
+      "url": "https://launchbaseafrica.com/2025/09/15/mpharma-founder-gregory-rockson-steps-down-as-ceo-after-11-years",
+      "kind": "independent-reporting",
+      "supports": "About 150 staff cut in September 2023, which Rockson attributed to macroeconomic headwinds, especially the Nigerian naira's devaluation; Rockson becoming chairman and Kwesi Arhin chief executive from 1 September 2025."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "mPharma was founded in 2013 by Rockson, Shoukimas and Finucane",
+      "urls": [
+        "https://techcrunch.com/2021/03/10/ghanas-mpharma-partners-with-ethiopian-conglomerate-to-enter-its-eighth-market/",
+        "https://aiinstitute.hbs.edu/platform-digit/submission/mpharma-is-a-platform-model-always-successful/"
+      ]
+    },
+    {
+      "claim": "mPharma's first product was a digital prescription tool linked to drug stock information",
+      "urls": [
+        "https://web.archive.org/web/20190716090847/https://www.mpharma.com/2014/11/17/a-data-driven-approach-to-increasing-access-to-medicines-in-africa/",
+        "https://aiinstitute.hbs.edu/platform-digit/submission/mpharma-is-a-platform-model-always-successful/"
+      ]
+    },
+    {
+      "claim": "By 2017 mPharma was managing independent pharmacies' inventory, forecasting demand and financing stock",
+      "urls": [
+        "https://www.graphic.com.gh/business/business-news/mpharma-raises-6-6-million-from-international-investors.html",
+        "https://aiinstitute.hbs.edu/platform-digit/submission/mpharma-is-a-platform-model-always-successful/",
+        "https://undispatch.com/?p=46299"
+      ]
+    },
+    {
+      "claim": "mPharma raised a $6.6 million Series A in November 2017",
+      "urls": [
+        "https://www.graphic.com.gh/business/business-news/mpharma-raises-6-6-million-from-international-investors.html",
+        "https://nextbillion.net/news/startup-disrupting-prescription-drug-business-africa-getting-major-silicon-valley-support/",
+        "https://news.wcmo.edu/solid-as-a-rock-rocksons-mpharma-receives-award-and-knocks-out-competitors/"
+      ]
+    }
+  ],
+  "research_notes": "Slate framing adjusted: mPharma did not begin by managing pharmacy inventory. Rockson's own November 2014 post describes a digital prescription tool piloted in Zambia from August 2013, and the HBS Digital Initiative piece dates the move to vendor-managed inventory to early 2017; so the arc is change-of-direction and the date 2017, and the story's country is Ghana, where the company is based (the pilot was in Zambia). TechCrunch's boilerplate says mPharma was founded 'to manage prescription drug inventory'; the contemporary 2014 post is preferred. Founding year: 2013 (TechCrunch, HBS piece, the 2014 post's August 2013 pilot) versus 2014 (Skoll profile, Launch Base Africa) and 'three-year-old' in November 2017 (Quartz via Graphic); 2013 used. Westminster College says Rockson (class of 2012) co-founded mPharma while still a student; not used. The HBS piece is an MBA student's analysis, not a faculty case; it is attributed as 'a later analysis on a Harvard Business School site'. It also says mPharma lost Pfizer, its major customer, in 2016; no second source was found, so that is left out. Network size is counted differently over time: more than 70 outlets (2017, Quartz), 243 pharmacies and clinics (Westminster, 2019), 300 partner pharmacies (TechCrunch, March 2021) and 200 community pharmacies (TechCrunch, January 2022); the story gives only the 2017 and 2019 figures with their dates. Savings: up to 30% in some cases (Quartz, 2017) vs 30-60% (Westminster, 2019); the conservative 2017 claim is used and attributed to the company. The 2023 layoffs and 2025 leadership change rest on Launch Base Africa alone and are stated with Rockson's own stated reason only. The Rockson quotation is from Quartz's 2017 report as republished by Graphic Online (qz.com blocks automated requests). The 2014 blog post is cited from the Internet Archive because mpharma.com did not load; the post names its author only as the CEO with a contact address, which, with its 'From our CEO' category, identifies Rockson. The Internet Archive copy (capture of 16 July 2019) was briefly unreachable during checking and then loaded again; a later mPharma Medium post ('One year into e-prescriptions at mPharma') confirms the e-prescription phase but blocks automated requests and was not read, so it is not cited.",
+  "researched_at": "2026-11-01"
+}
