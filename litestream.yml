@@ -1,0 +1,16 @@
+# Litestream streams the SQLite database to an S3-compatible bucket and
+# restores it on start. Used only when LITESTREAM_BUCKET is set; see
+# scripts/start.sh. Credentials come from LITESTREAM_ACCESS_KEY_ID and
+# LITESTREAM_SECRET_ACCESS_KEY.
+dbs:
+  - path: /data/lift-me-up.db
+    replicas:
+      - type: s3
+        bucket: ${LITESTREAM_BUCKET}
+        path: lift-me-up
+        endpoint: ${LITESTREAM_ENDPOINT}
+        region: ${LITESTREAM_REGION}
+        force-path-style: true
+        # A fresh snapshot each day, and a week of point-in-time history.
+        snapshot-interval: 24h
+        retention: 168h

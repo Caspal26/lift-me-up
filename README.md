@@ -63,10 +63,11 @@ npm install
 APP_PASSCODE=choose-something npm start
 ```
 
-Open http://localhost:8080 and enter the passcode. On first start the app
-loads the researched editions in [`seed/editions`](seed/editions) into the
-reserve. It checks their quotes and sources live as it does, which takes about
-a minute. Without an API key, every morning is published from that reserve.
+Open http://localhost:8080 and enter the passcode. On start the app loads any
+researched editions in [`seed/editions`](seed/editions) that are not yet in its
+database into the reserve. It checks their quotes and sources live as it does,
+which takes about a minute; one that fails a check is tried again on the next
+start. Without an API key, every morning is published from that reserve.
 
 To try the whole system without waiting for real mornings:
 
@@ -83,14 +84,50 @@ The simulation runs three mornings on a fresh database and writes
 
 ## 2. Host it
 
-You need an always-on server with HTTPS. Phones only allow push notifications
-and app installation over HTTPS, and the morning scheduler runs inside the
-app. Use a single machine, because the database is one SQLite file.
+You need a server that is awake every morning and serves HTTPS. Phones only
+allow push notifications and app installation over HTTPS, and the morning
+scheduler runs inside the app. Use a single instance, because the database is
+one SQLite file.
 
-**Fly.io** (configuration included; Johannesburg is the nearest region):
+**Render's free plan** (how Lift Me Up runs now). Three free accounts:
+
+- **Render** runs the Docker image. A free web service sleeps after 15 minutes
+  without visitors and its disk is wiped on every restart.
+- **Backblaze B2** keeps the database. When `LITESTREAM_BUCKET` is set, the
+  image restores the database from the bucket on start and streams every
+  change back to it about once a second ([Litestream](https://litestream.io),
+  see [`scripts/start.sh`](scripts/start.sh)). The bucket keeps a week of
+  history.
+- **cron-job.org** requests `https://<your app>/healthz` every 5 minutes, which
+  keeps the service awake so the in-app scheduler runs on time. One always-awake
+  service fits inside Render's 750 free hours a month.
+
+Setting it up: in Backblaze, create a private bucket and an application key
+limited to it. In Render, create a **Web Service** from this GitHub repository
+with the **Docker** runtime, the **Free** plan, the **Frankfurt** region (the
+nearest to Nairobi) and the health check path `/healthz`. Set the variables
+from [`.env.example`](.env.example), including the four `LITESTREAM_` ones
+(the key's keyID and applicationKey are the access key and secret). Render
+redeploys on every push to `main`. Finally, add the 5-minute job in
+cron-job.org.
+
+**Fly.io** (configuration included; Johannesburg is the nearest region). Fly
+needs a payment card on the account: on the free trial it stops every machine
+after five minutes, which breaks the morning schedule. To deploy a change:
 
 ```bash
-fly launch --no-deploy --copy-config
+fly deploy --ha=false
+```
+
+`--ha=false` keeps it to one machine, and `fly.toml` keeps that machine running
+at all times so the scheduler never sleeps.
+
+To set it up from scratch, put a name of your own in `fly.toml`'s `app`, fill
+in a local `.env` from [`.env.example`](.env.example) with `PUBLIC_URL` set to
+`https://<name>.fly.dev`, then:
+
+```bash
+fly apps create <name>
 ```
 
 ```bash
@@ -98,21 +135,23 @@ fly volumes create lift_data --region jnb --size 1
 ```
 
 ```bash
-fly secrets set APP_PASSCODE='your passcode' PUBLIC_URL='https://lift-me-up-caspal.fly.dev' VAPID_SUBJECT='mailto:you@example.com'
+grep -E '^[A-Z_]+=' .env | fly secrets import --stage
 ```
 
 ```bash
-fly deploy
+fly deploy --ha=false
 ```
 
-Before `fly launch`, change `app` in `fly.toml` to a name of your own, and use
-that name in `PUBLIC_URL`. `fly.toml` keeps one machine running at all times
-so the scheduler never sleeps.
+Run the `secrets import` line from Git Bash or another POSIX shell. Windows
+PowerShell adds a byte-order mark to piped text, which Fly rejects as part of
+the first name. Importing from `.env` keeps the values out of your shell
+history.
 
-**Any other host** (Railway, Render, a VPS): build the `Dockerfile`, mount a
-persistent volume at `/data`, and set the environment variables from
-[`.env.example`](.env.example). If your host puts idle apps to sleep, set
-`CRON_SECRET` and have an external scheduler call this every five minutes:
+**Any other host** (Railway, a VPS): build the `Dockerfile`, mount a
+persistent volume at `/data` (or set the `LITESTREAM_` variables instead), and
+set the environment variables from [`.env.example`](.env.example). If your
+host puts idle apps to sleep, set `CRON_SECRET` and have an external scheduler
+call this every five minutes:
 
 ```
 POST https://<your app>/api/cron/tick   (header x-cron-secret: <CRON_SECRET>)
@@ -121,18 +160,20 @@ POST https://<your app>/api/cron/tick   (header x-cron-secret: <CRON_SECRET>)
 It is safe to call as often as you like.
 
 **Backups:** everything — editions, the story and quote ledgers, favourites,
-subscriptions — is in `/data/lift-me-up.db`. Copy that file.
+subscriptions — is in `/data/lift-me-up.db`. On Render the bucket is the
+backup; elsewhere, copy that file.
 
 ## 3. Connect research and writing (Claude)
 
 1. Create an API key at https://platform.claude.com/ under **API keys**.
-2. Set it on the server: `fly secrets set ANTHROPIC_API_KEY=sk-ant-...`
-   (or `ANTHROPIC_API_KEY` in your host's environment).
-3. Restart, then check the connection by researching one edition into the
-   reserve now. This usually takes several minutes:
+2. Set it as `ANTHROPIC_API_KEY` in your host's environment (Render: the
+   service's **Environment** page; Fly: `fly secrets set`).
+3. To check the key and the research pipeline before relying on the
+   schedule, research one edition on your own computer with the key in
+   `.env`. It goes into a local reserve and takes several minutes:
 
    ```bash
-   fly ssh console -C "npm run research"
+   node --env-file=.env scripts/research-now.js
    ```
 
 Settings → *Behind the scenes* in the app shows whether research is
