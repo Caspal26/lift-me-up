@@ -72,7 +72,7 @@ export function createScheduler({ db, researcher = null, log = console, deliverO
         const r = publishForDate(db, s.today);
         published = r.piece;
         if (r.created) emit(`published ${r.piece.id} for ${s.today} from ${r.source}`);
-        else if (!r.piece) emit(`nothing to publish for ${s.today}: research unavailable and reserve empty`);
+        else if (!r.piece) emit(`nothing to publish for ${s.today} yet: no researched edition for today and the reserve is empty`);
       }
     }
 

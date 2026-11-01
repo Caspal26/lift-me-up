@@ -89,7 +89,8 @@ allow push notifications and app installation over HTTPS, and the morning
 scheduler runs inside the app. Use a single instance, because the database is
 one SQLite file.
 
-**Render's free plan** (how Lift Me Up runs now). Three free accounts:
+**Render's free plan** (how Lift Me Up runs now, at
+https://lift-me-up-caspal.onrender.com). Three free accounts:
 
 - **Render** runs the Docker image. A free web service sleeps after 15 minutes
   without visitors and its disk is wiped on every restart.
@@ -202,7 +203,7 @@ has already downloaded, so it opens even without a signal.
 
 ## 5. Install on Android
 
-1. Open your app's address (for example `https://lift-me-up-caspal.fly.dev`)
+1. Open your app's address (for example `https://lift-me-up-caspal.onrender.com`)
    in **Chrome**.
 2. Enter your passcode.
 3. Tap **⋮ → Install app** (on some phones, **Add to Home screen**).
