@@ -1,0 +1,140 @@
+{
+  "id": "kevin-gibbon-shyp-closure-2018",
+  "title": "The Day Kevin Gibbon Closed Shyp and Named His Own Mistakes",
+  "dek": "In March 2018 the founder of an on-demand shipping start-up shut it down months after its new business model began to work, and said in public why it came too late.",
+  "story": {
+    "founder": "Kevin Gibbon",
+    "company": "Shyp",
+    "event": "Closing an on-demand shipping start-up after a late change of business model",
+    "approx_date": "2018-03",
+    "country": "United States",
+    "region": "North America",
+    "industry": "logistics (on-demand shipping)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Shyp, a San Francisco on-demand shipping start-up launched by Kevin Gibbon in 2014, raised about $62 million and expanded to several cities chasing consumer growth. After shifting towards small-business and eBay sellers and retreating to San Francisco in July 2017, it was roughly breaking even by December 2017, but it had run short of money and closed on 27 March 2018. Gibbon's closing post blamed his own early decisions, including not listening sooner to warnings about the consumer strategy.",
+    "paragraphs": [
+      "On 27 March 2018 Kevin Gibbon sat down to announce that Shyp, the San Francisco shipping start-up he had launched in 2014, was closing that day. He \"stared at a blank screen for more than ten minutes\" before he could write that first sentence, he said in the post. Shyp's idea had been simple: photograph the thing you wanted to send, and a courier would collect it, pack it and choose the cheapest carrier, for $5 plus postage.",
+      "At first customers poured in, and investors, journalists and strangers compared it to Uber. In 2015 it raised about $50 million in a round led by Kleiner Perkins, at a valuation reported at $250 million. Then consumer growth slowed. People close to the business warned him that chasing consumers was the wrong strategy, since most people seldom ship anything. By his own account, he did not listen. He set the team to expand into new cities and invent new features, drawn, he wrote, to stories of founders who ignored advice and were proved right.",
+      "He changed course in stages. About two years before the end, by his account, after noticing how often eBay sellers used the service, Shyp turned towards small businesses and built an eBay integration; online sellers soon brought in more than half its revenue. But he kept the popular, unprofitable consumer services running alongside, which he later called \"my mistake\". In July 2017 Shyp withdrew from Chicago, Los Angeles and New York, cut staff at its headquarters and concentrated on business customers in San Francisco. Knowing what he knew then, he wrote at the time, he would have \"built profitability in from the beginning\".",
+      "The new direction worked, but late. By December 2017, he wrote, the San Francisco business was roughly breaking even. But the earlier choices had left \"too little runway and insufficient resources\" to carry on. Shyp, which had raised about $62 million in all, ended operations immediately. In his post Gibbon apologised to the team, to the hundreds of thousands of customers, and to investors and partners whose advice, he admitted, he had sometimes ignored."
+    ]
+  },
+  "quote": {
+    "text": "Remember that to change thy opinion and to follow him who corrects thy error is as consistent with freedom as it is to persist in thy error.",
+    "thinker": "Marcus Aurelius",
+    "work": "Meditations",
+    "locator": "Book VIII, 16",
+    "translator": "George Long (1862)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+    "source_title": "Thoughts of Marcus Aurelius Antoninus, tr. George Long, Project Gutenberg eBook #15877",
+    "connection": "Gibbon admitted he had admired founders who ignored advice, as if refusing it were a kind of independence. Marcus Aurelius answers that following a correction is no less free than persisting. Shyp's turn came late, but it was still Gibbon's own judgement that made it.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Gibbon's post is unusual because it names the moment he stopped listening. Growth slowed, people near him said so, and he kept going, partly because the story of the founder who ignores everyone and wins is so attractive. When he did turn, the turn worked; it came after most of the money had gone.",
+    "Somewhere in your week there may be a warning you have heard more than once, from a colleague, a friend or someone at home. Listening to it is not the same as obeying it. It means taking it seriously enough to check, while there is still time to act on what you find."
+  ],
+  "invitation": "Think of one piece of advice you have heard twice and set aside. Today, ask the person who gave it a single question: what did they see that made them say it?",
+  "sources": [
+    {
+      "title": "I Can't Wait for You to See What We Do Next",
+      "publisher": "LinkedIn (Kevin Gibbon, 27 March 2018)",
+      "url": "https://www.linkedin.com/pulse/i-cant-wait-you-see-what-we-do-next-kevin-gibbon/",
+      "kind": "founder-interview",
+      "supports": "Gibbon's closing post: shutting Shyp down effective immediately; staring at a blank screen for more than ten minutes; launch in 2014 and early growth; Uber comparisons; consumer growth slowing and warnings that he did not heed; expanding geographically and adding features instead; the allure of stories of founders who ignored advice; the shift to small businesses about two years earlier while keeping popular-but-unprofitable parts running ('my mistake'); eBay sellers and the integration, more than half of revenue; revenue per transaction up 150 percent; suspending all markets except San Francisco the previous summer; roughly breaking even by December 2017; too little runway and insufficient resources; apologies to the team, the hundreds of thousands of customers and investors whose advice he sometimes ignored."
+    },
+    {
+      "title": "On-demand shipping startup Shyp is shutting down",
+      "publisher": "TechCrunch (27 March 2018)",
+      "url": "https://techcrunch.com/2018/03/27/on-demand-shipping-startup-shyp-is-shutting-down/",
+      "kind": "independent-reporting",
+      "supports": "Shutdown announced by Gibbon in a blog post on 27 March 2018, operations ending immediately; $250 million valuation in 2015; $50 million round led by John Doerr at Kleiner Perkins; struggle to expand beyond San Francisco; the July 2017 retreat; the pivot to businesses and the eBay deal; quotations from the post."
+    },
+    {
+      "title": "Shyp is reducing headcount and suspending all operations outside of SF",
+      "publisher": "TechCrunch (Fitz Tepper, 20 July 2017)",
+      "url": "https://techcrunch.com/2017/07/20/shyp-is-reducing-headcount-and-suspending-all-operations-outside-of-sf%EF%BB%BF/",
+      "kind": "independent-reporting",
+      "supports": "Operations suspended in Chicago, Los Angeles and New York; headcount reduced at headquarters (number not disclosed); focus on high-volume business shippers; Gibbon's statement that they would have 'built profitability in from the beginning' and shifted to business customers sooner; eBay integration; revenue per transaction up 150 percent."
+    },
+    {
+      "title": "Struggling shipping company Shyp retreats to San Francisco",
+      "publisher": "The Verge (21 July 2017)",
+      "url": "https://www.theverge.com/2017/7/21/16007770/shyp-downsizes-san-francisco-bay-area",
+      "kind": "independent-reporting",
+      "supports": "Shyp launched in 2014 and handled pickup and packing for a $5 flat fee; withdrawal from Chicago, Los Angeles and New York; some headquarters staff cut; Gibbon's 'built profitability in from the beginning' statement; focus on business shippers."
+    },
+    {
+      "title": "Sources: Shyp is raising $50 million at a $250 million valuation",
+      "publisher": "TechCrunch (2 April 2015)",
+      "url": "https://techcrunch.com/2015/04/02/sources-shyp-is-raising-50-million-at-a-250-million-valuation/",
+      "kind": "independent-reporting",
+      "supports": "How the service worked: photograph an item, a courier collects it, Shyp packs it and picks the cheapest reliable carrier, for $5 plus postage; $12.1 million raised before the 2015 round; Kleiner Perkins expected to lead."
+    },
+    {
+      "title": "On-Demand Shipping Firm Shyp Calls It Quits",
+      "publisher": "Transport Topics (March 2018)",
+      "url": "https://www.ttnews.com/articles/demand-shipping-firm-shyp-calls-it-quits",
+      "kind": "independent-reporting",
+      "supports": "Closure announced in a blog post on 27 March after four years; Gibbon blamed the failure to shift from consumers and expanding too fast; retreat to San Francisco and eBay partnership; break-even in San Francisco; too little runway; $62 million raised in total, according to CB Insights; the apologies."
+    },
+    {
+      "title": "Delivery Startup Shyp Shutting Down",
+      "publisher": "PYMNTS (March 2018)",
+      "url": "https://www.pymnts.com/news/delivery/2018/shyp-shutting-down-on-demand-shipping-delivery/",
+      "kind": "independent-reporting",
+      "supports": "Title of Gibbon's post; the shift to small businesses about two years earlier; eBay integration and more than half of revenue from online sellers; revenue per transaction up 150 percent; the July cuts; breaking even."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Shyp announced its closure on 27 March 2018, ending operations immediately.",
+      "urls": [
+        "https://techcrunch.com/2018/03/27/on-demand-shipping-startup-shyp-is-shutting-down/",
+        "https://www.ttnews.com/articles/demand-shipping-firm-shyp-calls-it-quits",
+        "https://www.linkedin.com/pulse/i-cant-wait-you-see-what-we-do-next-kevin-gibbon/"
+      ]
+    },
+    {
+      "claim": "In July 2017 Shyp withdrew from Chicago, Los Angeles and New York and cut headquarters staff to focus on San Francisco.",
+      "urls": [
+        "https://techcrunch.com/2017/07/20/shyp-is-reducing-headcount-and-suspending-all-operations-outside-of-sf%EF%BB%BF/",
+        "https://www.theverge.com/2017/7/21/16007770/shyp-downsizes-san-francisco-bay-area"
+      ]
+    },
+    {
+      "claim": "Gibbon said warnings about the consumer strategy went unheeded and that keeping unprofitable services was his mistake.",
+      "urls": [
+        "https://www.linkedin.com/pulse/i-cant-wait-you-see-what-we-do-next-kevin-gibbon/",
+        "https://www.ttnews.com/articles/demand-shipping-firm-shyp-calls-it-quits",
+        "https://techcrunch.com/2018/03/27/on-demand-shipping-startup-shyp-is-shutting-down/"
+      ]
+    },
+    {
+      "claim": "In 2015 Shyp was valued at about $250 million.",
+      "urls": [
+        "https://techcrunch.com/2018/03/27/on-demand-shipping-startup-shyp-is-shutting-down/",
+        "https://www.pymnts.com/news/delivery/2018/shyp-shutting-down-on-demand-shipping-delivery/"
+      ]
+    },
+    {
+      "claim": "Shyp raised about $62 million in total.",
+      "urls": [
+        "https://www.ttnews.com/articles/demand-shipping-firm-shyp-calls-it-quits",
+        "https://techcrunch.com/2015/04/02/sources-shyp-is-raising-50-million-at-a-250-million-valuation/"
+      ]
+    },
+    {
+      "claim": "By December 2017 Shyp was roughly breaking even in San Francisco but lacked the money to continue.",
+      "urls": [
+        "https://www.linkedin.com/pulse/i-cant-wait-you-see-what-we-do-next-kevin-gibbon/",
+        "https://www.pymnts.com/news/delivery/2018/shyp-shutting-down-on-demand-shipping-delivery/",
+        "https://www.ttnews.com/articles/demand-shipping-firm-shyp-calls-it-quits"
+      ]
+    }
+  ],
+  "research_notes": "Launch year: Gibbon and The Verge say Shyp launched in 2014; TechCrunch (2017) says 2013, presumably the year the company was formed; the story uses 2014, Gibbon's own date. Funding: TechCrunch reported in April 2015 that Shyp had raised $12.1 million before a round of about $50 million (Kleiner Perkins was expected to lead; TechCrunch 2018 confirms John Doerr led it); Transport Topics, citing CB Insights, gives $62 million in total, which matches. The Kleiner Perkins lead rests on TechCrunch alone (2015 sources and the 2018 report). The valuation is given as 'reported at $250 million' because TechCrunch's 2015 sources ranged up to $275 million. Headcount: neither the July 2017 cuts nor the final layoffs were quantified in any source read (TechCrunch says Shyp declined to give a number), so the story gives none. The 'about two years' before the end for the turn to small businesses and the December 2017 break-even are Gibbon's own claims in his post; PYMNTS and Transport Topics repeat them but do not verify them independently, and the story attributes them to him. The post appeared on LinkedIn; TechCrunch calls it a blog post. Quote: Long's translation of Meditations VIII.16; it is applied to Gibbon's remark about the allure of founders who ignored advice.",
+  "researched_at": "2026-11-01"
+}

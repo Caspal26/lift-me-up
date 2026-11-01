@@ -1,0 +1,131 @@
+{
+  "id": "freddy-vega-platzi-y-combinator-second-try-2015",
+  "title": "The Second Time Platzi Applied to Y Combinator",
+  "dek": "Turned down once, the founders of a profitable Spanish-language tech school reapplied, became the first Latin American company in Y Combinator and set up in California.",
+  "story": {
+    "founder": "Freddy Vega and Christian Van der Henst",
+    "company": "Mejorando.la (later Platzi)",
+    "event": "Reapplying to Y Combinator after a rejection and taking a profitable Spanish-language school to Silicon Valley",
+    "approx_date": "2015-01",
+    "country": "Colombia",
+    "region": "Latin America",
+    "industry": "education (online learning)",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "Freddy Vega and Christian Van der Henst built Mejorando.la, a Spanish-language online tech school based in Bogotá, into a profitable business without outside money. Rejected by Y Combinator on their first application, they reapplied and joined the winter 2015 batch as its first Latin American company, renamed the school Platzi for English speakers and launched English classes; by 2016 the founders lived in the United States while most staff remained in Bogotá.",
+    "paragraphs": [
+      "Before it was called Platzi, the school began as Mejorando la Web, a weekly live programme on web development run by Freddy Vega, a Colombian, and Christian Van der Henst, a Guatemalan. When the 2008 financial crisis cut Vega's advertising income by more than 80 per cent, according to a Colombian profile, he taught paid courses in a classroom with 20 computers. By late 2012 the pair had moved their courses online. The first online class drew more than twice the students they expected, and the server crashed.",
+      "In Colombia, Vega later said, there was no culture of raising money for tech start-ups, so they built the company to pay for itself. By early 2015 it had taken $2.7 million in revenue and was making about $125,000 a month. When they applied to Y Combinator, the Silicon Valley accelerator, they were turned down. Van der Henst later said he almost did not apply again, until a mentor told him to try once more.",
+      "The second application worked. In the winter 2015 batch, which began in January, theirs became the first Latin American company in the programme, and Y Combinator's investment was the first outside money it had taken. They renamed the school Platzi, a name friendlier to English speakers, and set up a three-person team in the United States. Vega was plain about why: \"YC is the perfect gateway to get into Silicon Valley and kickstart our English service.\" Being profitable without investors, he joked, turned out to be \"the exception instead of the rule\" there.",
+      "In February 2015 Sam Altman, then Y Combinator's president, gave Platzi's first English class. By March, 10,000 of its 80,000 students were following classes in English, which were free, and Vega said that growth was faster than the early growth in Spanish; most of the content was still in Spanish. By early 2016 Platzi had raised $2.1 million in seed funding, both founders were living in the United States and its headquarters were in San Francisco, though most of its staff still worked in Bogotá. By 2019 it had served more than a million students."
+    ]
+  },
+  "quote": {
+    "text": "I have no churlish objection to the circumnavigation of the globe for the purposes of art, of study, and benevolence, so that the man is first domesticated, or does not go abroad with the hope of finding somewhat greater than he knows.",
+    "thinker": "Ralph Waldo Emerson",
+    "work": "Essays: First Series",
+    "locator": "Essay II, \"Self-Reliance\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/2944/pg2944.txt",
+    "source_title": "Essays — First Series, Project Gutenberg eBook #2944",
+    "connection": "Emerson distrusted travel as an escape, but allowed it when the traveller is already at home in himself and not hoping to find something greater abroad. Vega and Van der Henst went north with a school that paid its own way and a community already theirs, looking for a gateway rather than a rescue.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "From Kenya it can seem that the rooms that decide things are always somewhere else: another city, another accelerator, another language. What stands out in this story is the order of events. Platzi did not go to California to find out whether it worked. It went after years of building something that paid its own way at home, and treated the move as a door rather than a verdict.",
+    "A rejection, here, turned out to mean not yet. If an opportunity far away is pulling at you, it may help to ask what you would be carrying there, and what you have built since the last time you asked."
+  ],
+  "invitation": "Think of one opportunity you were turned down for and never tried again. Write a line on what has changed in your work since then, and decide whether it is worth asking a second time.",
+  "sources": [
+    {
+      "title": "Online Learning Service Platzi Wants To Teach You Useful Tech Skills",
+      "publisher": "TechCrunch (20 March 2015)",
+      "url": "https://techcrunch.com/2015/03/20/platzi/",
+      "kind": "independent-reporting",
+      "supports": "Founded by Colombian Freddy Vega and Guatemalan Christian Van Der Henst; 80,000 registered users and first English classes in 2015, with speakers including Sam Altman; no culture of raising capital in Colombia; quotations 'We assumed we could never raise and made the company profitable', 'the exception instead of the rule' and 'YC is the perfect gateway to get into Silicon Valley and kickstart our English service'; $2.7 million revenue to date and $125,000 a month; not looking to raise funding."
+    },
+    {
+      "title": "How Platzi bootstrapped its way into Y Combinator to build the future of education",
+      "publisher": "The Next Web (Anna Heim, 23 March 2015)",
+      "url": "https://thenextweb.com/news/how-platzi-bootstrapped-its-way-into-y-combinator-to-build-the-future-of-education",
+      "kind": "independent-reporting",
+      "supports": "Mejorando.la renamed Platzi to reflect global ambitions; bootstrapped to about $2.7 million in revenue, with YC's investment its first external funding; 80,000 students, 10,000 of them in English; Vega's statement that growth in English was faster than the initial growth in Spanish; Sam Altman gave the inaugural English class in February 2015; English courses free so far and most content still in Spanish; staff of 25 in Colombia, four in Mexico and three in the US."
+    },
+    {
+      "title": "Ep 52 Christian Van der Henst: Helping Latin America Learn with Platzi",
+      "publisher": "Crossing Borders podcast (Nathan Lustig, 28 August 2018)",
+      "url": "https://www.nathanlustig.com/ep-52-christian-van-der-henst-helping-latin-america-learn-with-platzi/",
+      "kind": "founder-interview",
+      "supports": "Van der Henst's account (show notes): Platzi began as an in-person course and moved online; the first online course had more than twice the expected students and the server crashed; Platzi was rejected by Y Combinator the first time and he almost did not reapply until a mentor encouraged him; first fully Latin American company in the accelerator."
+    },
+    {
+      "title": "Platzi, la plataforma de elearning, fue seleccionada en Y Combinator",
+      "publisher": "ENTER.CO (José Luis Peñarredonda, 24 February 2015)",
+      "url": "https://www.enter.co/empresas/colombia-digital/platzi-la-plataforma-de-elearning-fue-seleccionada-en-y-combinator/",
+      "kind": "independent-reporting",
+      "supports": "Platzi, formerly Mejorando.la and based in Bogotá, founded by Vega and van der Henst, changed its name early in 2015 to be friendlier to the English-speaking market and offer content in English; accepted into Y Combinator from January 2015."
+    },
+    {
+      "title": "Un bogotano y un extranjero, dueños de Platzi, la escuela virtual que hace millones con sus 1.500 cursos",
+      "publisher": "Las2orillas (13 March 2025)",
+      "url": "https://www.las2orillas.co/un-bogotano-y-un-extranjero-duenos-de-platzi-la-escuela-virtual-que-hace-millones-con-sus-1500-cursos/",
+      "kind": "independent-reporting",
+      "supports": "Mejorando la Web as a weekly live programme on technology and web development; the 2008 financial crisis cut Vega's advertising income by more than 80 per cent and he taught in-person courses in a computer classroom for 20 people; first online courses by late 2012; accepted into Y Combinator in January 2015 as the first startup of Latin origin; $2.1 million in seed capital."
+    },
+    {
+      "title": "Platzi, formación para el mundo digital",
+      "publisher": "El País (Rosa Jiménez Cano, 14 May 2016)",
+      "url": "https://elpais.com/tecnologia/2016/05/12/actualidad/1463013754_689019.html",
+      "kind": "independent-reporting",
+      "supports": "First startup of Latin origin in Y Combinator; headquarters in San Francisco while the office with most employees is in Bogotá; founders born in Guatemala and Colombia living in the United States."
+    },
+    {
+      "title": "Mexico-based Startup Platzi is Teaching Professional Skills to Latin America One Subscriber at a Time",
+      "publisher": "Latin Post (8 March 2016)",
+      "url": "https://www.latinpost.com/articles/117823/20160308/mexico-based-startup-platzi-teaching-professional-skills-latin-america-one.htm",
+      "kind": "independent-reporting",
+      "supports": "$2.1 million seed funding from investors including 500 Startups, Omidyar and Y Combinator, reported in early 2016."
+    },
+    {
+      "title": "The man who wants to make university degrees obsolete",
+      "publisher": "BBC Worklife (José Luis Peñarredonda, 17 August 2019)",
+      "url": "https://www.bbc.com/worklife/article/20190814-the-man-who-wants-to-make-university-degrees-obsolete",
+      "kind": "independent-reporting",
+      "supports": "Vega's background; co-founded Mejorando.la with former competitor Christian van der Henst; more than one million students served by 2019; offices in Bogotá, Mexico City, San Francisco and Madrid."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Platzi joined Y Combinator's winter 2015 batch as the first Latin American company in the programme.",
+      "urls": [
+        "https://www.enter.co/empresas/colombia-digital/platzi-la-plataforma-de-elearning-fue-seleccionada-en-y-combinator/",
+        "https://elpais.com/tecnologia/2016/05/12/actualidad/1463013754_689019.html",
+        "https://www.las2orillas.co/un-bogotano-y-un-extranjero-duenos-de-platzi-la-escuela-virtual-que-hace-millones-con-sus-1500-cursos/"
+      ]
+    },
+    {
+      "claim": "The company was bootstrapped and profitable, with about $2.7 million in revenue, and Y Combinator's investment was its first outside money.",
+      "urls": [
+        "https://techcrunch.com/2015/03/20/platzi/",
+        "https://thenextweb.com/news/how-platzi-bootstrapped-its-way-into-y-combinator-to-build-the-future-of-education"
+      ]
+    },
+    {
+      "claim": "Mejorando.la was renamed Platzi to suit English-speaking and global audiences, and English classes began in 2015.",
+      "urls": [
+        "https://www.enter.co/empresas/colombia-digital/platzi-la-plataforma-de-elearning-fue-seleccionada-en-y-combinator/",
+        "https://thenextweb.com/news/how-platzi-bootstrapped-its-way-into-y-combinator-to-build-the-future-of-education",
+        "https://techcrunch.com/2015/03/20/platzi/"
+      ]
+    },
+    {
+      "claim": "Platzi raised $2.1 million in seed funding after Y Combinator.",
+      "urls": [
+        "https://www.latinpost.com/articles/117823/20160308/mexico-based-startup-platzi-teaching-professional-skills-latin-america-one.htm",
+        "https://www.las2orillas.co/un-bogotano-y-un-extranjero-duenos-de-platzi-la-escuela-virtual-que-hace-millones-con-sus-1500-cursos/"
+      ]
+    }
+  ],
+  "research_notes": "The slate described the episode as moving a school 'to Silicon Valley' in 2014; the sources date Y Combinator acceptance to the winter 2015 batch (ENTER.CO and Las2orillas: January 2015; El CEO: selected in December 2014), so the story is dated January 2015. Founding and naming dates disagree: Wikipedia gives 2011 and 2014 in different places, BBC says Mejorando.la was co-founded about 2012 and renamed Platzi in 2014, Las2orillas says the pair worked together on Mejorando la Web videos from 2008 and launched online courses by late 2012, and ENTER.CO (February 2015) says the name changed early in 2015; the story avoids a founding year and ties the rename to the Y Combinator period, as ENTER.CO and TNW do. The first rejection by Y Combinator rests on the Crossing Borders show notes summarising Van der Henst's account; the year of that application is not given, so the story does not date it. The 80 per cent fall in Vega's income is attributed to the Colombian profile (Las2orillas) as its only source. Revenue: TechCrunch and TNW (March 2015) both give $2.7 million to date; Crossing Borders (2018) gives US$3 million a year after four years, a later figure not used. The $2.1 million seed round is dated January 2016 by a Wall Street Journal blog (blogs.wsj.com, not cited because it is paywalled) and reported by Latin Post in March 2016; the story says 'by early 2016'. Latin Post (2016) still describes courses in English and Spanish, while El País (May 2016) says all content was in Spanish; the story does not claim the English service ended. Funding is marked bootstrapped because the company had no outside money before Y Combinator; it became venture-backed afterwards. Country is Colombia because the company was based in Bogotá when it applied; the move itself was to California. Emerson's passage, from 'Self-Reliance', is about travel and self-culture and is applied to a company's move by analogy. Founder spelling follows Van der Henst's own podcast page; TechCrunch writes 'Van Der Henst'.",
+  "researched_at": "2026-11-01"
+}

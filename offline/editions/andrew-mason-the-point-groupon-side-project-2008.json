@@ -1,0 +1,119 @@
+{
+  "id": "andrew-mason-the-point-groupon-side-project-2008",
+  "title": "The Side Project Andrew Mason Started to Find a Business Model",
+  "dek": "In November 2008, a year after launching a site for collective action, Andrew Mason tried one group deal a day in Chicago, and it took over the company.",
+  "story": {
+    "founder": "Andrew Mason",
+    "company": "The Point (later Groupon)",
+    "event": "Launching Groupon as a one-deal-a-day side project after The Point failed to find traction or a business model",
+    "approx_date": "2008-11",
+    "country": "United States",
+    "region": "North America",
+    "industry": "retail (local e-commerce)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "Andrew Mason launched The Point, a Chicago site for organising collective action once a tipping point of people signed up, in November 2007 with backing from Eric Lefkofsky and, from February 2008, New Enterprise Associates. Its campaigns struggled for traction, and under pressure to find a business model Mason launched Groupon in November 2008 as a side project offering one curated group deal a day in Chicago on a WordPress blog. By January 2009 the team had turned fully to Groupon.",
+    "paragraphs": [
+      "In November 2007 Andrew Mason launched The Point in Chicago. A music graduate of Northwestern who had drifted into building websites, he left a public-policy master's at the University of Chicago when his former employer, Eric Lefkofsky, asked him to start a business. The idea grew from his irritation at a $200 cancellation fee: a site where anyone could start a campaign to give money or act together, which went ahead only once a “tipping point” of people signed up.",
+      "Money was not the first problem. Lefkofsky put in $1 million, Mason later said (TechCrunch reported $2.5 million from angels), and in February 2008 New Enterprise Associates added $4.8 million. Traction was. Mason had spent most of 2007 polishing the site to match his full vision, a delay he later called his biggest lesson. Many campaigns gathered few backers. The concept, he decided, was too abstract: “The Point should have been a book and Groupon should have been the website.”",
+      "A year in, Lefkofsky kept asking how it would make money. Mason's options had been advertising, a cut of fundraising or collective buying, and some users had already tried to organise group discounts. He chose the third, narrowly: no open buying tab, but one deal a day, picked by the team, in one city, so a small audience could tip it. He later wrote that he started Groupon “to get Eric to stop bugging me to find a business model.”",
+      "It launched as a side project in November 2008, built in about a month on a WordPress blog at GetYourGroupon.com, with coupons emailed as PDFs. It was, Mason said, “so cobbled together.” Their first list was about 500 people, some from their office building. The first deal, the Associated Press reported, sold $20 of pizza for $10 to fewer than two dozen Chicagoans. Two weeks in, Mason said, “it was clear we were on to something.” By January 2009 the team had turned fully to Groupon.",
+      "Mason was never fully easy about the trade. In his 2011 letter to prospective shareholders, he described “selling out on our original mission of saving the world to start hawking coupons,” and said the team had vowed, in order to live with themselves, to make it a service people loved."
+    ]
+  },
+  "quote": {
+    "text": "Even though a speech be a thousand (of words), but made up of senseless words, one word of sense is better, which if a man hears, he becomes quiet.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter VIII, \"The Thousands\", verse 100",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "The verse prizes one word of sense over a thousand empty ones, much as Mason came to prize one clear deal a day over The Point's endless possible campaigns. But it measures a word by whether it leaves the hearer quiet, and a daily discount email is built to do the opposite.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Mason's turn was not from a bad idea to a good one. He kept The Point's central mechanism and cut away nearly everything else: one city, one deal, one day, chosen by people who could judge it. The narrowing is what made it work, and it was also, by his own account, what made him uneasy.",
+    "You may have work that tries to do everything for everyone and so does nothing clearly. Narrowing it can feel like a loss of nerve or of principle. Sometimes it is just the first version people can grasp, as Mason put it, in a second and a half, and the larger aim can wait in a notebook."
+  ],
+  "invitation": "Pick one project that has grown vague. Write a single sentence saying what it does for one kind of person, and notice what you had to leave out to write it.",
+  "sources": [
+    {
+      "title": "Groupon Files For IPO To Raise At Least $750 Million (2 June 2011), reproducing Andrew Mason's founder letter from the S-1",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2011/06/02/groupon-files-for-ipo/",
+      "kind": "shareholder-letter",
+      "supports": "Mason's own account: The Point launched in November 2007 after Lefkofsky, his former employer, asked him to leave graduate school; the tipping-point mechanism; 'A year later, I started Groupon to get Eric to stop bugging me to find a business model'; Groupon a side project from November 2008 applying The Point's technology; full shift by January 2009; one deal per day built around their limitations; 'selling out on our original mission of saving the world to start hawking coupons' and the vow 'in order to live with ourselves'."
+    },
+    {
+      "title": "The Story Of Groupon: From Failure To An Industry-Changing, Profit Machine (Andrew Mason interviewed by Andrew Warner, July 2010)",
+      "publisher": "Mixergy",
+      "url": "https://mixergy.com/interviews/andrew-mason-groupon-interview/",
+      "kind": "founder-interview",
+      "supports": "Lefkofsky's $1 million (Mason correcting TechCrunch's $2.5 million); January to November 2007 spent getting The Point 'just right', time to market as the biggest lesson; Groupon from idea to launch in about a month; the $200 cancellation-fee origin; three revenue ideas (advertising, a cut of fundraising, collective buying); campaigns with little traction; 'The Point should have been a book and Groupon should have been the website'; abstraction; one handpicked deal a day so a small community could reach critical mass; 'super-focus'; going local, office building and 500 subscribers; WordPress blog; PDFs from FileMaker; 'so cobbled together'; GetYourGroupon.com."
+    },
+    {
+      "title": "Groupon: Startup offers bargains to groups (Associated Press, October 2009)",
+      "publisher": "HeraldNet (The Daily Herald, Everett), AP copy",
+      "url": "https://www.heraldnet.com/?p=167668",
+      "kind": "independent-reporting",
+      "supports": "Groupon began in late 2008 out of The Point; The Point let people organise groups that acted once a target was reached; Mason dropped out of University of Chicago graduate school to run The Point; users had used The Point for better deals; first deal the previous November, $20 of pizza for $10, to fewer than two dozen Chicagoans; growth to 17 added cities and nearly 1 million subscribers, profitable from June 2009 by the company's account."
+    },
+    {
+      "title": "Groupon: Andrew Mason (7 June 2011)",
+      "publisher": "Kiplinger's Personal Finance",
+      "url": "https://www.kiplinger.com/magazine/archives/groupon-andrew-mason.html",
+      "kind": "independent-reporting",
+      "supports": "Mason a Northwestern music major who turned to building websites; University of Chicago public-policy scholarship; The Point launched at the end of 2007; users creating campaigns for local discounts; blog GetYourGroupon.com in late 2008 with daily Chicago deals; 'it was clear we were on to something' two weeks after the blog debuted; expansion plans by January 2009; Mason's joke about going from saving the world to hawking coupons."
+    },
+    {
+      "title": "The Point Organizes a $4.8 Million Series A For Itself (12 February 2008)",
+      "publisher": "TechCrunch (Erick Schonfeld)",
+      "url": "https://techcrunch.com/2008/02/12/the-point-organizes-a-48-million-series-a-for-itself",
+      "kind": "independent-reporting",
+      "supports": "$2.5 million from angels in 2007 (as reported) and a $4.8 million Series A from New Enterprise Associates in February 2008; The Point as a campaign site that acts only at a tipping point; launch the previous November; plan to make money from ads."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "The Point launched in November 2007 (end of 2007)",
+      "urls": [
+        "https://techcrunch.com/2011/06/02/groupon-files-for-ipo/",
+        "https://www.kiplinger.com/magazine/archives/groupon-andrew-mason.html",
+        "https://techcrunch.com/2008/02/12/the-point-organizes-a-48-million-series-a-for-itself"
+      ]
+    },
+    {
+      "claim": "The decision: Groupon began in November 2008 as a side project out of The Point, offering group deals in Chicago",
+      "urls": [
+        "https://techcrunch.com/2011/06/02/groupon-files-for-ipo/",
+        "https://www.kiplinger.com/magazine/archives/groupon-andrew-mason.html",
+        "https://www.heraldnet.com/?p=167668"
+      ]
+    },
+    {
+      "claim": "Lefkofsky pressed Mason for a business model, and collective buying was one of the revenue ideas",
+      "urls": [
+        "https://techcrunch.com/2011/06/02/groupon-files-for-ipo/",
+        "https://mixergy.com/interviews/andrew-mason-groupon-interview/"
+      ]
+    },
+    {
+      "claim": "The Point's funding: Lefkofsky's seed money and a $4.8 million Series A in February 2008",
+      "urls": [
+        "https://mixergy.com/interviews/andrew-mason-groupon-interview/",
+        "https://techcrunch.com/2008/02/12/the-point-organizes-a-48-million-series-a-for-itself"
+      ]
+    },
+    {
+      "claim": "By January 2009 the company had shifted its attention to Groupon",
+      "urls": [
+        "https://techcrunch.com/2011/06/02/groupon-files-for-ipo/",
+        "https://www.kiplinger.com/magazine/archives/groupon-andrew-mason.html"
+      ]
+    }
+  ],
+  "research_notes": "Seed money: TechCrunch (February 2008) reported $2.5 million from angels in 2007; Mason told Mixergy in 2010 'It was one million' from Lefkofsky. The story gives both. The Series A of $4.8 million from New Enterprise Associates is from TechCrunch only. Who drove the turn: Mason's S-1 letter says he started Groupon to stop Lefkofsky 'bugging me to find a business model'; a University of Michigan alumni piece says Mason approached Lefkofsky with the idea; the story follows Mason's own account and credits the choice of collective buying, and its narrow form, to him as he describes it. Origin of The Point: Mason told Mixergy it began with a cell-phone termination fee of $200, and later in the same interview called 'the Comcast example' the inspiration; the story says only 'a $200 cancellation fee'. First deal: AP (October 2009) gives pay $10 for $20 of pizza to fewer than two dozen Chicagoans; other secondary accounts describe it as two-for-one or half price at Motel Bar in the team's building, but none of those is a source here, so the story uses AP's wording and does not name the bar. The AP copy at HeraldNet carries a 2010 timestamp but its content (hoping for 30 cities by the end of 2009, profitable since June) dates it to October 2009, matching the Gazette's 16 October 2009 copy. Mason's word for the first version in Mixergy was 'totally ghetto'; the story quotes his other phrase, 'so cobbled together'. Mixergy's transcript has some transcription errors ('skimmed' for 'skinned'); quotations used were checked to read cleanly. Growth figures in AP (17 added cities, nearly 1 million subscribers, profitable from June 2009) are the company's own claims; the story does not use them.",
+  "researched_at": "2026-11-01"
+}

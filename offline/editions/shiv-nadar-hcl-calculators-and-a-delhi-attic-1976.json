@@ -1,0 +1,128 @@
+{
+  "id": "shiv-nadar-hcl-calculators-and-a-delhi-attic-1976",
+  "title": "The Delhi Attic Where HCL Began on Calculator Money",
+  "dek": "In 1976 a group of young DCM engineers left their jobs to build computers in licence-bound India, paying their way by selling calculators.",
+  "story": {
+    "founder": "Shiv Nadar, Arjun Malhotra, Ajai Chowdhry, Subhash Arora, Yogesh Vaidya, D. S. Puri",
+    "company": "HCL (Hindustan Computers Limited)",
+    "event": "Leaving DCM to found HCL, funded by a calculator business and a state-government joint venture",
+    "approx_date": "1976-08",
+    "country": "India",
+    "region": "South Asia",
+    "industry": "computer hardware and software",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In 1976 Shiv Nadar and colleagues from DCM's calculator division left to build computers in India. Unable to get a manufacturing licence themselves, they formed a joint venture with the Uttar Pradesh government and funded HCL, launched in August 1976, with savings and the cash from a company selling calculators, working from a rooftop room in Delhi. HCL produced its first microcomputer in 1978 and later moved from hardware into software and services.",
+    "paragraphs": [
+      "In 1976 a group of young engineers in the calculator division of Delhi Cloth Mills, DCM, decided to leave well-paid jobs. Their leader, Shiv Nadar, was 31 and, he said, the oldest; the others included Arjun Malhotra, Ajai Chowdhry, Subhash Arora, Yogesh Vaidya and D. S. Puri. They had watched calculator chips grow powerful enough for programmable machines, which Nadar later called the forerunners of personal computers, and they thought they could build a computer in India.",
+      "India was a licensed economy. The government's Electronics Commission asked them for a report, and they wrote that they could build an eight-bit machine. \"Youthful exuberance and age were on our side,\" Nadar recalled. The hard part, he said, was not design but permission: a new firm was unlikely to be licensed to make computers. So they found a partner that already had permission, the Uttar Pradesh state government, and formed a joint venture. Hindustan Computers Limited was launched in August 1976.",
+      "There was no venture capital. The founders first set up a company to sell calculators, Microcomp, with about $16,000 of their savings, and used its cash for the computer firm. HCL began with about Rs 20 lakh, a quarter from the state government, Nadar said; \"That was the time when I truly understood what cash flow is.\" They worked from a rooftop barsati in Delhi, which he described as an attic with a bedroom, a table and a chair. He had no table of his own. To attract recruits they paid Rs 2,000 a month, more than Citibank, though each hire added about 5% to overheads.",
+      "In 1977 IBM left India rather than meet new rules on local source code, and Nadar said HCL then had to create the computer market alone. Its first microcomputer came out in 1978. It took 13 years, he said, to reach revenues of Rs 100 crore. In 2013 the group closed its hardware businesses to concentrate on software and services."
+    ]
+  },
+  "quote": {
+    "text": "I follow such openings or cavities as there may be, according to the natural constitution of the animal. I do not attempt to cut through joints: still less through large bones.",
+    "thinker": "Zhuangzi",
+    "work": "Zhuangzi (Chuang Tzŭ)",
+    "locator": "Chapter III, \"Nourishment of the Soul\" (Prince Hui's cook)",
+    "translator": "Herbert A. Giles (1889)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/59709/pg59709.txt",
+    "source_title": "Chuang Tzŭ: Mystic, Moralist, and Social Reformer, tr. Herbert A. Giles, Project Gutenberg eBook #59709",
+    "connection": "Zhuangzi's cook keeps his blade sharp by following the openings in the animal instead of hacking through bone. Unable to win a licence of their own, Nadar's group did not fight the rule head on; they used the opening a state partner offered, and paid their way with calculators.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The calculator company is the part of this story that is easy to skip. It was not the ambition; it paid for the ambition, and Nadar said it was where he learned what cash flow means. Unglamorous work came first so that the bold work could survive.",
+    "You may have a version of this: the steady job, the routine contract or the ordinary task that keeps things running while something larger takes shape. On tired days it is easy to resent it. It may help to see it as the calculators were for HCL: not a detour, but the floor the rest stood on."
+  ],
+  "invitation": "Name the steady, unglamorous part of your work that keeps everything else going. Give it one unhurried hour today, and count that hour as part of the building, not a delay to it.",
+  "sources": [
+    {
+      "title": "HCL's Shiv Nadar: 'Transformation Is Beckoning, and It Is Right around the Corner'",
+      "publisher": "Knowledge at Wharton (interview with Ravi Aron, September 2006)",
+      "url": "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hcls-shiv-nadar-transformation-is-beckoning-and-it-is-right-around-the-corner/",
+      "kind": "founder-interview",
+      "supports": "Founders as engineers in DCM's calculator division; programmable calculator chips as forerunners of PCs; the Electronics Commission report on an eight-bit machine; 'Youthful exuberance and age were on our side'; launch in August 1976; licence as the toughest challenge and the joint venture with the Uttar Pradesh government; Rs 20 lakh total with a quarter from the state government; the calculator marketing company created with $16,000 of founders' savings; 'That was the time when I truly understood what cash flow is'; Nadar aged 31 and the oldest; the attic with a bedroom, a table and a chair, and no table of his own; Rs 2,000 salary, more than Citibank, each hire adding 5% to overheads; IBM's departure over source-code rules and HCL having to create the market; 13 years to reach Rs 100 crore."
+    },
+    {
+      "title": "The amazing story of the birth of HCL",
+      "publisher": "Rediff.com (9 June 2007), drawing on a CNBC-TV18 programme",
+      "url": "https://www.rediff.com/business/special/bspec1/20070609.htm",
+      "kind": "independent-reporting",
+      "supports": "Six young engineers from DCM's calculator division deciding in 1976 to leave well-paid jobs; Nadar's lead; Microcomp formed to sell teledigital calculators to raise cash; support from the Uttar Pradesh government; about Rs 20 lakh; IBM's departure in 1977."
+    },
+    {
+      "title": "The 'Hard' Core Of HCL Fades Into History",
+      "publisher": "Swarajya (Anand Parthasarathy, 2 March 2021)",
+      "url": "https://swarajyamag.com/technology/the-hard-core-of-hcl-fades-into-history",
+      "kind": "independent-reporting",
+      "supports": "Founded in 1976 by six entrepreneurs from DCM Data Products led by Nadar, with Arjun Malhotra, Ajai Chowdhry, Subhash Arora, Yogesh Vaidya and D. S. Puri; the rooftop barsati in Delhi; beginning with electronic desk calculators; first made-in-India microcomputer in 1978; closure of all hardware businesses in November 2013."
+    },
+    {
+      "title": "Bird's Eye View: Shiv Nadar's contribution goes far beyond the success of HCL",
+      "publisher": "Business Today (Goutam Das, 29 December 2019)",
+      "url": "https://www.businesstoday.in/magazine/best-ceos-2019/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary/story/391858.html",
+      "kind": "independent-reporting",
+      "supports": "HCL born in a Delhi barsati in 1976; Nadar's Knowledge at Wharton account of the licence problem and the Uttar Pradesh joint venture; funding of about Rs 20 lakh from selling calculators; HCL shutting down computer manufacturing in 2013."
+    },
+    {
+      "title": "Shiv Nadar, HCL",
+      "publisher": "Outlook (25 March 2017)",
+      "url": "https://www.outlookindia.com/business/shiv-nadar-hcl-news-298662",
+      "kind": "independent-reporting",
+      "supports": "Nadar born in 1945; DCM management trainee; young men quitting DCM in 1976 to create HCL in a Delhi barsati; first 8-bit microprocessor-based computer in 1978."
+    },
+    {
+      "title": "HCL: The Giant (Dataquest Top 20, 2003), Internet Archive copy",
+      "publisher": "Dataquest India",
+      "url": "https://web.archive.org/web/20080423174235/http://dqindia.ciol.com/content/dqtop202k3/giants/103080504.asp",
+      "kind": "independent-reporting",
+      "supports": "Timeline: Nadar and five colleagues start Microcomp (dated 1975); HCL promoted in 1976 with start-up capital of Rs 1.87 lakh."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 1976 Nadar and colleagues from DCM's calculator division left to found HCL",
+      "urls": [
+        "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hcls-shiv-nadar-transformation-is-beckoning-and-it-is-right-around-the-corner/",
+        "https://www.rediff.com/business/special/bspec1/20070609.htm",
+        "https://swarajyamag.com/technology/the-hard-core-of-hcl-fades-into-history"
+      ]
+    },
+    {
+      "claim": "The decision: to get round licensing, HCL was formed as a joint venture with the Uttar Pradesh government",
+      "urls": [
+        "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hcls-shiv-nadar-transformation-is-beckoning-and-it-is-right-around-the-corner/",
+        "https://www.rediff.com/business/special/bspec1/20070609.htm",
+        "https://www.businesstoday.in/magazine/best-ceos-2019/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary/story/391858.html"
+      ]
+    },
+    {
+      "claim": "The computer venture was funded with cash from a calculator-selling company, about Rs 20 lakh in all",
+      "urls": [
+        "https://knowledge.wharton.upenn.edu/podcast/knowledge-at-wharton-podcast/hcls-shiv-nadar-transformation-is-beckoning-and-it-is-right-around-the-corner/",
+        "https://www.rediff.com/business/special/bspec1/20070609.htm",
+        "https://www.businesstoday.in/magazine/best-ceos-2019/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary/story/391858.html"
+      ]
+    },
+    {
+      "claim": "HCL started in a rooftop barsati in Delhi",
+      "urls": [
+        "https://swarajyamag.com/technology/the-hard-core-of-hcl-fades-into-history",
+        "https://www.outlookindia.com/business/shiv-nadar-hcl-news-298662",
+        "https://www.businesstoday.in/magazine/best-ceos-2019/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary/story/391858.html"
+      ]
+    },
+    {
+      "claim": "HCL's first microcomputer came out in 1978, and the group closed its hardware businesses in 2013",
+      "urls": [
+        "https://swarajyamag.com/technology/the-hard-core-of-hcl-fades-into-history",
+        "https://www.outlookindia.com/business/shiv-nadar-hcl-news-298662",
+        "https://www.businesstoday.in/magazine/best-ceos-2019/birds-eye-view-shiv-nadars-hcl-companies-mentor-visionary/story/391858.html"
+      ]
+    }
+  ],
+  "research_notes": "Number of founders: Rediff (2007), Swarajya (2021) and Dataquest (2003) say six (Nadar and five colleagues); Outlook (2017) says eight young men; Wikipedia adds S. Raman and Mahendra Pratap. The story names the six that Swarajya lists and says 'a group' rather than giving a count. Capital: Dataquest gives start-up capital of Rs 1.87 lakh in 1976; Nadar told Knowledge at Wharton that the first (calculator) company was created with $16,000 of the founders' savings and that HCL itself started with Rs 20 lakh, a quarter from the Uttar Pradesh government; Rediff and Business Today also give Rs 20 lakh. The story uses Nadar's own figures, attributed to him; the Rs 1.87 lakh figure is roughly consistent with the $16,000 for the first company at 1976 exchange rates. Microcomp's start is dated 1975 by Dataquest, while Rediff says the founders quit DCM in the summer of 1976, so the story gives no year for Microcomp. Nadar's age: Rediff and Swarajya say 30; Nadar said 'I was 31'; the story uses his figure. The barsati: Swarajya, Outlook and Business Today place HCL's start in a rooftop barsati in Delhi; Nadar himself described 'an attic with a bedroom, a table and a chair', and the story uses both. A Dataquest profile of Arjun Malhotra (blocked for the checker) places the barsati at his grandmother's home in South Delhi; this is not used. Nadar's claim that HCL and Apple shipped first computers in the same quarter is his own and is not used. IBM's exit: Nadar disputes that IBM was 'evicted' and attributes it to source-code rules; the story follows him. The UP government's quarter share means the funding is recorded as 'mixed' rather than the slate's 'bootstrapped'. Zhuangzi's cook is a parable about nourishing life; it is applied to working round a licence regime by analogy.",
+  "researched_at": "2026-11-01"
+}

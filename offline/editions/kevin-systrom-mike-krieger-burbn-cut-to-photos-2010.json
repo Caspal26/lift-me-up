@@ -1,0 +1,138 @@
+{
+  "id": "kevin-systrom-mike-krieger-burbn-cut-to-photos-2010",
+  "title": "The Summer Burbn Was Cut Down to Photos, Comments and Likes",
+  "dek": "In 2010 two worn-out founders threw away most of a year's work on a check-in app and kept the one part its few users loved.",
+  "story": {
+    "founder": "Kevin Systrom and Mike Krieger",
+    "company": "Burbn (later Instagram)",
+    "event": "Cutting the Burbn check-in app down to a photo-sharing app",
+    "approx_date": "2010",
+    "country": "United States",
+    "region": "North America",
+    "industry": "software (mobile apps)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "In 2010 Kevin Systrom and Mike Krieger, with a $500,000 seed round behind their location app Burbn but only about a hundred users, decided to cut everything except photos, comments and likes. During a break in Mexico, Systrom made the first filter; about eight weeks after they sketched the new app, Instagram launched in October 2010 and, by Systrom's count, drew 25,000 sign-ups on its first day.",
+    "paragraphs": [
+      "By the summer of 2010 Kevin Systrom and Mike Krieger had a working iPhone version of Burbn, the app Systrom had begun at night while employed at a travel start-up in San Francisco. Burbn let people check in to places, make plans, earn points for time with friends and post photos. In March it had raised a $500,000 seed round from Baseline Ventures and Andreessen Horowitz.",
+      "The numbers were small. Systrom later put Burbn's users at about a hundred: \"you can fit them in a room.\" Krieger recalled that active users were running flat while the pair kept telling themselves that more features or more speed would help. Foursquare and Gowalla already crowded the check-in space. But the people who stayed, Systrom said, loved the photos, and Krieger later said the keenest posters edited their pictures in other apps first.",
+      "They chose to cut. Writing on Quora, as TechCrunch reported, Systrom said the iPhone app \"felt cluttered, and overrun with features\" and that it was \"really difficult to decide to start from scratch.\" They kept photos, comments and likes and dropped the rest. Krieger later said the change took a long time because some people loved Burbn, and many of those they would disappoint were friends and family. Their investors, by Systrom's account, told them to build whatever company they wanted from their ideas.",
+      "Both were worn out, Systrom said, so he took a break in Todos Santos, Mexico, with Nicole, now his wife, while Krieger built a prototype. On a beach walk she told him she would not post much, because her photos were not as good as a friend's who used filter apps. He went back to the room's dial-up connection, worked out a first filter, X-Pro II, and tested it on a photo of her foot and a stray dog near a taco stand.",
+      "About eight weeks after they sketched it, Instagram reached the App Store; TechCrunch reported its launch on 6 October 2010. Systrom said 25,000 people signed up on the first day, and its single server kept going down. Krieger said they went two days without sleep, \"just devastated\". The users came back anyway."
+    ]
+  },
+  "quote": {
+    "text": "The proceeding upon somewhat conceived in writing, doth for the most part facilitate dispatch: for though it should be wholly rejected, yet that negative is more pregnant of direction, than an indefinite; as ashes are more generative than dust.",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay XXV, \"Of Dispatch\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Krieger later described Instagram as built on top of the ashes of Burbn. Bacon makes the same claim for any concrete draft: even when it is wholly rejected, a definite no gives more direction than a vague maybe. A year of Burbn told them what to keep.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Two things in this story are easy to miss. The hardest part of cutting Burbn was not technical; it was disappointing people the founders knew and liked. And the idea that made Instagram's first version work arrived during a break Systrom took because he was worn out.",
+    "You may be carrying something with more parts than anyone uses, some of them added because people you care about asked. You may also be telling yourself you cannot rest until it is fixed. Cutting back and stepping away can both be part of the work, not a retreat from it."
+  ],
+  "invitation": "Ask one person who uses something you have built which single part they would miss if it disappeared. Spend your best hour today on that part alone, and leave the rest until tomorrow.",
+  "sources": [
+    {
+      "title": "The Night Instagram Launched, It Crashed, But Didn't Burn (How I Built This transcript)",
+      "publisher": "NPR (How I Built This with Guy Raz, 2016)",
+      "url": "https://www.npr.org/transcripts/493923472",
+      "kind": "founder-interview",
+      "supports": "Systrom building Burbn at night while working at a travel start-up; check-in rivals Foursquare and Gowalla; about 80 to 100 users ('you can fit them in a room'); the seed investment growing to half a million dollars with Andreessen Horowitz; users loving the photo aspect; both founders burned out; Systrom's break in Todos Santos with Nicole, her remark about filters, the dial-up connection, the first filter X-Pro II and the test photo of her foot and a stray dog at a taco stand; eight weeks from sketch to App Store; Systrom's figure of 25,000 sign-ups in the first 24 hours; a single server down every other hour; Krieger's 'zero sleep for two days, just devastated'; users forgiving them and coming back"
+    },
+    {
+      "title": "A Pivotal Pivot",
+      "publisher": "TechCrunch (M. G. Siegler, 8 November 2010)",
+      "url": "https://techcrunch.com/2010/11/08/instagram-a-pivotal-pivot/",
+      "kind": "independent-reporting",
+      "supports": "Systrom's Quora account: about a year's work on Burbn ending in a complete iPhone app that 'felt cluttered, and overrun with features'; 'really difficult to decide to start from scratch'; cutting everything except photo, comment and like capabilities; Burbn's features (check-ins, plans, points, pictures); the decision to be really good at one thing; investors telling them to build the company they wanted from their ideas; Instagram eight weeks later"
+    },
+    {
+      "title": "Burbn's Funding Goes Down Smooth. Baseline, Andreessen Back Stealthy Location Startup.",
+      "publisher": "TechCrunch (M. G. Siegler, 5 March 2010)",
+      "url": "https://techcrunch.com/2010/03/05/burbn-funding/",
+      "kind": "independent-reporting",
+      "supports": "Burbn's $500,000 seed round from Baseline Ventures and Andreessen Horowitz in March 2010; an HTML5 mobile web app in the location space"
+    },
+    {
+      "title": "Distilled From Burbn, Instagram Makes Quick Beautiful Photos Social (Preview)",
+      "publisher": "TechCrunch (M. G. Siegler, 20 September 2010)",
+      "url": "https://techcrunch.com/2010/09/20/instagram/",
+      "kind": "independent-reporting",
+      "supports": "Instagram sprang from how the co-founders saw people using Burbn; Krieger on taking what they learned from the relatively complex Burbn and focusing on doing one thing perfectly; Systrom's 'We're not a check-in app'; both founders' Stanford background"
+    },
+    {
+      "title": "Instagram Launches With The Hope Of Igniting Communication Through Images",
+      "publisher": "TechCrunch (M. G. Siegler, 6 October 2010)",
+      "url": "https://techcrunch.com/2010/10/06/instagram-launch/",
+      "kind": "independent-reporting",
+      "supports": "Instagram officially launched in the App Store on 6 October 2010 as a free download"
+    },
+    {
+      "title": "Instagram Co-Founder Mike Krieger on Mastering Simplicity (conversation with Nick Thompson at 92nd Street Y)",
+      "publisher": "Next Big Idea Club",
+      "url": "https://nextbigideaclub.com/magazine/conversation-do-fewer-things-better-instagram-co-founder-mike-krieger-on-simplicity-and-success/10579/",
+      "kind": "founder-interview",
+      "supports": "Krieger: Instagram 'built on top of the ashes' of Burbn; people loved the photo feature and nobody used the game part; the heaviest sharers were people who edited photos in other apps before posting to Burbn"
+    },
+    {
+      "title": "Mike Krieger's Fireside Chat from the SPC Archive",
+      "publisher": "South Park Commons (notes of a 2019 talk)",
+      "url": "https://blog.southparkcommons.com/mike-kriegers-fireside-chat-from-the-spc-archive",
+      "kind": "founder-interview",
+      "supports": "Krieger on moving on from Burbn: it took a long time because people loved it; many of those disappointed were friends and family; active users basically running flat while they told themselves more features or speed would help"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Burbn raised a $500,000 seed round from Baseline Ventures and Andreessen Horowitz",
+      "urls": [
+        "https://techcrunch.com/2010/03/05/burbn-funding/",
+        "https://www.npr.org/transcripts/493923472"
+      ]
+    },
+    {
+      "claim": "Burbn had only about a hundred users, and the ones who stayed loved posting photos",
+      "urls": [
+        "https://www.npr.org/transcripts/493923472",
+        "https://nextbigideaclub.com/magazine/conversation-do-fewer-things-better-instagram-co-founder-mike-krieger-on-simplicity-and-success/10579/"
+      ]
+    },
+    {
+      "claim": "The founders cut Burbn down to photo sharing, keeping photos, comments and likes",
+      "urls": [
+        "https://techcrunch.com/2010/11/08/instagram-a-pivotal-pivot/",
+        "https://www.npr.org/transcripts/493923472",
+        "https://nextbigideaclub.com/magazine/conversation-do-fewer-things-better-instagram-co-founder-mike-krieger-on-simplicity-and-success/10579/"
+      ]
+    },
+    {
+      "claim": "Instagram was built in about eight weeks after the decision",
+      "urls": [
+        "https://techcrunch.com/2010/11/08/instagram-a-pivotal-pivot/",
+        "https://www.npr.org/transcripts/493923472"
+      ]
+    },
+    {
+      "claim": "Disappointing existing Burbn users, many of them friends and family, made the change hard",
+      "urls": [
+        "https://blog.southparkcommons.com/mike-kriegers-fireside-chat-from-the-spc-archive",
+        "https://techcrunch.com/2010/11/08/instagram-a-pivotal-pivot/"
+      ]
+    },
+    {
+      "claim": "Instagram launched in the App Store in October 2010",
+      "urls": [
+        "https://techcrunch.com/2010/10/06/instagram-launch/",
+        "https://www.npr.org/transcripts/493923472"
+      ]
+    }
+  ],
+  "research_notes": "Launch date: TechCrunch reported the App Store launch on 6 October 2010; Systrom, interviewed by NPR in 2016, said 'We pressed launch on October 10 of 2010'. The story uses TechCrunch's contemporary date. Users: Systrom told NPR first that 80 or 90 people were using Burbn and then 'about 100'; the story says about a hundred. The first-day figure of 25,000 sign-ups is Systrom's own and is attributed to him; no independent contemporary count was found. Funding: TechCrunch (March 2010) reported a $500,000 seed round from Baseline Ventures and Andreessen Horowitz; Systrom told NPR that Steve Anderson's (Baseline's) initial $50,000 grew to $250,000 and Andreessen Horowitz added $250,000, consistent with the total. Timing of the decision: neither founder dates it precisely; TechCrunch says Instagram came 'just 8 weeks' after the restart and Systrom told NPR it was eight weeks from sketch to App Store, so the story places the decision in summer 2010. Krieger's remarks about disappointing friends and family and users 'running flat' come from South Park Commons's written notes of a 2019 talk, in his voice but possibly condensed, so the story paraphrases them rather than quoting. Systrom's Quora answer itself could not be loaded (Quora blocks automated requests), so his words are quoted from TechCrunch's reproduction. Nicole is named as in Systrom's NPR account; the friend 'Greg' is not named in the story. The connection's 'ashes' phrase is Krieger's, from the 92nd Street Y conversation published by Next Big Idea Club.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "anne-wojcicki-23andme-fda-warning-letter-2013",
+  "title": "Anne Wojcicki, the FDA's Warning Letter and Fifteen Months of Steps",
+  "dek": "In November 2013 regulators told 23andMe to stop marketing its health reports; Anne Wojcicki complied and rebuilt them one authorised test at a time.",
+  "story": {
+    "founder": "Anne Wojcicki",
+    "company": "23andMe",
+    "event": "Halting health reports after the FDA's November 2013 warning letter and seeking authorisation test by test",
+    "approx_date": "2013-11",
+    "country": "United States",
+    "region": "North America",
+    "industry": "diagnostics (consumer genetic testing)",
+    "arc": "setback",
+    "funding": "venture",
+    "summary": "On 22 November 2013 the FDA ordered 23andMe to stop marketing its Personal Genome Service, saying the company had not shown its health reports were valid and had stopped communicating. On 5 December 23andMe stopped giving health results to new customers and sold only ancestry information and raw data; in February 2015 the FDA authorised its Bloom syndrome carrier test, and health reports returned in October 2015. The company filed for bankruptcy in 2025 and its assets were sold to a nonprofit led by Wojcicki.",
+    "paragraphs": [
+      "On 22 November 2013 the US Food and Drug Administration sent a warning letter to Anne Wojcicki, chief executive of 23andMe in California. Her company sold a $99 saliva kit and advertised \"health reports on 254 diseases and conditions.\" The agency wrote that it had worked with 23andMe since July 2009, through more than 14 meetings and calls and hundreds of emails, but had heard nothing since May while the company launched television advertising. It must immediately stop marketing the service. A false breast-cancer risk result, the letter warned, could lead someone to preventive surgery.",
+      "Wojcicki later said the company had at first believed it would not need FDA approval, since it ran under the laboratory rules covering most genetic tests; by 2010, she said, it understood it would be regulated as a medical device, \"but there was a lot of miscommunication on our behalf.\" Within days 23andMe admitted it had not met the agency's expectations on timeline and communication. At a Fortune event in San Francisco she said: \"Big challenges are an accumulation of small challenges.\"",
+      "Late on 5 December the company said it would comply. People who bought kits from 22 November onward would receive ancestry information and their raw genetic data with no health interpretation; earlier customers kept their reports. Wojcicki said the aim was to work cooperatively with the FDA.",
+      "The return was slow. She relied on Kathy Hibbs, the company's chief legal and regulatory officer, and found herself in Washington often: \"We weren't in D.C. enough before.\" In February 2015 the FDA authorised 23andMe's Bloom syndrome carrier test, the first direct-to-consumer genetic test it had cleared. Staff gave a standing ovation, she recalled. \"There is a level of steps and patience that is required.\" In October 2015 the service returned with dozens of health reports, and in April 2017 the FDA allowed risk reports for ten conditions, including Parkinson's disease.",
+      "The company later went public but struggled to become profitable. After a 2023 data breach and the resignation of its independent directors in 2024, it filed for bankruptcy in March 2025 and Wojcicki resigned as chief executive. That summer a court approved the sale of its assets for $305 million to TTAM Research Institute, a nonprofit she leads."
+    ]
+  },
+  "quote": {
+    "text": "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again, and be content if the greater part of what thou doest is consistent with man's nature",
+    "thinker": "Marcus Aurelius",
+    "work": "Meditations",
+    "locator": "Book V, 9",
+    "translator": "George Long (1862)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+    "source_title": "Thoughts of Marcus Aurelius Antoninus, tr. George Long, Project Gutenberg eBook #15877",
+    "connection": "Marcus allows for failure but asks for a return without disgust or despair. Wojcicki's answer to the letter was that kind of return: admitting the lapse, narrowing what the company offered, and coming back one authorised test at a time.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The FDA's complaint was not that 23andMe's idea was wrong. It was that the company had not shown its tests worked, and had stopped answering. You know that gap: a method that seems to work is not yet a validated one, and silence towards someone who checks your work rarely stays neutral.",
+    "When something you are responsible for falls short, there is a pull either to defend it or to give it up. Wojcicki took a third way: name the gap, promise less for a while, and start answering again. It took fifteen months to win one test back, and it began with a reply."
+  ],
+  "invitation": "Think of one message from someone who checks your work, a supervisor, an assessor or a client, that you have been slow to answer. Send two lines today saying where things stand and when you will follow up.",
+  "sources": [
+    {
+      "title": "Warning Letter to 23andMe, Inc. (Document Number GEN1300666), 22 November 2013",
+      "publisher": "US Food and Drug Administration, Internet Archive copy",
+      "url": "https://web.archive.org/web/20150101020736/http://www.fda.gov/iceci/enforcementactions/warningletters/2013/ucm376296.htm",
+      "kind": "court-record",
+      "supports": "Date and recipient of the letter; the website's 'health reports on 254 diseases and conditions'; FDA work with the company since July 2009, more than 14 meetings and teleconferences and hundreds of emails; 510(k)s considered withdrawn; no communication from 23andMe since May; new marketing campaigns including television commercials; BRCA false-positive risk leading to prophylactic surgery; order to immediately discontinue marketing."
+    },
+    {
+      "title": "Updated: FDA Orders 23andMe to Stop Genetic Tests",
+      "publisher": "MIT Technology Review (25 November 2013)",
+      "url": "https://www.technologyreview.com/2013/11/25/112668/updated-fda-orders-23andme-to-stop-genetic-tests/",
+      "kind": "independent-reporting",
+      "supports": "The $99 price; the FDA's concern about unproven health results; 23andMe's statement that it had not met the FDA's expectations regarding timeline and communication."
+    },
+    {
+      "title": "23andMe's Wojcicki: We failed to communicate proactively",
+      "publisher": "Fortune (Michal Lev-Ram, 4 December 2013)",
+      "url": "https://fortune.com/2013/12/04/23andmes-wojcicki-we-failed-to-communicate-proactively",
+      "kind": "founder-interview",
+      "supports": "Wojcicki at a Fortune Most Powerful Women event in San Francisco saying the company fell behind schedule and failed to communicate proactively; her remark 'Big challenges are an accumulation of small challenges'; her intention to work with the FDA."
+    },
+    {
+      "title": "23andMe Bows To FDA's Demands, Drops Health Claims",
+      "publisher": "NPR (6 December 2013), via KUNC",
+      "url": "https://www.kunc.org/npr-news/2013-12-06/23andme-bows-to-fdas-demands-drops-health-claims",
+      "kind": "independent-reporting",
+      "supports": "Announcement late on Thursday 5 December that 23andMe would comply and stop marketing health-related tests; ancestry analysis and raw data continuing; Wojcicki's statement about working cooperatively with the FDA."
+    },
+    {
+      "title": "23andMe stops selling DNA health tests following FDA crackdown (updated)",
+      "publisher": "Engadget (6 December 2013)",
+      "url": "https://www.engadget.com/2013/12/06/23andme-dna-test-kit-fda/",
+      "kind": "independent-reporting",
+      "supports": "Customers who bought before 22 November still receiving health results; later buyers receiving ancestry information and raw data without health reports; Wojcicki's blog post."
+    },
+    {
+      "title": "23andMe CEO: We Are Now the 'Poster Child' for Patient Empowerment",
+      "publisher": "KQED Future of You (Christina Farr, 10 April 2015)",
+      "url": "https://www.kqed.org/futureofyou/1394",
+      "kind": "founder-interview",
+      "supports": "Wojcicki on the standing ovation after the Bloom syndrome authorisation; 'There is a level of steps and patience that is required'; understanding by 2010 that it would be regulated as a medical device and 'a lot of miscommunication on our behalf'; reliance on Kathy Hibbs, chief legal and regulatory officer; 'We weren't in D.C. enough before'; update noting the October 2015 relaunch with dozens of health reports."
+    },
+    {
+      "title": "Your Data to Explore: An Interview with Anne Wojcicki",
+      "publisher": "PLOS Genetics (Jane Gitschier, 15 October 2015)",
+      "url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005548",
+      "kind": "founder-interview",
+      "supports": "Wojcicki's account that the company originally thought it would not need FDA approval because it operated under CLIA like most genetic tests, and that the FDA said it was a medical device; that no new health-related content had been added since 22 November 2013; the Bloom syndrome report as the first direct-to-consumer genetic test approved for marketing by the FDA."
+    },
+    {
+      "title": "FDA permits marketing of first direct-to-consumer genetic carrier test for Bloom syndrome (19 February 2015)",
+      "publisher": "US Food and Drug Administration, Internet Archive copy",
+      "url": "https://web.archive.org/web/20170111191740/http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm435003.htm",
+      "kind": "court-record",
+      "supports": "Authorisation of 23andMe's Bloom syndrome carrier test on 19 February 2015; classification of carrier screening tests as class II with intent to exempt them from premarket review."
+    },
+    {
+      "title": "FDA allows marketing of first direct-to-consumer tests that provide genetic risk information for certain conditions (6 April 2017)",
+      "publisher": "US Food and Drug Administration, Internet Archive copy",
+      "url": "https://web.archive.org/web/20190119185541/https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm551185.htm",
+      "kind": "court-record",
+      "supports": "FDA allowing 23andMe Genetic Health Risk tests for ten conditions, including Parkinson's disease, in April 2017."
+    },
+    {
+      "title": "Anne Wojcicki's nonprofit gets court approval to buy 23andMe for $305 million",
+      "publisher": "Associated Press, via WBTV (July 2025)",
+      "url": "https://www.wbtv.com/2025/07/02/anne-wojcickis-nonprofit-gets-court-approval-buy-23andme-305-million/",
+      "kind": "independent-reporting",
+      "supports": "Chapter 11 filing in March 2025 and Wojcicki's resignation as CEO; court approval of the $305 million sale to TTAM Research Institute; struggle to find a profitable model since going public in 2021; independent directors' resignation in September 2024; 2023 data breach; about 13 million customers per court documents."
+    },
+    {
+      "title": "Court approves sale of 23andMe to nonprofit led by former CEO Anne Wojcicki",
+      "publisher": "ABC News / Good Morning America (July 2025)",
+      "url": "https://www.goodmorningamerica.com/news/story/court-approves-sale-23andme-nonprofit-led-former-ceo-123369272",
+      "kind": "independent-reporting",
+      "supports": "March 2025 Chapter 11 filing and Wojcicki's resignation; $305 million sale to TTAM approved by the US Bankruptcy Court for the Eastern District of Missouri; 2023 data-breach settlement and 2024 board resignations."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 22 November 2013 the FDA ordered 23andMe to immediately stop marketing its Personal Genome Service, citing unvalidated health results and no communication since May",
+      "urls": [
+        "https://web.archive.org/web/20150101020736/http://www.fda.gov/iceci/enforcementactions/warningletters/2013/ucm376296.htm",
+        "https://www.technologyreview.com/2013/11/25/112668/updated-fda-orders-23andme-to-stop-genetic-tests/",
+        "https://www.kunc.org/npr-news/2013-12-06/23andme-bows-to-fdas-demands-drops-health-claims"
+      ]
+    },
+    {
+      "claim": "The decision: on 5 December 2013 23andMe stopped health interpretation for customers who bought from 22 November, offering only ancestry and raw data",
+      "urls": [
+        "https://www.kunc.org/npr-news/2013-12-06/23andme-bows-to-fdas-demands-drops-health-claims",
+        "https://www.engadget.com/2013/12/06/23andme-dna-test-kit-fda/",
+        "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005548"
+      ]
+    },
+    {
+      "claim": "The company acknowledged communication failures with the FDA",
+      "urls": [
+        "https://www.technologyreview.com/2013/11/25/112668/updated-fda-orders-23andme-to-stop-genetic-tests/",
+        "https://fortune.com/2013/12/04/23andmes-wojcicki-we-failed-to-communicate-proactively",
+        "https://www.kqed.org/futureofyou/1394"
+      ]
+    },
+    {
+      "claim": "In February 2015 the FDA authorised 23andMe's Bloom syndrome carrier test, the first direct-to-consumer genetic test it authorised",
+      "urls": [
+        "https://web.archive.org/web/20170111191740/http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm435003.htm",
+        "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005548",
+        "https://www.kqed.org/futureofyou/1394"
+      ]
+    },
+    {
+      "claim": "23andMe filed for Chapter 11 in March 2025, Wojcicki resigned as CEO, and a court approved the $305 million sale to her nonprofit TTAM Research Institute",
+      "urls": [
+        "https://www.wbtv.com/2025/07/02/anne-wojcickis-nonprofit-gets-court-approval-buy-23andme-305-million/",
+        "https://www.goodmorningamerica.com/news/story/court-approves-sale-23andme-nonprofit-led-former-ceo-123369272"
+      ]
+    }
+  ],
+  "research_notes": "What Wojcicki knew about regulation: in PLOS Genetics (2015) she said the company originally thought it would not need FDA approval because it operated under CLIA; to KQED (April 2015) she said it understood 'even back in 2010' that it would be regulated as a medical device. The FDA letter says it had been working with the company since July 2009. The story gives both of her statements as hers, in sequence. The admission about 'timeline and communication' is a company statement reported by MIT Technology Review, not attributed to Wojcicki personally; Fortune paraphrases her as saying the company fell behind schedule and failed to communicate proactively. Refunds: Engadget's first version said post-22 November buyers would get refunds, then updated on 7 December to say kits were still sold with ancestry and raw data; the story does not mention refunds. Timing of the 5 December announcement: NPR says 'late Thursday' (5 December); some outlets date it 6 December. Customer numbers are not used in the story: Fortune (2013) gives a goal of one million by end of 2013; KQED (2015) says more than 850,000; for 2025 AP cites about 13 million from court documents and ABC says roughly 15 million. The court approval of the sale is dated Friday 27 June 2025 by AP and Monday by ABC (which reports the company's announcement), so the story says 'that summer'. The bankruptcy and sale are stated factually; no blame is attributed. The FDA letter and press releases are cited from Internet Archive copies because the current fda.gov URLs no longer serve them; their kind is given as 'court-record' as the nearest category for official regulatory records. Marcus Aurelius is writing about his own philosophical practice; it is applied to a company's regulatory recovery by analogy.",
+  "researched_at": "2026-11-01"
+}

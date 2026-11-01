@@ -1,0 +1,133 @@
+{
+  "id": "mike-cannon-brookes-scott-farquhar-atlassian-credit-card-start-2002",
+  "title": "Atlassian's First Target Was a Graduate Salary and $10,000 of Debt",
+  "dek": "In 2002 two Sydney graduates skipped consulting jobs, started Atlassian on a credit card, and aimed only to earn what their classmates did.",
+  "story": {
+    "founder": "Mike Cannon-Brookes and Scott Farquhar",
+    "company": "Atlassian",
+    "event": "Starting Atlassian on $10,000 of credit-card debt instead of taking graduate jobs, then turning from support work to selling JIRA",
+    "approx_date": "2002",
+    "country": "Australia",
+    "region": "Oceania",
+    "industry": "software",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "After Mike Cannon-Brookes emailed University of New South Wales classmates in June 2001 inviting them to start a company, Scott Farquhar alone accepted, and in 2002 the pair started Atlassian in Sydney with $10,000 of credit-card debt, aiming to match a PwC graduate salary. They began by providing support for another company's software, paid themselves $15,000 each for two years, then built and sold their own bug tracker, JIRA, online. They took no outside investment until Accel bought about 20% for US$60 million in 2010; Atlassian went public in December 2015.",
+    "paragraphs": [
+      "In June 2001 Mike Cannon-Brookes, a scholarship student in business information technology at the University of New South Wales in Sydney, emailed a few classmates to ask who would start a company with him. \"Bored of studying, Atlassian is far more interesting,\" it said. Only Scott Farquhar said yes. He kept the email.",
+      "They had met on their first day at university in 1998. Cannon-Brookes had already co-founded one small start-up, a bookmarking tool sold in 2000, about a year before the dotcom crash; Farquhar had found his corporate internships unsatisfying. The technology industry was now in a slump, and friends were taking graduate jobs at consulting firms. The pair set themselves a modest target. \"The original goal was $48,500, which was the PwC graduate salary at the time,\" Farquhar later said. They wanted to earn that without wearing a suit or working for a big company.",
+      "They started in 2002, when both were 22, with $10,000 of credit-card debt. At first Atlassian sold support for another company's software, run from the shared house in Glebe where Cannon-Brookes lived; a housemate remembered Farquhar solving a tricky customer problem upstairs at 2am during a party. For the first two years they could pay themselves only $15,000 each. \"It was basically survival mode,\" Farquhar said.",
+      "The calls came at all hours and the bug-tracking software they used was poor, so they wrote their own, JIRA, and decided selling it beat providing support. Farquhar took a short consulting job in Amsterdam to pay for the time Cannon-Brookes spent coding, in a sublet office on Kent Street so cold that he warmed his hands under the hot tap at 4am. They chose to sell online rather than hire salespeople. In 2003, by company lore, an order from American Airlines arrived on the fax machine; neither founder had spoken to the airline.",
+      "They took no outside investment for eight years. In 2010 the venture firm Accel paid US$60 million for about a fifth of the company, which by then employed 225 people, and Farquhar's aim had grown: \"We want to grow it to a billion dollars.\" Atlassian went public on Nasdaq in December 2015."
+    ]
+  },
+  "quote": {
+    "text": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting.  Therefore the sufficiency of contentment is an enduring and unchanging sufficiency.",
+    "thinker": "Laozi",
+    "work": "Tao Te Ching",
+    "locator": "Chapter 46, 2",
+    "translator": "James Legge (1891)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+    "source_title": "The Tao Teh King, or the Tao and its Characteristics, tr. James Legge, Project Gutenberg eBook #216",
+    "connection": "Laozi counts the wish to be getting among the worst faults and calls contentment the only sufficiency that lasts. The founders' first target, a graduate's pay without the suit, sounds almost like his. Eight years later the target was a billion dollars, and the story does not say which goal served them better.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Cannon-Brookes and Farquhar began with a number they could say aloud: a graduate's pay, without the suit. It was small enough to reach and plain enough to tell them whether the debt had been worth it. The larger ambition came later, after the small one had been met.",
+    "Laozi would distrust the second number. You need not settle today whether he is right. But it helps to know your own first number, the point at which the work would already be enough, so that any bigger goal arrives as a choice rather than as a quiet replacement for rest."
+  ],
+  "invitation": "Write one plain line on what enough would mean for you this year: a sum, a number of people helped, or the evenings you keep for yourself. Put it somewhere you will see it next month.",
+  "sources": [
+    {
+      "title": "How Atlassian's Scott Farquhar and Mike Cannon-Brookes became software titans (Caitlin Fitzsimmons, AFR Magazine, August 2014; republished 25 July 2014)",
+      "publisher": "The Sydney Morning Herald",
+      "url": "https://www.smh.com.au/technology/how-atlassians-scott-farquhar-and-mike-cannonbrookes-became-software-titans-20140725-zwo3x.html",
+      "kind": "founder-interview",
+      "supports": "Met on the first day of a UNSW business IT scholarship course in 1998; Cannon-Brookes's earlier start-up The Bookmark Box, sold in 2000; the June 2001 email 'Bored of studying, Atlassian is far more interesting', which Farquhar kept, and Farquhar the only one to say yes; his unsatisfying internships; the $48,500 PwC graduate salary goal; $15,000 each for the first two years and 'basically survival mode'; the dotcom slump; support for another company's products from the shared house in Glebe and the 2am support call during a party; the Amsterdam consulting job funding JIRA; the cold Kent Street office and the hot tap at 4am; founded with $10,000 of credit-card debt; no outside investment for the first eight years; Accel's US$60 million for 20% in 2010."
+    },
+    {
+      "title": "From Uni dropouts to software magnates (15 July 2010)",
+      "publisher": "The Sydney Morning Herald",
+      "url": "http://www.smh.com.au/small-business/entrepreneur/from-uni-dropouts-to-software-magnates-20100715-10bsm.html",
+      "kind": "founder-interview",
+      "supports": "Started on a $10,000 credit card debt; formed in 2002 when both were 22; met at UNSW; US$60 million from Accel in 2010; 225 employees; Farquhar's 'We want to grow it to a billion dollars'; an earlier statement of the original goal as matching friends' consulting salaries of $50,000 (see research notes)."
+    },
+    {
+      "title": "Atlassian founders: 20 years, 20 lessons (2022)",
+      "publisher": "Atlassian (company blog)",
+      "url": "https://www.atlassian.com/blog/announcements/atlassian-founders-20-years-20-lessons",
+      "kind": "company-archive",
+      "supports": "Atlassian started by supporting other companies' customer support teams, with the founders taking calls at all hours; the poor bug tracker and the decision to build and sell JIRA instead of support; the choice of self-service online sales over a sales team; the 2003 American Airlines order on the fax machine, as company lore; the $10,000 credit card; the December 2015 IPO."
+    },
+    {
+      "title": "Atlassian: Mike Cannon-Brookes and Scott Farquhar (How I Built This with Guy Raz), episode page",
+      "publisher": "How I Built This (NPR / Wondery), on Apple Podcasts",
+      "url": "https://podcasts.apple.com/ie/podcast/atlassian-mike-cannon-brookes-and-scott-farquhar/id1150510297?i=1000508150130",
+      "kind": "founder-interview",
+      "supports": "Episode summary: Cannon-Brookes's 2001 email to classmates and Farquhar as the only taker; a two-man tech support service run at all hours; the turn to selling software they had built for themselves, which grew into Jira."
+    },
+    {
+      "title": "Atlassian IPO price (9 December 2015)",
+      "publisher": "Fortune",
+      "url": "http://fortune.com/2015/12/09/atlassian-ipo-price/",
+      "kind": "independent-reporting",
+      "supports": "IPO priced at $21 a share in December 2015, trading on Nasdaq as TEAM; Atlassian never raised traditional venture capital and bootstrapped; profitable for each of its past ten fiscal years."
+    },
+    {
+      "title": "Atlassian files for IPO (9 November 2015)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2015/11/09/atlassian-ipo/",
+      "kind": "independent-reporting",
+      "supports": "The company was largely bootstrapped; Accel owned 20% and each co-founder 37.7% at the time of the F-1."
+    },
+    {
+      "title": "Atlassian's Scott Farquhar tells founders not to bootstrap (6 May 2021)",
+      "publisher": "The Australian Financial Review",
+      "url": "https://www.afr.com/technology/atlassian-s-scott-farquhar-tells-founders-not-to-bootstrap-20210506-p57ph1",
+      "kind": "independent-reporting",
+      "supports": "Farquhar's later view that there is no point emulating Atlassian's bootstrapped start; the founders built the company without venture funding in its early years (AFR says the first 10 years; see research notes)."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Atlassian was started in Sydney in 2002 with $10,000 of credit-card debt.",
+      "urls": [
+        "http://www.smh.com.au/small-business/entrepreneur/from-uni-dropouts-to-software-magnates-20100715-10bsm.html",
+        "https://www.atlassian.com/blog/announcements/atlassian-founders-20-years-20-lessons"
+      ]
+    },
+    {
+      "claim": "Cannon-Brookes emailed classmates in 2001 inviting them to start a company, and Farquhar was the only one to accept.",
+      "urls": [
+        "https://www.smh.com.au/technology/how-atlassians-scott-farquhar-and-mike-cannonbrookes-became-software-titans-20140725-zwo3x.html",
+        "https://podcasts.apple.com/ie/podcast/atlassian-mike-cannon-brookes-and-scott-farquhar/id1150510297?i=1000508150130"
+      ]
+    },
+    {
+      "claim": "Atlassian began as a support-services business and turned to building and selling its own software, JIRA.",
+      "urls": [
+        "https://www.atlassian.com/blog/announcements/atlassian-founders-20-years-20-lessons",
+        "https://www.smh.com.au/technology/how-atlassians-scott-farquhar-and-mike-cannonbrookes-became-software-titans-20140725-zwo3x.html",
+        "https://podcasts.apple.com/ie/podcast/atlassian-mike-cannon-brookes-and-scott-farquhar/id1150510297?i=1000508150130"
+      ]
+    },
+    {
+      "claim": "Atlassian was bootstrapped until Accel bought about 20% for US$60 million in 2010.",
+      "urls": [
+        "https://www.smh.com.au/technology/how-atlassians-scott-farquhar-and-mike-cannonbrookes-became-software-titans-20140725-zwo3x.html",
+        "https://techcrunch.com/2015/11/09/atlassian-ipo/",
+        "http://fortune.com/2015/12/09/atlassian-ipo-price/"
+      ]
+    },
+    {
+      "claim": "Atlassian went public on Nasdaq in December 2015.",
+      "urls": [
+        "http://fortune.com/2015/12/09/atlassian-ipo-price/",
+        "https://www.atlassian.com/blog/announcements/atlassian-founders-20-years-20-lessons"
+      ]
+    }
+  ],
+  "research_notes": "Original salary goal: in 2014 Farquhar named $48,500, 'the PwC graduate salary at the time' (SMH/AFR Magazine); in 2010 he said friends at consulting firms were 'earning $50,000 a year' (SMH 2010). The story quotes the more specific 2014 figure. Founders' pay: 2014 says they paid themselves $15,000 each for the first two years; 2010 says that for the first three years they lived on university scholarship money of about $300 a week; the story uses the 2014 figure and notes the other here. Place: SMH 2010 says the company started in a Sydney garage and quotes Farquhar on building the first product 'in the garage'; SMH 2014 places the support business in the shared house in Glebe where Cannon-Brookes and Niki Scevak lived; the story uses the Glebe house for the support work and does not mention a garage. Profitability: SMH 2010 and 2014 say profitable or cash-flow positive from day one; Fortune (2015) says profitable for each of the past ten fiscal years; the How I Built This summary says the support business was 'unable to make money' before the pivot; the story makes no profitability claim. Outside funding: SMH 2014 says no outside investment for eight years (Accel, 2010) and that Accel's money bought shares from the founders rather than funding the company; AFR (2021) says the first 10 years; the story follows the 2010 date. SMH 2010's headline calls them 'uni dropouts' while SMH 2014 says they founded it 'straight out of university'; the story says neither. Ages: both 22 when they formed the company in 2002 (SMH 2010); SMH 2014 says both were 18 in 1998. The American Airlines fax is told by Atlassian itself as 'company lore' and is attributed so. The How I Built This source is the episode page and summary; the audio was not transcribed. The AFR 2021 article is paywalled beyond its opening paragraphs, which were read. The Laozi passage is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

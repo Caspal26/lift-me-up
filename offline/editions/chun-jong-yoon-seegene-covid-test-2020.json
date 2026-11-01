@@ -1,0 +1,132 @@
+{
+  "id": "chun-jong-yoon-seegene-covid-test-2020",
+  "title": "The Coronavirus Test Seegene Began Before Korea Had a Single Case",
+  "dek": "In January 2020 Chun Jong-yoon set a few of his scientists on a test nobody had asked for, knowing it might never be approved or sold.",
+  "story": {
+    "founder": "Chun Jong-yoon",
+    "company": "Seegene",
+    "event": "Developing a coronavirus test before South Korea's first case and switching the whole company to making it",
+    "approx_date": "2020-01",
+    "country": "South Korea",
+    "region": "East Asia",
+    "industry": "diagnostics",
+    "arc": "breakthrough",
+    "funding": "mixed",
+    "summary": "On 16 January 2020, before South Korea had confirmed any coronavirus case, Seegene's founder Chun Jong-yoon discussed with his team building a test; using an AI-based design system and the published genetic sequence, the company had a first version ready on 5 February and emergency approval on 12 February. After Korea raised its crisis alert to the highest level on 23 February, Chun moved all 395 staff onto test kits, and Seegene's 2020 revenue rose to roughly ten times its 2019 figure.",
+    "paragraphs": [
+      "On 16 January 2020, at Seegene's headquarters in Seoul, the molecular diagnostics company's founder and chief executive, Chun Jong-yoon, sat down with his team to talk about the new virus spreading in Wuhan. It was not yet called Covid-19, and South Korea would not confirm its first case for four days. Chun later told CNN what he had thought at the time: \"Even if nobody is asking us to, we are a molecular diagnosis company.\"",
+      "He had the virus's published genetic sequence but no sample of the virus. In the basement was a computer system that used artificial intelligence to design tests, which the company had used only twice before; done by hand, he said, the work would take two to three months. He knew the risks, as he told the JoongAng Ilbo in March: the kit might be rushed and then refused approval, or reach the market after the outbreak was over and sit unsold in storage. \"We seriously evaluated all risks and started an adventure,\" he said. On 21 January, the day after Korea's first case, Seegene committed to building its own kit.",
+      "Raw materials were ordered by 24 January and arrived four days later. Only a few people were involved, Chun said, and nobody had to work through the night. The first version was ready on 5 February. Under an emergency procedure, regulators approved it on 12 February, about a week later; without that route, Chun reckoned, going from design to approval would have taken a year. Only when the government tested it on its own patient samples did his scientists know for sure it worked. Korea had 28 confirmed cases that day.",
+      "After President Moon Jae-in raised the crisis alert to its highest level on 23 February, Chun moved all 395 employees onto coronavirus kits and halted the company's 50 or so other products for two weeks; scientists with doctorates took places on the assembly line. By mid-March Seegene was making about 10,000 kits a week, each enough for 100 patients, and about 30 countries wanted them, CNN reported; in early April Chun told ABC News that 45 countries had asked. By December, the Korea Herald reported, the year's revenue had passed 1 trillion won, nearly ten times 2019's."
+    ]
+  },
+  "quote": {
+    "text": "Strive now, when the water reacheth not beyond thy waist; delay not until the flood has passed over thy head.",
+    "thinker": "Saadi",
+    "work": "The Bustan (The Orchard)",
+    "locator": "Chapter IX, \"Concerning Repentance\", from the passage following \"Sadi's Rebuke from a Camel-Driver\"",
+    "translator": "A. Hart Edwards (1911)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/60471/pg60471.txt",
+    "source_title": "The Bustān of Sadi, tr. A. Hart Edwards, Project Gutenberg eBook #60471",
+    "connection": "Saadi was urging his reader to turn to repentance before old age, not writing about laboratories, but his picture of acting while the water is only waist-deep fits Seegene's January: it began while Korea had no cases, not in late February, when the flood arrived.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "What stands out is not that Chun guessed right. He could have been wrong, and he said so: the kit might never be approved, or might end up unsold in a warehouse. He started anyway, but small, with a few people and no all-nighters, and kept the whole company's effort for the weeks when the cases actually came.",
+    "Early preparation rarely needs to be dramatic. More often it is one modest step taken while things are calm, by someone willing to look slightly overcautious. It costs little at the time, and it leaves your strength for the week when the water really does rise."
+  ],
+  "invitation": "Think of one thing you can see coming that will be harder to handle in a month. Spend twenty minutes on its first step this morning, then put it down without guilt.",
+  "sources": [
+    {
+      "title": "How this South Korean company created coronavirus test kits in three weeks",
+      "publisher": "CNN (Ivan Watson, Sophie Jeong, Julia Hollingsworth and Tom Booth, 12 March 2020)",
+      "url": "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+      "kind": "independent-reporting",
+      "supports": "Chun as founder and chief executive; his 16 January instruction to the team, four days before Korea's first case; his quoted thinking 'Even if nobody is asking us to, we are a molecular diagnosis company'; the AI-based big data system in the basement, used only for the third time; two to three months by hand; designed from released genetic details without a sample; raw materials ordered by 24 January and arriving four days later; first version ready on 5 February; only a few people involved and no round-the-clock work; approval in a week, on 12 February; scientists knowing for certain only after the government tested its own samples; President Moon's alert of 23 February; 395 employees moved onto kits and about 50 other products paused for two weeks; PhD scientists packaging; about 10,000 kits a week, each for 100 patients; demand from about 30 countries."
+    },
+    {
+      "title": "[INTERVIEW] Seegene on the front lines of epidemic fight",
+      "publisher": "Korea JoongAng Daily (Choi Joon-ho and Ko Jun-tae, 3 March 2020)",
+      "url": "https://www.koreajoongangdaily.com/business/interview-seegene-on-the-front-lines-of-epidemic-fight/10159286",
+      "kind": "founder-interview",
+      "supports": "Chun's own account: internal discussion on 16 January and the decision to develop the kit on 21 January; sequence data available from 12 January; the two risks (refused approval, or a finished kit left in storage after the outbreak); 'We seriously evaluated all risks and started an adventure'; about two weeks to develop and seven days to approve; a 12-month timeline without emergency approval; emergency approval on 12 February, when Korea had 28 confirmed cases and no deaths; AI cutting design work from three months to three hours; Seegene's solution accounting for more than half of Korea's tests in early March."
+    },
+    {
+      "title": "South Korea's coronavirus test makers in high demand",
+      "publisher": "ABC News (Joohee Cho and Hakyung Kate Lee, 4 April 2020)",
+      "url": "https://abcnews.go.com/International/south-koreas-coronavirus-test-makers-high-demand/story?id=69958217",
+      "kind": "independent-reporting",
+      "supports": "Chun saying 45 countries had asked for the product; the Allplex 2019-nCoV Assay accounting for about 80 percent of South Korea's testing by early April; three viral genes tested in a single tube."
+    },
+    {
+      "title": "[News Focus] COVID-19 'star' Seegene posts tenfold jump in revenue",
+      "publisher": "The Korea Herald (Lim Jeong-yeo, 14 December 2020)",
+      "url": "https://www.koreaherald.com/view.php?ud=20201214000808",
+      "kind": "independent-reporting",
+      "supports": "2020 revenue to date passing 1 trillion won, nearly ten times the 122 billion won of 2019; test kits developed with AI and publicly released data before Korea's first confirmed patient."
+    },
+    {
+      "title": "Seegene spearheading Korea's biotech drive",
+      "publisher": "The Korea Times (Baek Byung-yeul, 27 September 2021)",
+      "url": "https://www.koreatimes.co.kr/amp/business/companies/20210927/seegene-spearheading-koreas-biotech-drive",
+      "kind": "independent-reporting",
+      "supports": "Kits released about two weeks after development began, in anticipation of cases rising in Korea as they had in China; 2020 sales of 1.1252 trillion won, the first year above 1 trillion won."
+    },
+    {
+      "title": "Seegene Completes $16.6M Korean IPO to Fund Expansion of MDx Kits in the U.S. and Japan",
+      "publisher": "Genetic Engineering & Biotechnology News (14 September 2010)",
+      "url": "https://www.genengnews.com/topics/omics/seegene-completes-16-6m-ipo-to-fund-expansion-of-mdx-kits-in-the-u-s-and-japan/",
+      "kind": "independent-reporting",
+      "supports": "Background for the funding classification: Seegene, a Seoul molecular diagnostics firm led by Chun, listed on KOSDAQ in 2010 and funded its work from sales and public shareholders."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Seegene began work on a coronavirus test in mid-January 2020, before South Korea confirmed its first case",
+      "urls": [
+        "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+        "https://www.koreajoongangdaily.com/business/interview-seegene-on-the-front-lines-of-epidemic-fight/10159286",
+        "https://www.koreaherald.com/view.php?ud=20201214000808"
+      ]
+    },
+    {
+      "claim": "The test was designed with an AI-based computer system, shortening a task of months",
+      "urls": [
+        "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+        "https://www.koreajoongangdaily.com/business/interview-seegene-on-the-front-lines-of-epidemic-fight/10159286"
+      ]
+    },
+    {
+      "claim": "Emergency approval came on 12 February 2020, about a week after submission",
+      "urls": [
+        "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+        "https://www.koreajoongangdaily.com/business/interview-seegene-on-the-front-lines-of-epidemic-fight/10159286"
+      ]
+    },
+    {
+      "claim": "Development took a matter of weeks (about two weeks by Chun's account; 16 January to 5 February by CNN's dates)",
+      "urls": [
+        "https://www.koreajoongangdaily.com/business/interview-seegene-on-the-front-lines-of-epidemic-fight/10159286",
+        "https://www.koreatimes.co.kr/amp/business/companies/20210927/seegene-spearheading-koreas-biotech-drive",
+        "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html"
+      ]
+    },
+    {
+      "claim": "International demand grew quickly in spring 2020 (about 30 countries by mid-March; 45 by early April)",
+      "urls": [
+        "https://edition.cnn.com/2020/03/12/asia/coronavirus-south-korea-testing-intl-hnk/index.html",
+        "https://abcnews.go.com/International/south-koreas-coronavirus-test-makers-high-demand/story?id=69958217"
+      ]
+    },
+    {
+      "claim": "Seegene's 2020 revenue passed 1 trillion won, about ten times 2019's 122 billion won",
+      "urls": [
+        "https://www.koreaherald.com/view.php?ud=20201214000808",
+        "https://www.koreatimes.co.kr/amp/business/companies/20210927/seegene-spearheading-koreas-biotech-drive"
+      ]
+    }
+  ],
+  "research_notes": "Start date: CNN says that on 16 January Chun told his team it was time to start focusing on the coronavirus; in the JoongAng interview Chun says 16 January was an internal discussion and that Seegene decided to develop its own kit on 21 January (the day after Korea's first confirmed case on 20 January). The story gives both steps. Development time: Chun told the JoongAng Ilbo the kit took two weeks to develop and seven days to approve, and the Korea Times says about two weeks; CNN's dates (16 January to a first version on 5 February) make about three weeks, as its headline says; Wikipedia gives 3 February for the first assay. The story uses CNN's dated steps and avoids a single development-time figure. Approval: CNN credits the Korea CDC with expediting approval and says the normal process can take a year and a half; Chun told the JoongAng Ilbo the whole timeline without emergency approval would be 12 months, and the JoongAng Ilbo names the Ministry of Food and Drug Safety as the approving body (the KCDC requested and evaluated emergency-use tests). The story says 'regulators' and gives Chun's 12-month estimate, attributed. Outcome numbers differ by date: share of Korean testing was 'more than half' on 3 March (JoongAng) and about 80 percent on 4 April (ABC); countries asking were about 30 on 12 March (CNN) and 45 in early April (Chun to ABC); Wikipedia's 'more than 10 million tests in over 60 countries by April' is not used. The story gives the CNN and ABC figures with their dates and leaves out the share-of-testing figures. Revenue: the Korea Herald (14 December 2020) says revenue for 2020 so far topped 1 trillion won against 122 billion won for 2019; the Korea Times gives full-year 2020 sales of 1.1252 trillion won; the story says 'passed 1 trillion won, nearly ten times'. A Euronews piece found in research was labelled paid partner content and was not used; Forbes Asia and the Seegene press-release copy of it were blocked or missing. Funding is classed as mixed because Seegene had been a KOSDAQ-listed company since 2010 and paid for the work itself, while the speed depended on a government emergency-approval route. The Saadi line comes from a chapter on repentance before death and is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

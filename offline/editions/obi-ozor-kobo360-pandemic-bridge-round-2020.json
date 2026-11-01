@@ -1,0 +1,167 @@
+{
+  "id": "obi-ozor-kobo360-pandemic-bridge-round-2020",
+  "title": "The Pandemic Year Kobo360 Almost Ran Out of Money",
+  "dek": "When lockdowns grounded its trucks in 2020, Kobo360 rebuilt how it paid and was paid, and its founder took leave to learn how to lead.",
+  "story": {
+    "founder": "Obi Ozor and Ife Oyedele",
+    "company": "Kobo360",
+    "event": "Restructuring after the 2020 lockdowns and surviving on a bridge round from existing investors",
+    "approx_date": "2020",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "logistics (digital trucking)",
+    "arc": "setback",
+    "funding": "venture",
+    "summary": "After raising a Goldman Sachs-led round in 2019, the Lagos trucking platform Kobo360, founded by Obi Ozor and Ife Oyedele, saw its operations frozen by the 2020 lockdowns. By Ozor's account it moved from chasing growth to unit economics, could not find an anchor for a $50 million equity round, almost ran out of money and survived on a bridge round before closing $48 million in December 2021. The recovery did not last: in late 2024 the company cut most of its staff and paused operations.",
+    "paragraphs": [
+      "At the end of March 2020, when Nigeria's government locked down Lagos, Abuja and Ogun State, more than 3,000 truck drivers on Kobo360's platform stopped working, the company told TechCabal, fearing their cargo would be impounded. Obi Ozor and Ife Oyedele had launched the Lagos start-up in 2017 as an Uber for trucks. In August 2019 it had raised $20 million in a round led by Goldman Sachs to fund expansion.",
+      "Ozor later told TechCrunch how the lockdowns forced a change after years of fast growth. Kobo360 paid drivers about half the fare upfront while large manufacturers paid late, and banks would not lend to drivers. \"When we initially focused on growth, we didn't care about all these things,\" he said. The company spent about $4 million building insurance cover with partners, moved collections and proof of delivery online, and began passing on trip costs it had absorbed. Some senior managers took pay cuts of about 30 per cent, and some roles became redundant.",
+      "Kobo360 then sought a $100 million Series B, half equity and half debt. \"We couldn't find an investor to anchor the $50 million equity round,\" Ozor said, \"and we almost ran out of money.\" Existing investors put in a bridge round for about nine months of runway. \"When it's not working, it can get lonely,\" he said. At one point he took leave for leadership courses, feeling, he said, that he no longer had enough ability to run the company. Oyedele resigned in 2021.",
+      "In December 2021 Kobo360 closed $48 million in equity and debt, about half its target, led by Afreximbank's equity arm. By the company's figures, the wait for customer payments had fallen from 138 days to 49.",
+      "The recovery did not last. In August 2023 Ozor stepped aside to become Enugu State's commissioner for transport. In November 2024 his successor, Cikü Mugambi, resigned and the company cut jobs across its markets, including at least 30 of 50 in Nigeria, according to employees who spoke to TechCabal. Former staff said pension payments were six months behind; the company blamed a third-party HR firm. Most operations were paused. In 2025 Ozor returned with a small team and, according to a memo TechCabal saw, at least ₦10 billion of bank debt."
+    ]
+  },
+  "quote": {
+    "text": "The Yellow Emperor withdrew. He resigned the Throne. He built himself a solitary hut. He lay upon straw. For three months he remained in seclusion, and then went again to see Kuang Ch'êng Tzŭ.",
+    "thinker": "Zhuangzi",
+    "work": "Zhuangzi (Chuang Tzŭ)",
+    "locator": "Chapter XI, \"On Letting Alone\"",
+    "translator": "Herbert A. Giles (1889)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/59709/pg59709.txt",
+    "source_title": "Chuang Tzŭ: Mystic, Moralist, and Social Reformer, tr. Herbert A. Giles, Project Gutenberg eBook #59709",
+    "connection": "The Yellow Emperor first asked how to command nature to feed his people, was told his rule had made things worse, and withdrew before returning with a humbler question. Ozor's leave was a withdrawal of a kind; neither story promises that the humbler question saves the kingdom.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Two things in this story sit uneasily together. The repairs Ozor describes were real enough to win a new round, and they did not save the company; from outside, nobody can yet say with confidence why. And in the hardest year he said something founders rarely say aloud: that he felt he no longer had the ability to run what he had built, so he went to learn.",
+    "You do not need a crisis to admit where your ability runs out. Saying it early, to someone you trust, usually costs less than saying it late, and it is more often the start of help than the end of authority."
+  ],
+  "invitation": "Name one part of your work where you feel out of your depth. Tell one person you trust, in a single sentence, and ask what they would read or whom they would call.",
+  "sources": [
+    {
+      "title": "What has KOBO360 been up to in the last 2 years?",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 14 September 2022)",
+      "url": "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/",
+      "kind": "founder-interview",
+      "supports": "Ozor's account: the $30 million equity and debt raise of 2019; paying truck owners about 50% upfront while manufacturers paid late; banks unwilling to lend to drivers; the pandemic freezing operations and forcing a shift from blitzscaling to unit economics; about $4 million spent on an insurance product; Payfasta and digital proof of delivery; passing costs to transporters; the 'didn't care about all these things' quotation; receivables cycle from 138 to 49 days; senior pay cuts of about 30% and redundant roles; the $100 million Series B target, no anchor for the $50 million equity round, 'almost ran out of money', and a bridge round for nine months' runway; loneliness, taking leave for leadership courses; Oyedele's resignation; new executives; $48 million closed in December 2021, led by FEDA, Afreximbank's equity arm"
+    },
+    {
+      "title": "Nigeria's lockdown is hurting logistics businesses",
+      "publisher": "TechCabal (3 April 2020)",
+      "url": "https://techcabal.com/2020/04/03/nigeria-lockdown-harming-logistics-businesses-fmcg-supply-chain/",
+      "kind": "independent-reporting",
+      "supports": "Federal lockdown of Lagos, Abuja and Ogun State announced on 29 March 2020; over 3,000 truck drivers on the Kobo360 platform stopped working, fearing impoundment, as the company told TechCabal; goods volumes down 32%"
+    },
+    {
+      "title": "Trucking app Kobo360 wants to halve delivery times across Africa",
+      "publisher": "CNN Business (16 April 2020)",
+      "url": "https://www.cnn.com/2020/04/16/tech/kobo-360-trucks-spc-intl/index.html",
+      "kind": "independent-reporting",
+      "supports": "Ozor and Ife Oyedele launched Kobo360 in 2017 as an 'Uber for trucks'; drivers paid half upfront; $20 million round led by Goldman Sachs in August 2019; plans to expand into Egypt, Tanzania, Ivory Coast and the Middle East; lockdown delays and a drop of about a third in goods moved"
+    },
+    {
+      "title": "Kobo360 appoints Cikü Mugambi as new CEO",
+      "publisher": "TechCabal (18 August 2023)",
+      "url": "https://techcabal.com/2023/08/18/ciku-mugambi-ceo-kobo360/",
+      "kind": "independent-reporting",
+      "supports": "Ozor stepped down to serve as commissioner of transportation in Enugu State; Mugambi, who joined in 2021 from the IFC, named CEO; Fola Adeola appointed board chairman"
+    },
+    {
+      "title": "Breaking: Kobo360 CEO Cikü Mugambi resigns one year after taking the reins",
+      "publisher": "TechCabal (4 November 2024)",
+      "url": "https://techcabal.com/2024/11/04/breaking-kobo360-ceo-ciku-mugambi-resigns-one-year-after-taking-the-reins/",
+      "kind": "independent-reporting",
+      "supports": "Mugambi's resignation after about a year; the struggle to close the Series B and Ozor's 'almost ran out of money' admission"
+    },
+    {
+      "title": "Goldman Sachs-backed Kobo360 cut jobs in November as part of restructuring",
+      "publisher": "TechCabal (20 January 2025)",
+      "url": "https://techcabal.com/2025/01/20/kobo360-layoff/",
+      "kind": "independent-reporting",
+      "supports": "Company-wide job cuts in November 2024 across seven markets; at least 30 of 50 roles cut in Nigeria according to four affected employees; former employees' claim that pension obligations six months old were unpaid; the company blaming a third-party HR company; Oyedele's departure in 2021; most logistics operations paused; the $48 million Series B in 2021"
+    },
+    {
+      "title": "Inside Kobo360's comeback: New owner Obi Ozor's plan for revival",
+      "publisher": "TechCabal (4 March 2025, corrected)",
+      "url": "https://techcabal.com/2025/03/04/kobo360-new-owner/",
+      "kind": "independent-reporting",
+      "supports": "Ozor's return to lead the company; at least ₦10 billion in bank debt; operations on hold and laid-off staff owed salaries; the editor's note that the IFC says it has not transferred its investment"
+    },
+    {
+      "title": "From COO to CEO, Cikü Mugambi leads Kobo360",
+      "publisher": "BusinessDay (Nigeria, 18 August 2023)",
+      "url": "https://businessday.ng/companies/article/from-coo-to-ceo-ciku-mugambi-leads-kobo360/",
+      "kind": "independent-reporting",
+      "supports": "Ozor stepped aside as CEO and board chair with immediate effect to serve as Enugu State Commissioner for Transportation; Mugambi named CEO"
+    },
+    {
+      "title": "Kobo360 cuts jobs amid leadership changes, financial struggles",
+      "publisher": "Daba Finance",
+      "url": "https://dabafinance.com/en/news/kobo360-cuts-jobs-amid-leadership-changes-financial-struggles",
+      "kind": "independent-reporting",
+      "supports": "November 2024 layoffs across seven markets, at least 30 of 50 in Nigeria; former employees claim unpaid pension obligations, which the company attributes to a third-party HR firm; most logistics operations paused except fleet management (summarising TechCabal)"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Obi Ozor and Ife Oyedele launched Kobo360 in 2017",
+      "urls": [
+        "https://www.cnn.com/2020/04/16/tech/kobo-360-trucks-spc-intl/index.html",
+        "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/"
+      ]
+    },
+    {
+      "claim": "Kobo360 raised a $20 million round led by Goldman Sachs in 2019",
+      "urls": [
+        "https://www.cnn.com/2020/04/16/tech/kobo-360-trucks-spc-intl/index.html",
+        "https://techcabal.com/2025/03/04/kobo360-new-owner/"
+      ]
+    },
+    {
+      "claim": "The 2020 lockdowns halted much of Kobo360's trucking activity",
+      "urls": [
+        "https://techcabal.com/2020/04/03/nigeria-lockdown-harming-logistics-businesses-fmcg-supply-chain/",
+        "https://www.cnn.com/2020/04/16/tech/kobo-360-trucks-spc-intl/index.html",
+        "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/"
+      ]
+    },
+    {
+      "claim": "Kobo360 struggled to raise its Series B and almost ran out of money",
+      "urls": [
+        "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/",
+        "https://techcabal.com/2024/11/04/breaking-kobo360-ceo-ciku-mugambi-resigns-one-year-after-taking-the-reins/"
+      ]
+    },
+    {
+      "claim": "Kobo360 closed a $48 million Series B in 2021",
+      "urls": [
+        "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/",
+        "https://techcabal.com/2025/01/20/kobo360-layoff/"
+      ]
+    },
+    {
+      "claim": "Ife Oyedele left Kobo360 in 2021",
+      "urls": [
+        "https://techcrunch.com/2022/09/14/what-has-kobo360-been-up-to-in-the-last-2-years/",
+        "https://techcabal.com/2025/01/20/kobo360-layoff/"
+      ]
+    },
+    {
+      "claim": "Ozor stepped aside in August 2023 to become Enugu State's transport commissioner",
+      "urls": [
+        "https://techcabal.com/2023/08/18/ciku-mugambi-ceo-kobo360/",
+        "https://businessday.ng/companies/article/from-coo-to-ceo-ciku-mugambi-leads-kobo360/"
+      ]
+    },
+    {
+      "claim": "In late 2024 Kobo360 cut jobs and paused most operations",
+      "urls": [
+        "https://techcabal.com/2025/01/20/kobo360-layoff/",
+        "https://dabafinance.com/en/news/kobo360-cuts-jobs-amid-leadership-changes-financial-struggles"
+      ]
+    }
+  ],
+  "research_notes": "Episode changed from the slate: the slate framed a 2023 staff cut and rebuild, but in 2023 Ozor left to join the Enugu State government, and the documented cutback-and-rebuild is the 2020-21 period described by Ozor to TechCrunch (2022), so the story tells that and reports the later collapse factually. No IFC lawsuit against Ozor or Kobo360 could be found in any source consulted (TechCabal's 2025 coverage reports only that the IFC denied selling its shares to Ozor), so none is mentioned. Funding figures differ: CNN (2020) says $20 million led by Goldman Sachs and about $37 million raised in total; TechCrunch (2022) calls the 2019 raise $30 million of equity and debt; TechCabal (2025) says about $79 million in equity and debt overall. For the Series B, TechCrunch and TechCabal give $48 million (Wikipedia says $56 million); the story uses $48 million. Lockdown impact: TechCabal (April 2020) quotes the company on 3,000-plus idle drivers and a 32% fall in goods volume; CNN gives a drop of about a third. Truck counts vary widely (23,000 in TechCabal 2020, about 50,000 drivers in CNN 2020, 30,000-plus in TechCabal 2023, 50,000 in TechCabal 2025), so the story gives none. The receivables figures (138 to 49 days) and the $4 million insurance spend are Ozor's own claims and are attributed. Leadership dates conflict within TechCabal: its 2023 report and 2024 report date Mugambi's appointment to August 2023, while its corrected 2025 piece says 2022 and dates her exit to October 2024 against November 2024 elsewhere; the story follows the contemporaneous reports. Oyedele 'had to resign for personal reasons' (TechCrunch) or 'left to pursue other interests' (TechCabal); the story says only that he resigned. The 2024-25 details (unpaid pensions, the HR firm, the debt figure) are attributed to former employees, the company and a company memo as TechCabal reported them, and no blame is assigned. The company also told TechCabal the payment matter was under investigation by a federal law enforcement agency; this is in the cited source but left out of the story for length. The Zhuangzi passage concerns the Yellow Emperor's withdrawal after being rebuked by Kuang Ch'êng Tzŭ; it is applied by analogy only.",
+  "researched_at": "2026-11-01"
+}

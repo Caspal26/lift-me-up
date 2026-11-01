@@ -1,0 +1,126 @@
+{
+  "id": "nadiem-makarim-gojek-call-centre-twenty-drivers-2010",
+  "title": "Twenty Drivers and One Phone Line: Gojek's Years Before the App",
+  "dek": "After drivers at a Jakarta motorcycle-taxi stand told him how long they waited for fares, Nadiem Makarim started Gojek as a call centre for twenty ojek, run alongside a day job.",
+  "story": {
+    "founder": "Nadiem Makarim, Michaelangelo Moran, Kevin Aluwi",
+    "company": "Gojek (later GoTo)",
+    "event": "Starting Gojek as a telephone call centre for twenty motorcycle-taxi drivers in Jakarta",
+    "approx_date": "2010",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "industry": "transport (motorcycle taxis)",
+    "arc": "founding-decision",
+    "funding": "unknown",
+    "summary": "Nadiem Makarim, a regular ojek user, found that Jakarta's motorcycle-taxi drivers worked about 14 hours a day for three or four fares. In 2010, by the company's account, he and his business partner Michaelangelo Moran started Gojek as a call centre with 20 motorcycle taxis, which he ran alongside a full-time job. The smartphone app followed in January 2015, and within months the driver fleet grew from about 600 to more than 10,000.",
+    "paragraphs": [
+      "Nadiem Makarim used Jakarta's motorcycle taxis, or ojek, all the time, he told The Jakarta Post in 2015: to beat the traffic, to send documents, even to buy food. One day he sat down with some drivers at a pangkalan, the stands where ojek wait for passengers, and asked how it worked. \"I found out they're severely underutilized, meaning they work 14 hours a day and only get three to four orders,\" he recalled. Most orders came at rush hour, and after each trip a driver rode back to the stand to queue again.",
+      "To him the waste was the opening: a tool that connected riders with drivers could fill the empty hours. The tool he started with was a telephone. In 2010, by the company's own account, Gojek opened with one call centre and 20 motorcycle taxis, so that riders could phone to order an ojek instead of hunting for one on a street corner. He ran it with a business partner, Michaelangelo \"Mikey\" Moran. Choosing motorbikes rather than cars kept the business out of a head-on fight with Jakarta's taxi firms, the INSEAD researcher Jason Davis later observed, and outside public-transport rules written for vehicles with at least three wheels.",
+      "For about four years it stayed small. There was a single call-centre base, and Makarim, The Jakarta Post reported, had to juggle Gojek with a full-time job. No breakthrough is recorded in those years, and the first reported outside funding round came only in late 2014.",
+      "Then came the app. Gojek launched it on Android and iOS in January 2015, and the pace changed. \"We only had 600 drivers in January. Five months later, we have more than 10 thousand,\" Makarim told the Post that June. \"We set up a crazy target, but we did it.\" Later that year the transport ministry briefly banned ride-hailing apps before the president overturned the ban. In 2019 the company reported more than 2 million driver partners."
+    ]
+  },
+  "quote": {
+    "text": "Patience accomplishes its object, while hurry speeds to its ruin:--With my own eyes I saw in the desert that the deliberate man outstripped him that had hurried on.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, \"Of the Duties of Society\", maxim XXXVII",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Saadi's deliberate traveller outstrips the one who hurried. Gojek spent about four years at a walk, with one phone line and a founder holding a day job, and then grew from 600 drivers to more than 10,000 in five months. The proverb does not say which stretch of that road was the wise one.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Those first years of Gojek were not glamorous: a phone line, twenty drivers and a founder with another job. But the idea at the centre of them came from one ordinary conversation at a motorcycle-taxi stand, about how drivers really spent their day.",
+    "If you are building something around a full-time job and a family, the slow pace can feel like failure. It may simply be the pace that two jobs allow. What those years are good for is what Makarim did first: sitting with the people the work is for and asking how their day actually goes."
+  ],
+  "invitation": "This week, ask one person who will use your work to walk you through an ordinary day, hour by hour. Write down the longest stretch in it where they are simply waiting.",
+  "sources": [
+    {
+      "title": "Innovating ideas to revolutionize 'ojek'",
+      "publisher": "The Jakarta Post (Aulia R. Sungkar, 20 June 2015)",
+      "url": "https://www.thejakartapost.com/news/2015/06/20/innovating-ideas-revolutionize-ojek.html",
+      "kind": "founder-interview",
+      "supports": "Makarim's own use of ojek for travel, documents and food; his conversation with drivers at a pangkalan and the quotation about 14-hour days and three to four orders; orders concentrated at rush hour and queuing after each trip; the idea of a tool connecting users to drivers; Makarim and his business partner Mikey Moran starting the company (dated 2011 here); one call-center base; Makarim juggling a full-time job with running Go-Jek; 'We only had 600 drivers in January. Five months later, we have more than 10 thousand'; 'We set up a crazy target, but we did it'"
+    },
+    {
+      "title": "About Gojek",
+      "publisher": "Gojek",
+      "url": "https://www.gojek.com/about/",
+      "kind": "company-archive",
+      "supports": "Founded in 2010 with 20 motorcycle taxis and one call centre; app launched in 2015; over 2 million driver-partners registered by 2019"
+    },
+    {
+      "title": "Understanding the rise of Go-Jek (commentary by Jason Davis, INSEAD, 24 April 2018)",
+      "publisher": "CNA / TODAY",
+      "url": "https://www.todayonline.com/commentary/lessons-go-jek",
+      "kind": "business-school-case",
+      "supports": "Written from field research for an INSEAD teaching case: ojek drivers waiting on corners to negotiate fares; Go-Jek began in 2010 as a call centre letting riders order an ojek by phone; concentrating on ojeks avoided direct competition with the taxi industry and transport regulations aimed at larger vehicles; the December 2015 ban overturned by President Joko Widodo within hours"
+    },
+    {
+      "title": "Transport Ministry bans ride-hailing apps",
+      "publisher": "The Jakarta Post (18 December 2015)",
+      "url": "https://www.thejakartapost.com/news/2015/12/18/transport-ministry-bans-ride-hailing-apps.html",
+      "kind": "independent-reporting",
+      "supports": "Gojek launched its app on Android and iOS in January 2015; the ministry's ban on app-based transport; public-transport requirements of at least three wheels, legal standing and a business permit"
+    },
+    {
+      "title": "Gojek founder and CEO Nadiem Makarim resigns to join Indonesian cabinet; Soelistyo and Aluwi to be new co-CEOs",
+      "publisher": "TechCrunch (Manish Singh, 20 October 2019)",
+      "url": "https://techcrunch.com/2019/10/20/gojek-founder-and-ceo-nadiem-makarim-resigns-to-join-indonesian-cabinet-soelistyo-and-aluwi-to-be-new-co-ceos/",
+      "kind": "independent-reporting",
+      "supports": "Makarim founded Gojek in 2010 as a two-wheeler hailing service; Kevin Aluwi described as a Gojek co-founder; more than 2 million driver partners in 2019"
+    },
+    {
+      "title": "Gojek",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gojek",
+      "kind": "independent-reporting",
+      "supports": "Supplementary: founded in 2010 with 20 motorbike drivers as a call centre; Makarim as a regular ojek user who saw drivers waiting while customers searched for one; Michaelangelo Moran as co-founder; app launched in January 2015; first funding round in late 2014"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Gojek began in 2010 as a call centre for booking motorcycle taxis, with 20 drivers.",
+      "urls": [
+        "https://www.gojek.com/about/",
+        "https://www.todayonline.com/commentary/lessons-go-jek",
+        "https://techcrunch.com/2019/10/20/gojek-founder-and-ceo-nadiem-makarim-resigns-to-join-indonesian-cabinet-soelistyo-and-aluwi-to-be-new-co-ceos/",
+        "https://en.wikipedia.org/wiki/Gojek"
+      ]
+    },
+    {
+      "claim": "The idea came from seeing that ojek drivers spent most of their time waiting for fares.",
+      "urls": [
+        "https://www.thejakartapost.com/news/2015/06/20/innovating-ideas-revolutionize-ojek.html",
+        "https://www.todayonline.com/commentary/lessons-go-jek",
+        "https://en.wikipedia.org/wiki/Gojek"
+      ]
+    },
+    {
+      "claim": "Gojek's smartphone app launched in January 2015.",
+      "urls": [
+        "https://www.thejakartapost.com/news/2015/12/18/transport-ministry-bans-ride-hailing-apps.html",
+        "https://www.gojek.com/about/"
+      ]
+    },
+    {
+      "claim": "Motorbike services sat outside public-transport rules written for larger vehicles and outside direct competition with taxis.",
+      "urls": [
+        "https://www.todayonline.com/commentary/lessons-go-jek",
+        "https://www.thejakartapost.com/news/2015/12/18/transport-ministry-bans-ride-hailing-apps.html"
+      ]
+    },
+    {
+      "claim": "By 2019 Gojek reported more than 2 million driver partners.",
+      "urls": [
+        "https://www.gojek.com/about/",
+        "https://techcrunch.com/2019/10/20/gojek-founder-and-ceo-nadiem-makarim-resigns-to-join-indonesian-cabinet-soelistyo-and-aluwi-to-be-new-co-ceos/"
+      ]
+    }
+  ],
+  "research_notes": "Founding year: Gojek's own site, TechCrunch (2019), Jason Davis (CNA, 2018) and Wikipedia give 2010; The Jakarta Post's 2015 interview says Makarim and Moran started in 2011, and the VIVA profile also says 2011; Wikipedia's lead mentions 2009. The story uses 2010, attributed to the company. App launch: The Jakarta Post (December 2015) and Gojek's site give January 2015; the June 2015 Jakarta Post interview speaks of a March 2014 relaunch 'including Go-Jek smartphone application', and Davis says 2014. The story uses January 2015. Wheels: Davis says transport rules applied only to four-wheeled vehicles; the transport ministry, quoted by The Jakarta Post in December 2015, said public transport needed at least three wheels; the story uses the ministry's wording. Driver numbers: the 600 (January 2015) and more than 10,000 (June 2015) figures are Makarim's own, attributed to him; Wikipedia's uncited '15 employees and 450 drivers' in 2012 is not used; the 2 million figure is Gojek's, repeated by TechCrunch. Funding is set to 'unknown': Wikipedia reports the first outside round in late 2014 and the Post says Makarim kept a full-time job, but no source states how the call-centre years were paid for. Kevin Aluwi is listed as a co-founder (TechCrunch 2019) but no source places him at the 2010 start, so the story names only Moran. The Davis commentary appears at the TODAY URL under CNA's headline 'Understanding the rise of Go-Jek'. Saadi's maxim is quoted up to the end of its second sentence; the passage continues with the steed and the camel-driver.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,5 @@
+{ "key": "na-wald-henrystreet", "status": "done", "file": "offline/editions/lillian-wald-ludlow-street-sickroom-1893.json",
+  "title": "The March Morning a Child Led Lillian Wald to Ludlow Street", "region": "North America", "industry": "healthcare (home and public health nursing)", "arc": "founding-decision", "funding": "nonprofit",
+  "tradition": "Stoic", "thinker": "Marcus Aurelius", "talqen": false,
+  "conflicts": "Founding year of the settlement: 1895 move to 265 Henry Street (Jewish Women's Archive, consistent with Wald's two years on Jefferson Street) vs 1894 (National Women's History Museum); the story uses 1895 for the move and gives no separate founding year. Wikipedia dates the book 1911; the Gutenberg edition says 1915, used.",
+  "notes": "Built mainly on Wald's own memoir (Project Gutenberg #68546). Patient figure (4,500 in 1905, 18 centres) from the Jewish Women's Archive only, attributed by context. Wikipedia used once, supplementary, for Schiff's funding alongside JWA. Repeat screen flagged several unrelated healthcare editions as same-founder (shared words such as 'Henry') but let it through." }

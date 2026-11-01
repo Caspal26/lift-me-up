@@ -1,0 +1,15 @@
+{
+  "key": "eas-sony-ricecooker",
+  "status": "done",
+  "file": "offline/editions/masaru-ibuka-akio-morita-shirokiya-rice-cooker-1945.json",
+  "title": "The Rice Cooker That Failed on the Third Floor of Shirokiya",
+  "region": "East Asia",
+  "industry": "manufacturing (electronics)",
+  "arc": "setback",
+  "funding": "bootstrapped",
+  "tradition": "Classical Greek",
+  "thinker": "Xenophon (reporting Socrates)",
+  "talqen": false,
+  "conflicts": "Staff at the May 1946 founding: Sony's history says just over twenty people, The Independent's 1997 obituary says 36 (and a Commoncog summary of Nathan's book says seven followed Ibuka at the start); the story gives Sony's figure attributed as 'by Sony's count'. Ibuka's founding remark has two translations (Sony vs The Independent); Sony's is quoted. Gizmodo credits the rice cooker to Ibuka and Morita, but Sony shows Morita joined only in 1946; treated as Ibuka's project. Year: slate said 1946, Sony dates the cooker and the Totsuken plaque to 1945, so approx_date is 1945-10.",
+  "notes": "Quote stance is 'complicates'. Atlas Obscura is cited via an Internet Archive copy because the live site blocks automated requests; the Ibuka recollection it quotes comes from John Nathan's Sony: The Private Life. sony.com returned 403 after repeated requests during research but passed in the edition check."
+}

@@ -1,0 +1,15 @@
+{
+  "key": "wa-helium-health",
+  "status": "done",
+  "file": "offline/editions/helium-health-onemedical-first-hospital-lagos-2016.json",
+  "title": "The Lagos Start-up That Took On Lost Hospital Records",
+  "region": "West Africa",
+  "industry": "healthcare (health records software)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Classical Greek",
+  "thinker": "Xenophon (reporting Socrates)",
+  "talqen": true,
+  "conflicts": "Hospital counts disagree (TechCabal 2018: 60-plus and over 70 in the same article; Techpoint 2019: 107; May 2020: Nairametrics over 70, TechCabal over 300); the story uses only the 2018 range of 60 to 70. Founding team: TechCabal says Olubusi and Sofowora founded it in 2015-16 and Ovia joined in January 2017; How we made it in Africa names all three for 2016; ThisDay's 2016 prize report names a different OneMedical team (Ojeniyi James, Olubusi, Oluwole Gbenga). The story follows TechCabal's timeline.",
+  "notes": "This is the batch's one talQen edition (reflection and invitation). Funding marked mixed rather than the slate's venture: self-funded plus an angel and the Etisalat Prize until Y Combinator and $2 million in 2017. The Speaker who suggested the records problem is unnamed in Olubusi's account. Repeat screen flagged several 'Health' companies as same-founder but let it through."
+}

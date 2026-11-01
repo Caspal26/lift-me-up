@@ -1,0 +1,132 @@
+{
+  "id": "morris-chang-tsmc-four-day-foundry-plan-1985",
+  "title": "The Four Days Morris Chang Had to Plan a Chip Company for Taiwan",
+  "dek": "In 1985 a minister asked Morris Chang for a semiconductor business plan, and he built it around the one thing Taiwan might do well.",
+  "story": {
+    "founder": "Morris Chang",
+    "company": "TSMC",
+    "event": "Planning TSMC as a pure-play foundry around Taiwan's one possible strength, then raising money and surviving its first years",
+    "approx_date": "1985",
+    "country": "Taiwan",
+    "region": "East Asia",
+    "industry": "manufacturing (semiconductors)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In 1985, weeks after Morris Chang became president of Taiwan's Industrial Technology Research Institute, minister K. T. Li asked him for a plan for a semiconductor company within days. Judging that Taiwan's only possible strength was wafer manufacturing, Chang proposed a pure-play foundry that would make chips only for others; Intel, TI and Motorola declined to invest, the government and Philips supplied most of the money, and TSMC began operating in February 1987, losing money in its first year and surviving on leftover orders until fabless companies multiplied from about 1991.",
+    "paragraphs": [
+      "In 1985 Morris Chang moved to Taiwan, at 54, to run the Industrial Technology Research Institute, ITRI, the government's main industrial research body, after three decades in American semiconductors, most at Texas Instruments. A few weeks after he arrived, he later recalled, K. T. Li, a minister without portfolio, called him in: the government wanted a semiconductor industry, and Chang should start a company and bring a business plan in about a week. A day or so later, the deadline became four days.",
+      "Chang told the Computer History Museum in 2007 that he began by asking what Taiwan had. Very little: little strength in research, chip design or marketing, and almost none in intellectual property. Its one possible strength, and only a potential one, was making wafers. He also knew, from thirty years at close quarters, how hard it was to compete with Intel, Texas Instruments and the Japanese. So he proposed a company that would design no chips of its own and make them only for others, a pure-play foundry. It was, he said, perhaps “the least evil choice.”",
+      "The flaw was plain: fabless chip companies hardly existed, and established firms sent work out only when short of capacity or dropping a losing product. The idea, he said, “was very poorly received.” What he had was a reason to hope: at Texas Instruments and General Instrument he had seen designers who wanted to start their own companies but could not raise the money for a fab. “I only hoped for it,” he said in 2007 of the fabless boom. In 2025 he told the Acquired podcast he had seen it coming.",
+      "Money was hard to find. Intel, Texas Instruments and Motorola declined to invest. The government put in about half; Philips, by Chang's account the only willing large investor, just over a quarter. Most other Taiwanese backers, he said, were pressed into it by the government.",
+      "TSMC began operating in February 1987 with about 150 people. Chang called the first four years “touch and go.” It lost money in 1987 and again in 1990, living largely on leftover orders from big firms such as IBM, Intel and Motorola, which taught it how to control quality. From about 1991 fabless companies began to multiply, and TSMC grew with them."
+    ]
+  },
+  "quote": {
+    "text": "Within us we have a hope which always walks in front of our present narrow experience; it is the undying faith in the infinite in us; it will never accept any of our disabilities as a permanent fact",
+    "thinker": "Rabindranath Tagore",
+    "work": "Sadhana: The Realisation of Life",
+    "locator": "Chapter III, \"The Problem of Evil\"",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/6842/pg6842.txt",
+    "source_title": "Sadhana: The Realisation of Life, Project Gutenberg eBook #6842",
+    "connection": "Chang's plan rested on customers who did not yet exist; he had reasons to hope, not proof. Tagore describes a hope that walks ahead of present experience and refuses to treat today's disabilities as permanent, which is close to how Chang read Taiwan's weaknesses: real, listed honestly, and not the last word.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Chang's four days began with an inventory most people would rather not write: what we cannot do. He did not argue Taiwan out of its weaknesses. He listed them, found the one thing it might do well, and built the whole plan around that. The hope came afterwards, and it had reasons behind it: designers he had watched for years, stuck for want of a fab.",
+    "You can make the same honest count on a smaller scale. Some of what this season asks of you, you are not yet good at, and some of it you do better than most people around you. Knowing which is which is neither modesty nor pride. It is planning, and on a tired day it is also a kindness."
+  ],
+  "invitation": "Write one line naming something you are not yet good at and one naming something you do well. Then look at tomorrow's first task and ask which of the two it leans on.",
+  "sources": [
+    {
+      "title": "Oral history of Morris Chang, interviewed by Alan Patterson (recorded 24 August 2007, Taiwan)",
+      "publisher": "Computer History Museum (CHM reference X4151.2008)",
+      "url": "https://archive.computerhistory.org/resources/access/text/2013/05/102658129-05-01-acc.pdf",
+      "kind": "oral-history",
+      "supports": "Move to Taiwan to become ITRI president; K. T. Li a minister without portfolio; Li calling him in a few weeks after arrival and asking for a business plan in about a week, then a presentation in four days; three decades in semiconductors; the three threads (Carver Mead, competition from Intel, TI and the Japanese, Taiwan's strengths); Taiwan's lack of strength in R&D, design, sales and marketing and IP, with wafer manufacturing the only potential strength; 'the least evil choice'; the idea 'was very poorly received'; no stable market as established firms sent work only when short of capacity or dropping losing products; designers at TI and General Instrument unable to raise money for fabs; 'I only hoped for it'; Philips the only willing significant investor; plan in 1985, money raised in 1986, operations from 1987; first customers big companies' leftovers; loss years 1987 and 1990; fabless growth from about 1991."
+    },
+    {
+      "title": "An Evening with Morris Chang, in conversation with Jen-Hsun Huang (17 October 2007)",
+      "publisher": "Computer History Museum (CHM reference X4614.2008)",
+      "url": "https://archive.computerhistory.org/resources/access/text/2012/05/102658254-05-01-acc.pdf",
+      "kind": "founder-interview",
+      "supports": "Funding shares by Chang's account (government 48 per cent, Philips 27 per cent, about 25 per cent from a dozen Taiwanese investors); started in February 1987; 'four years it was touch and go'; government trusted his TI credentials; Philips needed convincing; most other investors coerced by the government, with three ministers including the premier helping; 150 employees at the start; early customers IBM, Intel, TI and Motorola, who taught TSMC how to control quality."
+    },
+    {
+      "title": "TSMC Founder Morris Chang (Acquired, Spring 2025, Episode 1, 27 January 2025), transcript",
+      "publisher": "Acquired (Ben Gilbert and David Rosenthal)",
+      "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+      "kind": "founder-interview",
+      "supports": "Chang's 2025 account that he 'saw it coming' (the fabless industry), with the Gordie Campbell and Atmel episodes at General Instrument; 'TSMC started in 1987'."
+    },
+    {
+      "title": "In Profile: How Morris Chang Built TSMC Into a Chipmaking Colossus (27 February 2026)",
+      "publisher": "Caixin Global",
+      "url": "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html",
+      "kind": "independent-reporting",
+      "supports": "Chang moved to Taiwan in 1985 at 54 and became ITRI president; proposed the dedicated foundry model as ITRI president in 1985; Intel, Texas Instruments and Motorola rejected his proposal to invest during a downturn; Philips the only willing major investor; government 48.3 per cent and Philips 27.6 per cent; TSMC registered in 1987; Intel order in 1988."
+    },
+    {
+      "title": "Intel's move to step up chip manufacturing ‘ironic’: TSMC founder (April 2021)",
+      "publisher": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/en/news/4182983",
+      "kind": "independent-reporting",
+      "supports": "Chang's account that TSMC sought Intel's investment decades ago and Intel refused because it thought little of chipmaking's profitability."
+    },
+    {
+      "title": "Morris Chang, 2007 Fellow",
+      "publisher": "Computer History Museum",
+      "url": "https://computerhistory.org/profile/morris-chang/",
+      "kind": "independent-reporting",
+      "supports": "Texas Instruments 1958 to 1983, rising to group vice president for the worldwide semiconductor business; General Instrument from 1983; recruited to lead ITRI; founded TSMC in 1987 as a dedicated silicon foundry."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Chang moved to Taiwan in 1985 to become president of ITRI, after Texas Instruments and General Instrument",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2013/05/102658129-05-01-acc.pdf",
+        "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html",
+        "https://computerhistory.org/profile/morris-chang/"
+      ]
+    },
+    {
+      "claim": "The decision: in 1985 Chang proposed a pure-play (dedicated) foundry that would only manufacture chips for others",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2013/05/102658129-05-01-acc.pdf",
+        "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html"
+      ]
+    },
+    {
+      "claim": "Intel (and, per Caixin, TI and Motorola) declined to invest",
+      "urls": [
+        "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html",
+        "https://www.taiwannews.com.tw/en/news/4182983"
+      ]
+    },
+    {
+      "claim": "The government supplied about half the capital and Philips just over a quarter",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2012/05/102658254-05-01-acc.pdf",
+        "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html"
+      ]
+    },
+    {
+      "claim": "TSMC began operating in 1987 (February, by Chang's account)",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2012/05/102658254-05-01-acc.pdf",
+        "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+        "https://www.caixinglobal.com/2026-02-27/in-profile-how-morris-chang-built-tsmc-into-a-chipmaking-colossus-102417518.html"
+      ]
+    },
+    {
+      "claim": "Chang's own accounts differ on whether he foresaw the fabless industry (hoped for it in 2007; saw it coming in 2025)",
+      "urls": [
+        "https://archive.computerhistory.org/resources/access/text/2013/05/102658129-05-01-acc.pdf",
+        "https://www.acquired.fm/episodes/tsmc-founder-morris-chang"
+      ]
+    }
+  ],
+  "research_notes": "Capital: Chang told the 2007 CHM audience TSMC started with $220 million (government 48%, Philips 27%, about 25% from a dozen Taiwanese investors); Caixin (2026) gives registered capital of $145 million with the government at 48.3% and Philips at 27.6%. The story avoids the total and gives the shares as about half and just over a quarter, which both support. Foresight: in the 2007 oral history Chang said he could not claim to have seen the rise of the fabless industry, 'I only hoped for it'; in the 2025 Acquired interview he said 'I saw it coming', citing Gordie Campbell and Atmel at General Instrument. The story gives both with dates. Investors declining: Caixin names Intel, TI and Motorola; Taiwan News (2021) reports Chang saying Intel refused; the oral history calls Philips the only willing significant investor. The coerced investors rest on Chang's own 2007 account and are attributed to him. The minister is spelled 'K.T. Lee' in parts of the oral-history transcript and 'K.T. Li' elsewhere; he is K. T. Li (Li Kwoh-ting). The four-day deadline: Chang said Li first asked for a plan 'in a week or so', then a day or so later wanted a presentation in four days. Age: born 1931 (CHM); Caixin says 54 in 1985. Early customers: the oral history names IBM and 'leftovers'; the evening talk names IBM, Intel, TI and Motorola. Caixin is paywalled beyond its summary bullets and timeline, which load and carry the cited facts. The CHM PDFs are text PDFs on archive.computerhistory.org. Tagore wrote Sadhana in English, so no translator is given; the passage concerns how hope outruns present failure and is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

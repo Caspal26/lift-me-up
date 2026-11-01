@@ -1,0 +1,147 @@
+{
+  "id": "marc-hedlund-wesabe-closure-and-post-mortem-2010",
+  "title": "Closing Wesabe, Then Writing Down Why It Lost to Mint",
+  "dek": "In mid-2010 Marc Hedlund shut his personal finance site rather than run it without proper security staff, then wrote an honest account of why it lost.",
+  "story": {
+    "founder": "Marc Hedlund",
+    "company": "Wesabe",
+    "event": "Shutting down the Wesabe personal finance site and publishing an essay on why it lost to Mint",
+    "approx_date": "2010-06",
+    "country": "United States",
+    "region": "North America",
+    "industry": "fintech",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "On 30 June 2010 Wesabe, the venture-backed personal finance site led by co-founder Marc Hedlund, announced it would close, giving users until 31 July to download their data, because running it on a shoestring security staff was not acceptable. In October 2010 Hedlund published 'Why Wesabe Lost to Mint', correcting myths and blaming Wesabe's own product choices, chiefly how much work it asked of users; the essay was read by about 350,000 people.",
+    "paragraphs": [
+      "On 30 June 2010, people who used Wesabe, a website for tracking personal spending, found a letter on its home page. The service was closing. They had until 31 July to download their account data, after which almost everything would go offline and the data would be deleted. The letter from Marc Hedlund, the co-founder who had run the company alone for its last two years, gave the reason plainly: \"continuing to operate the service with shoestring operations and security staff is not acceptable.\"",
+      "The position was clear enough by then. Wesabe had raised $700,000 from O'Reilly AlphaTech Ventures and then a $4 million round led by Union Square Ventures, both in 2007. Its traffic had grown after an iPhone app in April 2009, then declined steadily. Its rival Mint, launched in 2007, had been bought by Intuit for $170 million. Wesabe held people's financial records, and Hedlund would not keep taking new accounts unless it could guarantee the security he believed the service required.",
+      "Three months later he published an essay on his blog, \"Why Wesabe Lost to Mint\". He expected few readers, he later told American Banker, linking it from a Twitter account about 50 people knew; around 350,000 read it. He corrected stories he thought wrong, such as the idea that Mint had launched first, and then took the blame. \"You can't blame your competitors or your board or the lack of or excess of investment,\" he wrote. Mint made users do almost no work. Wesabe at first asked them to download files from their banks and upload them, and did not use Yodlee, the service that fetched bank data for Mint. \"We should have known that somebody would go with Yodlee,\" he said.",
+      "He was frank, too, about what neither company had done: their users' savings and debt had simply tracked national averages through the financial crisis. \"Changing people's behavior is really hard,\" he wrote, and he invited readers to succeed where Wesabe had failed. He did not tell everything. Some parts of the decision to close were personal, he said in an online discussion, and he chose not to write about them. Fred Wilson, whose firm had backed Wesabe, praised the essay's honesty and said the board and investors shared the failure."
+    ]
+  },
+  "quote": {
+    "text": "Let us take a pattern by it, and not only admire it, but emulate it. When he is at fault, let us stop and think for what reasons he is so, and at what point he began to go astray.",
+    "thinker": "Plutarch",
+    "work": "Moralia: On the Student at Lectures (De recta ratione audiendi)",
+    "locator": "Moralia 40B",
+    "translator": "T. G. Tucker (1913)",
+    "tradition": "Classical Greek",
+    "source_url": "https://www.gutenberg.org/cache/epub/62618/pg62618.txt",
+    "source_title": "Selected Essays of Plutarch, Vol. I, tr. T. G. Tucker, Project Gutenberg eBook #62618",
+    "connection": "Plutarch was advising listeners, not speakers. The profit in someone else's mistake goes to whoever stops to trace where it began. Hedlund wrote his account for strangers, and it is only as useful as the reading they give it.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "When something you built ends, there is a pull to explain it at once, either to defend yourself or to punish yourself. Hedlund did neither. He waited three months, corrected what was wrong, named what was his and kept the personal parts private. An honest account does not have to be a full confession.",
+    "Plutarch's advice points at you, the reader. Somewhere there is a plain account by someone who walked a road like yours and did not reach the end of it. Reading it slowly, asking where they began to go astray and whether you are near that point, is quieter work than building, and it still counts."
+  ],
+  "invitation": "Find one honest account of a failure in your field, a closed company or a withdrawn product. Read it today, and write one sentence on where you think it began to go astray.",
+  "sources": [
+    {
+      "title": "Online Finance Startup Wesabe Heads To The Deadpool (Jason Kincaid)",
+      "publisher": "TechCrunch, 30 June 2010",
+      "url": "https://techcrunch.com/2010/06/30/wesabe-shuts-down/",
+      "kind": "independent-reporting",
+      "supports": "The closure letter on the home page; users to download data by 31 July, after which nearly all features go offline and data is deleted; Hedlund's 'continuing to operate the service with shoestring operations and security staff is not acceptable'; no new accounts unless the required security level could be guaranteed; $700,000 from O'Reilly AlphaTech Ventures in February 2007 and $4 million led by Union Square Ventures later in 2007; traffic growth after the April 2009 iPhone app, then steady decline; Mint acquired by Intuit for $170 million."
+    },
+    {
+      "title": "Wesabe Co-founder Explains Why They Lost To Mint, Blames Himself",
+      "publisher": "TechCrunch, 1 October 2010",
+      "url": "https://techcrunch.com/?p=226604",
+      "kind": "independent-reporting",
+      "supports": "Date of the essay; Mint launched after Wesabe and was bought by Intuit for $170 million; Hedlund takes the blame and calls 'myths' the ideas that Mint was first to market, that Wesabe made no money and that it lost on name and design; the quotation 'You can't blame your competitors or your board or the lack of or excess of investment'; link to the original essay at blog.precipice.org."
+    },
+    {
+      "title": "On Further Reflection: Wesabe CEO Recounts Lessons of Failure (Daniel Wolfe)",
+      "publisher": "American Banker, 8 November 2010",
+      "url": "https://americanbanker.com/issues/175_215/wesabe-pfm-hedlund-1028388-1.html",
+      "kind": "founder-interview",
+      "supports": "Hedlund intended the essay for a small audience, linking it from a Twitter account known to about 50 people; it was read by about 350,000 and republished by CNNMoney; it corrected the claim that Mint launched first; 'We should have known that somebody would go with Yodlee'; Wesabe treated security as 'the elephant in the room'."
+    },
+    {
+      "title": "Some Lessons Learned From The Rise & Fall Of Wesabe",
+      "publisher": "American Banker, 6 December 2010",
+      "url": "https://www.americanbanker.com/creditunions/news/some-lessons-learned-from-the-rise-amp-fall-of-wesabe",
+      "kind": "independent-reporting",
+      "supports": "Wesabe began in 2005; Mint launched in 2007 using Yodlee, which pulled bank data using consumers' passwords; Wesabe required users to download transaction files from their bank sites and upload them; Hedlund's view that the market was Wesabe's to lose and that its own choices caused the failure."
+    },
+    {
+      "title": "There is no Google or Amazon of personal finance",
+      "publisher": "UC Berkeley School of Information, course blog (i202, 3 October 2010)",
+      "url": "https://courses.ischool.berkeley.edu/i202/f10/blog/there-no-google-or-amazon-personal-finance.html",
+      "kind": "independent-reporting",
+      "supports": "Quotation from the essay that Mint 'focused on making the user do almost no work at all, by automatically editing and categorizing their data'; Wesabe chose not to use Yodlee and believed its own aggregation was more accurate."
+    },
+    {
+      "title": "Why Wesabe failed: Marc Hedlund's Challenge (Gary Wolf)",
+      "publisher": "Quantified Self, 5 October 2010",
+      "url": "https://quantifiedself.com/blog/why-wesabe-failed-and-the-chal/",
+      "kind": "independent-reporting",
+      "supports": "Essay excerpt: users' debt reduction and savings matched national averages during the financial crisis; 'Changing people's behavior is really hard'; 'Can you succeed where we failed?'"
+    },
+    {
+      "title": "The Postmortem (Fred Wilson)",
+      "publisher": "AVC (blog of Fred Wilson, Union Square Ventures), 3 October 2010",
+      "url": "https://avc.com/tag/wesabe/",
+      "kind": "shareholder-letter",
+      "supports": "Wesabe was the only service the firm had backed that failed and shut down; Wilson praises Hedlund's courage and honesty and says the board and investors shared the failure; Hedlund's line that he led the company 'without a formal peer for the final two years'."
+    },
+    {
+      "title": "The real reason \"Wesabe lost\" (to Mint) — discussion thread, comment by Marc Hedlund (user 'precipice')",
+      "publisher": "Hacker News, 3 October 2010",
+      "url": "https://news.ycombinator.com/item?id=1752440",
+      "kind": "founder-interview",
+      "supports": "Hedlund ('This is Marc from Wesabe') says he intentionally left out much of the detail of why they turned the site off, that some parts of the decision were personal and he did not want to write about them, and that they did not try one thing and give up."
+    },
+    {
+      "title": "Wesabe",
+      "publisher": "Wikipedia (supplementary)",
+      "url": "https://en.wikipedia.org/wiki/Wesabe",
+      "kind": "independent-reporting",
+      "supports": "Supplementary only: closure announced 30 June 2010 and final shutdown on 31 July 2010."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Wesabe announced its closure on 30 June 2010, with users given until 31 July to download their data.",
+      "urls": [
+        "https://techcrunch.com/2010/06/30/wesabe-shuts-down/",
+        "https://en.wikipedia.org/wiki/Wesabe"
+      ]
+    },
+    {
+      "claim": "Mint, which Intuit bought for $170 million, launched after Wesabe.",
+      "urls": [
+        "https://techcrunch.com/?p=226604",
+        "https://americanbanker.com/issues/175_215/wesabe-pfm-hedlund-1028388-1.html",
+        "https://www.americanbanker.com/creditunions/news/some-lessons-learned-from-the-rise-amp-fall-of-wesabe"
+      ]
+    },
+    {
+      "claim": "Hedlund's essay blamed Wesabe's own choices rather than competitors or investors, above all the work it asked of users compared with Mint's Yodlee-based import.",
+      "urls": [
+        "https://techcrunch.com/?p=226604",
+        "https://courses.ischool.berkeley.edu/i202/f10/blog/there-no-google-or-amazon-personal-finance.html",
+        "https://www.americanbanker.com/creditunions/news/some-lessons-learned-from-the-rise-amp-fall-of-wesabe"
+      ]
+    },
+    {
+      "claim": "Hedlund admitted that neither product had changed users' financial behaviour beyond national trends and invited others to try.",
+      "urls": [
+        "https://quantifiedself.com/blog/why-wesabe-failed-and-the-chal/",
+        "https://avc.com/tag/wesabe/"
+      ]
+    },
+    {
+      "claim": "Hedlund published the essay at the start of October 2010 and it drew wide attention.",
+      "urls": [
+        "https://americanbanker.com/issues/175_215/wesabe-pfm-hedlund-1028388-1.html",
+        "https://techcrunch.com/?p=226604",
+        "https://quantifiedself.com/blog/why-wesabe-failed-and-the-chal/"
+      ]
+    }
+  ],
+  "research_notes": "The original essay (blog.precipice.org/why-wesabe-lost-to-mint) no longer resolves and the CNNMoney reprint (money.cnn.com/2010/10/04/technology/wesabe_vs_mint/) returned 503, so the essay's words are taken only from contemporary outlets that quote it (TechCrunch, the Berkeley iSchool blog, Quantified Self, Fred Wilson's AVC) and from Hedlund's American Banker interview. Readership: the figure of about 350,000 readers and the 'about 50 people' who knew his Twitter account come from American Banker's interview and are his own account; the TechCrunch cross-check supports only that the essay drew wide attention. Dates: Wikipedia says Wesabe was founded in December 2005 and went live in November 2006, American Banker says it launched in 2005; the story says only that Mint launched later, in 2007. Funding: TechCrunch lists $700,000 (February 2007) and $4 million (later in 2007); Wikipedia mentions only the $4 million round; the story gives both rounds and no total. The 2010 TechCrunch report calls Mint a TechCrunch50 winner while the October piece says TechCrunch40 (the 2007 event); the story does not name the contest. The Intuit price of $170 million appears in both TechCrunch pieces; the acquisition date is not given in the cited sources, so the story says only that it had happened. Co-founder Jason Knight is not named because no loading source names him. 'Run the company alone for its last two years' paraphrases Hedlund's 'without a formal peer for the final two years', quoted by Fred Wilson. The AVC tag page carries Wilson's single post 'The Postmortem'; it is classed as a shareholder-letter as the closest kind for an investor's public account. Plutarch's passage advises a student on profiting from a lecturer's successes and faults; it is applied by analogy to reading a founder's post-mortem.",
+  "researched_at": "2026-11-01"
+}

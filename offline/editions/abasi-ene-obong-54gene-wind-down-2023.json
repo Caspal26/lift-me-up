@@ -1,0 +1,143 @@
+{
+  "id": "abasi-ene-obong-54gene-wind-down-2023",
+  "title": "When 54gene Closed, Its Biobank Became the Unfinished Question",
+  "dek": "The Nigerian genomics company raised $45 million, tested for COVID-19 at scale and wound down in 2023, leaving a contested collection of samples behind.",
+  "story": {
+    "founder": "Abasi Ene-Obong",
+    "company": "54gene",
+    "event": "The wind-down of the Nigerian genomics company and the contest over its biobank",
+    "approx_date": "2023-07",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "biotech (genomics and diagnostics)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "54gene, founded in Nigeria in 2019 by Abasi Ene-Obong to address the scarcity of African genetic data in drug research, raised $45 million and became a large COVID-19 testing provider, then laid off 95 staff in August 2022 as testing declined; Ene-Obong stepped down as chief executive in October 2022. The company began winding down in July 2023, its then chief executive Ron Chiarello said. In 2025 Ene-Obong petitioned a Lagos court alleging that the largest investors had driven the collapse, and the court blocked a sale of assets including the biobank pending judgment.",
+    "paragraphs": [
+      "In September 2023 the website of 54gene, the Nigerian genomics company once seen as one of Africa's most promising start-ups, stopped loading, and the agency that had long handled its publicity told TechCabal it no longer did. Ron Chiarello, chief executive from March to July that year, confirmed the closure: \"the company could not continue to operate financially, and it began to wind down in July.\"",
+      "Abasi Ene-Obong had heard as a medical student in 2003 that less than 3% of the world's genetic samples came from Africans, the most genetically diverse people on earth. In 2019 he founded 54gene in Nigeria to change that, building a biobank for drug research. Investors put in $45 million across three rounds. When COVID-19 arrived, the company turned its laboratories to testing and became, at one point, one of Nigeria's largest testing providers. Then demand fell. On 18 August 2022 it laid off 95 people, about 30% of staff; the company promised statutory support, extra severance in some cases and three months of health cover.",
+      "In October 2022 Ene-Obong stepped down as chief executive. At the time he said he was excited to see the new leaders \"take the company to its next phase\"; a year later he called his resignation \"a difficult and emotional decision.\" The company said it would concentrate on its biobank, which it put at more than 130,000 samples with matching genomic data. Over the following year it went through three changes of chief executive, and by Chiarello's account it could no longer pay its way.",
+      "What happens to those samples became the unfinished question. Ene-Obong started a new genomics company, Syndicate Bio, in September 2023. In July 2025 he petitioned the Federal High Court in Lagos, alleging that 54gene's largest investors had driven it into collapse and set out to sell its assets, which, by court documents TechCabal saw, included data from 100,000 Nigerians priced at $3 million. The court blocked the sale pending judgment. Adjuvant Capital said it could not comment on matters before the court and wanted the biobank kept safe and available for Nigeria and Africa; Cathay AfricInvest did not respond. \"We should hold ourselves accountable to every study participant, business partner, investor, creditor, and the broader communities we serve,\" Ene-Obong said."
+    ]
+  },
+  "quote": {
+    "text": "All promise outruns the performance. We live in a system of approximations. Every end is prospective of some other end, which is also temporary; a round and final success nowhere.",
+    "thinker": "Ralph Waldo Emerson",
+    "work": "Essays: Second Series",
+    "locator": "Essay VI, \"Nature\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/2945/pg2945.txt",
+    "source_title": "Essays — Second Series, Project Gutenberg eBook #2945",
+    "connection": "Emerson holds that promise always runs ahead of what is done, and that no ending is final. 54gene promised a great deal and delivered part of it. The part it delivered, a collection of samples given by real people, is the ending still being decided.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "A biobank is a long promise: to the people who gave samples, that their material will be stored well, used as agreed and accounted for. Companies can be shorter-lived than that promise. Whatever the court decides, the samples did not stop mattering when the company did.",
+    "You think about custody every working day: consent, storage, records someone else can follow. As talQen grows, it is worth asking now and then what would happen to the records laboratories trust it with if the company itself changed hands or stopped. That is a sober question, not a gloomy one, and a calm week is the right time to ask it."
+  ],
+  "invitation": "Write one sentence saying what should happen to the records or samples in your care if the organisation holding them closed, and ask one colleague whether they agree.",
+  "sources": [
+    {
+      "title": "Exclusive: After raising $45m in two years, 54gene is shutting down (27 September 2023)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2023/09/27/54gene-shutting-down-operations/",
+      "kind": "independent-reporting",
+      "supports": "Wind-down begun in July 2023; website down by September and the PR agency no longer representing the company; Chiarello chief executive from March to July 2023 and his quoted confirmation; three chief executive changes in a year; search for buyers for assets including the biobank; $45 million across three rounds; Ene-Obong's statement that his resignation was 'a difficult and emotional decision'"
+    },
+    {
+      "title": "African genomics startup 54gene lays off 95 as COVID testing business struggles (29 August 2022)",
+      "publisher": "TechCrunch (Tage Kene-Okafor)",
+      "url": "https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2019 by Ene-Obong to address the under-3% share of African genetic material in pharmaceutical research; $45 million raised including a $25 million Series B in 2021; COVID-19 testing from 2020 and at one point one of Nigeria's largest providers; 95 employees, about 30%, laid off on 18 August 2022; statutory support, some additional severance and three months of health insurance"
+    },
+    {
+      "title": "54gene CEO steps down as the company looks to cut more jobs (24 October 2022)",
+      "publisher": "TechCrunch (Tage Kene-Okafor)",
+      "url": "https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs",
+      "kind": "independent-reporting",
+      "supports": "Ene-Obong stepping down as chief executive and remaining on the board; Teresia Bost as interim chief executive; the company's refocus on genomics research; biobank of over 130,000 unique patient samples; Ene-Obong's 'next phase' remark"
+    },
+    {
+      "title": "54gene CEO steps down 2 months after the company laid off 30% of its workforce (25 October 2022)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2022/10/25/54gene-ceo-step-down/",
+      "kind": "independent-reporting",
+      "supports": "Ene-Obong's resignation and statement that he was 'excited to see them take the company to its next phase'; the company's statement that its biobank housed over 130,000 unique patient samples and corresponding genomic data"
+    },
+    {
+      "title": "One year after resigning as 54gene CEO, Abasi Ene-Obong is back in the arena (19 September 2023)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2023/09/19/one-year-after-resigning-as-54gene-ceo-abasi-ene-obong-is-back-in-the-arena/",
+      "kind": "independent-reporting",
+      "supports": "Ene-Obong's launch of Syndicate Bio in September 2023"
+    },
+    {
+      "title": "Nigerian court blocks sale of 54gene's assets, as founder claims investor wrongdoing (1 August 2025)",
+      "publisher": "TechCabal",
+      "url": "https://techcabal.com/2025/08/01/54gene-collapse/",
+      "kind": "independent-reporting",
+      "supports": "Federal High Court injunction in Lagos blocking the asset sale, from court documents seen by TechCabal; assets including biodata of 100,000 Nigerians priced at $3 million; Ene-Obong's July 2025 petition and allegations against Cathay AfricInvest Innovation Fund and Adjuvant Capital; Ene-Obong's statement on accountability to study participants; Adjuvant's response; Cathay AfricInvest not responding; case awaiting judgment"
+    },
+    {
+      "title": "Nigerian court stops 54gene asset sale as founder accuses investors of collapse (1 August 2025)",
+      "publisher": "Condia (Victory Emmanuel)",
+      "url": "https://thecondia.com/54gene-investor-showdown/",
+      "kind": "independent-reporting",
+      "supports": "Federal High Court in Lagos stopping the sale of assets including biodata of 100,000 Nigerians; the July 2025 petition and its allegations as Ene-Obong's; Adjuvant unable to comment on court matters; Cathay AfricInvest no statement; Syndicate Bio co-founded in September 2023"
+    },
+    {
+      "title": "The Demise Of 54gene: Insiders Trace How Boom Turned Bust (29 September 2023)",
+      "publisher": "WeeTracker",
+      "url": "https://weetracker.com/2023/09/29/african-startup-54gene-shuts-down/",
+      "kind": "independent-reporting",
+      "supports": "Chiarello, the latest chief executive, confirmed the company was shutting down; founded in Nigeria in 2019 to address the neglect of Africans in genomics research"
+    },
+    {
+      "title": "54gene's CEO Wants to Fix Health Data's Racial Imbalance (2022)",
+      "publisher": "TIME",
+      "url": "https://time.com/6204230/54gene-racial-imbalance-genetic-data/",
+      "kind": "founder-interview",
+      "supports": "Ene-Obong hearing in a 2003 medical-school genetics class that African samples made up less than 3% of the world's health databases; Africans as the most diverse population"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "54gene began winding down in July 2023 and its closure was confirmed in September 2023",
+      "urls": [
+        "https://techcabal.com/2023/09/27/54gene-shutting-down-operations/",
+        "https://weetracker.com/2023/09/29/african-startup-54gene-shuts-down/"
+      ]
+    },
+    {
+      "claim": "54gene raised $45 million across three rounds",
+      "urls": [
+        "https://techcabal.com/2023/09/27/54gene-shutting-down-operations/",
+        "https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/"
+      ]
+    },
+    {
+      "claim": "In August 2022 54gene laid off 95 employees, about 30% of staff, as COVID-19 testing declined",
+      "urls": [
+        "https://techcrunch.com/2022/08/29/african-genomics-startup-54gene-lays-off-95-as-covid-testing-business-struggles/",
+        "https://techcabal.com/2022/10/25/54gene-ceo-step-down/"
+      ]
+    },
+    {
+      "claim": "Ene-Obong stepped down as chief executive in October 2022",
+      "urls": [
+        "https://techcrunch.com/2022/10/24/54gene-ceo-steps-down-as-the-company-looks-to-cut-more-jobs",
+        "https://techcabal.com/2022/10/25/54gene-ceo-step-down/"
+      ]
+    },
+    {
+      "claim": "In 2025 a Federal High Court in Lagos blocked the sale of 54gene's assets after Ene-Obong's petition",
+      "urls": [
+        "https://techcabal.com/2025/08/01/54gene-collapse/",
+        "https://thecondia.com/54gene-investor-showdown/"
+      ]
+    }
+  ],
+  "research_notes": "This closure is contested, so the story reports only what the company's leaders, investors and the court reporting state, each attributed. Allegations in Ene-Obong's 2025 petition (that the investors sidelined the board, forced his resignation, rejected rescue funding and sought a fire sale) are summarised only as his allegation that they drove the company into collapse and set out to sell its assets; Adjuvant's reply and Cathay AfricInvest's silence are given. Earlier unproven allegations against Ene-Obong reported in 2022, which TechCrunch withdrew and TechCabal described as unproven, and a former interim chief executive's lawsuit and unpaid-creditor claims from anonymous sources, are left out. His departure: in October 2022 the company said he had decided to step down; in 2023 he called it a difficult and emotional decision; in 2025 he alleged he was forced out; the story gives the first two in his words and the third only through the petition summary. Biobank size disagrees: the company's October 2022 statement says over 130,000 unique patient samples; TechCrunch (August 2022) gives capacity of over 300,000 samples; WeeTracker reports over 200,000; the 2025 court documents cited by TechCabal describe biodata of 100,000 Nigerians. The story uses the company's figure for the biobank and the court-document figure for the assets offered for sale, attributed. Revenue claims (at least $20 million from COVID testing) come from unnamed sources and are not used. WeeTracker's list of co-founders (Ogochukwu Osifo, Damilola Oni, Gatumi Aliyu) is noted; the founder field keeps Ene-Obong, the founding chief executive. The case was awaiting judgment as of the August 2025 reports; no later ruling was found. Emerson's sentence is about nature's way of leading us on; it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

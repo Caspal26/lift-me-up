@@ -1,0 +1,134 @@
+{
+  "id": "simon-borrero-rappi-five-block-experiment-2015",
+  "title": "Free Doughnuts and a Five-Block Experiment: Rappi's Start in Bogotá",
+  "dek": "In 2015 three Colombian software founders tested their own delivery service in one Bogotá neighbourhood, and let users' requests decide what it became.",
+  "story": {
+    "founder": "Simón Borrero, Sebastián Mejía, Felipe Villamarín",
+    "company": "Rappi",
+    "event": "Starting a hyper-local delivery experiment in a five-block radius of Bogotá",
+    "approx_date": "2015",
+    "country": "Colombia",
+    "region": "Latin America",
+    "industry": "logistics (on-demand delivery)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In 2015 Simón Borrero, Sebastián Mejía and Felipe Villamarín, whose company Grability made online shopping software for large retailers, started Rappi as an experiment: delivery in a five-block radius of Bogotá, paid for with their own money and promoted by giving away doughnuts for app downloads. Requests typed by users into an open box pushed it towards delivering almost anything; in 2016 it went through Y Combinator and raised more than $9 million, and in 2018 it was valued at over $1 billion.",
+    "paragraphs": [
+      "In 2015 a small group stood on street corners in Bogotá giving away doughnuts, on one condition: you had to download their app first. \"Last year we were four guys giving away donuts in the streets for downloads,\" Simón Borrero told the Latin American investors' association LAVCA at the end of 2016. The app was Rappi, and it served a radius of five blocks.",
+      "Borrero, Sebastián Mejía and Felipe Villamarín already had a business. In 2013 they had started Grability, which built online shopping software for large retailers. Mejía later said the software worked well but delivery was the barrier: getting goods to people within 30 or 60 minutes was far from solved in the region, which lacked the logistics to do it.",
+      "So they built the delivery themselves, as an experiment. The founders told Y Combinator they joined their shopping interface to crowdsourced couriers and began in one small neighbourhood with the stock of a family-run shop. \"The experiment never ended,\" they said. Borrero said they mapped everything nearby, from restaurants and pharmacies to ice-cream shops, and charged about a dollar a delivery. They paid with their own money, earned from licensing software, then with help from friends, family and local backers. Investors they approached around then, he said, looked at e-commerce figures and called the market too small.",
+      "The users steered it. The app had a box where people could ask for things it did not list, and Borrero later said the most valuable part of Rappi had been the users' idea rather than the founders'. People asked for meals from restaurants that did not deliver, for groceries, even for cash. Villamarín remembered the team of about twenty staying in a car park until one in the morning with a whiteboard, working out how to meet the week's targets.",
+      "In 2016 Rappi went through Y Combinator and raised more than $9 million from investors including Andreessen Horowitz; by the end of that year it worked in four Colombian cities and Mexico City. In 2018 it was valued at over $1 billion. Whether its couriers are independent contractors or employees has since been disputed, with strikes in several countries."
+    ]
+  },
+  "quote": {
+    "text": "The heart of the prudent will understand a parable; and the ear of a listener is the desire of a wise man.",
+    "thinker": "Ben Sira",
+    "work": "Ecclesiasticus (The Wisdom of Ben Sira)",
+    "locator": "Ecclesiasticus, chapter 3 (verse 29 in the usual numbering)",
+    "translator": "Wisdom of the East series (1910)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/77250/pg77250.txt",
+    "source_title": "The Wisdom of the Apocrypha, Project Gutenberg eBook #77250",
+    "connection": "Ben Sira values the ear above the voice: what the wise want most is to be good listeners. Rappi's founders arrived with software that already worked, yet the business that lasted was shaped by what strangers typed into an empty box.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Some requests feel like noise: the thing nobody was meant to ask for, the use you never designed. Rappi treated those as the plan. That took a kind of listening humble enough to let strangers redraw the map, five blocks at a time.",
+    "The car park at one in the morning is part of this story too, and it is not the part to copy. Listening needs a rested ear. Whatever people have been asking you for that does not fit your plan will keep until you have slept."
+  ],
+  "invitation": "Look back over this week's requests from colleagues, clients or family and find one you set aside because it did not fit. Write it down, and ask what it was really asking for.",
+  "sources": [
+    {
+      "title": "Entrepreneur Profile: Simón Borrero, Co-founder & CEO, Rappi",
+      "publisher": "LAVCA (Association for Private Capital Investment in Latin America), 1 December 2016",
+      "url": "https://www.lavca.org/?p=22880",
+      "kind": "founder-interview",
+      "supports": "Quotation 'Last year we were four guys giving away donuts in the streets for downloads'; started in a five-block radius in Bogotá; mapped nearby restaurants, ice-cream shops, pharmacies and groceries; delivery for about a dollar; funded with their own money from licensing online-shopping software to big retailers, then friends, family and local players, then Y Combinator and a seed round; investors a year earlier calling e-commerce too small; raised over US$9m from international VCs including Andreessen Horowitz in 2016; four cities in Colombia and Mexico City"
+    },
+    {
+      "title": "La historia de Rappi, la empresa que revolucionó el delivery",
+      "publisher": "iProUP (Buenos Aires), 31 January 2020",
+      "url": "https://www.iproup.com/economia-digital/10801-la-historia-de-rappi-la-empresa-que-revoluciono-el-delivery",
+      "kind": "independent-reporting",
+      "supports": "Founded in Bogotá in 2015 as a logistics solution for Grability's retail platform; Grability founded in 2013 with clients such as Walmart and El Corte Inglés; Mejía's account that the technology worked but last-mile delivery in 30 or 60 minutes was unsolved for lack of logistics infrastructure, so they built it; Borrero saying the valuable part of Rappi was the users' idea, via a suggestion box; requests for restaurant meals, groceries and cash; Villamarín's account of the 20 employees in a car park until 1am with a whiteboard; US$9m from Andreessen Horowitz in 2016; unicorn round in August 2018; courier strikes and disputes over employment status"
+    },
+    {
+      "title": "How Rappi Became Latin America's Everything Delivery App",
+      "publisher": "Beta Boom",
+      "url": "https://www.betaboom.com/magazine/article/how-rappi-became-latin-americas-everything-delivery-app",
+      "kind": "independent-reporting",
+      "supports": "Founders' statement to Y Combinator about an experiment combining their interface with crowdsourced last-mile logistics, starting in a small neighbourhood with a mom-and-pop shop's inventory, and 'The experiment never ended'; hyper-local start in a five-block radius; open box for requesting anything; Grability as the earlier company"
+    },
+    {
+      "title": "Simon Borrero (RoW100 profile)",
+      "publisher": "Rest of World, 11 May 2022",
+      "url": "https://restofworld.org/profile/simon-borrero/",
+      "kind": "independent-reporting",
+      "supports": "Founded Rappi in 2015 with Felipe Villamarín and Sebastián Mejía after Grability; users asking for more services; free doughnuts on a Bogotá street corner in exchange for downloads; unicorn status in 2018"
+    },
+    {
+      "title": "Rappi, the Colombia-based delivery app, is really an everything app",
+      "publisher": "Rest of World, 18 May 2023",
+      "url": "https://restofworld.org/2023/rappi-everything-app-latin-america/",
+      "kind": "independent-reporting",
+      "supports": "Rappi launched in 2015 by delivering snacks to office workers in a Bogotá neighbourhood; headquarters in Bogotá"
+    },
+    {
+      "title": "Simon Borrero | Innovators Under 35 Colombia 2016",
+      "publisher": "MIT Technology Review (Spanish edition), Innovators Under 35",
+      "url": "https://innovatorsunder35.com/the-list/simon-borrero",
+      "kind": "independent-reporting",
+      "supports": "Rappi's crowdsourced last-mile couriers; selected by Y Combinator in 2016 with Andreessen Horowitz financing; operating in Colombia's four largest cities and Mexico City in 2016"
+    },
+    {
+      "title": "Un viaje a la cocina de Rappi: los secretos del unicornio latino que revolucionó el mundo del delivery",
+      "publisher": "La Nación (Buenos Aires), 12 October 2024",
+      "url": "https://www.lanacion.com.ar/economia/negocios/un-viaje-a-la-cocina-de-rappi-los-secretos-del-unicornio-latino-que-revoluciono-el-mundo-del-nid12102024/",
+      "kind": "independent-reporting",
+      "supports": "Started in Bogotá in 2015 as a digital pantry linking small shops to users; the 'Rappi Antojo' button letting people ask for any product; Borrero on starting from zero with 15 to 20 people and very little investment from companies they had built"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Rappi was founded in Bogotá in 2015 by Borrero, Mejía and Villamarín, growing out of their earlier company Grability",
+      "urls": [
+        "https://restofworld.org/profile/simon-borrero/",
+        "https://www.iproup.com/economia-digital/10801-la-historia-de-rappi-la-empresa-que-revoluciono-el-delivery",
+        "https://www.lanacion.com.ar/economia/negocios/un-viaje-a-la-cocina-de-rappi-los-secretos-del-unicornio-latino-que-revoluciono-el-mundo-del-nid12102024/"
+      ]
+    },
+    {
+      "claim": "It began as a hyper-local experiment in a five-block area, promoted by giving away doughnuts for app downloads",
+      "urls": [
+        "https://www.lavca.org/?p=22880",
+        "https://restofworld.org/profile/simon-borrero/",
+        "https://www.betaboom.com/magazine/article/how-rappi-became-latin-americas-everything-delivery-app"
+      ]
+    },
+    {
+      "claim": "Users' open requests (a box or button to ask for anything) shaped what Rappi delivered",
+      "urls": [
+        "https://www.iproup.com/economia-digital/10801-la-historia-de-rappi-la-empresa-que-revoluciono-el-delivery",
+        "https://www.lanacion.com.ar/economia/negocios/un-viaje-a-la-cocina-de-rappi-los-secretos-del-unicornio-latino-que-revoluciono-el-mundo-del-nid12102024/"
+      ]
+    },
+    {
+      "claim": "In 2016 Rappi went through Y Combinator and raised about $9 million including from Andreessen Horowitz",
+      "urls": [
+        "https://www.lavca.org/?p=22880",
+        "https://www.iproup.com/economia-digital/10801-la-historia-de-rappi-la-empresa-que-revoluciono-el-delivery",
+        "https://innovatorsunder35.com/the-list/simon-borrero"
+      ]
+    },
+    {
+      "claim": "Rappi was valued at over $1 billion in 2018",
+      "urls": [
+        "https://restofworld.org/profile/simon-borrero/",
+        "https://www.iproup.com/economia-digital/10801-la-historia-de-rappi-la-empresa-que-revoluciono-el-delivery"
+      ]
+    }
+  ],
+  "research_notes": "Founders: most sources name Borrero, Mejía and Villamarín; iProUP adds Juan Pablo Ortega to the founding group (later Mexico country manager), which fits Borrero's 'four guys' in the LAVCA interview. The story keeps the three slate names and quotes Borrero's 'four guys' as he said it. Place: Beta Boom says Rappi was founded in Cali, where Borrero and Mejía grew up; all other sources say Bogotá, and Borrero himself says the five-block start was in Bogotá, so the story uses Bogotá. Origin: iProUP and Rest of World tie Rappi to Grability; El CEO (not cited) says it began as a demonstration for Imaginamos, Borrero's earlier software studio; the story follows the founders' own accounts (Mejía in iProUP, the founders to Y Combinator) of an experiment growing out of Grability's retail software. Funding dates: LAVCA (December 2016) says over US$9m was raised from international VCs in April 2016; iProUP, citing Crunchbase, says US$9m from Andreessen Horowitz in November 2016; MIT Technology Review's profile says it joined Y Combinator in February 2016, while LAVCA has Borrero saying friends-and-family money came in February and the seed round after Y Combinator. The story says only '2016'. User figures conflict (LAVCA: 80,000 monthly active users; MIT Technology Review: 80,000 registered users; monthly growth of 35% of GMV versus 40-50% of orders), so none is used. Borrero's remark that the valuable part of Rappi was the users' idea is paraphrased from Spanish ('Lo valioso de Rappi no fue idea nuestra, sino de los propios usuarios', iProUP) rather than quoted, and Villamarín's car-park account is likewise paraphrased; neither is dated beyond the early period. The Y Combinator statement is quoted as reported by Beta Boom; the original YC page renders only with JavaScript. The courier-status disputes are reported by iProUP (strikes in several countries, a union in Argentina, an order from Colombia's Superintendencia de Industria y Comercio). Ben Sira's line is a general proverb about wisdom and listening, applied by analogy.",
+  "researched_at": "2026-11-01"
+}

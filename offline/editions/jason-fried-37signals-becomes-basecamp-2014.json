@@ -1,0 +1,149 @@
+{
+  "id": "jason-fried-37signals-becomes-basecamp-2014",
+  "title": "When 37signals Put Everything but Basecamp on the Shelf",
+  "dek": "In February 2014 a profitable, bootstrapped Chicago software company stopped selling all but one product and renamed itself after it.",
+  "story": {
+    "founder": "Jason Fried and David Heinemeier Hansson",
+    "company": "37signals (later Basecamp)",
+    "event": "Becoming a one-product company and renaming itself Basecamp",
+    "approx_date": "2014-02",
+    "country": "United States",
+    "region": "North America",
+    "industry": "software",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "On 5 February 2014, Basecamp's tenth birthday, Jason Fried announced that 37signals would make only one product, Basecamp, and take its name. Campfire and other older products stopped taking new customers but kept running for existing ones; Highrise was spun off in August 2014 and brought back in 2018. After launching the email service HEY, the company changed its name back to 37signals in May 2022.",
+    "paragraphs": [
+      "On 5 February 2014, ten years to the day after Basecamp launched, Jason Fried posted a letter on the 37signals website with two announcements. The Chicago company, founded in 1999 as a web design firm, would from then on make one product, Basecamp. And it would take that product's name. \"Nobody does their best work when they're spread too thin,\" Fried wrote.",
+      "Nothing was going wrong. Business, the letter said, had never been better: over 15 million people had Basecamp accounts, and 6,622 companies had signed up the week before. But there were 43 staff and a shelf of products, among them Backpack, Campfire and Highrise. Fried later explained that every product now needed web, iPhone and Android versions, and they could not keep four services moving; Basecamp was about ten times the size of Highrise, the next biggest. David Heinemeier Hansson recalled them jumping between products, working on one for months while the rest sat still.",
+      "The idea, Fried said, came after he married and took some time away from work. Coming back, he saw that almost all their effort went into Basecamp. He gathered Heinemeier Hansson and two colleagues in a Chicago hotel room and made the case, and met little pushback. Heinemeier Hansson said he was persuaded within minutes by a simple thought: they should only work on things they were proud of. With no investors pressing for growth, they were free to choose.",
+      "Nobody was laid off. The letter offered Campfire and Highrise for spin-off or sale, valuing Campfire in the single-digit millions and Highrise in the tens of millions, and promised that without the right buyer both would keep running for existing customers indefinitely. Campfire soon stopped taking new customers, but its old users kept it.",
+      "In August 2014 Highrise became a separate, wholly owned company with its own chief executive, Nathan Kontny; in 2018, with over 10,000 customers, it moved back in with Basecamp. Campfire's chat was folded into a later Basecamp. Then the company built an email service, HEY, launched in 2020, and on 3 May 2022 Fried announced a return to the old name. \"We aren't a one product company anymore,\" he wrote."
+    ]
+  },
+  "quote": {
+    "text": "For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness. Accordingly, on every occasion a man should ask himself, Is this one of the unnecessary things?",
+    "thinker": "Marcus Aurelius",
+    "work": "Meditations",
+    "locator": "Book IV, 24",
+    "translator": "George Long (1862)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+    "source_title": "Thoughts of Marcus Aurelius Antoninus, tr. George Long, Project Gutenberg eBook #15877",
+    "connection": "Marcus promises leisure to whoever cuts the unnecessary, and 37signals cut hard. But he says to ask on every occasion, and eight years later the same founders asked again and found that a second product had become necessary. The answer did not stay fixed, even when the question was a good one.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Look at where the idea came from. Not a strategy offsite or a bad quarter, but a wedding and some time away, after which the shape of the work was suddenly obvious. Distance did what effort had not.",
+    "You may be carrying more projects than your hours can hold, each one a little neglected. Choosing one does not have to mean abandoning the rest; 37signals kept its old products running for the people who relied on them. It means being honest about which one gets your best attention, and letting the others wait without guilt."
+  ],
+  "invitation": "List the pieces of work you are carrying this week, then mark the single one you would protect if you could only do one well. Let the others sit untouched until tomorrow.",
+  "sources": [
+    {
+      "title": "Two big announcements (5 February 2014), archived 37signals.com homepage",
+      "publisher": "37signals (Internet Archive capture of 10 February 2014)",
+      "url": "https://web.archive.org/web/20140210000000/http://37signals.com/",
+      "kind": "company-archive",
+      "supports": "Fried's letter of 5 February 2014: founded 1999 as a web design firm; Basecamp launched 2004; list of products; 'Nobody does their best work when they're spread too thin'; business never better; 43 people; review last August; one-product company and rename to Basecamp; over 15 million accounts and 6,622 new companies the previous week; Campfire and Highrise scenarios (spin-off, sale, or maintenance mode), valuations in single-digit millions and tens of millions; no downsizing; bootstrapped and declined investment offers, with a small stake sold to Jeff Bezos in 2006"
+    },
+    {
+      "title": "Two big announcements, updated Q&A (archived 21 November 2014)",
+      "publisher": "Basecamp (Internet Archive)",
+      "url": "https://web.archive.org/web/20141121095221/http://37signals.com/",
+      "kind": "company-archive",
+      "supports": "As of 19 August 2014 Highrise was spun off into its own company with its own team; separate plans for Campfire, which existing customers could keep using"
+    },
+    {
+      "title": "What's in a Name (REWORK podcast, season 2, episode 50, 1 February 2023, with transcript)",
+      "publisher": "37signals",
+      "url": "https://37signals.com/podcast/whats-in-a-name/",
+      "kind": "founder-interview",
+      "supports": "Fried and Heinemeier Hansson's later account: every product needing web, iOS and Android versions; not enough people for four services; Basecamp about ten times bigger than Highrise; jumping between products ('tick tock'); the idea coming after Fried married and took time off; the meeting of four in a Chicago hotel room with little pushback; Heinemeier Hansson persuaded early by the thought of only working on things they were proud of; no investors requiring growth; old products kept running for existing customers; Campfire merged into Basecamp 3; buying basecamp.com; the return to 37signals in 2022"
+    },
+    {
+      "title": "Highrise is back with Basecamp (5 April 2018)",
+      "publisher": "Signal v. Noise (Basecamp blog)",
+      "url": "https://m.signalvnoise.com/highrise-is-back-with-basecamp/",
+      "kind": "company-archive",
+      "supports": "Highrise spun off in 2014 as a separate but wholly owned company under Nathan Kontny as CEO; moved back in with Basecamp in 2018; over 10,000 customers"
+    },
+    {
+      "title": "37signals: Hello again (Jason Fried, 3 May 2022)",
+      "publisher": "HEY World (Jason Fried's blog)",
+      "url": "https://world.hey.com/jason/37signals-hello-again-117eae60",
+      "kind": "founder-interview",
+      "supports": "2014 decision to focus on one product and rename to Basecamp; HEY launched in early 2020; 'We aren't a one product company anymore'; renaming back to 37signals on 3 May 2022"
+    },
+    {
+      "title": "Goodbye 37signals, hello Basecamp (Richard Chirgwin, 6 February 2014)",
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/2014/02/06/goodbye_37signals_hello_basecamp/",
+      "kind": "independent-reporting",
+      "supports": "Independent report of the rename and one-product focus; Campfire and Highrise to be sold or spun off, or kept running without new customers; 15 million accounts and 6,622 sign-ups; valuations quoted"
+    },
+    {
+      "title": "Jason Fried's 37signals Will Focus Entirely on Basecamp and Change Its Name to Basecamp (Kira M. Newman, February 2014)",
+      "publisher": "Tech.co",
+      "url": "https://tech.co/news/jason-fried-37signals-basecamp-2014-02",
+      "kind": "independent-reporting",
+      "supports": "The announcement; Chicago company founded 1999 with 43 employees; Campfire and Highrise to be spun off or sold; 'spread too thin' quotation"
+    },
+    {
+      "title": "37signals becomes Basecamp (5 February 2014)",
+      "publisher": "Creative Bloq",
+      "url": "https://creativebloq.com/business/37signals-becomes-basecamp-21410584",
+      "kind": "independent-reporting",
+      "supports": "Date of the announcement; one-product company; over 15 million user accounts; Campfire and Highrise to be sold or spun off"
+    },
+    {
+      "title": "37signals (linked post, 3 May 2022)",
+      "publisher": "Daring Fireball (John Gruber)",
+      "url": "https://daringfireball.net/linked/2022/05/03/37signals",
+      "kind": "independent-reporting",
+      "supports": "Independent note of the 3 May 2022 return to the 37signals name"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "On 5 February 2014 37signals announced it would become a one-product company and rename itself Basecamp",
+      "urls": [
+        "https://web.archive.org/web/20140210000000/http://37signals.com/",
+        "https://www.theregister.com/2014/02/06/goodbye_37signals_hello_basecamp/",
+        "https://creativebloq.com/business/37signals-becomes-basecamp-21410584"
+      ]
+    },
+    {
+      "claim": "The company had 43 staff and over 15 million Basecamp accounts",
+      "urls": [
+        "https://web.archive.org/web/20140210000000/http://37signals.com/",
+        "https://tech.co/news/jason-fried-37signals-basecamp-2014-02",
+        "https://www.theregister.com/2014/02/06/goodbye_37signals_hello_basecamp/"
+      ]
+    },
+    {
+      "claim": "Campfire and Highrise were to be sold, spun off or kept running for existing customers only",
+      "urls": [
+        "https://web.archive.org/web/20140210000000/http://37signals.com/",
+        "https://www.theregister.com/2014/02/06/goodbye_37signals_hello_basecamp/",
+        "https://tech.co/news/jason-fried-37signals-basecamp-2014-02"
+      ]
+    },
+    {
+      "claim": "Highrise was spun off in August 2014 and returned to Basecamp in 2018",
+      "urls": [
+        "https://web.archive.org/web/20141121095221/http://37signals.com/",
+        "https://m.signalvnoise.com/highrise-is-back-with-basecamp/"
+      ]
+    },
+    {
+      "claim": "On 3 May 2022 the company renamed itself 37signals again",
+      "urls": [
+        "https://world.hey.com/jason/37signals-hello-again-117eae60",
+        "https://daringfireball.net/linked/2022/05/03/37signals",
+        "https://37signals.com/podcast/whats-in-a-name/"
+      ]
+    }
+  ],
+  "research_notes": "Staff: the 2014 letter and Tech.co give 43 people; in the 2023 podcast Fried and Heinemeier Hansson, recalling the period, guess 20 to 30-something; the story uses the contemporary 43. Timing of the decision: the 2014 letter says the company held a thorough review 'last August' (August 2013); the podcast's show notes call it 'the 2014 meeting', and Fried's account of the hotel-room meeting after his wedding and time off is undated, so the story does not date the meeting. The hotel room, the wedding, the four people present and the lack of pushback are Fried's recollection (with Heinemeier Hansson agreeing) nine years later, and are attributed. Heinemeier Hansson's 'only work on things we're proud of' is paraphrased from the podcast transcript. Valuations of Campfire and Highrise are the company's own estimates. Highrise: the November 2014 archive dates the spin-off to 19 August 2014; the 2018 Signal v. Noise post calls it wholly owned. Campfire: the podcast says its chat was merged into Basecamp 3 while the old service kept running; the story says it was folded into a later Basecamp. Funding: the company was bootstrapped and funded by customer revenue, but the 2014 letter notes it sold a small stake to Jeff Bezos in 2006; the funding field remains 'bootstrapped'. Marcus Aurelius is reporting and revising 'the philosopher' on doing few things; the excerpt is his own comment.",
+  "researched_at": "2026-11-01"
+}

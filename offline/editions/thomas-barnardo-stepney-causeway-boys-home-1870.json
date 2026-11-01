@@ -1,0 +1,134 @@
+{
+  "id": "thomas-barnardo-stepney-causeway-boys-home-1870",
+  "title": "The Boys' Home Thomas Barnardo Opened at 18 Stepney Causeway",
+  "dek": "In 1870 a medical student who had meant to go to China opened a home for destitute boys in the East End, and later had to answer for how he told their stories.",
+  "story": {
+    "founder": "Thomas Barnardo",
+    "company": "Barnardo's (founded as the East End Juvenile Mission)",
+    "event": "Opening a home for destitute boys at 18 Stepney Causeway",
+    "approx_date": "1870",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "industry": "social enterprise (child welfare)",
+    "arc": "founding-decision",
+    "funding": "nonprofit",
+    "summary": "In 1870 Thomas Barnardo, a medical student who had come to London in 1866 intending to be a missionary in China, opened a home for destitute boys at 18 Stepney Causeway, funded wholly by voluntary gifts. After a boy turned away from the full home was found dead, he opened a shelter in 1874 that refused no destitute child. In 1877 an arbitration cleared his finances and praised the homes but criticised his use of staged photographs.",
+    "paragraphs": [
+      "In 1870 Thomas Barnardo, a 25-year-old Irishman studying medicine at the London Hospital, opened a home for destitute boys at 18 Stepney Causeway, in London's East End. He had arrived in 1866 meaning to train as a missionary for China. Instead he began teaching at a ragged school, one of the free schools for the poorest children, and in 1868 opened his own mission at Hope Place in Limehouse.",
+      "What turned him, by his own account, was a boy called Jim Jarvis. One winter night after the school closed, Barnardo wrote, the boy said he had nowhere to go, and after midnight he led Barnardo over a wall onto a shed roof where eleven boys lay asleep with nothing to cover them. The sight, Barnardo said, left him able to find \"no rest except in action on their behalf.\" He told the story many times, often with different details, and the account is his alone.",
+      "A ragged school could teach a boy by day, but it could not give him a bed. Barnardo gave up China to work for the children of the East End. With Lord Shaftesbury as patron, the Stepney home took in boys who could live there, learn carpentry, metalwork or shoemaking, and be helped into apprenticeships. The homes ran entirely on voluntary gifts.",
+      "The home could only take so many. According to the charity's own history, an eleven-year-old boy told that it was full was found dead two days later; the historian Peter Higginbotham names him as John Somers, known as Carrots, and says he died of hunger and exposure. In 1874 Barnardo opened a shelter in the same street that would turn no destitute child away. The historian Gillian Wagner judged the pledge to refuse no destitute child \"a policy that would lead to repeated financial crises\".",
+      "Raising the money had a cost of its own. Barnardo sold staged \"before and after\" photographs of the children, and after a campaign against him by a Baptist preacher and a rival evangelist, the trustees sent the charges to arbitration in 1877. The arbitrators found no financial wrongdoing or cruelty and backed the homes' work, but they faulted the way he had used the pictures."
+    ]
+  },
+  "quote": {
+    "text": "To tell a falsehood is like the cut of a sabre; for though the wound may heal, the scar of it will remain.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, \"Of the Duties of Society\", maxim XCVIII",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Barnardo's stories and pictures filled the collection boxes that kept his door open. The arbitrators cleared his accounts and praised the homes, yet their criticism of the photographs stood. Saadi lets both be true at once: the wound can heal while the scar stays.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Barnardo's door stayed open because people gave, and people gave partly because of the pictures. The arbitrators did not find him dishonest with money; they found fault with how he had used images of real children. Both things belonged to the same man, and the homes did real good all the same.",
+    "You will be asked many times to describe the problem you work on to someone who might help: a funder, a partner, a relative wondering why you do this. The pull is to make the \"before\" a shade darker. Saadi's point is practical: an exaggeration can do its job and still mark what you say afterwards. The plain version is usually strong enough."
+  ],
+  "invitation": "Read back the last description of your work you wrote for someone else. Find one sentence that makes things sound worse, or better, than you know them to be, and rewrite it plainly.",
+  "sources": [
+    {
+      "title": "'Our First Arab' by Thomas Barnardo",
+      "publisher": "The Children's Homes (Peter Higginbotham), childrenshomes.org.uk",
+      "url": "https://www.childrenshomes.org.uk/JimJarvis/",
+      "kind": "memoir",
+      "supports": "Barnardo's own account of Jim Jarvis: the boy staying behind after the ragged school closed on a winter night with nowhere to go; being led after midnight over a wall to a shed roof where eleven boys slept uncovered; 'no rest except in action on their behalf'; the editor's note that Barnardo told the story many times with variations in detail."
+    },
+    {
+      "title": "Barnardo, Thomas John (Dictionary of National Biography, 1912 supplement)",
+      "publisher": "Wikisource (text of the DNB 1912 supplement, article by James Marchant)",
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Barnardo,_Thomas_John",
+      "kind": "book",
+      "supports": "Arrival in London in April 1866 under Hudson Taylor's guidance with a view to China; London Hospital; ragged school superintendent; gave up his intention of going to China; boys' home at 18 Stepney Causeway opened in December 1870 under Lord Shaftesbury's patronage; income wholly from voluntary sources; 1877 charges submitted to arbitration."
+    },
+    {
+      "title": "The Barnardo Story: Stepney Causeway",
+      "publisher": "The Children's Homes (Peter Higginbotham)",
+      "url": "https://www.childrenshomes.org.uk/DB/Stepney.shtml",
+      "kind": "independent-reporting",
+      "supports": "18-20 Stepney Causeway opened in 1870 for working lads; John Somers ('Carrots') refused admission for lack of space and dying of hunger and exposure a few nights later; 10 Stepney Causeway opened in 1874 as the first open-all-hours shelter under the principle 'No Destitute Child Ever Refused Admission'."
+    },
+    {
+      "title": "The Barnardo Story: The First Home",
+      "publisher": "The Children's Homes (Peter Higginbotham)",
+      "url": "https://www.childrenshomes.org.uk/DB/firsthome.shtml",
+      "kind": "independent-reporting",
+      "supports": "Hope Place, Limehouse, opened on 2 March 1868 as the East End Juvenile Mission, partly a ragged school; meeting the destitute boy Jim Jarvis around the same time."
+    },
+    {
+      "title": "The Barnardo Story: Conflict and Controversy",
+      "publisher": "The Children's Homes (Peter Higginbotham)",
+      "url": "https://childrenshomes.org.uk/DB/conflict.shtml",
+      "kind": "independent-reporting",
+      "supports": "Campaign by the Baptist preacher George Reynolds and the evangelist Fred Charrington; Reynolds's pamphlet at the end of 1876; trustees referring the dispute to arbitration; arbitrators finding no financial malpractice or cruelty, criticising solitary confinement and the use of children's photographs, and supporting the homes' work."
+    },
+    {
+      "title": "Thomas Barnardo (1845-1905)",
+      "publisher": "The Victorian Web (Jacqueline Banerjee, 11 May 2016)",
+      "url": "https://victorianweb.org/history/orphanages/barnardo.html",
+      "kind": "independent-reporting",
+      "supports": "Born in Dublin in 1845; came to London to prepare for missionary work in China; Ernest Street ragged school and his own ragged school; the encounter with Jim Jarvis; staged 'before and after' photographs; 'In 1877 a Court of Arbitration had settled in his favour'; Gillian Wagner's judgement that refusing no child was 'a policy that would lead to repeated financial crises'."
+    },
+    {
+      "title": "Our history",
+      "publisher": "Barnardo's",
+      "url": "https://www.barnardos.org.uk/who-we-are/our-history",
+      "kind": "company-archive",
+      "supports": "Ragged school in 1867; Jim Jarvis opening Barnardo's eyes to hardship in the East End; first boys' home in 1870, where boys learnt carpentry, metalwork and shoemaking and were helped into apprenticeships; the limit on numbers and the eleven-year-old boy found dead two days after being told the home was full; Barnardo's vow never to turn a child away."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Barnardo opened a home for destitute boys at Stepney Causeway in 1870.",
+      "urls": [
+        "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Barnardo,_Thomas_John",
+        "https://www.childrenshomes.org.uk/DB/Stepney.shtml",
+        "https://www.barnardos.org.uk/who-we-are/our-history"
+      ]
+    },
+    {
+      "claim": "He came to London in 1866 intending missionary work in China and gave it up for work with East End children.",
+      "urls": [
+        "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Barnardo,_Thomas_John",
+        "https://victorianweb.org/history/orphanages/barnardo.html"
+      ]
+    },
+    {
+      "claim": "A boy named Jim Jarvis showed Barnardo how homeless boys lived; the account is Barnardo's own and was told with variations.",
+      "urls": [
+        "https://www.childrenshomes.org.uk/JimJarvis/",
+        "https://www.barnardos.org.uk/who-we-are/our-history",
+        "https://victorianweb.org/history/orphanages/barnardo.html"
+      ]
+    },
+    {
+      "claim": "A boy turned away from the full home died days later, and Barnardo resolved to refuse no destitute child.",
+      "urls": [
+        "https://www.barnardos.org.uk/who-we-are/our-history",
+        "https://www.childrenshomes.org.uk/DB/Stepney.shtml"
+      ]
+    },
+    {
+      "claim": "In 1877 charges against Barnardo went to arbitration, which upheld the homes but criticised his use of photographs.",
+      "urls": [
+        "https://childrenshomes.org.uk/DB/conflict.shtml",
+        "https://victorianweb.org/history/orphanages/barnardo.html",
+        "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1912_supplement/Barnardo,_Thomas_John"
+      ]
+    }
+  ],
+  "research_notes": "Dates disagree. The 1912 DNB says the Stepney Causeway home opened in December 1870; Peter Higginbotham's history says September 1870; Barnardo's own site gives 1870; the 1911 Encyclopaedia Britannica wrongly says 1867 (the year of his first ragged-school work). The story says 1870. He entered the London Hospital in October 1866 (DNB) or autumn 1867 (Higginbotham, Victorian Web); the story says only that he was studying medicine there. The Jim Jarvis night is undated in Barnardo's account (Higginbotham captions a picture c.1869); the story gives no year and attributes every detail to Barnardo, noting, as Higginbotham does, that he told it many times with varying details and that no other account exists. I could not load a historian's critique of the Jarvis story itself, so the story says only what the sources support. The boy turned away: Barnardo's site says an eleven-year-old was found dead two days after being told the home was full; Higginbotham names John Somers ('Carrots') and says he died 'a few nights later'; both may derive from Barnardo's own telling, so the story attributes them. Arbitration: the DNB article, written by James Marchant (co-author of the 1907 memoir with Barnardo's widow, so not independent), says the charges were 'fully refuted'; Higginbotham says the arbitrators found no financial malpractice or cruelty but criticised his photographs and his former use of solitary confinement; Victorian Web says the court of arbitration 'settled in his favour'. The story gives both the vindication and the criticism. The phrase 'artistic fiction' appears in Higginbotham's narrative without clear attribution to the arbitrators, so it is not quoted. Gillian Wagner's line is quoted as given by Victorian Web from her ODNB entry. Saadi's maxim is applied by analogy to Barnardo's photographs.",
+  "researched_at": "2026-11-01"
+}

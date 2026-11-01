@@ -1,0 +1,139 @@
+{
+  "id": "stanislas-niox-chateau-doctolib-face-to-face-with-doctors-2014",
+  "title": "Why Doctolib Chose to Meet Every Doctor Face to Face",
+  "dek": "In 2013 and 2014 a small Paris team bet that doctors would pay for a booking diary if someone came to the practice to set it up.",
+  "story": {
+    "founder": "Stanislas Niox-Chateau, Ivan Schneider, Jessy Bernal",
+    "company": "Doctolib",
+    "event": "Launching online appointment booking for French doctors by meeting every practitioner in person",
+    "approx_date": "2014-02",
+    "country": "France",
+    "region": "Europe",
+    "industry": "healthcare (appointment software)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "Stanislas Niox-Chateau founded Doctolib in Paris in October 2013 with the engineers Ivan Schneider and Jessy Bernal, selling practices a subscription diary with online booking and reminders rather than only sending them new patients. Backed first by business angels, the company met every practitioner face to face; it had about 1,500 paying professionals by November 2014, about 5,000 by October 2015 and, by its own count, 18,000 by February 2017.",
+    "paragraphs": [
+      "Near the end of 2013, Doctolib was, as Stanislas Niox-Chateau later described it, a team of ten people walking around Paris trying to get doctors to hear about an idea. He was in his mid-twenties, an HEC graduate who had worked as an investor and sat on the board of LaFourchette, the restaurant-booking site. In October 2013 he had founded the company with two engineers, Ivan Schneider and Jessy Bernal, with backing from the French research ministry and the City of Paris through the Agoranov incubator.",
+      "In February 2014, announcing one million euros from business angels, among them LaFourchette's co-founder Bertrand Jelensperger, he set out what he knew. France had 369,000 self-employed health professionals and, by his estimate, 1.2 billion appointments a year, with 100 million never kept. Two French rivals already let patients book online, but they only sent doctors new patients, he argued. Doctolib would sell the practice a tool for running its whole diary, with text and email reminders, and keep booking free for patients. His target was 10,000 practitioners within three years.",
+      "The choice that shaped the company was how to sell it. Doctolib did not wait for doctors to sign up on a website; it sent people to see them. In 2015 he told Le Quotidien du Médecin that the company met every practitioner face to face, because each set-up had to be tailored. Looking back in 2025, he said that for the first years he spent about 80% of his time in the field, kept a rule not to open his computer before 6 p.m., and even worked as a medical assistant to learn the job. Many people, he recalled, told him doctors would never change.",
+      "The approach needed people, and much of the money went on them: a four-million-euro round in November 2014 was meant to double the staff from 50 to 100. By then about 1,500 professionals were paying 99 euros a month. By October 2015 there were about 5,000, some 600 practices were joining each month, and Accel had led an 18-million-euro round. In February 2017 the company said it worked with 18,000 health professionals in France and Germany."
+    ]
+  },
+  "quote": {
+    "text": "in tender cases, where a man's eye, upon the countenance of him with whom he speaketh, may give him a direction how far to go",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay XLVII, \"Of Negotiating\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Bacon thought some dealings belong in the same room, because the other person's face tells you how far to go. Doctolib's insistence on meeting each practice fits that advice: what a doctor or a secretary needs from a new diary is easier to read across a desk than through a sign-up form.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Doctolib could have tried to sign doctors up from a website. It took the slower road instead: a person at the desk, watching how a practice really ran its diary, and adjusting to it. The rule about the laptop is the striking part. The screen could wait until evening; the working day belonged to the people the company hoped to serve.",
+    "You know how different a process looks when you stand beside the person doing it rather than reading the procedure. That kind of looking takes time, and it is easy to postpone when work is piling up. It is still often the quickest way to learn what someone needs, and what they will never use."
+  ],
+  "invitation": "Instead of sending a message to someone whose work you want to understand, ask to sit with them for fifteen minutes today while they do it. Ask one question, and note one thing you did not expect.",
+  "sources": [
+    {
+      "title": "Prise de rendez-vous médicaux en ligne: Doctolib lève 1 million et estime entre 40 et 50% la rentabilité sur ce marché",
+      "publisher": "FrenchWeb (5 February 2014)",
+      "url": "https://www.frenchweb.fr/prise-de-rendez-vous-medicaux-en-ligne-doctolib-leve-1-million-et-estime-entre-40-et-50-la-rentabilite-sur-ce-marche/140850",
+      "kind": "founder-interview",
+      "supports": "Launch in 2013; Niox-Chateau's LaFourchette background; €1 million from business angels including Bertrand Jelensperger, Olivier Occelli and Antoine Freysz; his market figures (369,000 self-employed health professionals, 1.2 billion appointments a year, 100 million missed appointments); his view that Keldoc and monDocteur only brought practitioners new patients while Doctolib offered management tools; SMS and email reminders; target of 10,000 practitioners within three years; Agoranov support."
+    },
+    {
+      "title": "Doctolib, le « Google de la santé », lève 4 millions d'euros",
+      "publisher": "BFM Business / 01Business (Xavier Biseul, 25 November 2014), Internet Archive copy",
+      "url": "https://web.archive.org/web/20210411015523/https://bfmbusiness.bfmtv.com/01-business-forum/doctolib-le-google-de-la-sante-leve-4-millions-d-euros-633741.html",
+      "kind": "independent-reporting",
+      "supports": "Second round of €4 million nine months after a first €1 million; investors including Bertrand Jelensperger (co-founder of LaFourchette) and Pierre Kosciusko-Morizet; 1,500 professionals at 99 euros a month; offices in ten French cities; plan to double staff from 50 to 100; founders named as Niox-Chateau, Thomas Landais, Ivan Schneider and Jessy Bernal; support from the research ministry, City of Paris and European Social Fund through Agoranov."
+    },
+    {
+      "title": "Leader de la prise de rendez-vous en ligne, Doctolib lève 18 millions d'euros",
+      "publisher": "Le Quotidien du Médecin (Guillaume Mollaret, 13 October 2015)",
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/esante/leader-de-la-prise-de-rendez-vous-en-ligne-doctolib-leve-18-millions-deuros",
+      "kind": "founder-interview",
+      "supports": "€18 million led by Accel; about 5,000 health professionals; about 600 new practices a month; 120 employees; roughly 100 euros a month; Niox-Chateau, aged 28, saying the company sees every practitioner face to face because each solution must be personalised; his board seat at LaFourchette through a fund."
+    },
+    {
+      "title": "How letting go of one dream sparked a healthcare revolution",
+      "publisher": "HEC Paris, Dare (1 December 2025)",
+      "url": "https://www.hec.edu/en/dare/innovation-entrepreneurship/how-letting-go-one-dream-sparked-healthcare-revolution",
+      "kind": "founder-interview",
+      "supports": "Launch in 2013 with limited capital and almost no healthcare network; about 80% of his time in the field in the first years; his rule not to open his computer before 6 p.m.; going door to door to practices; working as a medical assistant to learn the job; being told healthcare professionals would never change; HEC class of 2010."
+    },
+    {
+      "title": "Stanislas Niox-Chateau (Innovators Under 35 France, 2016)",
+      "publisher": "MIT Technology Review, Innovators Under 35",
+      "url": "https://www.innovatorsunder35.com/the-list/stanislas-niox-chateau/",
+      "kind": "independent-reporting",
+      "supports": "At the end of 2013 a team of ten people going round Paris trying to speak to doctors about the concept; free for patients; reminders by email and text; doctors paying a 99-euro monthly subscription; €20 million raised in 2015 from Accel and others."
+    },
+    {
+      "title": "[FW 500] Doctolib, en ordre de bataille pour conquérir l'Europe",
+      "publisher": "FrenchWeb (5 April 2016)",
+      "url": "https://www.frenchweb.fr/fw-500-doctolib-en-ordre-de-bataille-pour-conquerir-leurope/234875",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2013 by Niox-Chateau, Ivan Schneider and Jessy Bernal; Niox-Chateau's background as an analyst at Sofinnova Partners, co-founder of Otium Capital and board member of LaFourchette; €18 million in October 2015 with Accel Partners; more than 8,000 practitioners by spring 2016."
+    },
+    {
+      "title": "Doctolib s'agrandit pour accueillir ses nouvelles recrues et poursuivre sa croissance (press release, 28 February 2017)",
+      "publisher": "Doctolib",
+      "url": "https://res.cloudinary.com/doctolib/image/upload/v1488810196/280217_-_CP_-_Doctolib_s_agrandit_ozakbb.pdf",
+      "kind": "company-archive",
+      "supports": "Founded in October 2013 by Niox-Chateau, Ivan Schneider and Jessy Bernal; 18,000 health professionals and 300 staff in France and Germany by February 2017; Niox-Chateau's statement that three years earlier eight people had worked with the first practitioners."
+    },
+    {
+      "title": "Destiné à une grande carrière puis blessé, il a créé Doctolib et est aujourd'hui indispensable à 30 millions de Français",
+      "publisher": "Journal du Net (Rémy Videau, 26 May 2026)",
+      "url": "https://www.journaldunet.com/management/emploi-cadres/1550529-rv1-stanislas-niox-chateau/",
+      "kind": "independent-reporting",
+      "supports": "Niox-Chateau born in 1987 (so in his mid-twenties in 2013); HEC from 2006; Otium Capital; launch of Doctolib in 2013."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Doctolib was founded in 2013 by Stanislas Niox-Chateau with Ivan Schneider and Jessy Bernal",
+      "urls": [
+        "https://www.frenchweb.fr/fw-500-doctolib-en-ordre-de-bataille-pour-conquerir-leurope/234875",
+        "https://res.cloudinary.com/doctolib/image/upload/v1488810196/280217_-_CP_-_Doctolib_s_agrandit_ozakbb.pdf",
+        "https://web.archive.org/web/20210411015523/https://bfmbusiness.bfmtv.com/01-business-forum/doctolib-le-google-de-la-sante-leve-4-millions-d-euros-633741.html"
+      ]
+    },
+    {
+      "claim": "In early 2014 Doctolib raised €1 million from business angels including LaFourchette co-founder Bertrand Jelensperger",
+      "urls": [
+        "https://www.frenchweb.fr/prise-de-rendez-vous-medicaux-en-ligne-doctolib-leve-1-million-et-estime-entre-40-et-50-la-rentabilite-sur-ce-marche/140850",
+        "https://web.archive.org/web/20210411015523/https://bfmbusiness.bfmtv.com/01-business-forum/doctolib-le-google-de-la-sante-leve-4-millions-d-euros-633741.html"
+      ]
+    },
+    {
+      "claim": "The decision: Doctolib met practitioners in person rather than signing them up remotely, with the founder spending most of his time in the field",
+      "urls": [
+        "https://www.lequotidiendumedecin.fr/actus-medicales/esante/leader-de-la-prise-de-rendez-vous-en-ligne-doctolib-leve-18-millions-deuros",
+        "https://www.hec.edu/en/dare/innovation-entrepreneurship/how-letting-go-one-dream-sparked-healthcare-revolution",
+        "https://www.innovatorsunder35.com/the-list/stanislas-niox-chateau/"
+      ]
+    },
+    {
+      "claim": "Practices paid a monthly subscription of about 99 to 100 euros",
+      "urls": [
+        "https://web.archive.org/web/20210411015523/https://bfmbusiness.bfmtv.com/01-business-forum/doctolib-le-google-de-la-sante-leve-4-millions-d-euros-633741.html",
+        "https://www.lequotidiendumedecin.fr/actus-medicales/esante/leader-de-la-prise-de-rendez-vous-en-ligne-doctolib-leve-18-millions-deuros",
+        "https://www.innovatorsunder35.com/the-list/stanislas-niox-chateau/"
+      ]
+    },
+    {
+      "claim": "In October 2015 Doctolib raised €18 million in a round led by Accel",
+      "urls": [
+        "https://www.lequotidiendumedecin.fr/actus-medicales/esante/leader-de-la-prise-de-rendez-vous-en-ligne-doctolib-leve-18-millions-deuros",
+        "https://www.frenchweb.fr/fw-500-doctolib-en-ordre-de-bataille-pour-conquerir-leurope/234875"
+      ]
+    }
+  ],
+  "research_notes": "Founders: the 2014 sources (BFM Business, and a Doctolib press release of December 2014 not cited because its PDF text cannot be read by the checker) list four founders, Niox-Chateau, Thomas Landais, Ivan Schneider and Jessy Bernal; Doctolib's February 2017 press release and FrenchWeb (2016) list three, without Landais; French Wikipedia lists Steve Abou-Rjeily instead. The story names the three on whom the company's own later release and FrenchWeb agree, and the founder field does the same. Founding date: Doctolib's own releases say October 2013; a company-registry site gives August 2013; the story uses October. Early team size: MIT Technology Review's 2016 profile reports ten people going round Paris at the end of 2013; Doctolib's 2017 release quotes Niox-Chateau saying eight people worked with the first practitioners three years earlier. The story attributes the ten to his later description. Practitioner counts are all company figures as reported and are given with their dates: 1,500 (BFM, November 2014), about 5,000 (Le Quotidien du Médecin, October 2015), more than 8,000 (FrenchWeb, April 2016), 6,500 (MIT Technology Review, 2016, undated within the year; not used), 18,000 (Doctolib, February 2017). The 2015 round is €18 million in Le Quotidien and FrenchWeb and €20 million in MIT Technology Review; the story uses €18 million. MIT Technology Review calls Niox-Chateau a former professional tennis player; HEC and Journal du Net say a back injury ended his competitive junior career at 17, so the story leaves tennis out. The face-to-face remark is paraphrased in English from his French ('Nous voyons tous les praticiens en face à face car chaque solution doit être personnalisée'). The 80% figure, the 6 p.m. rule and the medical-assistant work come from his own retrospective account to HEC in 2025 and are attributed as such. Bacon's line, from his essay on negotiating, is about diplomacy and private dealings; it is applied here by analogy. The excerpt begins mid-sentence after 'or'.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "daniel-ek-spotify-record-label-licences-2008",
+  "title": "Two Years of Knocking Before the Labels Let Spotify Launch",
+  "dek": "Between 2006 and 2008 Daniel Ek chased record-label licences with no income, nearly ran out of money, and launched only once the labels had become shareholders.",
+  "story": {
+    "founder": "Daniel Ek and Martin Lorentzon",
+    "company": "Spotify",
+    "event": "Two years of negotiating with record labels for licences before the 2008 launch",
+    "approx_date": "2008-10",
+    "country": "Sweden",
+    "region": "Europe",
+    "industry": "media (music streaming)",
+    "arc": "setback",
+    "funding": "venture",
+    "summary": "Daniel Ek and Martin Lorentzon started Spotify in Stockholm in 2006 and spent about two years without income seeking licences from record labels wary of free, ad-funded streaming; Ek later said the company nearly ran out of money four times. Spotify launched by invitation in several European countries in October 2008, by which time the major labels and Merlin had taken close to a fifth of the company.",
+    "paragraphs": [
+      "In 2006 Daniel Ek and Martin Lorentzon, his former employer at the internet marketing company Tradedoubler, started Spotify in Stockholm. A handful of engineers worked in a converted flat above a coffee shop. Ek later said he had warned Lorentzon at the outset: \"I have a hard time seeing this ever being a sustainable business.\" The idea was a music player that started any song almost instantly, free to most listeners and paid for by advertising.",
+      "None of it could work without the record companies, and they had reasons to refuse. Piracy had hollowed out the industry, and in Sweden it had become endemic after the Pirate Bay appeared in 2003. Labels feared that free streaming would teach people music need not be paid for. After a run of rejections Ek gave up on global licences and concentrated on Europe. Jonathan Forster, one of the first employees, later described a \"credibility gap that took two years to overcome.\"",
+      "Ek kept going in person. \"I literally slept outside their offices, coming in week after week, hammering them down argument by argument,\" he told the Guardian in 2013. Minds began to shift once executives could try the product, although the demo, the Guardian reported, was loaded with pirated tracks, and the London Review of Books notes that thousands of invited users were streaming before licences were secured. Per Sundin, who ran Universal Music in Sweden, was impressed enough to persuade his bosses to back it.",
+      "The waiting was expensive. Ek later said the company nearly ran out of money four times while he chased licences, that for two years he thought every month or two it would fail, and that he lost his hair and gained about 30 pounds. In 2009 he put it more mildly: \"we underestimated how long it would take the labels to come in.\"",
+      "Spotify opened, by invitation only, in Scandinavia, the UK, France and Spain in October 2008. The labels came in as owners as well as licensors: in 2009 a Swedish computer magazine reported that the major labels and Merlin, the independents' agency, together held close to a fifth of the company, though what they had paid was disputed. By September 2009, Ek said, about a million people in Sweden were using it."
+    ]
+  },
+  "quote": {
+    "text": "the cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.",
+    "thinker": "Henry David Thoreau",
+    "work": "Walden",
+    "locator": "Chapter 1, \"Economy\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/205/pg205.txt",
+    "source_title": "Walden, and On The Duty Of Civil Disobedience, Project Gutenberg eBook #205",
+    "connection": "Thoreau priced things in life given up, now or later, not in money. Ek's own tally of those two years includes his hair, about thirty pounds and a fear of failure that came back every month or two. Thoreau does not call the exchange wrong; he only insists that this was the real price.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Some work cannot move until other people say yes: a funder, a hospital board, a partner who has been let down before. Ek could not engineer his way past the labels. He could only keep returning, and the waiting showed up in his body long before it showed up in a contract.",
+    "You may be in a stretch like that, where the next step belongs to someone else. Thoreau's arithmetic is worth doing honestly, not to talk you out of the effort, but so that sleep, meals and the people at home are counted as part of the price now, rather than discovered later as debts."
+  ],
+  "invitation": "Name one yes you are waiting for from someone else, and write beside it one thing the wait has been taking from your sleep or your evenings. Tonight, give that one thing back.",
+  "sources": [
+    {
+      "title": "Is Daniel Ek, Spotify founder, going to save the music industry … or destroy it?",
+      "publisher": "The Guardian (Dorian Lynskey, 10 November 2013)",
+      "url": "https://www.theguardian.com/technology/2013/nov/10/daniel-ek-spotify-streaming-music",
+      "kind": "founder-interview",
+      "supports": "Ek and Lorentzon's Tradedoubler background; engineers in a converted three-room flat above a coffee shop; Ek approaching labels with a free, rent-not-buy proposition; a wave of rejections and narrowing to Europe; two nerve-racking years with no income; Jonathan Forster's 'credibility gap' quotation; the demo loaded with pirated tracks; Per Sundin of Universal Sweden persuading his bosses; Ek's 'slept outside their offices' quotation; endemic Swedish piracy after the Pirate Bay (2003); invitation-only launch in Scandinavia, the UK, France and Spain in October 2008; labels and Merlin owning around 20% in 2013"
+    },
+    {
+      "title": "Daniel Ek: Spotify will kill file-sharing, be a European home-run",
+      "publisher": "TechCrunch (18 September 2009)",
+      "url": "https://techcrunch.com/2009/09/18/daniel-ek-spotify-will-kill-file-sharing-be-a-european-home-run/",
+      "kind": "founder-interview",
+      "supports": "Ek's words that they underestimated how long the labels would take, starting the company in 2006 but launching only in 2008; about one million users in Sweden by September 2009"
+    },
+    {
+      "title": "Spotify CEO Daniel Ek says he thought the company was a 'terrible idea' and he lost his hair and gained 30lbs on the path to success",
+      "publisher": "Fortune (Ryan Hogg, 28 September 2023), reporting Ek on The Diary of a CEO podcast",
+      "url": "https://fortune.com/europe/2023/09/28/spotify-ceo-daniel-ek-platform-terrible-idea-lost-hair-gained-30lbs-success",
+      "kind": "independent-reporting",
+      "supports": "Ek's warning to Lorentzon that he could not see a sustainable business; the company almost dying four times for lack of money while he sought licences; thinking every month or two for two years that it would fail; losing his hair and gaining about 30 pounds; founding in 2006 and launch in 2008"
+    },
+    {
+      "title": "To monopolise our ears (review of The Spotify Play by Sven Carlsson and Jonas Leijonhufvud, and Computing Taste by Nick Seaver)",
+      "publisher": "London Review of Books (Daniel Cohen, vol. 45 no. 9, 2023)",
+      "url": "https://lrb.co.uk/the-paper/v45/n09/daniel-cohen/to-monopolise-our-ears",
+      "kind": "independent-reporting",
+      "supports": "Founders insisting on an ad-funded free tier; labels' fear that free streaming would stop people paying; thousands of invited users streaming before licences were secured, from employees' own collections; launch in Sweden in October 2008; labels' early stake reaching almost a fifth of the company"
+    },
+    {
+      "title": "Big label stakes highlight Spotify's truthiness trouble",
+      "publisher": "The Register (Andrew Orlowski, 7 August 2009)",
+      "url": "https://www.theregister.com/2009/08/07/spotify_truthiness/",
+      "kind": "independent-reporting",
+      "supports": "Computer Sweden's report that Universal, Warner, Sony and EMI held 18 per cent of Spotify, with Merlin also holding a stake; founders Ek and Lorentzon holding the majority"
+    },
+    {
+      "title": "This Is Quite Possibly The Spotify Cap Table",
+      "publisher": "TechCrunch (Michael Arrington, 7 August 2009)",
+      "url": "https://techcrunch.com/2009/08/07/this-is-quite-possibly-the-spotify-cap-table/",
+      "kind": "independent-reporting",
+      "supports": "Computer Sweden's claim that the labels paid about 100,000 kronor for their shares; TechCrunch's sources disputing that price; cap table showing labels and Merlin with 17.3% fully diluted in October 2009"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Spotify was started in 2006 but launched only in 2008 because licensing from the labels took about two years",
+      "urls": [
+        "https://techcrunch.com/2009/09/18/daniel-ek-spotify-will-kill-file-sharing-be-a-european-home-run/",
+        "https://www.theguardian.com/technology/2013/nov/10/daniel-ek-spotify-streaming-music",
+        "https://fortune.com/europe/2023/09/28/spotify-ceo-daniel-ek-platform-terrible-idea-lost-hair-gained-30lbs-success"
+      ]
+    },
+    {
+      "claim": "Labels were wary of free streaming, and minds changed once executives tried the product, whose early catalogue included pirated tracks",
+      "urls": [
+        "https://www.theguardian.com/technology/2013/nov/10/daniel-ek-spotify-streaming-music",
+        "https://lrb.co.uk/the-paper/v45/n09/daniel-cohen/to-monopolise-our-ears"
+      ]
+    },
+    {
+      "claim": "Spotify launched by invitation in October 2008",
+      "urls": [
+        "https://www.theguardian.com/technology/2013/nov/10/daniel-ek-spotify-streaming-music",
+        "https://lrb.co.uk/the-paper/v45/n09/daniel-cohen/to-monopolise-our-ears"
+      ]
+    },
+    {
+      "claim": "The major labels and Merlin held close to a fifth of Spotify, and the price they paid was disputed",
+      "urls": [
+        "https://www.theregister.com/2009/08/07/spotify_truthiness/",
+        "https://techcrunch.com/2009/08/07/this-is-quite-possibly-the-spotify-cap-table/",
+        "https://lrb.co.uk/the-paper/v45/n09/daniel-cohen/to-monopolise-our-ears"
+      ]
+    }
+  ],
+  "research_notes": "Length of the licence hunt: Fortune, reporting Ek on The Diary of a CEO (2023), says an 18-month period of seeking licences; the Guardian (2013) says two years with no income and quotes Jonathan Forster's 'two years'; Ek in 2009 said 2006 to 2008. The story uses Forster's quotation and 'two years' for Ek's recurring fear, both as reported, and does not state the exact length of the licence chase. Founding year: the Guardian says Ek and Lorentzon decided to work together in 2005; Ek (TechCrunch 2009) and Fortune say the company was started in 2006, which the story uses. The office is a 'converted three-room flat' in the Guardian and a 'three-bedroom apartment' in Fortune, citing the Guardian; the story says 'a converted flat'. Label equity, the main conflicting figure: Computer Sweden, reported by The Register (August 2009), said the four majors held 18 per cent, with Merlin also holding a stake; the cap table TechCrunch published the same day shows 17.3 per cent for majors and Merlin together, fully diluted, in October 2009; the Guardian (2013) says around 20 per cent; the LRB says almost a fifth. The story says 'close to a fifth'. The price is disputed: Computer Sweden said barely 100,000 kronor (about EUR 10,000), while TechCrunch's sources said the labels paid about what the venture investors paid; the story says only that the price was disputed. Launch markets: the Guardian lists Scandinavia, the UK, France and Spain in October 2008 (invitation only); the LRB says Sweden in October 2008 and the UK in February 2009, which matches the later open UK launch; the story follows the Guardian's invitation-only list. Pirated material: the Guardian says the label demo was loaded with pirated tracks, and the LRB (summarising The Spotify Play and Spotify Teardown) says invited users streamed music from employees' collections, much of it illegally obtained, before licences were secured; neither source quotes Spotify on this. Ek's quotations about money, hair and weight come from Fortune's report of the podcast, not the podcast itself. 'About a million people in Sweden' is Ek's own figure from September 2009. Quote: from the opening chapter, 'Economy'; Thoreau's point concerns houses and the labour needed to pay for them, applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

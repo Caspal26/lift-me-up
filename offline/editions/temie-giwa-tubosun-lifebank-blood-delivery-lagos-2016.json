@@ -1,0 +1,132 @@
+{
+  "id": "temie-giwa-tubosun-lifebank-blood-delivery-lagos-2016",
+  "title": "LifeBank Planned an App, Then Had to Carry the Blood Itself",
+  "dek": "Temie Giwa-Tubosun launched LifeBank in Lagos to help hospitals find blood, and soon found she also had to build the way to deliver it.",
+  "story": {
+    "founder": "Temie Giwa-Tubosun",
+    "company": "LifeBank",
+    "event": "Launching a blood-finding app in Lagos and building a delivery service when hospitals had no way to collect blood",
+    "approx_date": "2016",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "healthcare (blood logistics)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "After a premature birth in 2014 showed Temie Giwa-Tubosun how quickly a mother can die without blood, she turned her blood-donation nonprofit into LifeBank, launched in Lagos around the start of 2016 as an app to help hospitals find blood. Finding hospitals had no way to fetch it, LifeBank built its own cold-chain delivery service, later using motorbike riders, and by her count moved 1,968 pints and blood products to 65 hospitals in its first year.",
+    "paragraphs": [
+      "On Valentine's Day 2014, in Minnesota, Temie Giwa-Tubosun's son was born seven weeks early by emergency caesarean, weighing about two pounds; mother and baby both needed intensive care. \"I realized how easy it would have been to die in Nigeria,\" she told Newsweek. Recovering, she looked up why women still die in childbirth. The commonest answer was bleeding after delivery, and what such a mother needs most, she later said, is the lost blood replaced quickly.",
+      "She already knew part of the problem. Since 2012 she had run the One Percent Project, a Nigerian nonprofit that encouraged voluntary blood donation. What she saw in Lagos, she said, was \"a surplus and a shortage of blood\" at once: banks discarding expired units while patients died for want of them. Around the start of 2016 she turned the charity into a company, LifeBank, backed by $25,000 in pre-seed money from Lagos's Co-Creation Hub and $15,000 from a private investor. She wanted to build systems rather than spend her days raising funds. The plan was software: an app showing hospitals which banks held which blood.",
+      "The hospitals did not behave like the plan. Busy staff preferred to phone, so LifeBank set up a call centre and took orders by text message and WhatsApp. And finding blood was not the same as getting it: hospitals sent ambulances, nurses on buses or bikes, or a patient's relatives to fetch it. \"When I launched LifeBank we had no plans for delivery whatsoever,\" she said in 2017. On-demand delivery did not exist in Lagos, so LifeBank built its own, which she called its biggest challenge, and not a cheap one. Screened blood travelled in boxes kept at about 10°C, locked with Bluetooth padlocks only the receiving hospital could open.",
+      "Early counts vary. Newsweek reported more than 800 pints moved by early December 2016; her own year-end report a few weeks later counted 1,968 pints and blood products delivered to 65 hospitals in about nine months. By 2019 its riders crossed Lagos traffic on motorbikes, guided by Google Maps, and the company said it delivered in about 45 minutes. In 2021 she said LifeBank had expanded to Kenya and Ethiopia."
+    ]
+  },
+  "quote": {
+    "text": "There were four things from which the Master was entirely free. He had no foregone conclusions, no arbitrary predeterminations, no obstinacy, and no egoism.",
+    "thinker": "Confucius (as described by his disciples)",
+    "work": "The Analects",
+    "locator": "Book IX (Tsze Han), Chapter 4",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius's disciples remembered him as free of foregone conclusions and obstinacy. Giwa-Tubosun launched with a firm plan for an app, then let busy nurses and a missing delivery network rewrite it, building a call centre and cold boxes she had never meant to build.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Plans for software tend to assume the people using it will meet it halfway. LifeBank's first users did not: they picked up the phone, and the real gap turned out to be a road, not a database. What made the company was a willingness to follow the problem where it actually led.",
+    "Building talQen, you know laboratories from the inside, which is an advantage and a risk. A busy bench scientist in a county hospital may want something you have not designed: a phone call, a printed sheet, a person to ask. It is worth finding out before the plan hardens."
+  ],
+  "invitation": "Ask one laboratory colleague how they would most like to report a problem to you: an app, a message or a call. Write their answer down before you decide anything.",
+  "sources": [
+    {
+      "title": "LifeBank is Tackling the Blood Shortage in Nigeria's Biggest City",
+      "publisher": "Newsweek (Conor Gaffey, 2 December 2016)",
+      "url": "http://www.newsweek.com/lifebank-nigeria-temie-giwa-tubosun-blood-donation-525882",
+      "kind": "independent-reporting",
+      "supports": "Birth of her son on Valentine's Day 2014 in Minnesota, seven weeks early and about 2 pounds, with mother and child in intensive care; 'I realized how easy it would have been to die in Nigeria'; One Percent Project founded in 2012 and turned into LifeBank; LifeBank launched in Lagos (dated December 2015); cool chain at 10 degrees Celsius and Bluetooth-padlocked boxes; only state-screened blood moved; more than 800 pints moved by early December 2016; $25,000 pre-seed from Co-Creation Hub and $15,000 from a private investor"
+    },
+    {
+      "title": "Temie Giwa speaks on LifeBank and health technology in Africa (archived copy)",
+      "publisher": "CPAfrica (Bimbola Segun-Amao, 10 May 2017); copy held by the Internet Archive",
+      "url": "https://web.archive.org/web/20171209044157/https://www.cp-africa.com/2017/05/10/temie-giwa/",
+      "kind": "founder-interview",
+      "supports": "LifeBank founded in January 2016 out of the One Percent Project; moving from an NGO so as not to spend her time raising funds; hospitals preferring to call, leading to a call centre, SMS and WhatsApp ordering; hospitals sending ambulances, nurses on a bus or bike, or relatives to collect blood; 'When I launched LifeBank we had no plans for delivery whatsoever'; on-demand delivery not existing in Lagos; delivery infrastructure as the biggest and costly challenge"
+    },
+    {
+      "title": "Health Startup, LifeBank, Has Now Delivered Over 2000 Pints Of Blood (archived copy)",
+      "publisher": "Konbini Nigeria (Odunayo Eweniyi, early 2017); copy held by the Internet Archive",
+      "url": "https://web.archive.org/web/20170305113331/http://www.konbini.com/ng/lifestyle/nigerias-lifebank-has-now-delivered-over-2000-pints-of-blood/",
+      "kind": "independent-reporting",
+      "supports": "Giwa-Tubosun's 2016 report card: 1,968 pints of blood and blood products moved to 65 hospitals in about nine months of operations; her tweet of 25 January 2017 that LifeBank had passed 2,000 pints"
+    },
+    {
+      "title": "LifeBank is powering blood donations in Nigeria through Google",
+      "publisher": "CNN (23 August 2019)",
+      "url": "https://www.cnn.com/2019/08/23/africa/lifebank-nigeria-intl/index.html",
+      "kind": "independent-reporting",
+      "supports": "Complications at seven months of pregnancy in 2014 and an emergency caesarean; her account that replacing lost blood is what matters most in postpartum haemorrhage; 'a surplus and a shortage of blood' quotation; LifeBank founded in 2016; dispatch riders on motorbikes with cold chain boxes, guided by Google Maps; delivery times cut to 45 minutes from up to three hours"
+    },
+    {
+      "title": "Combating blood shortage: Dispatch through motorbikes saves lives in Lagos, Abuja",
+      "publisher": "BusinessDay (Caleb Ojewale, 14 June 2019)",
+      "url": "https://businessday.ng/?p=325267",
+      "kind": "independent-reporting",
+      "supports": "LifeBank operating since 2016; delivery by motorbike; Google Maps helping riders avoid Lagos traffic; the company's claim of cutting delivery from 24 hours to 45 minutes; her research into why women still die in childbirth after a difficult pregnancy"
+    },
+    {
+      "title": "Nigeria: The Vision That Drives Lifebank Founder Temie Giwa-Tubosun",
+      "publisher": "allAfrica (Juanita Williams and Sethi Ncube, 16 November 2021)",
+      "url": "https://allafrica.com/stories/202111160599.html",
+      "kind": "founder-interview",
+      "supports": "Her difficult delivery as the spark; research during bed rest into postpartum haemorrhage; having to build delivery infrastructure that did not exist; temperature strips, blood boxes and Bluetooth padlocks; launch in Kenya and operations in Ethiopia by 2021"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "A complicated premature birth in 2014 led Giwa-Tubosun to focus on blood for haemorrhaging mothers",
+      "urls": [
+        "http://www.newsweek.com/lifebank-nigeria-temie-giwa-tubosun-blood-donation-525882",
+        "https://www.cnn.com/2019/08/23/africa/lifebank-nigeria-intl/index.html",
+        "https://businessday.ng/?p=325267"
+      ]
+    },
+    {
+      "claim": "LifeBank grew out of her One Percent Project and launched in Lagos around the start of 2016",
+      "urls": [
+        "http://www.newsweek.com/lifebank-nigeria-temie-giwa-tubosun-blood-donation-525882",
+        "https://web.archive.org/web/20171209044157/https://www.cp-africa.com/2017/05/10/temie-giwa/",
+        "https://www.cnn.com/2019/08/23/africa/lifebank-nigeria-intl/index.html"
+      ]
+    },
+    {
+      "claim": "LifeBank had to build its own delivery service because none existed for hospitals",
+      "urls": [
+        "https://web.archive.org/web/20171209044157/https://www.cp-africa.com/2017/05/10/temie-giwa/",
+        "https://allafrica.com/stories/202111160599.html"
+      ]
+    },
+    {
+      "claim": "Blood moved in cold boxes at about 10 degrees Celsius with Bluetooth padlocks",
+      "urls": [
+        "http://www.newsweek.com/lifebank-nigeria-temie-giwa-tubosun-blood-donation-525882",
+        "https://allafrica.com/stories/202111160599.html"
+      ]
+    },
+    {
+      "claim": "By 2019 LifeBank delivered by motorbike and said deliveries took about 45 minutes",
+      "urls": [
+        "https://www.cnn.com/2019/08/23/africa/lifebank-nigeria-intl/index.html",
+        "https://businessday.ng/?p=325267"
+      ]
+    },
+    {
+      "claim": "Early volumes: more than 800 pints by early December 2016, and 1,968 by her year-end count",
+      "urls": [
+        "http://www.newsweek.com/lifebank-nigeria-temie-giwa-tubosun-blood-donation-525882",
+        "https://web.archive.org/web/20170305113331/http://www.konbini.com/ng/lifestyle/nigerias-lifebank-has-now-delivered-over-2000-pints-of-blood/"
+      ]
+    }
+  ],
+  "research_notes": "Founding date: Newsweek (2016) says LifeBank launched in December 2015, when the One Percent Project became LifeBank; CPAfrica (2017) and BusinessDay (2020) say January 2016; CNN (2019) says 2016. The story says 'around the start of 2016'. The One Percent Project is dated July 2012 by Newsweek and 21 May 2012 by BusinessDay; the story says 2012. The birth: Newsweek says seven weeks early on Valentine's Day 2014 in Minnesota; CNN says complications at seven months of pregnancy and an emergency caesarean; the story combines these, which agree. Pints, the main conflicting figure: Newsweek reported more than 800 pints moved as of 2 December 2016, while Giwa-Tubosun's own year-end report (quoted by Konbini) gave 1,968 pints and blood products to 65 hospitals in about nine months; she tweeted on 25 January 2017 that the total had passed 2,000. Both are given, with who said what. Later company figures are not used: 'up to 900 lives' (2016 report), 14,000 units and an estimated 4,000 lives (BusinessDay 2019), up to 4,000 lives (CNN 2019). Delivery time: CPAfrica (2017) quotes 55 minutes; CNN (2019) and BusinessDay (2019) give the company's 45 minutes, against up to three hours (CNN) or 24 hours (BusinessDay) before. The story uses 'about 45 minutes', as the company's own claim for 2019. Hospitals: 65 at the end of 2016, about 300 with about 100 active by May 2017 (CPAfrica), more than 300 by 2019 (CNN); only the first is used. Motorbikes are documented in 2019 coverage (CNN, BusinessDay); 2016-17 sources describe a logistics team, cold boxes and the need to build delivery without naming the vehicles, so the story dates the motorbikes to 2019. The CPAfrica site is offline and is cited from the Internet Archive, as is Konbini. The allAfrica article appears alongside promotion for Prosper Africa and is used only for her own quoted statements and the Kenya and Ethiopia expansion. talQen is mentioned in the reflection because LifeBank's work is blood-bank logistics and the lesson concerns how busy hospital staff actually order. Quote: Analects IX.4 is the disciples' description of Confucius, not his own saying; the thinker field says so.",
+  "researched_at": "2026-11-01"
+}

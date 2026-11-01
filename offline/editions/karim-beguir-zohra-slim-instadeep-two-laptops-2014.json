@@ -1,0 +1,125 @@
+{
+  "id": "karim-beguir-zohra-slim-instadeep-two-laptops-2014",
+  "title": "Two Laptops, $2,000 and an AI Start-up in Tunisia",
+  "dek": "In 2014 a mathematician left a finance job in London and, with a Tunisian software engineer, started an AI company at home where almost nobody was buying AI.",
+  "story": {
+    "founder": "Karim Beguir, Zohra Slim",
+    "company": "InstaDeep",
+    "event": "Leaving finance to start an AI company in Tunisia with two laptops and $2,000",
+    "approx_date": "2014",
+    "country": "Tunisia",
+    "region": "North Africa",
+    "industry": "software (artificial intelligence)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In 2014 Karim Beguir left a finance job in London, returned to Tunisia and, with software engineer Zohra Slim, started the AI company InstaDeep with two laptops and $2,000. Tunisian companies would not pay for AI, so after a first product that authenticated luxury goods they sold abroad, funding the company from client revenue until a $7 million Series A in 2019. BioNTech bought InstaDeep in 2023.",
+    "paragraphs": [
+      "In 2014 Karim Beguir, a mathematician who had spent his career in finance with banks in Europe and the United States, left his job in London and went home to Tunisia. He had grown up in Tataouine, a remote town at the edge of the Sahara where, he once said, there were few opportunities and books meant everything. He gave himself five years to try entrepreneurship.",
+      "What he had was an idea from a research paper and a partner. After reading about convolutional neural networks, the technique behind visual AI, he and Zohra Slim, a Tunisian software engineer, decided to \"take a stab at it\". InstaDeep began, he said, with \"two laptops, $2,000 and a lot of enthusiasm.\" Their first system let people scan luxury watches and bags to judge whether they were genuine. When he said they would do work at the level of Google and DeepMind, he later told AFP, \"everyone laughed in my face.\"",
+      "Home turned out not to be a market yet. Tunisian companies treated AI as science fiction, Beguir recalled, and local sales came to only a few thousand dollars. About a year after building the authentication system, they sold it to a client in London, and they turned outward. They did not raise money: from 2014 to 2018 the founders reinvested client revenue in hiring and growth. \"InstaDeep started as a bootstrap, so from day one listening to our clients and exceeding their expectations was a must,\" he said in 2019. The company was incorporated in Britain, where he knew the clients and investors, while much of the engineering stayed in Tunis.",
+      "The work moved from images to decisions, with systems for ride-hailing and trucking logistics that adapted DeepMind's game-playing methods, and research that led to collaborations with DeepMind and Google. In 2019 InstaDeep raised its first outside money, a $7 million Series A led by AfricInvest, with more than 30 people in Tunis. In 2023 BioNTech, its partner on cancer vaccines and on spotting dangerous Covid-19 variants, bought the company, in a deal reported at between $682 million and $700 million."
+    ]
+  },
+  "quote": {
+    "text": "In a place where there are no men, strive to be a man",
+    "thinker": "Hillel (in Pirkei Avot)",
+    "work": "Pirkei Avot (Sayings of the Fathers)",
+    "locator": "Chapter II, 6",
+    "translator": "Joseph I. Gorfinkle (1913)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/8547/pg8547.txt",
+    "source_title": "Pirke Avot: The Sayings of the Jewish Fathers, tr. Joseph I. Gorfinkle, Project Gutenberg eBook #8547",
+    "connection": "When Beguir went home, Tunisia had almost no start-up scene and no AI firms to learn from or join. Hillel's advice is for exactly that position: where nobody is yet doing the work, do not wait for someone better qualified to arrive.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Beguir gave himself five years. That limit did two things. It made leaving a secure job bearable, and it set a date for an honest look at whether to carry on. Many people who start something in a place with few precedents do it without such a line, and carry the doubt every day instead.",
+    "You may be one of the few people near you doing the kind of work you do. Hillel does not ask you to be heroic about it, only to be the person the place needs, for a stretch of time you choose. Choosing the stretch is part of the work, and so is resting inside it."
+  ],
+  "invitation": "Pick the date when you will next take an honest look at whether your work is going the way you hoped. Put it in your calendar, then let the question rest until that day comes.",
+  "sources": [
+    {
+      "title": "InstaDeep is Africa's biggest startup with a $682 million acquisition (interview with Karim Beguir, 2024)",
+      "publisher": "Rest of World",
+      "url": "https://restofworld.org/2024/instadeep-africa-ai-startup-acquisition/",
+      "kind": "founder-interview",
+      "supports": "Career in finance with banks in Europe and the US; left a job in London in 2014 and moved back to Tunisia (Tataouine); reading a paper on convolutional neural networks; Zohra Slim as a Tunisian software engineer and co-founder; 'take a stab at it'; the first system for scanning luxury watches and bags to check authenticity, sold a year later to a client in London; disbelief at AI in Tunisia; local companies saw AI as science fiction and local sales were a few thousand dollars, so they looked outside; five years given to entrepreneurship; logistics systems for ride-hailing and trucking adapting DeepMind's game-playing ideas; collaborations with DeepMind and Google; incorporating in the UK; working with BioNTech on cancer vaccines and Covid-19 variants; $682 million acquisition by BioNTech."
+    },
+    {
+      "title": "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google (Tage Kene-Okafor, 25 January 2022)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+      "kind": "independent-reporting",
+      "supports": "Founded by Beguir and Slim in 2014; bootstrapped from 2014 to 2018 with client revenue reinvested in talent and expansion; 'two laptops, $2,000 and a lot of enthusiasm'; doubts in the African tech scene about working with DeepMind and Google; the $7 million Series A in 2019; joint research with DeepMind and Google."
+    },
+    {
+      "title": "InstaDeep CEO takes AI from Tunis to London (AFP, 22 April 2024)",
+      "publisher": "Gulf Times",
+      "url": "https://www.gulf-times.com/article/681095/international/instadeep-ceo-takes-ai-from-tunis-to-london",
+      "kind": "independent-reporting",
+      "supports": "Launched in Tunisia in 2014 with two computers and $2,000; co-founded with Zohra Slim, a self-taught IT enthusiast; 'everyone laughed in my face'; Beguir grew up in Tataouine and worked in financial engineering before founding InstaDeep; BioNTech bought InstaDeep for $700 million by 2023; work with BioNTech on Covid-19 variants."
+    },
+    {
+      "title": "Tunisia-founded enterprise AI startup InstaDeep raises $7 million Series A (12 May 2019)",
+      "publisher": "MENAbytes",
+      "url": "https://www.menabytes.com/instadeep-series-a/",
+      "kind": "independent-reporting",
+      "supports": "Founded in Tunis in 2014 by Beguir and Slim; 'humble beginnings in Tunisia as a bootstrap in 2014'; $7 million Series A led by AfricInvest with Endeavor Catalyst; headquarters moved to London with more than 30 people still in Tunis; Slim as co-founder and CTO."
+    },
+    {
+      "title": "InstaDeep Raises $7M To Empower Companies with AI-Powered Decision Making Systems (interview with Karim Beguir, 2019)",
+      "publisher": "London TechWatch",
+      "url": "https://londontechwatch.com/?p=7715",
+      "kind": "founder-interview",
+      "supports": "Beguir grew up in a small town at the limits of the Sahara where books and knowledge became everything; 'InstaDeep started as a bootstrap, so from day one listening to our clients and exceeding their expectations was a must'; the Series A led by AfricInvest with Endeavor."
+    },
+    {
+      "title": "L'odyssée exceptionnelle d'InstaDeep tissée par le Tunisien Karim Beguir (AFP, 21 April 2024)",
+      "publisher": "African Manager",
+      "url": "https://africanmanager.com/lodyssee-exceptionnelle-dinstadeep-tissee-par-le-tunisien-karim-beguir/",
+      "kind": "independent-reporting",
+      "supports": "French version of the AFP report: launched in Tunisia in 2014 with two computers and $2,000; co-founded with Zohra Slim; everyone laughed when he said they would work at the level of the big tech firms; acquired by BioNTech in 2023 for $700 million."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Beguir and Slim founded InstaDeep in Tunisia in 2014 with two laptops and $2,000.",
+      "urls": [
+        "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+        "https://www.gulf-times.com/article/681095/international/instadeep-ceo-takes-ai-from-tunis-to-london"
+      ]
+    },
+    {
+      "claim": "InstaDeep was bootstrapped on client revenue until its 2019 Series A of $7 million led by AfricInvest.",
+      "urls": [
+        "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+        "https://www.menabytes.com/instadeep-series-a/",
+        "https://londontechwatch.com/?p=7715"
+      ]
+    },
+    {
+      "claim": "Beguir left a finance career in London in 2014 to start the company in Tunisia.",
+      "urls": [
+        "https://restofworld.org/2024/instadeep-africa-ai-startup-acquisition/",
+        "https://www.gulf-times.com/article/681095/international/instadeep-ceo-takes-ai-from-tunis-to-london"
+      ]
+    },
+    {
+      "claim": "Early ambitions to match the big AI labs were met with disbelief.",
+      "urls": [
+        "https://www.gulf-times.com/article/681095/international/instadeep-ceo-takes-ai-from-tunis-to-london",
+        "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+        "https://restofworld.org/2024/instadeep-africa-ai-startup-acquisition/"
+      ]
+    },
+    {
+      "claim": "BioNTech acquired InstaDeep in 2023, in a deal reported at $682 million to $700 million.",
+      "urls": [
+        "https://restofworld.org/2024/instadeep-africa-ai-startup-acquisition/",
+        "https://www.gulf-times.com/article/681095/international/instadeep-ceo-takes-ai-from-tunis-to-london"
+      ]
+    }
+  ],
+  "research_notes": "Place: the slate said Tunis. MENAbytes (2019) says InstaDeep was founded in Tunis; Rest of World (2024) says Beguir moved back to his hometown of Tataouine in 2014; AFP says only 'in Tunisia'. The story says he went home to Tunisia and that much of the engineering stayed in Tunis, without naming the city of founding. Founding year: an InstaDeep and Endeavor press release of 2019 (PDF) gives 2015, but TechCrunch, MENAbytes, AFP, Rest of World and the company's own 2019 statement give 2014, which is used. Starting resources: TechCrunch quotes 'two laptops'; AFP says 'two computers'; both give $2,000. Headquarters: Rest of World says it moved to London in 2015; the story says only that the company was incorporated in Britain. Acquisition value: Rest of World says $682 million; AFP says $700 million; Wikipedia gives EUR 636 million; BioNTech's own release could not be loaded. The story gives the $682-700 million range as reported. Zohra Slim is described as a software engineer (Rest of World), a self-taught IT enthusiast (AFP) and co-founder and CTO (MENAbytes); the story uses 'software engineer'. Beguir's line about books and knowledge is paraphrased from London TechWatch. The 'laughed in my face' quotation is AFP's English translation. Hillel's saying is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

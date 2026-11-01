@@ -1,0 +1,15 @@
+{
+  "key": "na-blackwell-infirmary",
+  "status": "done",
+  "file": "offline/editions/elizabeth-emily-blackwell-new-york-infirmary-1857.json",
+  "title": "Two Pairs of Half-Knit Stockings and a Hospital Run by Women",
+  "region": "North America",
+  "industry": "healthcare (hospital)",
+  "arc": "founding-decision",
+  "funding": "nonprofit",
+  "tradition": "Hindu",
+  "thinker": "Rabindranath Tagore",
+  "talqen": false,
+  "conflicts": "Opening date: Elizabeth Blackwell's memoir says only May 1857; Zakrzewska's memoir says 1 May 1857; EBSCO and the NYC LGBT Historic Sites Project say 12 May 1857. Story says May 1857. Opening speakers differ between the two memoirs (only Beecher, named in both, is used). Emily's return from Europe: 1856 (Elizabeth) vs a few weeks before the opening (Zakrzewska); story avoids a date.",
+  "notes": "Zakrzewska added as co-founder (both memoirs and NLM treat her as a founding physician). Several vivid details (stockings, speaking ban, crowd with pickaxes) rest on Zakrzewska's memoir alone and are attributed. Address 64 Bleecker Street (now 58). Healthcare story but talQen not mentioned, per assignment."
+}

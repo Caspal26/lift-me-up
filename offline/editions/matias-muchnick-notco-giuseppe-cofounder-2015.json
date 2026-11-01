@@ -1,0 +1,125 @@
+{
+  "id": "matias-muchnick-notco-giuseppe-cofounder-2015",
+  "title": "The Stranger's Office Where NotCo's Algorithm Began",
+  "dek": "In March 2015 a Chilean former banker with no scientific training asked an AI researcher he had never met to help him design food with software.",
+  "story": {
+    "founder": "Matías Muchnick, Karim Pichara, Pablo Zamora",
+    "company": "NotCo (The Not Company)",
+    "event": "Recruiting an AI researcher to build Giuseppe, a recipe algorithm for plant-based food",
+    "approx_date": "2015-03",
+    "country": "Chile",
+    "region": "Latin America",
+    "industry": "food (plant-based, food technology)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In 2015 Matías Muchnick, a Chilean economics graduate who had run a vegan mayonnaise firm, persuaded the computer scientist Karim Pichara to build an AI system, Giuseppe, that would propose plant-based recipes imitating animal foods; the plant scientist Pablo Zamora became the third co-founder. NotCo's first product, NotMayo, took more than a hundred attempts; the company later raised venture money including from Bezos Expeditions, and in 2026 agreed to sell its Argentine and Uruguayan consumer business to focus on licensing its technology.",
+    "paragraphs": [
+      "In March 2015, by his own account, Matías Muchnick walked into the office of a man he had never met and expected to be turned down. Muchnick, an economics graduate who had worked in banking, had just left Eggless, a vegan mayonnaise firm that began in a friend's garage in Chile. The man was Karim Pichara, an engineering professor at the Catholic University of Chile who also did AI research at Harvard and was then applying it to astronomy. \"I thought there was zero chance of convincing Karim to jump on board this thing,\" Muchnick later told SOSV, which became an investor.",
+      "What he knew was partial. Food research, he had concluded, was slow: \"It's literally two people in lab coats doing trial and error.\" At an entrepreneurship programme at the University of California, Berkeley, he had learned that drug companies used AI to find new medicines and formulations, and wondered whether food could work the same way. He was not a scientist, not a vegan, and knew little about plants. He chose to build the company around software that would search plant ingredients for combinations that behaved like animal foods, and to win over meat eaters on taste.",
+      "Pichara agreed, and in June 2015 they began building the algorithm they called Giuseppe. It soon ran short of data on plant molecules, so Muchnick sought out Pablo Zamora, a Chilean biotechnologist specialising in plants, who became the third co-founder. Early results were odd. Muchnick told BBC Mundo that the first thing out was a purple milk that tasted of milk, so they had to teach the algorithm that people dislike that colour; he has also described a mayonnaise with the right flavour that came out pink. The mayonnaise took about two years and more than a hundred attempts.",
+      "NotMayo reached Chilean supermarkets in 2016 by SOSV's account, or 2017 by Expansión's. After SOSV's IndieBio programme in San Francisco, Kaszek led a $3 million seed round, and in 2019 Bezos Expeditions joined a $30 million round. The company was later valued above $1 billion. In June 2026 NotCo agreed to sell its Argentine and Uruguayan consumer business to Molinos Río de la Plata; Forbes Argentina called it part of a shift towards licensing Giuseppe to other food companies."
+    ]
+  },
+  "quote": {
+    "text": "The sacrifice Which Knowledge pays is better than great gifts Offered by wealth, since gifts' worth--O my Prince! Lies in the mind which gives, the will that serves: And these are gained by reverence, by strong search, By humble heed of those who see the Truth And teach it.",
+    "thinker": "Bhagavad Gita",
+    "work": "The Bhagavad Gita (The Song Celestial)",
+    "locator": "Chapter IV",
+    "translator": "Sir Edwin Arnold (1885)",
+    "tradition": "Hindu",
+    "source_url": "https://www.gutenberg.org/cache/epub/2388/pg2388.txt",
+    "source_title": "The Song Celestial; Or, Bhagavad-Gîtâ, tr. Sir Edwin Arnold, Project Gutenberg eBook #2388",
+    "connection": "The Gita ranks the offering of knowledge above gifts of wealth, and says it comes through strong search and humble attention to those who see clearly. Muchnick, a former banker without scientific training, began not with money but by asking a stranger who knew what he did not.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Muchnick's first real step was not a business plan. It was walking into a stranger's office expecting a refusal, because he knew which part of the work he could not do himself.",
+    "You may have a question you have not asked because you assume the answer will be no, or because asking would show what you do not yet know. A refusal costs one awkward afternoon. Not asking can cost months spent trying to work out alone what someone else already understands."
+  ],
+  "invitation": "Name one person who knows something you need and whom you have hesitated to approach. Write them a short, plain message asking for twenty minutes, and send it today or tomorrow, whichever feels steadier.",
+  "sources": [
+    {
+      "title": "The AI that powers plant-based food darling NotCo",
+      "publisher": "SOSV (investor in NotCo through its IndieBio programme)",
+      "url": "https://sosv.com/the-ai-that-powers-plant-based-food-darling-notco/",
+      "kind": "founder-interview",
+      "supports": "March 2015 visit to Karim Pichara's office, whom Muchnick had never met; Pichara a computer science professor at UC-Chile and AI researcher at Harvard, then applying AI to astronomy; the 'zero chance' and 'two people in lab coats' quotations; Muchnick's economics degree and banking internship; Eggless Company started in a friend's garage, exited in 2015; the Berkeley bootcamp and the pharmaceutical AI idea; Giuseppe begun in June 2015; lack of plant-molecule data; introduction to Pablo Zamora, a biotechnology professor specialising in plant physiology, who became a co-founder; NotMayo delivered to Chilean supermarkets through 2016; IndieBio and a $3 million seed round led by Kaszek; aim to win mass-market omnivores."
+    },
+    {
+      "title": "Matías Muchnick, de parrillero a CEO de NotCo",
+      "publisher": "Expansión (Nancy Malacara, 24 May 2024)",
+      "url": "https://expansion.mx/carrera/2024/05/24/matias-muchnick-de-parrillero-a-ceo-de-notco",
+      "kind": "founder-interview",
+      "supports": "NotCo born in 2015; NotMayo took two years and more than 100 attempts and was the debut product in 2017; the pink mayonnaise; Muchnick not vegan or vegetarian and knowing nothing of plant combinations; economics at the University of Chile; J.P. Morgan in Hong Kong."
+    },
+    {
+      "title": "NotCo, la empresa chilena que produce «comida algorítmica» (y en la que invirtió Jeff Bezos)",
+      "publisher": "BBC News Mundo, republished by El Mostrador (5 September 2019)",
+      "url": "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/",
+      "kind": "independent-reporting",
+      "supports": "Founded in Santiago by Muchnick, Pichara and Zamora; Muchnick's study at Berkeley after finding food R&D in Chile poor; Pichara's AI work in astrophysics; Zamora a biotechnologist and plant-genomics expert; the first output a purple milk that tasted like milk; a $30 million round in 2019 with Jeff Bezos among the investors; 125 employees."
+    },
+    {
+      "title": "Dejó el mundo financiero para vender mayonesa vegana y convenció a Jeff Bezos de poner millones: cómo lo hizo",
+      "publisher": "El Cronista (Eugenia Iglesias, 21 July 2021)",
+      "url": "https://www.cronista.com/apertura/emprendedoress/dejo-el-mundo-financiero-para-vender-mayonesa-vegana-y-convencio-a-jeff-bezos-de-poner-millones-como-lo-hizo",
+      "kind": "independent-reporting",
+      "supports": "NotCo founded in Chile in 2015; Eggless sold before NotCo; JP Morgan in Hong Kong; studies at Berkeley and Harvard; Bezos Expeditions joining a $30 million round in 2019; Kaszek among the first venture investors."
+    },
+    {
+      "title": "Innovación en la UC: 100 casos de alto impacto",
+      "publisher": "Pontificia Universidad Católica de Chile",
+      "url": "https://www.uc.cl/noticias/innovacion-en-la-uc-100-casos-de-alto-impacto/",
+      "kind": "independent-reporting",
+      "supports": "NotCo's algorithm created by Karim Pichara, professor at the UC School of Engineering."
+    },
+    {
+      "title": "Molinos Río de la Plata adquiere la operación de NotCo en Argentina y Uruguay",
+      "publisher": "Forbes Argentina (Cecilia Valleboni, 10 June 2026)",
+      "url": "https://www.forbesargentina.com/negocios/molinos-rio-plata-adquiere-operacion-notco-argentina-uruguay-n92211",
+      "kind": "independent-reporting",
+      "supports": "Agreement for Molinos to buy 100% of NotCo's Argentine and Uruguayan operations, subject to approvals; NotCo's shift towards software and technology licensing (B2B) with Giuseppe; earlier unicorn valuation above $1 billion; Bezos Expeditions as an investor."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "NotCo was founded in Chile in 2015 by Matías Muchnick, Karim Pichara and Pablo Zamora.",
+      "urls": [
+        "https://sosv.com/the-ai-that-powers-plant-based-food-darling-notco/",
+        "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/",
+        "https://www.cronista.com/apertura/emprendedoress/dejo-el-mundo-financiero-para-vender-mayonesa-vegana-y-convencio-a-jeff-bezos-de-poner-millones-como-lo-hizo"
+      ]
+    },
+    {
+      "claim": "The decision: Muchnick, with no scientific background, recruited Pichara, who had been applying AI to astronomy, to build an algorithm for plant-based recipes.",
+      "urls": [
+        "https://sosv.com/the-ai-that-powers-plant-based-food-darling-notco/",
+        "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/",
+        "https://expansion.mx/carrera/2024/05/24/matias-muchnick-de-parrillero-a-ceo-de-notco"
+      ]
+    },
+    {
+      "claim": "Muchnick's idea came during study at UC Berkeley after running a vegan mayonnaise business.",
+      "urls": [
+        "https://sosv.com/the-ai-that-powers-plant-based-food-darling-notco/",
+        "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/"
+      ]
+    },
+    {
+      "claim": "Early algorithmic results had the right taste but the wrong colour (a purple milk; a pink mayonnaise).",
+      "urls": [
+        "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/",
+        "https://expansion.mx/carrera/2024/05/24/matias-muchnick-de-parrillero-a-ceo-de-notco"
+      ]
+    },
+    {
+      "claim": "Bezos Expeditions invested in NotCo in a $30 million round in 2019.",
+      "urls": [
+        "https://www.elmostrador.cl/mercados/2019/09/05/notco-la-empresa-chilena-que-produce-comida-algoritmica-y-en-la-que-invirtio-jeff-bezos/",
+        "https://www.cronista.com/apertura/emprendedoress/dejo-el-mundo-financiero-para-vender-mayonesa-vegana-y-convencio-a-jeff-bezos-de-poner-millones-como-lo-hizo"
+      ]
+    }
+  ],
+  "research_notes": "How Muchnick met Pichara is told two ways. SOSV, quoting Muchnick, says he went to Pichara's office in March 2015 having never met him; BBC News Mundo (2019) and El Cronista (2021) say he met Pichara while on a programme at Harvard. SOSV also says Pichara was an AI researcher at Harvard as well as a professor in Chile, which may explain both versions. The story uses SOSV's account, attributed to Muchnick, and does not say where the office was. SOSV is an investor in NotCo, so its account is treated as the founder's own telling rather than independent reporting. First product: SOSV says NotChocolate was pitched to Hershey first but NotMayo was the first commercial product, delivered to Chilean supermarkets through 2016; Expansión says NotMayo debuted in 2017; the story gives both. Kaszek's own site gives 2016 as the founding year; other sources say 2015; the story dates the episode by SOSV's March and June 2015. Zamora is described variously as a biotechnology professor at UC Davis specialising in plant physiology (SOSV), a doctor in biotechnology and plant-genomics expert (BBC Mundo) and a biochemist (El Cronista); the story says 'a biotechnologist specialising in plants'. The early oddities differ by account (purple milk to BBC Mundo; pink mayonnaise to Expansión); the story gives both, attributed. Funding totals vary by date (El Cronista: $135 million in three rounds by 2021; SOSV: a reported $443 million at a reported $1.5 billion valuation); the story uses only the 2019 round and 'valued above $1 billion' from Forbes Argentina. Zamora moved to an advisory role in 2020 (Diario Financiero), not included. The Molinos sale was announced on 10 June 2026 and was subject to approvals; the story says NotCo 'agreed to sell'. Spelling: several sources write 'Muchnik'; the story uses 'Muchnick'. The Gita passage concerns sacrifice and knowledge in Krishna's teaching to Arjuna (verses 33-34 of Chapter IV in the usual numbering), applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

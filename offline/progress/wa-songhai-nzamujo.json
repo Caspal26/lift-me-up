@@ -1,0 +1,15 @@
+{
+  "key": "wa-songhai-nzamujo",
+  "status": "done",
+  "file": "offline/editions/godfrey-nzamujo-songhai-porto-novo-1985.json",
+  "title": "Seven People, One Hectare and Hand-Dug Wells at Porto-Novo",
+  "region": "West Africa",
+  "industry": "agriculture",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Confucian",
+  "thinker": "Confucius",
+  "talqen": false,
+  "conflicts": "Founding year is 1985 (AFP, Jeune Afrique, BusinessDay) or 1984 (UN in Benin, 2015); 1985 is used. Area by 2014-15 is 24 ha (AFP) or 25 ha (Jeune Afrique); AFP's figure is used. Training numbers differ by source and date (about 400 apprentices a year per AFP; about 3,500 trained in all per BusinessDay 2014); the annual figure is used. Background varies (raised in California per AFP; engineer of Nigerian origin who left California per Jeune Afrique; trained in the US per the UN), so the story says he studied in the US and lived in California. Rice-yield figures are Songhai's own, attributed.",
+  "notes": "The founding details (one hectare, abandoned land given by the government, seven people digging wells) rest on Nzamujo's own account in a single AFP report (Phys.org and FreshPlaza carry the same report). Funding set to 'mixed' rather than the slate's 'nonprofit', because no cited source documents a charitable structure or how the 1985 start was paid for; the land came from the state and the centre later earned revenue from sales. Company field set to 'Songhai' because the word 'Centre' matched an unrelated organisation (Tilganga Eye Centre) in the repeat screen. Jeune Afrique and UN quotations are in French and are paraphrased. Searches for this entry: 6."
+}

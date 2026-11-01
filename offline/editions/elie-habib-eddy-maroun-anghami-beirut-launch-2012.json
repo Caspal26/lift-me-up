@@ -1,0 +1,150 @@
+{
+  "id": "elie-habib-eddy-maroun-anghami-beirut-launch-2012",
+  "title": "Pirating the Pirates: Anghami's Paid-For Launch in Lebanon",
+  "dek": "In 2012 two Lebanese founders licensed a music catalogue, built for slow networks and asked listeners who had never paid for music to pay five dollars a month.",
+  "story": {
+    "founder": "Elie Habib and Eddy Maroun",
+    "company": "Anghami",
+    "event": "Launching a licensed music streaming app in Lebanon, mobile first",
+    "approx_date": "2012-11",
+    "country": "Lebanon",
+    "region": "Middle East",
+    "industry": "media (music streaming)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "Eddy Maroun and Elie Habib, who had worked together on mobile ringtones, set out to offer the Arab world a legal alternative to music piracy. Backed by Middle East Venture Partners, which had put in $1 million by November 2012, they built a phone app before a website, licensed Arabic and international catalogues at prices adjusted to the region, including a three-year exclusive with Rotana, and launched Anghami on the iPhone on 5 November 2012 with free hours and a $5 premium tier. Within about three months Wamda reported half a million users; payment through mobile operators followed, and Anghami listed on Nasdaq in February 2022.",
+    "paragraphs": [
+      "At a technology conference in 2010, Eddy Maroun wrote one word in his notebook: piracy. He and Elie Habib had worked together since the ringtone fad around the turn of the century, when Habib hired Maroun to compose tunes for mobile phones. By then, Maroun later told the BBC, piracy was killing the economics of producing music, and producers were making almost nothing.",
+      "Their plan was a legal streaming service for the Arab world, and they knew its weak points. Lebanon's internet was notoriously slow. Streaming licences were familiar to international labels, Maroun said, but new to Arabic ones, and listeners in the region were not used to paying for music. Both men left their jobs and put in their own money, which Maroun said showed labels and investors they were serious. A Beirut venture firm, Middle East Venture Partners, backed them; by November 2012 it had put in $1 million.",
+      "Two choices shaped the launch. The slow internet pushed them to build the phone app before the website. \"We decided to go the Instagram way – launch mobile first, and then Web,\" Maroun told The Next Web in May 2012. And they paid for the music, persuading labels including Rotana, Melody, Sony, EMI and Warner to accept less than they would from a Western startup, because Arab listeners had less to spend. Rotana's deal was a three-year exclusive. The labels took months longer than expected. On 5 November 2012 Anghami launched on the iPhone, with several free hours a month and unlimited music for $5. \"We're pirating the pirates,\" Maroun had told Wamda.",
+      "That month, in a small office in Jounieh, north of Beirut, Habib told a reporter: \"There's no such thing as an overnight success.\" About three months after launch Wamda counted half a million users, 30 per cent of them listening daily, and a team of eleven. Getting people to pay took longer. \"They never had the culture of paying for music,\" Maroun said in 2022. With few credit cards in the region, what worked was billing through mobile operators, starting with Orange in Jordan. In February 2022 Anghami began trading on Nasdaq, the first technology startup from the region to list there."
+    ]
+  },
+  "quote": {
+    "text": "Tsze-kung said, 'There is a beautiful gem here. Should I lay it up in a case and keep it? or should I seek for a good price and sell it?' The Master said, 'Sell it! Sell it! But I would wait for one to offer the price.'",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book IX, Chapter XII",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius would sell the gem, but only to someone who offered the price. Anghami's founders believed their catalogue was worth paying for, yet in a region that had never paid for music they could not simply wait; they had to build the ways to pay. The passage leaves open which instinct is wiser.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Habib and Maroun did the slow, expensive part first. They signed licences before they had a single listener, in a market where nobody had to pay for music at all, and then found that a good product was not enough: people needed an easy way to pay.",
+    "You live in a country where paying by phone changed who could buy what, so this may feel familiar. Confucius would sell the gem and wait for the buyer. Sometimes waiting is dignity; sometimes the buyer simply has no way to reach you. It helps to know which of the two you are facing."
+  ],
+  "invitation": "Think of one person who values your work but has not yet said yes to it. Write down what, specifically, makes saying yes awkward for them, and leave the fix for another day.",
+  "sources": [
+    {
+      "title": "How we started the Arab world's biggest music service",
+      "publisher": "BBC News (Carolina Valladeres, 30 January 2017)",
+      "url": "https://www.bbc.com/news/business-38664037",
+      "kind": "founder-interview",
+      "supports": "Maroun's notebook entry 'Piracy' at a 2010 technology conference; piracy killing the economics of producing music; the founders' ringtone work, Maroun composing and Habib on technology and distribution; streaming new to Arabic labels; both founders quit their jobs and invested their own money, which Maroun said reassured labels and investors; launch in 2012; Habib on the region's notoriously bad internet"
+    },
+    {
+      "title": "Anghami: The journey of launching an unlimited music streaming service in the Middle East",
+      "publisher": "The Next Web (Nancy Messieh, 26 May 2012)",
+      "url": "https://thenextweb.com/news/anghami-the-journey-of-launching-an-unlimited-music-streaming-service-in-the-middle-east",
+      "kind": "independent-reporting",
+      "supports": "Lebanon's internet among the slowest worldwide; deals with Rotana, Mazzika, Melody, Sony and EMI, Warner in the works; switch from a Web-first plan to an iPhone app first and Maroun's 'go the Instagram way' quotation; content rights as a new model in the region; Maroun on the difficulty of establishing, recruiting and raising funds as a Middle East startup; MEVP backing in March 2012; Dolby Pulse encoding and offline listening"
+    },
+    {
+      "title": "Lebanon's Anghami Launches the First Music Streaming Platform for the Middle East",
+      "publisher": "Wamda (Nina Curley, 5 November 2012)",
+      "url": "https://www.wamda.com/2012/11/lebanons-anghami-launches-the-first-music-streaming-platform-for-the-middle-east-promocode-included",
+      "kind": "independent-reporting",
+      "supports": "Launch on iPhone on 5 November 2012; several free hours of mobile streaming a month; $5 a month premium with unlimited and offline music; Maroun's 'We're pirating the pirates' (said to Wamda at Arabnet that spring); exclusive three-year Rotana contract; licences from Mazzika, Melody, Warner, Sony and EMI at a substantial licensing cost; Dolby encoding for poor networks; $1 million in MEVP funding; founders Elie Habib and Eddy Maroun"
+    },
+    {
+      "title": "Connecting the world though music",
+      "publisher": "The Daily Star, Beirut (Brooke Anderson, 19 November 2012), Internet Archive copy",
+      "url": "https://web.archive.org/web/20131228171250/http://www.dailystar.com.lb/Business/Lebanon/2012/Nov-19/195447-connecting-the-world-though-music.ashx",
+      "kind": "founder-interview",
+      "supports": "Interview with both founders in their small Jounieh office: Habib hired Maroun to compose ringtones; $1 million from MEVP announced in November 2012 and a partnership with Orange in Jordan; team of 10; the team left full-time jobs; Maroun: people are not used to buying music; slow internet led them to build the phone app before the Web version; labels including Rotana, Melody, Platinum, Sony, EMI, Warner and Universal persuaded to accept less money because of lower purchasing power; months more waiting than expected on labels; Habib: no such thing as an overnight success"
+    },
+    {
+      "title": "Can Anghami Fend Off Deezer's Entrance into the Arab Music Market?",
+      "publisher": "Wamda (Aline Mayard, 12 February 2013)",
+      "url": "https://www.wamda.com/2013/02/can-anghami-fend-off-deezer-s-entrance-into-the-arab-music-market",
+      "kind": "independent-reporting",
+      "supports": "Half a million users in about three months, 30 per cent using it daily; team of 11; labels secured before launch; exclusive three-year Rotana streaming contract for Lebanon, the UAE and Saudi Arabia; partnership with Orange in Jordan; Habib quoted on competition"
+    },
+    {
+      "title": "Anghami: Success built on localisation",
+      "publisher": "Wamda (Triska Hamid, 10 February 2022)",
+      "url": "https://www.wamda.com/2022/02/anghami-success-built-localisation",
+      "kind": "founder-interview",
+      "supports": "Maroun on the difficulty of getting people to pay ('They never had the culture of paying for music'); low credit-card penetration; direct billing through mobile operators, the first being Orange in Jordan; $1 million from MEVP and licences with major labels; began trading on Nasdaq on 4 February 2022 as the first regional tech startup to list there"
+    },
+    {
+      "title": "Top 30 Leaders 2021: #8 Eddy Maroun / Elie Habib",
+      "publisher": "Communicate (2021)",
+      "url": "https://communicateonline.me/?p=4577",
+      "kind": "founder-interview",
+      "supports": "Anghami conceived as an alternative to piracy; launch in 2012 out of Beirut; $1 million from MEVP; licences with Rotana, Sony, Universal, EMI and Warner; Habib's earlier roles at Naharnet and PowerMeMobile; Nasdaq listing as the region's first tech startup; Habib's own answers on risk and leadership"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Anghami launched in Beirut in 2012 (on the iPhone on 5 November 2012), founded by Elie Habib and Eddy Maroun",
+      "urls": [
+        "https://www.wamda.com/2012/11/lebanons-anghami-launches-the-first-music-streaming-platform-for-the-middle-east-promocode-included",
+        "https://www.bbc.com/news/business-38664037",
+        "https://communicateonline.me/?p=4577"
+      ]
+    },
+    {
+      "claim": "The service was conceived as a legal alternative to music piracy",
+      "urls": [
+        "https://www.bbc.com/news/business-38664037",
+        "https://www.wamda.com/2012/11/lebanons-anghami-launches-the-first-music-streaming-platform-for-the-middle-east-promocode-included",
+        "https://communicateonline.me/?p=4577"
+      ]
+    },
+    {
+      "claim": "Middle East Venture Partners backed Anghami, with $1 million by November 2012",
+      "urls": [
+        "https://www.wamda.com/2012/11/lebanons-anghami-launches-the-first-music-streaming-platform-for-the-middle-east-promocode-included",
+        "https://web.archive.org/web/20131228171250/http://www.dailystar.com.lb/Business/Lebanon/2012/Nov-19/195447-connecting-the-world-though-music.ashx",
+        "https://communicateonline.me/?p=4577"
+      ]
+    },
+    {
+      "claim": "Labels including Rotana, Melody, Sony, EMI and Warner licensed their catalogues to Anghami before or at launch",
+      "urls": [
+        "https://www.wamda.com/2012/11/lebanons-anghami-launches-the-first-music-streaming-platform-for-the-middle-east-promocode-included",
+        "https://web.archive.org/web/20131228171250/http://www.dailystar.com.lb/Business/Lebanon/2012/Nov-19/195447-connecting-the-world-though-music.ashx",
+        "https://thenextweb.com/news/anghami-the-journey-of-launching-an-unlimited-music-streaming-service-in-the-middle-east"
+      ]
+    },
+    {
+      "claim": "Lebanon's slow internet led the founders to build the mobile app before the Web version",
+      "urls": [
+        "https://thenextweb.com/news/anghami-the-journey-of-launching-an-unlimited-music-streaming-service-in-the-middle-east",
+        "https://web.archive.org/web/20131228171250/http://www.dailystar.com.lb/Business/Lebanon/2012/Nov-19/195447-connecting-the-world-though-music.ashx",
+        "https://www.bbc.com/news/business-38664037"
+      ]
+    },
+    {
+      "claim": "Subscriptions came mainly through mobile-operator billing, beginning with Orange in Jordan",
+      "urls": [
+        "https://www.wamda.com/2022/02/anghami-success-built-localisation",
+        "https://web.archive.org/web/20131228171250/http://www.dailystar.com.lb/Business/Lebanon/2012/Nov-19/195447-connecting-the-world-though-music.ashx",
+        "https://www.wamda.com/2013/02/can-anghami-fend-off-deezer-s-entrance-into-the-arab-music-market"
+      ]
+    },
+    {
+      "claim": "Anghami was the first technology startup from the region to list on Nasdaq",
+      "urls": [
+        "https://www.wamda.com/2022/02/anghami-success-built-localisation",
+        "https://communicateonline.me/?p=4577"
+      ]
+    }
+  ],
+  "research_notes": "Origin of the idea: Maroun told the BBC (2017) it came at a technology conference in 2010, when he wrote 'Piracy' in a notebook; Wamda (2022) says he thought of it on a ski trip in 2011. The story uses the BBC account because it is first-hand and comes with the notebook. Founding year: Wamda (2022) says the pair co-founded Anghami in 2012 and Communicate says it launched in 2012; the story uses the documented launch date of 5 November 2012 (Wamda, same day). First investment: the BBC (2017) says the founders signed their first million-dollar investment in 2011; MEVP's Walid Mansour told the Daily Star in November 2012 that the firm had come in 18 months earlier; The Next Web (May 2012) says MEVP backed Anghami in March (2012); the Daily Star says a $1 million round was announced in November 2012, and Wamda (2012, 2022) gives $1 million from MEVP. The story therefore says only that MEVP backed them and had put in $1 million by November 2012. Launch date: the Daily Star (19 November 2012) says the product officially launched in March and that charging of about $5 would begin once it had a steady following, whereas Wamda reported a public iPhone launch with a $5 premium tier on 5 November 2012 and The Next Web in May described a coming private beta. The story follows Wamda for the public launch and the price; the March date probably refers to the funding or a private beta. Office: the Daily Star places the team in Jounieh, north of Beirut, in November 2012; later sources describe the company as Beirut-based. Early users: Wamda (February 2013) reported half a million users in about three months; Communicate (2021) says over a million in three months against an expected 300,000; Wikipedia, citing a Wall Street Journal blog (paywalled), says one million registered users four months after launch. The story uses the conservative contemporary figure. Labels: The Next Web (May 2012) lists Rotana, Mazzika, Melody, Sony and EMI, with Warner pending; Wamda (November 2012) adds Warner; the Daily Star (November 2012) lists Rotana, Melody, Platinum, Sony, EMI, Warner and Universal. The story names only labels that at least two sources list by launch. The lower licence fees argued from regional purchasing power rest on the Daily Star alone and are reported as its account of what the founders did. The exclusive Rotana deal covered Lebanon, the UAE and Saudi Arabia (Wamda 2013). Wamda 2022's claim that only 14 per cent of people in the region had a bank account was not used, as it could not be checked; the story says only that credit cards were scarce. Later user and subscriber figures (for example 30 million users in 2016-17) were not used. The Confucius passage is about Confucius's own readiness to take office, the gem standing for his talents; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

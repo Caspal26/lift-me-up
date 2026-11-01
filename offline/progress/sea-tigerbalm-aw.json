@@ -1,0 +1,15 @@
+{
+  "key": "sea-tigerbalm-aw",
+  "status": "done",
+  "file": "offline/editions/aw-boon-haw-aw-boon-par-tiger-balm-rangoon-to-singapore-1926.json",
+  "title": "Why the Tiger Balm Brothers Left Rangoon for Singapore in 1926",
+  "region": "Southeast Asia",
+  "industry": "pharmaceuticals (herbal ointments)",
+  "arc": "change-of-direction",
+  "funding": "bootstrapped",
+  "tradition": "Daoist",
+  "thinker": "Zhuangzi",
+  "talqen": false,
+  "conflicts": "Three reasons for the 1926 move (expansion towards China per the Dictionary of Hong Kong Biography; humiliation after unproven Rangoon police charges per the New Straits Times; a tiger in the Singapore banknote watermark per the company); the story gives all three with attribution. Tiger Balm name dated 1909 (company) or 1918 (NST); formula origin disputed; father's name and birth years differ, so no birth years are given.",
+  "notes": "Kept to the business move as instructed; Aw Boon Haw's later wealth, philanthropy and wartime politics are left out. The checker's repeat screen flagged four unrelated 'same-founder' matches (likely on shared name tokens) but let it through. Singapore NLB Infopedia returned 202 to the checker and is not cited."
+}

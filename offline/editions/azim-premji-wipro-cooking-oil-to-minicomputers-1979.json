@@ -1,0 +1,125 @@
+{
+  "id": "azim-premji-wipro-cooking-oil-to-minicomputers-1979",
+  "title": "When IBM Left India, a Cooking-Fat Maker Built a Computer",
+  "dek": "Azim Premji inherited a vanaspati company at 21; after IBM left India in 1977 he used its cash to start making minicomputers.",
+  "story": {
+    "founder": "Azim Premji",
+    "company": "Western India Vegetable Products (later Wipro)",
+    "event": "Moving the family vanaspati company into minicomputers after IBM left India",
+    "approx_date": "1979-07",
+    "country": "India",
+    "region": "South Asia",
+    "industry": "software and computer hardware",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "Azim Premji took over Western India Vegetable Products, a vanaspati maker, at 21 in 1966 after his father's death. After IBM left India in 1977, he took the company, by then Wipro Products, into minicomputers: in July 1979 it signed a consultancy agreement with the Indian Institute of Science, licensed an operating system from a small American firm, and launched the Wipro Series-86 in 1981, with the cooking-oil business funding the move.",
+    "paragraphs": [
+      "In 1966 Azim Premji was one term short of an engineering degree at Stanford when his father died suddenly and he had to rush home. At 21 he was running Western India Vegetable Products, which made vanaspati, a hydrogenated cooking fat, at a factory in Amalner, Maharashtra. He had never planned to; his interest, he said later, was \"more in a World Bank kind of a thing.\" At his first annual general meeting, by one account, a shareholder stood up, told him he was not competent and advised him to sell the family stake.",
+      "He stayed. He hired professionals, held weekly staff meetings and spent a summer at the factory when output slumped in the heat. By the mid-1970s he had concluded that government restrictions would keep vanaspati small, and diversified into soaps and hydraulic cylinders. Then, in 1977, IBM left India rather than meet the government's demand that it dilute its ownership. Premji said IBM had been selling refurbished machines already obsolete in the West.",
+      "He saw a gap that Indian firms could fill with minicomputers. The company was \"a very small organization in the late '70s,\" he said, but minicomputers were \"not capital intensive so we could afford it.\" He hired Ashok Narasimhan from TELCO to set up the business, and in July 1979 Wipro signed a consultancy agreement, worth about Rs 14 lakh, with the Indian Institute of Science in Bangalore to design a microprocessor-based machine. It licensed an operating system from Sentinel, a small Cincinnati firm \"which was going bust\", and in May 1980 hired Sridhar Mitta from the state-owned ECIL to lead research.",
+      "The Wipro Series-86, built on Intel's 8086 chip and able to serve sixteen terminals, reached the market in 1981. Premji called it \"a complete hit\", and the Bangalore computer business grew into the software services company Wipro became. The cooking oil paid for the move. \"Without that business you would have no IT business,\" he said in 2006."
+    ]
+  },
+  "quote": {
+    "text": "Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; wise people fashion themselves.",
+    "thinker": "The Buddha (attributed)",
+    "work": "The Dhammapada",
+    "locator": "Chapter VI, \"The Wise Man (Pandita)\", verse 80",
+    "translator": "F. Max Müller (1881)",
+    "tradition": "Buddhist",
+    "source_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.txt",
+    "source_title": "Dhammapada, a Collection of Verses, tr. F. Max Müller, Project Gutenberg eBook #2017",
+    "connection": "The verse puts shaping yourself beside the crafts that redirect water and bend wood. Premji answered a doubting shareholder by learning, then turned an oil company towards computers without cutting off what fed it. Both are skills of redirecting rather than replacing.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Premji did not close the oil business to chase computers. He kept it running, and it paid for the jump. The new thing grew out of the old one rather than in spite of it.",
+    "You may have your own version: a job, a skill, a steady practice or a person that carries the newer work while it finds its feet. On tired days it is easy to resent that steady part as the thing in the way. It may be the thing that makes the change possible, and it deserves care, not just endurance."
+  ],
+  "invitation": "Name the steady thing that is quietly paying for your newer work, whether a job, a skill or a person. If it is a person, thank them today in one plain sentence.",
+  "sources": [
+    {
+      "title": "The World According to Azim Premji",
+      "publisher": "Stanford Magazine (Joel McCormick, May/June 2006)",
+      "url": "https://stanfordmag.org/contents/the-world-according-to-azim-premji",
+      "kind": "founder-interview",
+      "supports": "His father's sudden death in 1966 with one term left at Stanford ('I just had to rush back'); running Western India Vegetable Products at 21, a cooking-oil processor in Jalgaon district; his interest 'more in a World Bank kind of a thing'; IBM told to dilute ownership and leaving, and his view that it sold refurbished machines obsolete in the West; 'a very small organization in the late '70s' and 'not capital intensive so we could afford it'; technology sourced 'from a very small company which was going bust' (Sentinel Corp. of Cincinnati); R&D from the Indian Institute of Science; the minicomputer 'a complete hit'; the R&D lab for hire that grew into outsourcing; the cooking-oil business funding the group: 'Without that business you would have no IT business.'"
+    },
+    {
+      "title": "The IISc–Wipro connection: Role of the Indian Institute of Science, School of Automation, and CEDT in the launching of Wipro's Computer business (compiled by Y. Narahari)",
+      "publisher": "Division of EECS, Indian Institute of Science",
+      "url": "https://eecs.iisc.ac.in/?p=13928",
+      "kind": "company-archive",
+      "supports": "Industrial houses moving into computers after IBM's departure in 1977; Wipro Products Limited (earlier Western India Vegetable Products) under Premji; Ashok Narasimhan recruited from TELCO; consultancy agreement with IISc signed in July 1979, worth about Rs 14 lakh, with the registrar's letter of 5 October 1979; Sridhar Mitta hired from ECIL as R&D manager in May 1980; Wipro Information Technology Limited headquartered in Bangalore; the Intel 8086 and Multibus architecture; a licensed operating system; the Wipro Series-86 with sixteen terminals; based on meetings with participants and the 1979 letter."
+    },
+    {
+      "title": "Azim Premji (The Boss series)",
+      "publisher": "Outlook Business",
+      "url": "https://www.outlookbusiness.com/specials/the-boss/azim-premji-1254",
+      "kind": "independent-reporting",
+      "supports": "Studying at Stanford in 1966 when his father died; the vanaspati business; professionalising the company with hired professionals and weekly staff meetings; spending a summer at the Amalner factory when output dropped in the heat; concluding government restrictions would limit vanaspati; diversifying into soaps and hydraulic components; IBM's exit in the late 1970s; hiring Ashok Narasimhan from Tata Motors (TELCO) to run the IT business; Sridhar Mitta leading R&D to the first minicomputer."
+    },
+    {
+      "title": "The Wrong 'Un Keeps Its Line",
+      "publisher": "Outlook India",
+      "url": "https://www.outlookindia.com/business/the-wrong-un-keeps-its-line-news-282730",
+      "kind": "independent-reporting",
+      "supports": "The call about his father's death and the return to help with the family business; at his first annual general meeting a shareholder told the 21-year-old he was not competent and should sell the family stake; Western India Vegetable Products as a vanaspati maker."
+    },
+    {
+      "title": "Premji, an IT Giant and a Pioneer Donor (timeline)",
+      "publisher": "The Economic Times, Bangalore edition, 25 July 2015 (reproduced on Wipro's newsroom microsite)",
+      "url": "https://microsite.wipro.com/content/dam/nexus/en/newsroom/win/2015/Premji-an-IT-giant-and-a-pioneer-donor.pdf",
+      "kind": "independent-reporting",
+      "supports": "1966: told of his father's death with one term left, drops out to run the family business; 1975: diversification into soaps, baby care and hydraulic and pneumatic cylinders; 1977: name changed to Wipro Products; 1981: enters the IT industry; 1982: renamed Wipro."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Premji took over the family vanaspati business at 21 in 1966 after his father's sudden death, leaving Stanford one term short of his degree.",
+      "urls": [
+        "https://stanfordmag.org/contents/the-world-according-to-azim-premji",
+        "https://microsite.wipro.com/content/dam/nexus/en/newsroom/win/2015/Premji-an-IT-giant-and-a-pioneer-donor.pdf",
+        "https://www.outlookbusiness.com/specials/the-boss/azim-premji-1254"
+      ]
+    },
+    {
+      "claim": "IBM's departure from India in 1977 opened the computer market that Wipro entered.",
+      "urls": [
+        "https://stanfordmag.org/contents/the-world-according-to-azim-premji",
+        "https://eecs.iisc.ac.in/?p=13928",
+        "https://www.outlookbusiness.com/specials/the-boss/azim-premji-1254"
+      ]
+    },
+    {
+      "claim": "Wipro worked with the Indian Institute of Science to design its first minicomputer.",
+      "urls": [
+        "https://eecs.iisc.ac.in/?p=13928",
+        "https://stanfordmag.org/contents/the-world-according-to-azim-premji"
+      ]
+    },
+    {
+      "claim": "Ashok Narasimhan was recruited from TELCO (Tata Motors) to set up the computer business, and Sridhar Mitta led its R&D.",
+      "urls": [
+        "https://eecs.iisc.ac.in/?p=13928",
+        "https://www.outlookbusiness.com/specials/the-boss/azim-premji-1254"
+      ]
+    },
+    {
+      "claim": "Before computers, the company had diversified from vanaspati into soaps and hydraulic cylinders.",
+      "urls": [
+        "https://www.outlookbusiness.com/specials/the-boss/azim-premji-1254",
+        "https://microsite.wipro.com/content/dam/nexus/en/newsroom/win/2015/Premji-an-IT-giant-and-a-pioneer-donor.pdf"
+      ]
+    },
+    {
+      "claim": "Wipro's first computer reached the market in 1981.",
+      "urls": [
+        "https://microsite.wipro.com/content/dam/nexus/en/newsroom/win/2015/Premji-an-IT-giant-and-a-pioneer-donor.pdf",
+        "https://eecs.iisc.ac.in/?p=13928"
+      ]
+    }
+  ],
+  "research_notes": "The slate dated the change to 1980; the documented decision points are IBM's exit (1977), the IISc consultancy agreement (July 1979, with the registrar's letter of 5 October 1979), Sridhar Mitta's hiring (May 1980) and the product's market entry (1981, per the Economic Times timeline), so approx_date is set to July 1979. Company names: the firm was Western India Vegetable Products when Premji took over, was renamed Wipro Products in 1977 (ET timeline; IISc gives 'Wipro Products Limited (earlier Western India Vegetable Products Limited)'), and became Wipro in 1982; Outlook Business spells it 'Western Indian Vegetables Products'. The shareholder at his first annual general meeting comes from a single source (Outlook India) and is attributed 'by one account'; that article contains an apparent slip ('for Azim in 1962') in a sentence about his time before Stanford, which does not affect the AGM detail. Stanford Magazine places the factory in Jalgaon district; Outlook Business names Amalner, a town in that district. The ET timeline says he was admitted to Stanford in 1963 and that the company's shares were listed in 1945; Stanford Magazine says he completed his degree about 30 years later by correspondence; neither detail is used. IISc describes the Series-86 as India's first machine with multiuser, multitasking and database-oriented operating system features; the story says only that it served sixteen terminals. An ICMR case-study summary seen in search results claimed a first minicomputer in 1975, which conflicts with the IISc and Stanford accounts and was not used. 'Bootstrapped' reflects Premji's statement that the cooking-oil business's cash flows funded the group's move into IT; Wipro was already a listed company. The IISc Connect magazine article on the same history returned an error (502) and Quartz's article was blocked, so neither is cited.",
+  "researched_at": "2026-11-01"
+}

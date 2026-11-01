@@ -1,0 +1,139 @@
+{
+  "id": "omar-gabr-moataz-soliman-instabug-forced-pivot-cairo-2013",
+  "title": "The One Feature Cairo's Developers Liked in a Product They Hated",
+  "dek": "Two Cairo graduates heard almost every developer reject their testing platform, kept the one part people loved, and built Instabug from it.",
+  "story": {
+    "founder": "Omar Gabr and Moataz Soliman",
+    "company": "Instabug (first AStarApps; later Luciq)",
+    "event": "Dropping a beta-testing platform to keep only its shake-to-report bug tool",
+    "approx_date": "2013",
+    "country": "Egypt",
+    "region": "North Africa",
+    "industry": "software (developer tools)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "After graduating from Cairo University in 2012, Omar Gabr and Moataz Soliman built AStarApps, a platform for testing mobile apps, with backing from the accelerator Flat6Labs. Egyptian developers disliked it except for one feature, reporting a bug by shaking the phone, so the founders cut the product down to that tool, renamed Instabug by April 2013. Instabug went through Y Combinator in early 2016 with its engineers in Cairo and raised a $1.7 million seed round led by Accel.",
+    "paragraphs": [
+      "In June 2012 Omar Gabr and Moataz Soliman graduated from Cairo University and went straight into starting a company. In their final year they had built a small iPhone app for organising events with friends, for fun. When they wanted people to test it, Gabr later said, they hit a snag: this was Egypt in the upheaval of 2012, the app ran only on iOS, and \"we did not have many friends who had iPhones.\"",
+      "Finding no tool that matched developers with testers, they built one. With $10,000 from the Cairo accelerator Flat6Labs, they worked on AStarApps, a website where developers could have apps tried before launch. They showed it to the mobile developers in Egypt, about 60 to 70 companies at the time. Almost everyone, Gabr recalled, hated it, except for one part. To report a bug, a tester did not leave the app or write an email, but shook the phone, and a form appeared.",
+      "They decided to throw away nearly everything else. Gabr later called it a forced pivot, one they had no real choice about. They cut the product down to a small in-app tool, made a short video of a bug being reported with a shake and posted it to Hacker News; he recalled a hundred people applying to use it on the first day. By April 2013 the renamed InstaBug was live with dozens of developers, most of them local. Soliman told Wamda that reaching developers abroad, and money, were the hard parts, but that emails from strangers saying it solved a real pain kept them going.",
+      "What followed was uneven. In 2013 they won the $50,000 first prize at the MIT Enterprise Forum Arab startup competition, but when VentureBeat picked them as finalists in a mobile start-up competition in San Francisco, the protests of 30 June shut the US embassy and they could not get visas; a friend presented for them. They raised $300,000 from angel investors, and in early 2016 Instabug became the second Egyptian company to go through Y Combinator, with a team of 17 engineers still in Cairo. That June, Accel led a $1.7 million seed round. In 2020 it employed about 100 people in Cairo; it has since been renamed Luciq."
+    ]
+  },
+  "quote": {
+    "text": "to change thy opinion, if there is any one at hand who sets thee right and moves thee from any opinion. But this change of opinion must proceed only from a certain persuasion, as of what is just or of common advantage, and the like, not because it appears pleasant or brings reputation.",
+    "thinker": "Marcus Aurelius",
+    "work": "Meditations",
+    "locator": "Book IV, 12",
+    "translator": "George Long (1862)",
+    "tradition": "Stoic",
+    "source_url": "https://www.gutenberg.org/cache/epub/15877/pg15877.txt",
+    "source_title": "Thoughts of Marcus Aurelius Antoninus, tr. George Long, Project Gutenberg eBook #15877",
+    "connection": "Marcus asks for two things together: be willing to be set right, and change only when persuaded of real use, not because the change is pleasant or flattering. Cairo's developers set Gabr and Soliman right, and what persuaded them was a feature people actually used.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Being told that nearly everyone dislikes what you have built is hard to hear, and harder months after leaving university to build it. What Gabr and Soliman did well was listen past the verdict to the detail: one part worked, and it worked because it matched something frustrated people already do with a misbehaving device.",
+    "You may hear blunt feedback this month, from a colleague, a manager or someone you are building for. Once the sting has faded, it is worth asking whether something in it is still alive. Marcus offers a fair test: change because you are persuaded, not because the change would feel better."
+  ],
+  "invitation": "Think of the last piece of criticism that stung. Write down one thing the person did like, however small, and ask yourself whether it deserves more of your attention this week.",
+  "sources": [
+    {
+      "title": "Instabug: shake it till you make it (20 November 2021)",
+      "publisher": "London Business School, Think",
+      "url": "https://www.london.edu/think/iepc-instabug-shake-it-till-you-make-it",
+      "kind": "founder-interview",
+      "supports": "Gabr's account (with Professor Julian Birkinshaw): the social events app built for fun in their last university year; Egypt in 2012, iOS only, 'we did not have many friends who had iPhones'; the beta-testing platform; 60 to 70 Egyptian mobile developers, almost all negative; the shake-to-report feature they loved; the 'forced pivot' with no real choice; the video on Hacker News and about a hundred applications on the first day; first prize at the 2013 MIT Enterprise Forum Arab competition with $50,000; backing from Y Combinator and Accel"
+    },
+    {
+      "title": "InstaBug in Egypt Makes Bug Reporting Easy for Mobile App Developers (Omar Aysha, 23 April 2013)",
+      "publisher": "Wamda",
+      "url": "https://www.wamda.com/en/2013/04/instabug-in-egypt-makes-bug-reporting-easy-for-mobile-app-developers",
+      "kind": "independent-reporting",
+      "supports": "The founders started as AStarApps in the Flat6Labs accelerator in September 2012 and renamed the product; shake to report; live with dozens of developers, mostly local, by April 2013; Soliman on go-to-market and funding as the main challenges and on emails from strangers that kept them going"
+    },
+    {
+      "title": "Instabug: The Dramatic Journey Behind Egypt's Booming Startup (Valentina Primo)",
+      "publisher": "CairoScene",
+      "url": "https://cairoscene.com/Geek/Instabug-The-Dramatic-Journey-Behind-Egypt-s-Booming-Startup",
+      "kind": "founder-interview",
+      "supports": "Graduation from Cairo University in June 2012 and starting the company straight away; first funding from Flat6Labs; the short video and the decision to discard AStarApps; the 2013 MIT Enterprise Forum Arab first prize of $50,000; selection by VentureBeat's mobile competition in San Francisco, the 30 June protests, the US embassy closure and no visas, with a friend presenting; the $300,000 seed round"
+    },
+    {
+      "title": "Generation Start-up: How Egypt's Instabug plans to shake up the mobile app space (Mary Sophia, 23 May 2020)",
+      "publisher": "The National",
+      "url": "https://www.thenationalnews.com/business/generation-start-up-how-egypts-instabug-plans-to-shake-up-the-mobile-app-space-1.1023576",
+      "kind": "founder-interview",
+      "supports": "The idea came while building an app in their last term at Cairo University; the testing website and its shake-to-report feature; the app failed to gain traction but the bug reporter did; $10,000 from Flat6Labs Cairo; Y Combinator in 2016 as the second Egyptian start-up; $1.7 million from Y Combinator and Accel; main office in Egypt, Soliman heading engineering; about 100 employees in Cairo in 2020"
+    },
+    {
+      "title": "Instabug, The YC Startup Out Of Cairo, Is Out Of Beta To Squash Mobile Bugs (Mike Butcher, 2 February 2016)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2016/02/02/instabug-the-yc-startup-out-of-cairo-is-out-of-beta-to-squash-mobile-bugs/",
+      "kind": "independent-reporting",
+      "supports": "Instabug launched out of Y Combinator's Winter 2016 class; founded in 2012 by Gabr and Soliman during Egypt's turmoil; $300K seed round from angel investors; a team of 17 engineers, the second Egyptian company to join YC, still working out of Egypt"
+    },
+    {
+      "title": "YC's Instabug raises $1.7M Seed round led by Accel to grow beyond bugs (Mike Butcher, 6 June 2016)",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2016/06/06/ycs-instabug-raises-1-7m-seed-round-led-by-accel-to-grow-beyond-bugs/",
+      "kind": "independent-reporting",
+      "supports": "The $1.7 million seed round led by Accel; most of the team still in Egypt with a new San Francisco office; the SDK emerged in 2013; Flat6Labs Cairo and $300K from angels in 2013"
+    },
+    {
+      "title": "Show HN: Instabug – easy in-app feedback. What do you think? (10 April 2013)",
+      "publisher": "Hacker News",
+      "url": "https://news.ycombinator.com/item?id=5526949",
+      "kind": "company-archive",
+      "supports": "Moataz Soliman's own April 2013 post of Instabug to Hacker News asking for feedback"
+    },
+    {
+      "title": "Luciq (formerly Instabug) company profile",
+      "publisher": "Y Combinator",
+      "url": "https://www.ycombinator.com/companies/instabug",
+      "kind": "company-archive",
+      "supports": "Instabug in Y Combinator's Winter 2016 batch; founders Omar Gabr and Moataz Soliman; Cairo; later renamed Luciq"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Egyptian developers rejected the testing platform but liked its shake-to-report feature, so the founders cut the product down to that tool",
+      "urls": [
+        "https://www.london.edu/think/iepc-instabug-shake-it-till-you-make-it",
+        "https://www.thenationalnews.com/business/generation-start-up-how-egypts-instabug-plans-to-shake-up-the-mobile-app-space-1.1023576",
+        "https://cairoscene.com/Geek/Instabug-The-Dramatic-Journey-Behind-Egypt-s-Booming-Startup"
+      ]
+    },
+    {
+      "claim": "The company began as AStarApps in the Flat6Labs accelerator in Cairo and was renamed Instabug by April 2013",
+      "urls": [
+        "https://www.wamda.com/en/2013/04/instabug-in-egypt-makes-bug-reporting-easy-for-mobile-app-developers",
+        "https://cairoscene.com/Geek/Instabug-The-Dramatic-Journey-Behind-Egypt-s-Booming-Startup"
+      ]
+    },
+    {
+      "claim": "Instabug went through Y Combinator's Winter 2016 batch as the second Egyptian company to do so",
+      "urls": [
+        "https://techcrunch.com/2016/02/02/instabug-the-yc-startup-out-of-cairo-is-out-of-beta-to-squash-mobile-bugs/",
+        "https://www.thenationalnews.com/business/generation-start-up-how-egypts-instabug-plans-to-shake-up-the-mobile-app-space-1.1023576",
+        "https://www.ycombinator.com/companies/instabug"
+      ]
+    },
+    {
+      "claim": "Accel led a $1.7 million seed round in 2016",
+      "urls": [
+        "https://techcrunch.com/2016/06/06/ycs-instabug-raises-1-7m-seed-round-led-by-accel-to-grow-beyond-bugs/",
+        "https://www.thenationalnews.com/business/generation-start-up-how-egypts-instabug-plans-to-shake-up-the-mobile-app-space-1.1023576"
+      ]
+    },
+    {
+      "claim": "The founders won the 2013 MIT Enterprise Forum Arab competition's $50,000 first prize",
+      "urls": [
+        "https://www.london.edu/think/iepc-instabug-shake-it-till-you-make-it",
+        "https://cairoscene.com/Geek/Instabug-The-Dramatic-Journey-Behind-Egypt-s-Booming-Startup"
+      ]
+    }
+  ],
+  "research_notes": "Founding year disagrees: TechCrunch (February 2016) and CairoScene say the company was founded in 2012, Wamda dates the AStarApps start in Flat6Labs to September 2012, while London Business School and MENAbytes say 2014 (probably a later incorporation date); the story uses 2012 for the start and dates the pivot by Wamda's April 2013 report. Accelerator money: The National gives $10,000 from Flat6Labs; AUC's Business Forward (2018, not cited) gives $11,000; the story uses $10,000. The 'hundred applications on the first day' after the Hacker News video is Gabr's recollection to LBS years later; the Show HN threads I could find from April 2013 drew modest replies, and I could not identify the exact post he describes, so the figure is attributed to him. Scale figures change with the date and are not leaned on: TechCrunch gave 12,000 apps on 100 million devices in February 2016 and almost 300 million devices in June 2016; LBS and The National give 25,000 apps and 2.5 billion devices in 2020. Profitability is reported inconsistently (The National 2020 'profitable'; Gabr to MENAbytes 2020 'almost profitable', having first been profitable in September 2015; LBS 'touching profitability' since January 2015), so the story leaves it out. The visa episode rests on Gabr's account to CairoScene; Fast Company and VentureBeat covered it in July 2013 but both block automated requests. CairoScene's article is undated; internal evidence places it around 2015. The Luciq name comes from Y Combinator's own listing; the story does not give a date for the rename. Funding is 'venture': accelerator money, angels, Y Combinator and Accel.",
+  "researched_at": "2026-11-01"
+}

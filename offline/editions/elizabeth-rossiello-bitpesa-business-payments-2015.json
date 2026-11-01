@@ -1,0 +1,131 @@
+{
+  "id": "elizabeth-rossiello-bitpesa-business-payments-2015",
+  "title": "The Month BitPesa Lost M-Pesa and Leaned Towards Business Payments",
+  "dek": "Cut off from M-Pesa in November 2015, Elizabeth Rossiello's bitcoin remittance start-up was already turning into a payments company for businesses.",
+  "story": {
+    "founder": "Elizabeth Rossiello",
+    "company": "BitPesa (later AZA Finance)",
+    "event": "Losing M-Pesa access and shifting from bitcoin remittances to currency payments for businesses",
+    "approx_date": "2015-11",
+    "country": "Kenya",
+    "region": "Kenya",
+    "industry": "fintech",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "BitPesa, started in Nairobi in 2013 by Elizabeth Rossiello to cut remittance fees using bitcoin, lost its M-Pesa connection on 12 November 2015 when Safaricom stopped payments to its gateway, and a court declined to restore access in December. A UK remittance pilot had shown consumer habits were hard to change, and by mid-2016 Rossiello described BitPesa as a foreign-exchange and payments company for businesses that used bitcoin only for settlement; in 2019 its parent was renamed AZA.",
+    "paragraphs": [
+      "On 12 November 2015, BitPesa lost its connection to M-Pesa, the Kenyan mobile-money service it had been built on. Safaricom, which runs M-Pesa, had stopped payments to Lipisha, the gateway BitPesa used; in court it argued that BitPesa lacked central-bank authorisation and that the link breached anti-money-laundering rules. A lawyer for the two firms said BitPesa was \"at risk of collapse\". On 14 December a High Court judge declined to order access restored while the case went on. That week the Central Bank of Kenya told the public to \"desist from transacting in bitcoin\".",
+      "Elizabeth Rossiello, an American who had led a microfinance rating agency's office in Nairobi, started BitPesa there in 2013. The name joined bitcoin to M-Pesa, and the first target was remittances: in 2013 she planned to charge 3 per cent on transfers to Kenya, where Western Union and MoneyGram took $10 to $17 on $200. A pilot with immigrant groups in Britain taught her, she said in June 2016, that \"people's behavior was difficult to change\", and senders still needed a way to turn pounds into bitcoin.",
+      "So the cut-off landed on a company already changing course. Businesses, Rossiello found, had more reason to switch, and the currency brokers serving them were licensed, with treasury desks that settled prices at once. M-Pesa's limits kept large payments off it, and one client, a social enterprise selling Kenyan-made jewellery in the United States, had waited up to 12 days for bank transfers. The team, she said, decided \"it's businesses that really need us.\" Years later she wrote that, when a telecoms operator she did not name ended its contract, the team \"considered closing the business for about the time it takes to drink a coffee.\"",
+      "By December 2015 BitPesa was live in four countries. \"As a company founded in Kenya, we built on M-Pesa; as a pan-African enterprise, we have gone above and beyond M-Pesa,\" she said. By mid-2016 she called it a foreign exchange and payments company that used bitcoin only to settle trades; many customers never touched the currency. It raised a $2.5 million Series A in 2017, and in 2019 its parent took the name AZA, with BitPesa one product among several."
+    ]
+  },
+  "quote": {
+    "text": "Theories thus become instruments, not answers to enigmas, in which we can rest. We don't lie back upon them, we move forward, and, on occasion, make nature over again by their aid.",
+    "thinker": "William James",
+    "work": "Pragmatism: A New Name for Some Old Ways of Thinking",
+    "locator": "Lecture II, \"What Pragmatism Means\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/5116/pg5116.txt",
+    "source_title": "Pragmatism: A New Name for Some Old Ways of Thinking, Project Gutenberg eBook #5116",
+    "connection": "James asks that an idea be judged by the work it does, not rested in. Rossiello treated both bitcoin and her first remittance plan that way: she kept bitcoin as plumbing, dropped the plan to win over individual senders, and followed the customers who had real reason to change.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The company in this story did not get its new direction from one blow. The pilot had already said something uncomfortable about the first plan, and the people who needed BitPesa most turned out to be businesses, one of them waiting up to twelve days for its own money. The cut-off only made the question louder.",
+    "Your first picture of who your work is for was a guess, made before anyone used it. That is not a flaw in you; it is how every first picture is made. You are allowed to sit with it for the length of a coffee when a door closes. Then the more useful question is who, among the people you have actually met, has the strongest reason to change how they work."
+  ],
+  "invitation": "Think of the person who has used your work most, not the one you first built it for. Ask them one question this week: what were they doing before it existed?",
+  "sources": [
+    {
+      "title": "BitPesa's Elizabeth Rossiello on Necker Island (Unchained podcast, with Laura Shin; full transcript)",
+      "publisher": "Unchained (Forbes podcast at the time), 15 June 2016",
+      "url": "https://unchainedcrypto.com/bitpesas-elizabeth-rossiello-on-necker-island/",
+      "kind": "founder-interview",
+      "supports": "Rossiello's background (investment banking, then leading a microfinance rating agency's Nairobi office from 2009); remittances to Kenya as the first target; the UK pilot with immigrant groups and 'people's behavior was difficult to change'; senders needing a way to turn pounds into bitcoin; brokers serving businesses being licensed with treasury desks; M-Pesa limits keeping businesses off it; the jewellery social enterprise whose bank transfers could take up to 12 days; 'it's businesses that really need us'; BitPesa as 'a foreign exchange solution' and payments company using bitcoin only for settlement; customers who knew nothing about bitcoin."
+    },
+    {
+      "title": "Kenyan start-up takes on remittance agents with bitcoin service (Eric Ombok, Bloomberg)",
+      "publisher": "Business Report (IOL), 29 November 2013",
+      "url": "https://businessreport.co.za/international/2013-11-29-kenyan-start-up-takes-on-remittance-agents-with-bitcoin-service",
+      "kind": "independent-reporting",
+      "supports": "BitPesa's original remittance plan from Nairobi; a 3 per cent fee ($6 on $200) against $10 to $17 charged by Western Union and MoneyGram to send $200 from the US to Kenya."
+    },
+    {
+      "title": "BitPesa Has Grown Beyond Kenya and Can Still Win Lawsuit Against Safaricom (Iyke Aru)",
+      "publisher": "Cointelegraph, 19 December 2015",
+      "url": "https://cointelegraph.com/news/bitpesa-has-grown-beyond-kenya-and-can-still-win-lawsuit-against-safaricom",
+      "kind": "independent-reporting",
+      "supports": "M-Pesa served BitPesa until 12 November 2015; joint suit by Lipisha and BitPesa; preliminary ruling of 14 December 2015 that Safaricom need not restore access during the dispute; Rossiello's statements that BitPesa was live in four countries and 'As a company founded in Kenya, we built on M-Pesa; as a pan-African enterprise, we have gone above and beyond M-Pesa.'"
+    },
+    {
+      "title": "Safaricom war with bitcoin dealer sparks CBK warning",
+      "publisher": "Business Daily Africa, 15 December 2015",
+      "url": "https://www.businessdailyafrica.com/bd/economy/safaricom-war-with-bitcoin-dealer-sparks-cbk-warning-2103524",
+      "kind": "independent-reporting",
+      "supports": "Safaricom terminated M-Pesa payments to the Lipisha gateway linked to BitPesa, citing its anti-money-laundering reporting obligations; the Central Bank of Kenya notice telling the public to 'desist from transacting in bitcoin'."
+    },
+    {
+      "title": "Kenyan High Court Hears BitPesa Case Against Safaricom",
+      "publisher": "NextBillion",
+      "url": "https://nextbillion.net/news/kenyan-high-court-hears-bitpesa-case-against-safaricom",
+      "kind": "independent-reporting",
+      "supports": "(30 November 2015, drawing on CoinDesk and the Daily Nation) The suspension from 12 November 2015; Lipisha as BitPesa's payment gateway to M-Pesa; the suit against Safaricom; Safaricom's argument that BitPesa lacked central-bank authorisation and breached anti-money-laundering rules; the firms' lawyer saying BitPesa was 'at risk of collapse'."
+    },
+    {
+      "title": "OP-ED: Elizabeth Rossiello reflects on a decade in African fintech (first published by Business Report, 28 May 2024)",
+      "publisher": "African Tech Roundup (Andile Masuku's column), 28 May 2024",
+      "url": "https://www.africantechroundup.com/op-ed-reflecting-on-a-decade-in-african-fintech_-insights-from-elizabeth-rossiello/",
+      "kind": "memoir",
+      "supports": "Rossiello's own later account: the company started in Nairobi in 2013; a telco (unnamed) terminated its contract in the early days; the team 'considered closing the business for about the time it takes to drink a coffee' but its data showed product-market fit; the 2019 rebrand and later business-to-business focus."
+    },
+    {
+      "title": "Bitcoin payment firm BitPesa gets big boost from famous investor (Jeff John Roberts)",
+      "publisher": "Fortune, 30 August 2017",
+      "url": "https://fortune.com/2017/08/30/bitcoin-payment-firm-bitpesa-gets-big-boost-from-famous-investor",
+      "kind": "independent-reporting",
+      "supports": "$2.5 million Series A in January 2017; business payments through banks and mobile payment providers; some customers unaware bitcoin was involved."
+    },
+    {
+      "title": "Kenya's BitPesa announces it's rebranded, secured $15m in debt finance",
+      "publisher": "Ventureburn, 23 October 2019",
+      "url": "https://ventureburn.com/2019/10/kenyas-bitpesa-rebrand-15m-debt-finance/",
+      "kind": "independent-reporting",
+      "supports": "BitPesa founded in 2013 by Elizabeth Rossiello; parent renamed AZA, with BitPesa one product alongside TransferZero and BFX; $15 million of debt from the Development Bank of Southern Africa."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Safaricom cut BitPesa off from M-Pesa in November 2015 by stopping payments to its gateway Lipisha, and a court declined in December 2015 to restore access during the case.",
+      "urls": [
+        "https://cointelegraph.com/news/bitpesa-has-grown-beyond-kenya-and-can-still-win-lawsuit-against-safaricom",
+        "https://www.businessdailyafrica.com/bd/economy/safaricom-war-with-bitcoin-dealer-sparks-cbk-warning-2103524",
+        "https://nextbillion.net/news/kenyan-high-court-hears-bitpesa-case-against-safaricom"
+      ]
+    },
+    {
+      "claim": "BitPesa was started in Nairobi in 2013 by Elizabeth Rossiello as a bitcoin-based remittance service.",
+      "urls": [
+        "https://businessreport.co.za/international/2013-11-29-kenyan-start-up-takes-on-remittance-agents-with-bitcoin-service",
+        "https://ventureburn.com/2019/10/kenyas-bitpesa-rebrand-15m-debt-finance/",
+        "https://www.africantechroundup.com/op-ed-reflecting-on-a-decade-in-african-fintech_-insights-from-elizabeth-rossiello/"
+      ]
+    },
+    {
+      "claim": "By 2016-2017 BitPesa had shifted to foreign-exchange and payments for businesses, using bitcoin for settlement.",
+      "urls": [
+        "https://unchainedcrypto.com/bitpesas-elizabeth-rossiello-on-necker-island/",
+        "https://fortune.com/2017/08/30/bitcoin-payment-firm-bitpesa-gets-big-boost-from-famous-investor"
+      ]
+    },
+    {
+      "claim": "In 2019 the parent company was renamed AZA, with BitPesa as one product.",
+      "urls": [
+        "https://ventureburn.com/2019/10/kenyas-bitpesa-rebrand-15m-debt-finance/",
+        "https://www.africantechroundup.com/op-ed-reflecting-on-a-decade-in-african-fintech_-insights-from-elizabeth-rossiello/"
+      ]
+    }
+  ],
+  "research_notes": "The shift to business payments was gradual, not caused by the Safaricom cut-off: in June 2016 Rossiello said the previous two years had gone into building access to local currencies, and the UK remittance pilot predated the cut-off. The story says the cut-off 'landed on a company already changing course' rather than claiming it caused the change. Telco: in her 2024 op-ed Rossiello writes that 'a telco' terminated BitPesa's contract and places it in 2014, without naming it; the documented Safaricom cut-off was 12 November 2015 (Cointelegraph, Business Daily). The story does not link her coffee remark to Safaricom and says she did not name the operator. Safaricom's stated reason (anti-money-laundering reporting) is attributed to its court filing as reported by Business Daily; BitPesa and Lipisha argued in court that Safaricom was acting against a competitor, which the story does not adjudicate. Volume figures disagree (Ventureburn 2019: $1 billion moved since 2013; Rossiello 2024: '$9 billion in revenue') and are not used. Ventureburn says Charlene Chen joined later as co-founder; the story names Rossiello as founder. Launch timing: Bloomberg (via Business Report) reported in November 2013 a planned trial by March 2014 pending regulatory approval, and Rossiello said in June 2016 BitPesa had been live for two years; the story says only that she started it in 2013. AZA Finance's later lawsuit with a bank (2023) is outside this episode and is not mentioned. Rossiello's quotations keep their American spelling ('behavior'). The Unchained transcript is the podcast's own and contains some garbled passages marked as blanks; quoted words were taken from clear passages.",
+  "researched_at": "2026-11-01"
+}

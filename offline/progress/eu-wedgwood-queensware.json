@@ -1,0 +1,15 @@
+{
+  "key": "eu-wedgwood-queensware",
+  "status": "done",
+  "file": "offline/editions/josiah-wedgwood-leg-amputation-1768.json",
+  "title": "The Cream-Ware Invoice That Reported Wedgwood's Amputation",
+  "region": "Europe",
+  "industry": "manufacturing (pottery)",
+  "arc": "hard-responsibility",
+  "funding": "bootstrapped",
+  "tradition": "Stoic",
+  "thinker": "Epictetus",
+  "talqen": false,
+  "conflicts": "Age at amputation: LRB and Spectator say 38, but the ODNB's probable birth date (12 July 1730) makes him 37; no age given. Wedgwood's own 'St Amputation Day' letter points to 31 May, against 28 May on the day's invoice note; 28 May used. One surgeon (ODNB) versus two (Smiles, Meteyard, Swift's note); story names Bent plus a second surgeon. Bentley's presence rests on Smiles and Meteyard's inference, so it is attributed to biographers. Cause: the Spectator says a carriage accident, the ODNB a smallpox-weakened knee plus a 1762 fall and an April 1768 strain; story uses the documented knee history only.",
+  "notes": "Primary letters are quoted via Meteyard (1866) and Smiles (1897), both on archive.org; the ODNB is cited from a family blog's reproduction because oxforddnb.com is paywalled. The slate's 'Queensware' framing is kept as context (potter to the Queen, Queen's ware); the episode is the amputation and recovery while Etruria was being built."
+}

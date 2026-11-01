@@ -1,0 +1,15 @@
+{
+  "key": "eu-arkwright-cromford",
+  "status": "done",
+  "file": "offline/editions/richard-arkwright-cromford-mill-first-months-1771.json",
+  "title": "Seven Months at Cromford and Not One Spinning Frame Built",
+  "region": "Europe",
+  "industry": "manufacturing (cotton spinning)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Classical Greek",
+  "thinker": "Aristotle",
+  "talqen": false,
+  "conflicts": "Workforce: Wrigley (Historical Association, 2011) gives about 200 in the first mill and 450 in the second by 1777; the Landmark Trust cites William Bray's 1776 count of 200 children in the first mill and a total of 800 by 1777. The story uses only the 1776 visitor's count and gives no total. Lease year: the Landmark Trust introduction says 1770 but its main text and the Derwent Valley Mills timeline say 1 August 1771; story uses 1 August 1771. Nottingham: Landmark says the horse mill ran and proved costly and weak; the Derwent Valley Mills Strutt page says Cromford was leased before Nottingham production began; both given, the second attributed. Water source for the first mill (Bonsall Brook vs Cromford Sough) differs; the story stays general. Advertisement date 10 vs 13 December 1771 (heading vs issue); story says December 1771.",
+  "notes": "Episode is the decision to lease Cromford for water power plus the slow first months, anchored on Arkwright's March 1772 letter to Strutt (quoted via the Derwent Valley Mills page; Christie's lot description of the same letter as second source). Quote challenges his boast to his partner. Two PDFs (Landmark Trust, Historical Association) load but the checker cannot read names inside them; six other sources are OK."
+}

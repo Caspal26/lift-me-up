@@ -1,0 +1,140 @@
+{
+  "id": "christian-kroll-ecosia-after-forestle-google-cutoff-2009",
+  "title": "The Google Email That Came Before Ecosia",
+  "dek": "In August 2008 Google cut off Christian Kroll's rainforest search engine; sixteen months later, with no investors, he launched Ecosia.",
+  "story": {
+    "founder": "Christian Kroll",
+    "company": "Ecosia (preceded by Forestle)",
+    "event": "Carrying on after Google ended his first search engine's partnership, then launching Ecosia during the Copenhagen climate talks",
+    "approx_date": "2009-12",
+    "country": "Germany",
+    "region": "Europe",
+    "industry": "software (internet search)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "Christian Kroll launched Forestle, a search engine funding rainforest protection from Google ads, on 5 August 2008; within weeks Google ended the partnership, citing incentives to click ads. With no investors, Kroll kept going, won a deal with Yahoo after months of asking, and in December 2009 launched Ecosia, pledging 80 per cent of ad income to a WWF rainforest project in Brazil. It ran on its own cash flow for years.",
+    "paragraphs": [
+      "In late August 2008, Google sent an email to Forestle, a search engine Christian Kroll had launched on 5 August. Forestle showed Google's results and adverts and spent the advertising income on protecting rainforest. The email ended the partnership: Google said the site gave people an incentive to click on adverts artificially. Kroll, a business graduate from Wittenberg then in his mid-twenties, later said he suspected the reason was a pretext.",
+      "It was not his first false start. While travelling after university, he had tried a search engine in Nepal that would fund local charities; it failed, he said, partly because the electricity came on for only a few hours a day. In South America he had learned how much rainforest was being cleared each year, and he later described that as the point when his priorities changed for good. He had no investors. Back in Germany, by his own account, the choice was to give up and look for a job, or to carry on.",
+      "He carried on. While Forestle was offline he ran a stopgap search engine called Znout, and he spent about three months pressing Yahoo until it agreed to work with him; Forestle returned on Yahoo's results. Then, in December 2009, during the UN climate conference in Copenhagen, he launched a new search engine, Ecosia, built on Yahoo and Bing. It pledged 80 per cent of its advertising income to a WWF project protecting rainforest in Brazil's Juruena region. WWF's contract guaranteed €50,000 a year, and the first month brought in nearly €10,000. Kroll told the taz newspaper early in 2010 that he had never really been an environmental activist.",
+      "The start was slow. For its first few years, Kroll said in 2021, Ecosia was more a hobby project than a real company; it ran on its own cash flow, and he learned largely by trial and error. He did not look for investors: \"I wanted to maximize the number of trees I could plant.\" In 2018 he gave away his shares in a way that means Ecosia can never be sold, and by 2020 it had funded 100 million trees."
+    ]
+  },
+  "quote": {
+    "text": "But he whose works exceed his wisdom, to what is he like? To a tree whose branches are few, but whose roots are many, so that though all the winds in the world come and blow upon it, they cannot stir it from its place",
+    "thinker": "Rabbi Eleazar ben Azariah (in Pirkei Avot)",
+    "work": "Pirkei Avot (Sayings of the Fathers)",
+    "locator": "Chapter III, 22 (Gorfinkle's numbering)",
+    "translator": "Joseph I. Gorfinkle (1913)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/8547/pg8547.txt",
+    "source_title": "Pirke Avot: The Sayings of the Jewish Fathers, tr. Joseph I. Gorfinkle, Project Gutenberg eBook #8547",
+    "connection": "Rabbi Eleazar valued what a person does above what they know. Kroll, by his own account no activist and new to running a company, had little to stand on after Google's email except what he kept doing: the stopgap, the months of calls to Yahoo, the second launch.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Ecosia is usually described as the green search engine that took on Google. The less told part is the autumn of 2008, when one email removed the thing his project depended on, and Kroll spent months asking another company to let him try again.",
+    "You may know what it is to build on something you do not control: a supplier, a partner, a system someone else can switch off. Kroll's response was not grand. He kept a stopgap running, kept asking, and kept the purpose plain enough to explain to anyone who would listen. Roots, in Rabbi Eleazar's sense, are what you have actually done, not what you intend."
+  ],
+  "invitation": "Name one thing your work depends on that someone else could switch off. Write down who you would call first if they did, and leave it there for today.",
+  "sources": [
+    {
+      "title": "Grün schützen statt googlen",
+      "publisher": "taz (Julia Otten, 8 February 2010)",
+      "url": "https://taz.de/!487296/",
+      "kind": "independent-reporting",
+      "supports": "Forestle launched on 5 August 2008 as Ecosia's precursor; Google ended the cooperation after a few days, accusing Forestle of encouraging unnecessary ad clicks, and later said it could not support non-profit activities; Kroll revived Forestle months later through Yahoo, with Znout as a stopgap; Ecosia launched during the Copenhagen climate conference in December 2009 with results from Yahoo and Bing; 80 per cent of ad revenue to a WWF rainforest project in Brazil's Juruena region; WWF contract guaranteeing €50,000 a year and nearly €10,000 in the first month; Kroll saying he was never really an environmental activist."
+    },
+    {
+      "title": "Öko-Suchmaschinen: Grüner als Google",
+      "publisher": "taz (Julia Otten, 7 February 2010)",
+      "url": "https://taz.de/!5148034/",
+      "kind": "independent-reporting",
+      "supports": "Companion version of the taz report: Forestle's 5 August 2008 launch, Google's withdrawal after a few days, the Yahoo revival, Znout as an interim project, Ecosia's December 2009 launch and its WWF commitment."
+    },
+    {
+      "title": "Google beendet Zusammenarbeit mit Forestle",
+      "publisher": "GoogleWatchBlog (29 August 2008)",
+      "url": "https://www.googlewatchblog.de/2008/08/google-beendet-zusammenarbeit-mit-forestle/",
+      "kind": "independent-reporting",
+      "supports": "Contemporary report that Google had ended its partnership with Forestle by email two days earlier, stating that incentives had been created to click Google ads artificially; Forestle wished to resume talks."
+    },
+    {
+      "title": "Der Umdenker aus Wittenberg",
+      "publisher": "Volksstimme (7 August 2019)",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/der-umdenker-aus-wittenberg-994244",
+      "kind": "independent-reporting",
+      "supports": "Kroll grew up in Wittenberg and studied business administration in Nuremberg; the failed Nepal search engine and unreliable electricity; South America as the point when his priorities shifted; Forestle's Google partnership ended by email after a few weeks and Kroll's suspicion that the reason was a pretext; back in Germany, the choice between giving up and job-hunting or continuing; three months pressing Yahoo; founding Ecosia in 2009; in 2018 giving away his shares so Ecosia could not be sold (he was then 35)."
+    },
+    {
+      "title": "What Christian Kroll learned founding green search engine Ecosia",
+      "publisher": "Startup Guide (8 April 2021)",
+      "url": "https://new.startupguide.com/what-christian-kroll-learned-founding-ecosia",
+      "kind": "founder-interview",
+      "supports": "Kroll's account: the Nepal search engine was short-lived; learning about reforestation in South America; setting up Ecosia in December 2009; no investors and reliance on its own cash flow; 80 per cent of revenue to trees in the early days; 'more a hobby project than a real company' for the first years; learning by trial and error; 'I wanted to maximize the number of trees I could plant'; steward ownership meaning Ecosia can never be sold; 100 million trees in 2020."
+    },
+    {
+      "title": "Interview with Ecosia founder and CEO Christian Kroll",
+      "publisher": "Tharawat Magazine (27 September 2015)",
+      "url": "https://www.tharawat-magazine.com/start/ecosia-search-engine-planting-trees/",
+      "kind": "founder-interview",
+      "supports": "Business studies in Nuremberg; travels in India, Nepal and Argentina; the Nepal search engine (Xabbel) failing because a search engine could not run on a few hours of electricity a day; learning about rainforest loss in Argentina; Ecosia's launch in December 2009."
+    },
+    {
+      "title": "'Green Google Alternative' Ecosia: Founder Christian Kroll on the Green Search Engine that Could",
+      "publisher": "Latin Post (Melissa Castellanos, 29 November 2013)",
+      "url": "https://www.latinpost.com/articles/4164/20131129/green-google-alternative-ecosia-founder-christian-kroll-search-engine.htm",
+      "kind": "founder-interview",
+      "supports": "Forestle as Ecosia's predecessor and its work with Google; Kroll's account that Google did not want to partner with charitable search engines because of worries about support clicks; Ecosia powered by Bing and Yahoo; no investors or shareholders pressing for revenue."
+    },
+    {
+      "title": "2015 marks milestone year for Germany's first B Corp",
+      "publisher": "Pioneers Post (Ellie Ward, 21 December 2015)",
+      "url": "https://pioneerspost.com/news-views/20151221/2015-marks-milestone-year-germanys-first-b-corp",
+      "kind": "independent-reporting",
+      "supports": "Ecosia founded in 2009 and funding a WWF rainforest project from 2009."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Forestle launched in August 2008 and Google ended the partnership within weeks, citing incentives to click ads",
+      "urls": [
+        "https://taz.de/!487296/",
+        "https://www.googlewatchblog.de/2008/08/google-beendet-zusammenarbeit-mit-forestle/",
+        "https://www.volksstimme.de/sachsen-anhalt/der-umdenker-aus-wittenberg-994244"
+      ]
+    },
+    {
+      "claim": "Kroll kept going and secured a partnership with Yahoo after months",
+      "urls": [
+        "https://taz.de/!487296/",
+        "https://www.volksstimme.de/sachsen-anhalt/der-umdenker-aus-wittenberg-994244"
+      ]
+    },
+    {
+      "claim": "Ecosia launched in December 2009",
+      "urls": [
+        "https://taz.de/!487296/",
+        "https://new.startupguide.com/what-christian-kroll-learned-founding-ecosia",
+        "https://www.tharawat-magazine.com/start/ecosia-search-engine-planting-trees/"
+      ]
+    },
+    {
+      "claim": "Ecosia's early income went largely (80 per cent) to a WWF rainforest project",
+      "urls": [
+        "https://taz.de/!487296/",
+        "https://pioneerspost.com/news-views/20151221/2015-marks-milestone-year-germanys-first-b-corp",
+        "https://new.startupguide.com/what-christian-kroll-learned-founding-ecosia"
+      ]
+    },
+    {
+      "claim": "Ecosia had no outside investors in its early years",
+      "urls": [
+        "https://new.startupguide.com/what-christian-kroll-learned-founding-ecosia",
+        "https://www.latinpost.com/articles/4164/20131129/green-google-alternative-ecosia-founder-christian-kroll-search-engine.htm"
+      ]
+    }
+  ],
+  "research_notes": "Timing of Google's withdrawal differs: taz (February 2010) says 'after a few days', Volksstimme (2019) 'after a few weeks'; GoogleWatchBlog, writing on 29 August 2008, says the email had arrived two days earlier, about three weeks after the 5 August launch, so the story says late August. Google's reasons are disputed: the 2008 email cited incentives to click ads artificially; taz reports a later Google statement that it could not support non-profit activities; Kroll told Latin Post Google did not want charitable search partners and told Volksstimme he suspected a pretext. The story gives Google's stated reason and attributes the suspicion to Kroll. The Nepal project is called Xabbel by Tharawat and 'Nepalies' by Volksstimme, so the story does not name it; Tharawat and ThinkProgress place the rainforest lesson in Argentina, Volksstimme and Startup Guide in South America generally, so the story says South America. Tharawat's line that the idea for the company 'initially called Forestle' was born in late 2009 conflicts with Forestle's documented August 2008 launch and is not used. Donations: taz (2010) gives 80 per cent of ad revenue, ThinkProgress 80 per cent of overall income, later sources 80 per cent of profits (from 2014); the story uses the contemporary taz figure. Kroll's German remarks (taz, Volksstimme) are paraphrased rather than quoted, since only translations are available. Volksstimme gives no author and says Kroll transferred 99 per cent of the capital and 1 per cent of the voting rights to the Purpose Foundation in 2018. 'Mid-twenties' is inferred from Volksstimme giving his age as 35 in 2018. The Avot saying is numbered III:22 in Gorfinkle's edition (III:17 or III:22 in others).",
+  "researched_at": "2026-11-01"
+}

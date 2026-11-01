@@ -1,0 +1,148 @@
+{
+  "id": "honey-ogundeyi-edukoya-closure-return-capital-2025",
+  "title": "The Edtech That Chose to Close and Return Its Investors' Money",
+  "dek": "In February 2025 Honey Ogundeyi's Edukoya told its backers it was winding down rather than spend what was left chasing scale in a market not yet ready for it.",
+  "story": {
+    "founder": "Honey Ogundeyi",
+    "company": "Edukoya",
+    "event": "Winding down the online-learning start-up and returning capital to investors",
+    "approx_date": "2025-02",
+    "country": "Nigeria",
+    "region": "West Africa",
+    "industry": "education (online learning)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Edukoya, a Nigerian online-learning start-up founded by Honey Ogundeyi in 2021 and backed by a $3.5 million pre-seed round led by Target Global, told stakeholders in February 2025 that it would wind down and return capital to investors. Its statement said the connectivity, devices and spending power its live-learning model needed were not yet in place, and that partnerships, M&A and pivots had found no viable path. The amount returned was not disclosed.",
+    "paragraphs": [
+      "In late February 2025 the Nigerian online-learning company Edukoya sent its stakeholders an email that several Nigerian outlets saw and quoted. It was closing. \"In many ways, Edukoya was too early for its time,\" the statement said, and rather than \"deplete resources chasing scale in a challenging market\", the company would wind down and return capital to its investors.",
+      "Honey Ogundeyi had founded it in May 2021. She grew up in Nigeria, studied abroad because, as she put it, her parents made the sacrifice, and had worked at McKinsey and Google and been the founding marketing chief of the neobank Kuda. When her two children struggled with some subjects and she went looking for after-school teachers, she concluded that Africa's education system had \"remained untouched for 50 years\". In December 2021 Target Global led a $3.5 million pre-seed round, then described as Africa's largest. The app began with exam practice for secondary-school students and came to rest on live classes and on-demand tutors, which the company called synchronous learning.",
+      "By the company's own count, more than 80,000 students used the platform, more than 15 million questions were answered and thousands of live classes ran each day. But its statement listed what live teaching needed and many families lacked: reliable connections, devices and money to spare, in a hard economy. Those conditions, it said, \"simply aren't yet in place across our target markets.\" It had tried partnerships, mergers and acquisitions and changes to its business model; Nairametrics reported that one deal fell through. It had also added AI to the product.",
+      "So it stopped before the money ran out. The company called the decision counterintuitive in a \"persist at all costs\" start-up culture, and said it meant investors could redeploy capital and \"our team can transition with dignity\". It did not say how much would be returned. An investor, speaking anonymously to Techpoint Africa, said the choice showed an ability to recognise when venture-scale outcomes were unviable. The end was not painless: reports said staff had been let go and the office closed months earlier, and in 2022, when former employees told TechCabal of lay-offs, the company said four people had left after a performance review."
+    ]
+  },
+  "quote": {
+    "text": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+    "thinker": "Laozi",
+    "work": "Tao Te Ching",
+    "locator": "Chapter 44, part 3",
+    "translator": "James Legge (1891)",
+    "tradition": "Daoist",
+    "source_url": "https://www.gutenberg.org/cache/epub/216/pg216.txt",
+    "source_title": "The Tao Teh King, or the Tao and its Characteristics, tr. James Legge, Project Gutenberg eBook #216",
+    "connection": "Laozi treats knowing when to stop as a protection rather than a defeat: whoever stops in time avoids blame and lives on. Edukoya's statement made the same wager against a start-up culture that tends to count stopping as shame.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Most advice to founders is about holding on. Edukoya's statement is a rare public example of the other skill: reading the conditions honestly, deciding they will not change in time, and ending things while there is still something to hand back.",
+    "You do not have to be closing a company for this to matter. Some project, habit or commitment of yours may be asking for one more push when what it needs is an orderly end. Stopping well is a kind of care, and that is easier to see after a night's sleep than at the end of a hard week."
+  ],
+  "invitation": "Pick one commitment that has been draining you without moving. Write down the condition that would have to change for it to work, and whether you honestly expect that change this year.",
+  "sources": [
+    {
+      "title": "Nigerian edtech startup Edukoya shuts down 4 years after raising $3.5 million",
+      "publisher": "Nairametrics (Samson Akintaro, 26 February 2025)",
+      "url": "https://nairametrics.com/2025/02/26/nigerian-edtech-startup-edukoya-shuts-down-4-years-after-raising-3-5-million",
+      "kind": "independent-reporting",
+      "supports": "Edukoya's email to stakeholders: 'In many ways, Edukoya was too early for its time'; infrastructure and economic conditions 'simply aren't yet in place across our target markets'; partnerships, M&A and business model pivots without viable solutions; wind down and return capital to investors rather than deplete resources; the 'persist at all costs' line; investors can redeploy capital and 'our team can transition with dignity'; a merger or acquisition deal fell through; AI added to the product; 80,000 students, 15 million questions, thousands of daily live classes; $3.5 million raised in 2021"
+    },
+    {
+      "title": "Startup shuts down despite raising $3.5 million",
+      "publisher": "BusinessDay (Boluwatife Omotayo, 26 February 2025)",
+      "url": "https://businessday.ng/technology/article/startup-shuts-down-despite-raising-3-5-million/",
+      "kind": "independent-reporting",
+      "supports": "The email to stakeholders and its usage figures; reasons (market readiness, connectivity, devices, disposable income); partnerships, M&A and pivots explored; wind-down after nearly three years and return of capital; $3.5 million pre-seed in 2021"
+    },
+    {
+      "title": "Nigerian edtech Edukoya shuts down after 3 years, to return investor funds",
+      "publisher": "Technext (Anuoluwamipo Idowu, 26 February 2025)",
+      "url": "https://technext24.com/news/edukoya-shuts-down-amid-market-challenge/",
+      "kind": "independent-reporting",
+      "supports": "Statement on 'market readiness challenges in scaling our synchronous learning model'; connectivity, devices and macroeconomic headwinds; funds to be returned, amount undisclosed; the synchronous model linking students with on-demand teachers; $3.5 million pre-seed led by Target Global with angel investors including Shola Akinlade"
+    },
+    {
+      "title": "Nigerian Edtech Startup Edukoya Shuts Down",
+      "publisher": "CIO Africa (Joan Kaberia, 28 February 2025)",
+      "url": "https://cioafrica.co/nigerian-edtech-startup-edukoya-shuts-down",
+      "kind": "independent-reporting",
+      "supports": "Final statement: rather than deplete resources chasing scale, the company opted to return investor capital; partnerships, M&A and business model changes tried; lay-offs and closure of the physical office more than six months before the announcement; pre-seed in December 2021 led by Target Global; usage figures"
+    },
+    {
+      "title": "What Went Wrong at Edukoya? Nigerian Edtech Closure Raises Market Questions",
+      "publisher": "Launch Base Africa (27 February 2025)",
+      "url": "https://launchbaseafrica.com/2025/02/27/what-went-wrong-at-edukoya-nigerian-edtech-closure-raises-market-questions-and-financial-red-flags/",
+      "kind": "independent-reporting",
+      "supports": "Founded in May 2021; return of remaining capital to investors, amount not disclosed; the anonymous investor's comment to Techpoint Africa; Edukoya's denial of a fintech pivot and the Koya App as a separate initiative"
+    },
+    {
+      "title": "Target Global leads $3.5M pre-seed in Nigerian online learning platform Edukoya",
+      "publisher": "TechCrunch (Tage Kene-Okafor, 15 December 2021)",
+      "url": "https://techcrunch.com/2021/12/15/target-global-leads-3-5m-pre-seed-in-nigerian-online-learning-platform-edukoya/",
+      "kind": "founder-interview",
+      "supports": "Ogundeyi founded Edukoya in May 2021; grew up in Nigeria and studied abroad through her parents' sacrifice; roles at McKinsey, Ericsson and Google; founding CMO of Kuda; her children's struggles and search for after-school teachers; 'Africa's education system has remained untouched for 50 years'; $3.5 million pre-seed led by Target Global with angels including Shola Akinlade; exam-preparation app for senior secondary students with access to tutors; beta in December 2021"
+    },
+    {
+      "title": "Did Edukoya lay off employees in order to become a fintech?",
+      "publisher": "TechCabal (16 September 2022)",
+      "url": "https://techcabal.com/2022/09/16/edukoya-pivot/",
+      "kind": "independent-reporting",
+      "supports": "Former employees said most of the Nigeria staff had been let go; Edukoya said it had let four employees go after a quarterly performance review and was still hiring"
+    },
+    {
+      "title": "Edukoya shuts down, to return investment after three years in Nigeria's edtech space",
+      "publisher": "Techpoint Africa (Bolu Abiodun, 26 February 2025)",
+      "url": "https://techpoint.africa/2025/02/26/edukoya-shuts-down/",
+      "kind": "independent-reporting",
+      "supports": "Original report of the stakeholder statement; the anonymous investor's comment; anonymous sources on earlier lay-offs and the office closed for more than six months; amount returned not disclosed"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In February 2025 Edukoya told stakeholders it would wind down and return capital to investors",
+      "urls": [
+        "https://nairametrics.com/2025/02/26/nigerian-edtech-startup-edukoya-shuts-down-4-years-after-raising-3-5-million",
+        "https://businessday.ng/technology/article/startup-shuts-down-despite-raising-3-5-million/",
+        "https://technext24.com/news/edukoya-shuts-down-amid-market-challenge/"
+      ]
+    },
+    {
+      "claim": "Before deciding, it had explored partnerships, M&A and business-model pivots",
+      "urls": [
+        "https://nairametrics.com/2025/02/26/nigerian-edtech-startup-edukoya-shuts-down-4-years-after-raising-3-5-million",
+        "https://businessday.ng/technology/article/startup-shuts-down-despite-raising-3-5-million/",
+        "https://cioafrica.co/nigerian-edtech-startup-edukoya-shuts-down"
+      ]
+    },
+    {
+      "claim": "Edukoya raised a $3.5 million pre-seed round led by Target Global in December 2021",
+      "urls": [
+        "https://techcrunch.com/2021/12/15/target-global-leads-3-5m-pre-seed-in-nigerian-online-learning-platform-edukoya/",
+        "https://technext24.com/news/edukoya-shuts-down-amid-market-challenge/",
+        "https://cioafrica.co/nigerian-edtech-startup-edukoya-shuts-down"
+      ]
+    },
+    {
+      "claim": "By its own count more than 80,000 students used the platform",
+      "urls": [
+        "https://nairametrics.com/2025/02/26/nigerian-edtech-startup-edukoya-shuts-down-4-years-after-raising-3-5-million",
+        "https://businessday.ng/technology/article/startup-shuts-down-despite-raising-3-5-million/",
+        "https://cioafrica.co/nigerian-edtech-startup-edukoya-shuts-down"
+      ]
+    },
+    {
+      "claim": "Ogundeyi founded Edukoya in May 2021",
+      "urls": [
+        "https://techcrunch.com/2021/12/15/target-global-leads-3-5m-pre-seed-in-nigerian-online-learning-platform-edukoya/",
+        "https://launchbaseafrica.com/2025/02/27/what-went-wrong-at-edukoya-nigerian-edtech-closure-raises-market-questions-and-financial-red-flags/"
+      ]
+    },
+    {
+      "claim": "The amount returned to investors was not disclosed",
+      "urls": [
+        "https://technext24.com/news/edukoya-shuts-down-amid-market-challenge/",
+        "https://launchbaseafrica.com/2025/02/27/what-went-wrong-at-edukoya-nigerian-edtech-closure-raises-market-questions-and-financial-red-flags/"
+      ]
+    }
+  ],
+  "research_notes": "Date: the slate gave 2024; the closure was announced in late February 2025 (all reports dated 26 to 28 February 2025). Source of the return-of-capital claim: it rests on Edukoya's own statement, an email to stakeholders quoted by Nairametrics, BusinessDay, Technext and Techpoint Africa. None of these names a signatory or reproduces a personal post by Ogundeyi, and no separate signed statement by her could be found in a loadable source, so the story attributes the words to the company's statement, not to her personally. Her own words in the story come from the 2021 TechCrunch interview. Quote wording: Nairametrics and BusinessDay reproduce her 2021 lines slightly differently ('Even the most brilliant students...'; 'remained largely unchanged for the last 50 years'); the story uses TechCrunch's original ('remained untouched for 50 years'). Length of operation: Nairametrics's headline says four years after raising, but the round was in December 2021 (TechCrunch, CIO Africa), so about three years, as Techpoint and BusinessDay say. Usage figures (80,000 students, 15 million questions, thousands of daily classes) are the company's own and are labelled so. Amount returned: undisclosed in every source. Staff: TechCabal (2022) reported former employees saying most Nigeria staff were let go, which Edukoya disputed, saying four were let go after a performance review; Techpoint (2025, via anonymous sources, also summarised by CIO Africa) reported lay-offs attributed to over-hiring and an office closed for more than six months. The story reports both without assigning blame. Launch Base Africa published its own reading of Edukoya's balance sheets and questioned how the raise was structured; that is the outlet's inference, not a finding by a court, regulator or the founder, and is left out. Edukoya denied pivoting to fintech and called the Koya App a separate initiative; not part of the story. Techpoint Africa blocks the verifier but is cited as the original report, with Launch Base Africa and CIO Africa as loadable second sources for its details.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "therese-izay-kirongozi-kinshasa-traffic-robots-2013",
+  "title": "The Robot on Lumumba Boulevard That Only Helped People Cross",
+  "dek": "In 2013 a Kinshasa engineer paid for her first traffic robots out of her own business and stood them on two of the city's busiest boulevards.",
+  "story": {
+    "founder": "Thérèse Izay Kirongozi",
+    "company": "Women's Technology (Wotech)",
+    "event": "Building and installing the first solar traffic robots at Kinshasa junctions",
+    "approx_date": "2013-06",
+    "country": "Democratic Republic of the Congo",
+    "region": "Central Africa",
+    "industry": "transport (road safety engineering)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In June and October 2013 the Kinshasa electronics engineer Thérèse Izay Kirongozi and her cooperative, Women's Technology, installed two aluminium humanoid robots on Lumumba Boulevard and in front of parliament, the first to help pedestrians cross and the second, solar-powered, to control traffic. AFP reported that her own restaurant and leisure business was covering the costs of about $15,000 a robot. In early 2015 three newer robots were installed in Kinshasa and five sent to Katanga.",
+    "paragraphs": [
+      "In June 2013 a 2.5-metre aluminium figure went up on Lumumba Boulevard in Kinshasa's Limete district. It did not direct cars. Its one job was to help people on foot get across. \"We began with this one, which is simply there to offer safe passage,\" its designer, the electronics engineer Thérèse Izay Kirongozi, told AFP the following February. Kinshasa had about ten million people, few traffic lights, and traffic police often accused of extorting money from drivers. She wanted, Good magazine later reported, a guard on the road that was more reliable than people and could not be bribed.",
+      "The idea had come some years earlier from a couple of women engineers at the city's Higher Institute of Applied Technique. Izay Kirongozi set up Women's Technology, a cooperative meant to employ Congolese women with engineering degrees; by early 2014 its team of seven, four of them men, worked in a small workshop with peeling walls and basic tools. There was no state contract. AFP reported that her own restaurant and leisure company, Planète J, was paying the costs, which ran to about $15,000 to build each robot. She hoped the work would one day make a profit.",
+      "So she started small and in public. In October 2013 a second, solar-powered model, able to stop and release traffic, was installed at a junction in front of parliament on Boulevard Triomphal. Its cameras sent footage to a storage centre, which she hoped could be used to prosecute offenders. She said the city had identified 600 dangerous junctions where robots could stand, and she looked further: \"We must sell our expertise to other countries,\" she told AFP.",
+      "Support came slowly. In April 2014 Inter Press Service reported that she was struggling to win government backing, though Angola and Congo-Brazzaville had shown interest. In early 2015 three newer robots, at $27,500 each, joined the first ones in Kinshasa, and five went to Katanga; Good reported that the government had installed them. \"The electronic components work much better now than the ones from the first generation,\" she told AFP. Not everyone was persuaded. Some worried about upkeep in a country whose few ordinary traffic lights often failed; others feared the robots let the state put off building better roads and police."
+    ]
+  },
+  "quote": {
+    "text": "Exert thyself like the tiger, so that something may remain from thy spoil. Why, like the fox, appease thy hunger with leavings? Eat of the fruits of thine own endeavours",
+    "thinker": "Saadi",
+    "work": "The Bustan (The Orchard)",
+    "locator": "Chapter II, \"Concerning Benevolence\", Story of a Fool and a Fox",
+    "translator": "A. Hart Edwards (1911)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/60471/pg60471.txt",
+    "source_title": "The Bustān of Sadi, tr. A. Hart Edwards, Project Gutenberg eBook #60471",
+    "connection": "Saadi's fool sits in a corner waiting to be fed until a voice tells him to live by his own effort, and then to help the needy. Izay Kirongozi did not wait for a state contract; she paid for the first robots herself and built the first one for people on foot.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Izay Kirongozi's first robot did one modest thing. It did not run a junction; it helped people cross a road. That small start put something real on a boulevard, where drivers, pedestrians and officials could judge it for themselves, before she asked the city to trust a machine that controlled traffic.",
+    "You may be waiting for something before you begin a piece of your work: a grant, a partner, a signature, a calmer month. Some of those waits are wise, and resting while you wait is no failure. Others are Saadi's fool in his corner. It helps to know which kind yours is, and whether a smaller first version would let you begin without it."
+  ],
+  "invitation": "Choose one thing you are waiting on permission or money to start. Write down the smallest version of it you could put in front of one person this week, using only what you already have.",
+  "sources": [
+    {
+      "title": "Kinshasa co-op hopes to conquer the world with traffic robots",
+      "publisher": "Phys.org (AFP, Marc Jourdier, 27 February 2014)",
+      "url": "https://phys.org/news/2014-02-kinshasa-co-op-conquer-world-traffic.html",
+      "kind": "independent-reporting",
+      "supports": "First robot, 2.5 metres tall, installed in June 2013 on Lumumba Boulevard in Limete, for pedestrian safe passage, with her quotation 'We began with this one...'; second, solar-powered robot controlling traffic flow installed in October 2013 in front of parliament; Kinshasa's ten million people, few traffic lights and extorting traffic police; Women's Technology set up to employ Congolese women engineers; team of seven including four men; small workshop with peeling walls and rudimentary equipment; Planète J covering costs and her hope of profit; about $15,000 per robot; 600 dangerous intersections; cameras sending footage to a storage centre for prosecutions; 'We must sell our expertise to other countries'."
+    },
+    {
+      "title": "DR Congo’s Red Light to Invention",
+      "publisher": "Inter Press Service (Taylor Toeka Kakala, 30 April 2014)",
+      "url": "https://www.ipsnews.net/?p=134001",
+      "kind": "independent-reporting",
+      "supports": "Two solar-powered aluminium robots about 2.5 metres tall, one on Triumphal Boulevard near parliament and one on Lumumba Boulevard; about $15,000 each and about $2,000 a month to maintain; Women Technology as the patent holder; struggle to win government support; interest from Angola and Congo-Brazzaville."
+    },
+    {
+      "title": "DR Congo recruits robots as traffic police",
+      "publisher": "Al Jazeera (20 March 2014)",
+      "url": "https://www.aljazeera.com/news/2014/3/20/dr-congo-recruits-robots-as-traffic-police",
+      "kind": "independent-reporting",
+      "supports": "Two robots designed by engineer Thérèse Izay in Kinshasa, with cameras reporting offences; her women's technology cooperative; her hope that authorities would pay to install them elsewhere."
+    },
+    {
+      "title": "Traffic Robocops are Making Streets Safer in Congo",
+      "publisher": "GOOD (Mark Hay, 6 April 2015)",
+      "url": "https://www.good.is/articles/congo-traffic-robots-womens-technology",
+      "kind": "independent-reporting",
+      "supports": "Idea first came to a couple of female engineers at the Kinshasa Higher Institute of Applied Technique; her wish for something more reliable and incorruptible than fallible humans; three more robots installed in Kinshasa by the government in early 2015 and five sent to Katanga; $27,500 per machine; worries about maintenance given failing traffic lights and critics' concern that robots distract from building infrastructure and institutions."
+    },
+    {
+      "title": "Giant solar-powered robocops signal changing times",
+      "publisher": "Construction Management (12 March 2015, quoting AFP)",
+      "url": "https://constructionmanagement.co.uk/giant-solar-powered-robocops-signal-changing-times",
+      "kind": "independent-reporting",
+      "supports": "Three new robots arriving in Kinshasa in March 2015 at $27,500 each; her quotation to AFP that the electronic components work much better than the first generation's; robots used on Lumumba and Triomphal."
+    },
+    {
+      "title": "Thérèse Izay: « La création du robot roulage prouve que la femme congolaise peut faire de grandes choses »",
+      "publisher": "Radio Okapi, Le grand Témoin (25 February 2014)",
+      "url": "https://www.radiookapi.net/emissions-2/le-grand-temoin/2014/02/25/therese-izay-krongozi-cette-invention-prouve-la-femme-congolaise-peut-aussi-faire-de-grandes-choses/",
+      "kind": "founder-interview",
+      "supports": "She is an engineer and president of Women's Technology, project lead of the 'robot roulage intelligent'; the robot regulating traffic on Boulevard Triomphal, photographed on 17 October 2013."
+    },
+    {
+      "title": "Clean Robot Cops of Kinshasa",
+      "publisher": "IESE Business School, Africa from Africa blog (África M. Ariño, 20 May 2015)",
+      "url": "https://blog.iese.edu/africa/2015/05/20/clean-robot-cops-of-kinshasa/",
+      "kind": "business-school-case",
+      "supports": "Thérèse Izay Kirongozi is an industrial engineer in electronics; her Women's Technology association (Wotech) makes the robots."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "The first two robots were installed in Kinshasa in 2013, one on Lumumba Boulevard and one in front of parliament on Boulevard Triomphal.",
+      "urls": [
+        "https://phys.org/news/2014-02-kinshasa-co-op-conquer-world-traffic.html",
+        "https://www.ipsnews.net/?p=134001",
+        "https://www.radiookapi.net/emissions-2/le-grand-temoin/2014/02/25/therese-izay-krongozi-cette-invention-prouve-la-femme-congolaise-peut-aussi-faire-de-grandes-choses/"
+      ]
+    },
+    {
+      "claim": "Each of the first robots cost about $15,000.",
+      "urls": [
+        "https://phys.org/news/2014-02-kinshasa-co-op-conquer-world-traffic.html",
+        "https://www.ipsnews.net/?p=134001"
+      ]
+    },
+    {
+      "claim": "Izay Kirongozi designed the robots and leads Women's Technology, a group set up for Congolese women engineers.",
+      "urls": [
+        "https://phys.org/news/2014-02-kinshasa-co-op-conquer-world-traffic.html",
+        "https://www.aljazeera.com/news/2014/3/20/dr-congo-recruits-robots-as-traffic-police",
+        "https://blog.iese.edu/africa/2015/05/20/clean-robot-cops-of-kinshasa/"
+      ]
+    },
+    {
+      "claim": "In early 2015 three newer robots costing $27,500 each were installed in Kinshasa.",
+      "urls": [
+        "https://www.good.is/articles/congo-traffic-robots-womens-technology",
+        "https://constructionmanagement.co.uk/giant-solar-powered-robocops-signal-changing-times"
+      ]
+    }
+  ],
+  "research_notes": "Dates: AFP (February 2014) dates the first robot to June 2013 on Lumumba Boulevard and the second to October 2013 in front of parliament; Radio Okapi's photo of the Boulevard Triomphal robot is dated 17 October 2013; GOOD (2015) says 'early 2013' for both. The story uses AFP's contemporary months. Number of prototypes: AFP and IPS (2014) both describe two robots; Construction Management (2015) says three prototypes were installed in 2013. The story uses two. Cost: AFP and IPS give about $15,000 per robot for the first generation; GOOD and Construction Management give $27,500 for the 2015 robots; a Face2Face Africa piece (not cited) gives $10,000 for prototypes. The story gives $15,000 for the first robots and $27,500 for the later ones, each with its period. Funding: that Planète J, her restaurant and leisure company, was covering costs rests on AFP's February 2014 report alone (copies on other sites are the same wire story), so the prose attributes it to AFP; a Jeune Afrique profile reportedly quotes her saying she used her own funds with her husband's support, but it could not be read in full and is not cited. Funding is set to bootstrapped for the 2013 episode; the 2015 robots were reportedly installed by the government. Organisation: AFP calls Women's Technology a cooperative, IPS an NGO, IESE an association; the story uses AFP's word. Her motive ('more reliable and incorruptible on the roads than mere fallible humans') may be GOOD's paraphrase rather than her words, so it is reported as GOOD's account, not as a quotation. Her name is spelled Izay, Izayi and Krongozi in different sources. The Saadi story is about a man who waits to be fed by Providence until a voice tells him to work for his own bread and help the needy; it is applied here by analogy, and the excerpt ends before the words 'strive like a man'.",
+  "researched_at": "2026-11-01"
+}

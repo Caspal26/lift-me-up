@@ -1,0 +1,109 @@
+{
+  "id": "wallace-abbott-ravenswood-kitchen-granules-1888",
+  "title": "The Ravenswood Kitchen Where Wallace Abbott Made His Own Granules",
+  "dek": "In 1888 a young Chicago doctor who distrusted the pills he could buy began making dosimetric granules at home.",
+  "story": {
+    "founder": "Wallace Abbott",
+    "company": "Abbott Alkaloidal Company (later Abbott Laboratories)",
+    "event": "Deciding to manufacture his own alkaloidal granules at home in Ravenswood",
+    "approx_date": "1888",
+    "country": "United States",
+    "region": "North America",
+    "industry": "pharmaceuticals",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In 1888 Wallace Abbott, a 30-year-old physician who ran the People's Drug Store in Ravenswood, north of Chicago, began making his own dosimetric alkaloid granules because those he could buy dissolved poorly and were costly. By the company's own history, first-year sales were $2,000; he advertised to doctors from 1891 and incorporated the Abbott Alkaloidal Company in 1900. Demand for alkaloidal products fell from 1912, and the firm turned to synthetic drugs, becoming Abbott Laboratories in 1915.",
+    "paragraphs": [
+      "In 1885 Wallace Abbott, newly qualified from the University of Michigan's medical school, borrowed $1,000 to buy a doctor's practice in Ravenswood, then a small village north of Chicago. He and his wife, Clara, lived in a frame house where he also opened the People's Drug Store, selling remedies such as his own toothache drops.",
+      "A frequent visitor, the physician and salesman William Thackeray, won him over to dosimetric medicine, the teaching of the Belgian doctor Adolphe Burggraeve. Instead of fluid extracts mashed with mortar and pestle, whose strength nobody could know, Burggraeve wanted measured doses of purified plant alkaloids. Liquid extracts also spoiled. Not everyone was convinced: when Thackeray urged Parke-Davis to make granules, its general manager replied that the idea would fail and, if it did not, \"it would mean the ruin of the fluid extract business.\" Abbott began buying granules from Thackeray's own Chicago firm, but found many did not dissolve as claimed, and other makers' pills were scarce and dear.",
+      "In 1888, aged 30, he decided to make his own. According to the company's history he worked in the kitchen of the couple's small apartment, though its timelines also place the work at the back of the drugstore. He followed Burggraeve's handbook and masked the bitterness by rolling pills in round-bottomed pans or dipping them, stuck on pins, in sugary liquid. He wrote that he considered \"a handy case of active remedies in a convenient form far superior to the time-honored methods of bottles full of nauseous mixtures.\"",
+      "By the company's own count, sales were $2,000 that first year and $8,000 by 1890. His parents moved nearby; their kitchen became a spare laboratory, and his father filled bottles and pasted labels. In 1891 Abbott placed his first advertisement aimed at doctors. He incorporated as the Abbott Alkaloidal Company in 1900, selling shares to other doctors. The granules did not last: by 1912 demand for alkaloidal products was falling, in 1914 the firm turned to synthetic medicines, and in 1915 it became Abbott Laboratories."
+    ]
+  },
+  "quote": {
+    "text": "It is true, that what is settled by custom, though it be not good, yet at least it is fit; and those things which have long gone together, are, as it were, confederate within themselves; whereas new things piece not so well; but though they help by their utility, yet they trouble by their inconformity.",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay XXIV, \"Of Innovations\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Bacon notes that new things help by their usefulness yet trouble by not fitting what custom has settled. Abbott's granules troubled the fluid-extract trade, but within about twenty-five years his own firm was setting them aside for synthetic drugs.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Abbott's complaint was specific: granules that did not dissolve as promised. He did not set out to found a large company; he set out to stop giving patients medicine he could not trust. The company kept that standard and let go of the method, turning to synthetic drugs while he was still alive.",
+    "Bacon's warning cuts both ways. New things trouble people before they help, and Abbott's granules unsettled an older trade. Then they became the settled thing that had to give way. It may help to hold your methods more loosely than your reasons for them, and to let a good method be retired without feeling that you have failed."
+  ],
+  "invitation": "Name one tool you use every day that you do not quite trust. Write down exactly what is wrong with it in one sentence, and leave the fixing for another day.",
+  "sources": [
+    {
+      "title": "A Promise for Life: The Story of Abbott (2013), chapter '1888–1900: A Hustling Start to a Grand Medical Enterprise'",
+      "publisher": "Abbott (company history drawing on its archives; online flipbook edition)",
+      "url": "https://webstorage.abbott.com/PromiseForLife/EN/index.html",
+      "kind": "company-archive",
+      "supports": "Abbott's 1885 Michigan medical degree and the $1,000 loan to buy Dr William C. Dodge's practice in Ravenswood; the People's Drug Store in the frame house where he and Clara lived; toothache drops; William Thackeray and Burggraeve's dosimetric medicine; mortar-and-pestle fluid extracts of unknown strength; the Parke-Davis manager's reply about 'the ruin of the fluid extract business'; Abbott buying granules from Thackeray's Metric Granule Company and finding many not as soluble as claimed, others few and costly; deciding in 1888 to make his own in the kitchen of his small apartment (timelines also say the rear of, or at, the People's Drug Store); Burggraeve's handbook; rolling pills in pans and dipping them on pins in sugary liquid; Abbott's 'handy case of active remedies' quotation; first-year sales of $2,000 and $8,000 by 1890; his parents' kitchen as a spare lab and his father filling bottles; first advertisement to doctors in 1891; incorporation in 1900; revenues dropping in 1912 as demand for alkaloidal products declined; switch to synthetic medicines in 1914; renamed Abbott Laboratories in 1915."
+    },
+    {
+      "title": "Promise for Life: The Story of Abbott (Our Heritage)",
+      "publisher": "Abbott",
+      "url": "https://www.abbott.com/en-us/about-abbott/promise-for-life-the-story-of-abbott",
+      "kind": "company-archive",
+      "supports": "Abbott's description of its 2013 history as drawing on company archives, vintage interviews and the public record, with links to the English edition."
+    },
+    {
+      "title": "About Abbott: our heritage timeline",
+      "publisher": "Abbott",
+      "url": "https://www.abbott.com/en-us/about-abbott/our-heritage",
+      "kind": "company-archive",
+      "supports": "In 1888 Dr Wallace C. Abbott, a 30-year-old practising physician, began producing alkaloidal medicine granules at the rear of his People's Drug Store in Chicago; first-year sales of $2,000; he wanted more accurate and reliable medicines and could not find them."
+    },
+    {
+      "title": "Abbott Laboratories (International Directory of Company Histories)",
+      "publisher": "Gale, via Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/abbott-laboratories",
+      "kind": "book",
+      "supports": "The business began in the kitchen of a Chicago physician, Wallace Calvin Abbott; liquid alkaloid extracts spoiled over time; in 1888 he learnt of a Belgian surgeon's solid alkaloids and, dissatisfied with the quality of the pills available in Chicago, decided to make his own; he began advertising to doctors in 1891; he sold shares to other doctors and incorporated in 1900 as the Abbott Alkaloidal Company; annual sales of $200,000 by 1905."
+    },
+    {
+      "title": "Abbott Laboratories",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abbott_Laboratories",
+      "kind": "independent-reporting",
+      "supports": "Supplementary: in 1888, aged 30, Abbott, an 1885 University of Michigan graduate who was a practising physician and owned a drug store, founded the Abbott Alkaloidal Company in Ravenswood, Chicago, making alkaloids into dosimetric granules for more consistent doses than liquid preparations."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 1888 Abbott, a practising physician who ran a drugstore in Ravenswood, Chicago, began making his own alkaloidal granules",
+      "urls": [
+        "https://www.abbott.com/en-us/about-abbott/our-heritage",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/abbott-laboratories",
+        "https://en.wikipedia.org/wiki/Abbott_Laboratories"
+      ]
+    },
+    {
+      "claim": "He made his own because he was dissatisfied with the quality of the granules he could buy",
+      "urls": [
+        "https://webstorage.abbott.com/PromiseForLife/EN/index.html",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/abbott-laboratories"
+      ]
+    },
+    {
+      "claim": "The first granules were made in his home kitchen",
+      "urls": [
+        "https://webstorage.abbott.com/PromiseForLife/EN/index.html",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/abbott-laboratories"
+      ]
+    },
+    {
+      "claim": "Abbott first advertised to doctors in 1891 and incorporated the Abbott Alkaloidal Company in 1900",
+      "urls": [
+        "https://webstorage.abbott.com/PromiseForLife/EN/index.html",
+        "https://www.encyclopedia.com/books/politics-and-business-magazines/abbott-laboratories"
+      ]
+    }
+  ],
+  "research_notes": "Where the granules were first made: the company's own history book says 'in the kitchen of his small apartment' (and its 1889 timeline entry says the kitchen sink of the apartment he and Clara shared), while its 1888 timeline entries and abbott.com say 'in the rear of' or 'at' the People's Drug Store; the drugstore was in the frame house where the couple lived, so the accounts may describe the same building. The Gale company history also says the kitchen. The story gives the kitchen and notes the drugstore version. The slate's 'apartment' is the book's word. Outcome numbers: all early sales figures ($2,000 in 1888, $4,500 in 1889, $8,000 in 1890, $100,000 in 1898) come from Abbott's own history and are attributed as the company's count; the Gale history gives $200,000 by 1905 and was not used. The company history is a celebratory corporate book; the Parke-Davis manager's reply is reported there second-hand (to Thackeray) and is attributed. The book is inconsistent about when the firm was named the Abbott Alkaloidal Company (1891 in one timeline, 1894 in another and in the narrative), so the story gives only the 1900 incorporation, which the Gale history confirms. The Gale history says Abbott heard of solid alkaloids from a Belgian surgeon in 1888; the company book says Thackeray converted him after founding his Metric Granule Company in 1887; both name Burggraeve's dosimetric approach, and the story uses the book's sequence. The 1912 decline, 1914 switch and 1915 renaming come from the company's timeline. The book is read through the text that its online flipbook loads (the flipbook page itself shows only the title without JavaScript). Bacon's essay concerns innovation in states and customs generally; it is applied here by analogy.",
+  "researched_at": "2026-11-01"
+}

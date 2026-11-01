@@ -1,0 +1,147 @@
+{
+  "id": "stan-shih-multitech-founding-after-qualitron-1976",
+  "title": "When Qualitron Failed, Stan Shih Started Multitech on NT$1 Million",
+  "dek": "In 1976, forced out of a failing calculator maker, Stan Shih and colleagues started a small microprocessor firm and chose from the start to share it.",
+  "story": {
+    "founder": "Stan Shih and Carolyn Yeh",
+    "company": "Multitech (later Acer)",
+    "event": "Founding Multitech around microprocessors after leaving the failing Qualitron",
+    "approx_date": "1976",
+    "country": "Taiwan",
+    "region": "East Asia",
+    "industry": "computing (microprocessors and electronics)",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In the second half of 1976, as the Taiwanese calculator maker Qualitron sank into financial trouble, its vice-president Stan Shih and two research colleagues left and founded Multitech with NT$1 million (about US$25,000), aiming at the new microprocessor market. Shih and his wife Carolyn Yeh held half the company and partners the rest, a deliberate break from family ownership; the firm traded chips, consulted, ran a microprocessor training centre and later became Acer.",
+    "paragraphs": [
+      "In the second half of 1976, Stan Shih was vice-president of Qualitron, a Taiwanese calculator maker he had helped set up four years earlier, responsible for its research, manufacturing, business development and purchasing. Before that, at Unitron, he had designed Taiwan's first desktop calculator, a milestone that did not sell well. By his own account in his memoir, Me-Too Is Not My Style, Qualitron's financial problems had by now become \"irremediable\", and he and two research colleagues, George Huang and Fred Lin, had to leave.",
+      "Shih wrote that they \"hastily founded Multitech with the initial target being the new microprocessor market.\" Acer's records put the starting capital at NT$1 million, about US$25,000, and the work at trading, product design and advising others on using microprocessor technology. The company began with eleven employees and in its early days distributed chips to Taiwanese makers of arcade games. Shih later said its first two years were the only ones in its first decade that were not profitable.",
+      "How the company would be owned was decided early as well. Shih and his wife, Carolyn Yeh, who kept its first books, held half; partners held the rest, and he later made clear that his three children would not be given jobs there. \"Our original plan, when we started, was to be decentralized,\" he told an interviewer in 1996, calling it contrary to the Chinese tradition of family-owned firms. When Multitech opened branches in Taichung and Kaohsiung in 1979, a local partner owned 60 per cent of them; \"we saw that it worked, it made money,\" he said.",
+      "The company also taught. In 1978, by Acer's own count, it set up a Microprocessor Training Centre that trained 3,000 engineers for Taiwan's information industry. Its first branded product, in 1981, was the MicroProfessor-I, a small computer for learning to program a Z80 processor, made to sit on a shelf like a book. Multitech was later renamed Acer. Asked in 1996 how he measured success, Shih said \"the number of people you are able to train is a contribution.\""
+    ]
+  },
+  "quote": {
+    "text": "And the extent of their association is the extent of their friendship, as it is the extent to which justice exists between them.",
+    "thinker": "Aristotle",
+    "work": "Nicomachean Ethics",
+    "locator": "Book VIII, chapter 9",
+    "translator": "W. D. Ross (1908)",
+    "tradition": "Classical Greek",
+    "source_url": "http://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+    "source_title": "Nicomachean Ethics, tr. W. D. Ross, The Internet Classics Archive (MIT)",
+    "connection": "Aristotle measures a bond by how much the people in it actually share. Shih's hurried start left him little money, but his first choices widened what Multitech shared: half the company to partners outside his family, majority stakes to local partners, and training for engineers across Taiwan's industry.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Multitech did not begin at a moment Shih chose. The company he had helped build was failing, and he wrote that the new one was founded in haste. Yet the decisions that lasted were not hasty ones: who would own it, how far control would be shared, and who would be taught.",
+    "Much of your own work may start under pressure, on someone else's timetable, and that part is rarely yours to set. What stays yours, even on a rushed day, is how widely you share what you know and whom you build with. Shih counted the people he trained as part of his contribution. The colleague you patiently showed a method last month belongs on that list too."
+  ],
+  "invitation": "Think of one thing you know how to do that a colleague keeps asking you about. Today, spend ten unhurried minutes showing them how, and let that count as real work.",
+  "sources": [
+    {
+      "title": "QUALITRON (company page), with an excerpt from Stan Shih's memoir Me-Too Is Not My Style",
+      "publisher": "Calcuseum, vintage electronic calculator museum",
+      "url": "https://www.calcuseum.com/SCRAPBOOK/BONUS/87388/1.htm",
+      "kind": "memoir",
+      "supports": "Shih's own account: about fourteen months at Unitron, where he developed Taiwan's first desktop calculator (not a commercial success); Vincent Lin's invitation to join Qualitron; Shih as vice-president for R&D, manufacturing, business development and purchasing; Qualitron's financial problem becoming 'irremediable' in the second half of 1976; Shih, George Huang and Fred Lin of R&D having to leave; 'hastily founded MULTITECH with the initial target being the new microprocessor market'"
+    },
+    {
+      "title": "Acer Milestones",
+      "publisher": "Acer Inc. (corporate site)",
+      "url": "https://www.acer.com/corporate/en/overview/milestones",
+      "kind": "company-archive",
+      "supports": "Founded as Multitech on 1 August 1976 with NT$1 million (US$25,000), focusing on trade, product design and consultancy in microprocessor technologies; Microprocessor Training Centre established in 1978, training 3,000 engineers; expansion to central and southern Taiwan in 1979; MicroProfessor-I as first branded product in 1981; Acer name created in 1987"
+    },
+    {
+      "title": "Acer: 50 Years of Breaking Barriers (timeline)",
+      "publisher": "Acer Inc.",
+      "url": "https://www.acer.com/50-years/us-en/index.html",
+      "kind": "company-archive",
+      "supports": "NT$1 million (US$25,000) starting capital and the founding focus on microprocessor technology, trade, design and consultancy; the 1978 Microprocessor Training Centre and its 3,000 engineers"
+    },
+    {
+      "title": "Stan Shih (biography)",
+      "publisher": "IT History Society",
+      "url": "https://ithistory.org/node/31358",
+      "kind": "independent-reporting",
+      "supports": "Unitron desktop calculator not a commercial success; Shih helped establish Qualitron in 1972 at Vincent Lin's request and was its vice-president; Multitech co-founded in September 1976 with US$25,000, with partners including Carolyn Yeh; eleven employees at the start; early business as distributor of electronic parts and microprocessor consultant; MicroProfessor-I training kit"
+    },
+    {
+      "title": "Shih, Stan (Chen-Jung) oral history (catalogue record)",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/collections/catalog/102746001",
+      "kind": "oral-history",
+      "supports": "Biographical summary accompanying Shih's oral history: born 1944; Unitron calculator; co-founded Multitech, the forerunner of Acer, in September 1976 with four partners and US$25,000"
+    },
+    {
+      "title": "Stan is Taiwan's Bill Gates",
+      "publisher": "The Irish Times (29 September 1997)",
+      "url": "https://www.irishtimes.com/news/stan-is-taiwan-s-bill-gates-1.110898",
+      "kind": "independent-reporting",
+      "supports": "From its beginnings in 1976, Shih and Carolyn Yeh owned half the company and partners the rest, a conscious break from family ownership; Shih's three children deliberately excluded; early business selling computer learning kits"
+    },
+    {
+      "title": "The 'Fast-Food' Computer Company: An Interview with Stan Shih (Joel Kurtzman, 1 October 1996), archived copy",
+      "publisher": "strategy+business (Booz & Company), via the Internet Archive",
+      "url": "https://web.archive.org/web/20241011020352/https://www.strategy-business.com/article/12446",
+      "kind": "founder-interview",
+      "supports": "Acer's beginnings as a tiny chip distributor for Taiwanese arcade-game makers; Shih: only the first two years were not profitable in the first ten; 'Our original plan, when we started, was to be decentralized', contrary to the Chinese tradition of family-owned businesses; the 1979 Taichung/Kaohsiung branch with a local partner owning 60 per cent, 'we saw that it worked, it made money'; 'the number of people you are able to train is a contribution'"
+    },
+    {
+      "title": "Acer Inc. (International Directory of Company Histories, vol. 16)",
+      "publisher": "Reference for Business",
+      "url": "https://www.referenceforbusiness.com/history2/28/Acer-Inc.html",
+      "kind": "book",
+      "supports": "Founded in 1976 by Shih and several friends with a $25,000 investment; Carolyn Yeh as the company's first bookkeeper; Shih's vow that his three children would look for jobs elsewhere"
+    },
+    {
+      "title": "Multitech Micro-Professor MPF-1",
+      "publisher": "HomeComputerMuseum (Helmond, Netherlands)",
+      "url": "https://homecomputermuseum.nl/en/collectie/acer/multitech-micro-professor-mfp",
+      "kind": "independent-reporting",
+      "supports": "Multitech founded in 1976 by Stan Shih, Carolyn Yeh and partners as a component supplier and microprocessor consultant; the MPF-1 of 1981 as an educational computer for learning Z80 programming, designed to sit on a shelf next to books"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Multitech was founded in 1976 with about US$25,000 (NT$1 million) in capital",
+      "urls": [
+        "https://www.acer.com/corporate/en/overview/milestones",
+        "https://ithistory.org/node/31358",
+        "https://www.referenceforbusiness.com/history2/28/Acer-Inc.html"
+      ]
+    },
+    {
+      "claim": "Shih had helped set up Qualitron and was its vice-president before leaving to found Multitech in 1976",
+      "urls": [
+        "https://www.calcuseum.com/SCRAPBOOK/BONUS/87388/1.htm",
+        "https://ithistory.org/node/31358"
+      ]
+    },
+    {
+      "claim": "Multitech's early business was microprocessor-centred: trading and distributing chips and advising on microprocessor technology",
+      "urls": [
+        "https://www.acer.com/corporate/en/overview/milestones",
+        "https://ithistory.org/node/31358",
+        "https://web.archive.org/web/20241011020352/https://www.strategy-business.com/article/12446"
+      ]
+    },
+    {
+      "claim": "Ownership was deliberately spread beyond the Shih family, against the tradition of family-owned firms",
+      "urls": [
+        "https://www.irishtimes.com/news/stan-is-taiwan-s-bill-gates-1.110898",
+        "https://web.archive.org/web/20241011020352/https://www.strategy-business.com/article/12446",
+        "https://www.referenceforbusiness.com/history2/28/Acer-Inc.html"
+      ]
+    },
+    {
+      "claim": "The MicroProfessor-I of 1981, a computer for learning Z80 programming, was the company's first branded product",
+      "urls": [
+        "https://www.acer.com/corporate/en/overview/milestones",
+        "https://homecomputermuseum.nl/en/collectie/acer/multitech-micro-professor-mfp"
+      ]
+    }
+  ],
+  "research_notes": "Founding date: Acer's own timeline gives 1 August 1976; the Computer History Museum record and the IT History Society give September 1976; Shih's memoir says the second half of 1976. The story says 'the second half of 1976'. Number of founders disagrees: CHM and IT History say four partners including Carolyn Yeh; EBSCO says Yeh and three others; The Irish Times (1997) says Shih and Yeh owned half and five partners the rest; the HomeComputerMuseum says Yeh and five partners. The story names only the two colleagues Shih names in his memoir (George Huang, Fred Lin) and says 'partners held the rest' without a count. Capital is consistent (NT$1 million, about US$25,000). Early business: Acer says trade, product design and microprocessor consultancy; strategy+business calls it a chip distributor for arcade-game makers; Reference for Business says it began by designing hand-held electronic games and then distributed imported semiconductors. The story uses Acer's description and the strategy+business detail. Headquarters: IT History and the HomeComputerMuseum say Hsinchu, while Shih in 1996 spoke of 'the Taipei part of the company' in 1979, so the story names no founding city (the slate's 'in Taipei' is not asserted). Renaming: Acer says the name was created in 1987; IT History says 1989; Reference for Business says 1981; the story says only 'later renamed Acer'. The Microprocessor Training Centre and its 3,000 engineers come only from Acer's own timeline, so the story attributes the figure to Acer. The children's exclusion is reported by The Irish Times (1997) and Reference for Business without a date, so the story says he 'later made clear' it. The memoir itself is not online; its wording is taken from the excerpt quoted on the Calcuseum Qualitron page. Shih's 'first two years' remark is from the 1996 interview, where he said the company doubled revenue every year in its first ten years and only the first two were unprofitable. The Aristotle passage comes from Book VIII, chapter 9, on friendship and justice in every kind of community or association, applied here by analogy to a business partnership. The founder field was shortened from \"Stan Shih and Carolyn Yeh, with partners\" to \"Stan Shih and Carolyn Yeh\" because the repeat screen flagged (but passed) an unrelated edition whose founder field also contains \"founding partners\"; it is a different person and company.",
+  "researched_at": "2026-11-01"
+}

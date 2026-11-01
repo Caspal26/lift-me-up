@@ -1,0 +1,126 @@
+{
+  "id": "zappos-swinmurn-hsieh-end-of-drop-shipping-2003",
+  "title": "When Zappos Gave Up a Quarter of Its Sales to Stock Its Own Shoes",
+  "dek": "Around 2003 Zappos, still not making a profit, stopped letting brands ship its orders and began buying and storing the shoes it sold.",
+  "story": {
+    "founder": "Nick Swinmurn, who started it, and Tony Hsieh, early investor and later CEO",
+    "company": "Zappos",
+    "event": "Ending drop-shipping and holding its own inventory",
+    "approx_date": "2003",
+    "country": "United States",
+    "region": "North America",
+    "industry": "retail (online footwear)",
+    "arc": "change-of-direction",
+    "funding": "venture",
+    "summary": "Zappos, founded in 1999 by Nick Swinmurn and backed by Tony Hsieh's Venture Frogs, began as an online shoe shop that held no stock, and many orders were shipped by the brands themselves. Around 2003, with vendors' stock data unreliable and customers learning days later that their shoes were unavailable, the company gave up drop-shipped orders, which Hsieh said made up a quarter of revenue, and shipped from its own warehouse in Kentucky. Sales grew quickly, but carrying stock brought heavy borrowing and inventory problems of its own.",
+    "paragraphs": [
+      "Zappos began without a single shoe of its own. In 1999 Nick Swinmurn, unable to find the Airwalk desert boots he wanted at a mall, offered a shop in Sunnyvale, California, a deal: he would photograph its shoes, put them online and, if anyone ordered, buy them from the shop at full price. About ten venture firms told him nobody would buy shoes without trying them on. Tony Hsieh and Alfred Lin of Venture Frogs put in $500,000, and Hsieh, who had sold LinkExchange to Microsoft, became co-chief executive with Swinmurn in 2001, by Swinmurn's account.",
+      "As the company grew, many orders were drop-shipped: the brands sent the shoes straight to the buyer, so Zappos needed no warehouse or stock. Hsieh later explained what that cost. The stock data passed from brand to Zappos was unreliable; only 80 to 90 per cent of what the site showed as available was really in stock, so between a tenth and a fifth of customers learned days later that their shoes were not coming, and told others.",
+      "The decision, around 2003, was to stop. By Hsieh's account drop-shipped orders were a quarter of revenue, and the company was not yet profitable; Swinmurn said it was close to breaking even that year, and Hsieh had been selling his own apartments to keep it going. Hsieh said they walked away \"because we knew it was important to be true to our brand.\" Zappos bought stock and shipped from its own warehouse in Shepherdsville, Kentucky, near UPS's largest US hub, after what Hsieh's memoir describes as a failed attempt to outsource the work.",
+      "Sales rose from $70 million in 2003 to more than $180 million in 2004, and inventory more than doubled. Owning the shoes brought its own danger. Swinmurn later said, \"we were still borrowing money to buy inventory,\" and that buying everything left piles of unsold stock; had the bank cut their credit line, he said, they would have gone out of business. In 2009 Amazon bought Zappos for about $1.2 billion."
+    ]
+  },
+  "quote": {
+    "text": "If a man who is in the habit of speaking truth lets a mistake escape him, we can overlook it; but if he be notorious for uttering falsehoods, and tell a truth, thou wilt call it a lie.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, maxim XCVIII",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "A website that says a shoe is in stock is making a small promise, and Zappos was breaking it for one customer in ten or more. Saadi explains why that mattered: a record of keeping your word earns forgiveness for later mistakes, and a record of broken word makes even the truth sound false.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The hard part of this decision was that drop-shipping was working, in the narrow sense. It brought in a quarter of the money, at a time when there was little money to spare. What it could not do was keep the promise on the screen.",
+    "Most of us have something like that: a commitment that brings in help or goodwill but that we cannot reliably honour, a yes to a colleague that becomes a late apology. Giving it up costs something now. Keeping it costs trust, slowly, with people who may never tell you."
+  ],
+  "invitation": "Think of one promise you make often and keep only sometimes, at work or at home. Today, either make it smaller so you can keep it every time, or tell the person plainly that you can no longer make it.",
+  "sources": [
+    {
+      "title": "Nick Swinmurn: Zappos' silent founder",
+      "publisher": "Fortune (as told to Dinah Eng, 5 September 2012)",
+      "url": "https://fortune.com/2012/09/05/nick-swinmurn-zappos-silent-founder",
+      "kind": "founder-interview",
+      "supports": "Swinmurn's own account: the Airwalk boots and the Sunnyvale shop deal (photographs, buying at full price); about ten venture firms saying nobody would buy shoes without trying them; Hsieh and Alfred Lin of Venture Frogs investing $500,000; co-chief executives in 2001; Hsieh selling apartments to keep Zappos open; close to breaking even in 2003; sales of $70 million (2003) and $184 million (2004); 'still borrowing money to buy inventory'; buying everything and leftover stock; the risk if the bank lowered the credit line; Amazon's $1.2 billion acquisition."
+    },
+    {
+      "title": "How Zappos.com Grew So Big So Fast: 10 Strategies Behind Their Success",
+      "publisher": "MarketingSherpa (interview with Tony Hsieh, 7 August 2007)",
+      "url": "https://marketingsherpa.com/article/interview/how-zappos-grew-so-big",
+      "kind": "founder-interview",
+      "supports": "Drop-shipping used until about four years before 2007; 80-90% of products displayed actually in stock; data-feed glitches; 10-20% of customers finding out days later that items were out of stock, with negative word of mouth; Hsieh's statement that drop-shipped orders were 25% of revenue and the 'true to our brand' quotation; fulfilment moved to Shepherdsville, Kentucky, about 20 miles from UPS's largest domestic hub."
+    },
+    {
+      "title": "Live from ETail: Zappos CEO Shares Top 10 List",
+      "publisher": "Chief Marketer / Multichannel Merchant (10 August 2007)",
+      "url": "https://www.chiefmarketer.com/live-from-etail-zappos-ceo-shares-top-10-list/",
+      "kind": "independent-reporting",
+      "supports": "Hsieh's account at the eTail conference that drop-shipping by manufacturers caused inaccurate inventory, backorders and unhappy customers; distribution moved from California to a centre in Kentucky."
+    },
+    {
+      "title": "Tony Hsieh Describes the Rise of Zappos in Delivering Happiness",
+      "publisher": "The Rational Walk (book review)",
+      "url": "https://newsletter.rationalwalk.com/p/tony-hsieh-describes-the-rise-of-zappos-in-delivering-happiness",
+      "kind": "independent-reporting",
+      "supports": "Summary of Hsieh's memoir: Swinmurn's idea, which Hsieh first thought 'the poster child of bad Internet ideas'; the initial drop-ship model with no inventory; problems with availability and delivery; a disastrous attempt to outsource warehousing; the Kentucky facility near a major UPS hub; Hsieh selling his apartment to keep the company from running out of cash."
+    },
+    {
+      "title": "Zappos.com, Inc. (International Directory of Company Histories)",
+      "publisher": "Encyclopedia.com",
+      "url": "https://encyclopedia.com/books/politics-and-business-magazines/zapposcom-inc",
+      "kind": "book",
+      "supports": "Founded by Swinmurn in June 1999 as Shoesite.com with about $150,000; Hsieh's Venture Frog investment and leadership role; a Kentucky warehouse of over 100,000 square feet and Zappos taking over order fulfilment; sales of $70 million in 2003 and over $180 million in 2004; inventory more than doubling from over $5 million to $13 million between 2003 and 2004 (citing Footwear News, 12 April 2004)."
+    },
+    {
+      "title": "Zappos: Delivering Happiness, Powered by Service",
+      "publisher": "Harvard Business School Technology and Operations Management course platform (student submission, 9 December 2015)",
+      "url": "https://d3.harvard.edu/platform-rctom/submission/zappos-delivering-happiness-powered-by-service/",
+      "kind": "independent-reporting",
+      "supports": "Dating of the decision to 2003; drop-ship model with no control over manufacturers' delivery times or visibility of their inventory; Zappos ending drop-shipping and buying inventory for its own warehouses."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Swinmurn founded Zappos in 1999 with a no-inventory model, and Hsieh's Venture Frogs invested.",
+      "urls": [
+        "https://fortune.com/2012/09/05/nick-swinmurn-zappos-silent-founder",
+        "https://encyclopedia.com/books/politics-and-business-magazines/zapposcom-inc",
+        "https://newsletter.rationalwalk.com/p/tony-hsieh-describes-the-rise-of-zappos-in-delivering-happiness"
+      ]
+    },
+    {
+      "claim": "Drop-shipping caused inaccurate stock information and unhappy customers.",
+      "urls": [
+        "https://marketingsherpa.com/article/interview/how-zappos-grew-so-big",
+        "https://www.chiefmarketer.com/live-from-etail-zappos-ceo-shares-top-10-list/",
+        "https://newsletter.rationalwalk.com/p/tony-hsieh-describes-the-rise-of-zappos-in-delivering-happiness"
+      ]
+    },
+    {
+      "claim": "The decision: around 2003 Zappos stopped drop-shipping and began holding its own inventory.",
+      "urls": [
+        "https://marketingsherpa.com/article/interview/how-zappos-grew-so-big",
+        "https://d3.harvard.edu/platform-rctom/submission/zappos-delivering-happiness-powered-by-service/"
+      ]
+    },
+    {
+      "claim": "Zappos shipped from its own warehouse in Kentucky, near a major UPS hub.",
+      "urls": [
+        "https://marketingsherpa.com/article/interview/how-zappos-grew-so-big",
+        "https://newsletter.rationalwalk.com/p/tony-hsieh-describes-the-rise-of-zappos-in-delivering-happiness",
+        "https://encyclopedia.com/books/politics-and-business-magazines/zapposcom-inc"
+      ]
+    },
+    {
+      "claim": "Sales were about $70 million in 2003 and more than $180 million in 2004.",
+      "urls": [
+        "https://fortune.com/2012/09/05/nick-swinmurn-zappos-silent-founder",
+        "https://encyclopedia.com/books/politics-and-business-magazines/zapposcom-inc"
+      ]
+    }
+  ],
+  "research_notes": "Founder field: Nick Swinmurn founded Zappos (as Shoesite.com) in 1999; Tony Hsieh came in as an investor through Venture Frogs with Alfred Lin and later ran the company, so he is named as investor and chief executive, not founder. When Hsieh became co-chief executive differs: Swinmurn told Fortune 2001; the company-history entry (Encyclopedia.com, the same text as Reference for Business) says 2000; the story follows Swinmurn and attributes it. Venture Frogs' first investment: Swinmurn says $500,000; the company history says $1.1 million in 2000 (possibly a later total); the story uses Swinmurn's figure, attributed. The 25% share of revenue rests on Hsieh's own statement to MarketingSherpa (2007), repeated in his memoir according to secondary summaries; no independent figure was found, so the story attributes it to him. Date of the decision: MarketingSherpa (August 2007) says drop-shipping was used 'until four years ago'; an HBS course-platform student analysis says 2003; Hsieh's memoir was not available to read directly; the story says 'around 2003'. Kentucky: MarketingSherpa dates the move of fulfilment to Shepherdsville to 2002, while the memoir (via The Rational Walk) describes a failed outsourcing arrangement before Zappos ran its own warehouse; the story does not date the warehouse. Sales: Swinmurn gives $70 million (2003) and $184 million (2004); the company history gives $70 million and 'exceeding $180 million' (its Key Dates list has an inconsistent '$170 million' for 2002, ignored); the story uses 'more than $180 million'. Inventory doubling ($5 million to $13 million) comes from the company history citing Footwear News. Hsieh's quoted words are from MarketingSherpa; the passage was trimmed to its last clause to stay under 25 words. The HBR 'How I Did It' article (2010) loads only as a summary and was not used; a copy elsewhere was not used. Saadi's maxim is about personal truthfulness, applied here by analogy to a shop's stock promises.",
+  "researched_at": "2026-11-01"
+}

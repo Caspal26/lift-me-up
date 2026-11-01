@@ -1,0 +1,133 @@
+{
+  "id": "ren-zhengfei-huawei-reselling-switches-1987",
+  "title": "When Huawei Sold Other People's Switches in Shenzhen",
+  "dek": "In 1987 Ren Zhengfei pooled CNY21,000 to start a company that resold telephone switches, until its suppliers stopped supplying.",
+  "story": {
+    "founder": "Ren Zhengfei",
+    "company": "Huawei",
+    "event": "Starting Huawei in 1987 as a reseller of other companies' telephone switches, then building its own",
+    "approx_date": "1987",
+    "country": "China",
+    "region": "East Asia",
+    "industry": "telecoms",
+    "arc": "founding-decision",
+    "funding": "bootstrapped",
+    "summary": "In 1987 Ren Zhengfei, a former army engineer who said he had been cheated and let go from a state-owned company, pooled CNY21,000 from several people to register Huawei in Shenzhen. It began as a reseller of other firms' telephone switches, including those of the Hong Kong company Hung Nien; when, by Ren's account, those suppliers stopped supplying, Huawei began building its own small switches.",
+    "paragraphs": [
+      "In 1987 Ren Zhengfei was in his early forties, in Shenzhen and, by his own account, short of options. He had left the army in 1983, when its Engineering Corps was disbanded, and joined a logistics base of the state-owned Shenzhen South Sea Oil Corporation. Huawei's official biography says only that he was unhappy there. Ren has said he was cheated out of a large sum and let go.",
+      "Shenzhen required at least CNY20,000 of registered capital to open a company. Ren said his army discharge pay came to about CNY3,000, so he pooled money from several people to reach CNY21,000 and registered Huawei. By the time he held the licence, he told CNBC in 2019, he had nothing left. What he had was a sense \"that the communications industry was about to explode.\" China then, he recalled, had hardly any telephones.",
+      "Huawei did not begin by making anything. Its own company history lists it in 1987 as a sales agent for a Hong Kong maker of PBX switches, the small exchanges that link a hotel's or an office's telephones. Ren's later account adds an earlier supplier, a small firm in Zhuhai, before the Hong Kong company, Hung Nien. Huawei paid suppliers as soon as customers paid, he said, and some trusted it enough to send goods first. Then, as he tells it, each supplier stopped selling to Huawei once its resale business boomed.",
+      "Ren said an earlier setback had taught him, reading law books because he could not afford a lawyer, that a market comes down to customers and goods, and only the goods can be controlled. So Huawei set out to make its own. The team learnt switching from a university textbook and, Ren said, worked with two multimeters and one oscilloscope. Their first product was a 40-line switch. \"We chose a tough road,\" he said; he had not grasped how high the barriers were.",
+      "The small switch sold, and larger ones followed; by 1993 Huawei had its own digital switch, the C&C08. Ren insists the start-up money came from individuals, not the state, though the company's ties to Chinese officialdom have long been questioned. Accounts of these years differ in detail, but in all of them Huawei began by selling someone else's product."
+    ]
+  },
+  "quote": {
+    "text": "It is a wretched and dangerous thing to depend upon others; we ourselves, in whom is ever the most just and safest dependence, are not sufficiently sure.",
+    "thinker": "Michel de Montaigne",
+    "work": "Essays",
+    "locator": "Book III, Chapter IX, \"Of Vanity\"",
+    "translator": "Charles Cotton (1685), ed. W. C. Hazlitt",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/3600/pg3600.txt",
+    "source_title": "Essays of Michel de Montaigne — Complete, tr. Charles Cotton, Project Gutenberg eBook #3600",
+    "connection": "Montaigne agrees with Ren that leaning on others is dangerous, then adds what the story leaves out: the self you fall back on is not sufficiently sure either. Ren traded a supplier's goodwill for a textbook and two multimeters, a freedom of a fragile kind.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Ren's rule came out of a bad stretch of years. He could not control his customers and could not count on his suppliers, so he set out to own the one thing in between. There is something steadying in that, and something unfinished, which Montaigne names: the self you fall back on is not entirely dependable either.",
+    "You lean on things you do not control too: a supplier, a funder, a colleague's goodwill, your own energy on a given morning. That is not a failing. It simply helps to know which of those would hurt most if it stopped next month, and whether any of it could slowly become your own."
+  ],
+  "invitation": "Name the one outside thing your work leans on most this month. Write a single sentence on what you would do in the week it stopped, then put the note away.",
+  "sources": [
+    {
+      "title": "CNBC Transcript: Ren Zhengfei, Huawei Founder and CEO (interview with Arjun Kharpal, Squawk Box Asia)",
+      "publisher": "CNBC (15 April 2019)",
+      "url": "https://www.cnbc.com/2019/04/15/cnbc-transcript-ren-zhengfei-huawei-founder-and-ceo.html",
+      "kind": "founder-interview",
+      "supports": "Ren raised just over CNY20,000 for the fees to start the company and had no money left once he had the licence; he was let go from a state-owned company after a mistake; his feeling 'that the communications industry was about to explode'; Huawei began by reselling another company's products until that company stopped working with it; the 40-line switch; two multimeters and one oscilloscope; 'We chose a tough road'; he did not know the barriers were so high."
+    },
+    {
+      "title": "In His Own Words: Dialogues with Mr. Ren, Volume I (Jan.-Feb. 2019): International Media Roundtable, 15 January 2019, and Interview with the BBC, 18 February 2019",
+      "publisher": "Huawei Technologies (official transcripts)",
+      "url": "https://www-file.huawei.com/-/media/corp/facts/interview/in-his-own-words-dialogues-with-ren1.pdf?la=en",
+      "kind": "founder-interview",
+      "supports": "Shenzhen's minimum registered capital of CNY20,000; Ren and his then wife received CNY3,000 on demobilisation; he pooled funds to reach CNY21,000; to the BBC, he 'suffered from unfairness and deception' in his first market job; China then had hardly any telephones; the market comes down to customers and products, and Huawei had to get hold of the products; he had spent all the CNY21,000 and could not turn back."
+    },
+    {
+      "title": "In His Own Words: Dialogues with Mr. Ren, Volume V (Jul.-Aug. 2019): Interview with BBC StoryWorks, 23 July 2019",
+      "publisher": "Huawei Technologies (official transcripts)",
+      "url": "https://www-file.huawei.com/-/media/corp/facts/interview/in-his-own-words-dialogues-with-ren5.pdf?la=en",
+      "kind": "founder-interview",
+      "supports": "Registered capital of about CNY21,000 against about CNY3,000 of his own; funds pooled from individuals and, he says, none from the government; Huawei resold switches made by Hung Nien Electronics of Hong Kong; suppliers were paid as soon as customers paid and some sent goods first; Ren was cheated out of a big sum at a state-owned company and read law books for his lawsuit; the earliest supplier was a small Zhuhai firm making BH01 switches; both suppliers stopped supplying when Huawei's resale business boomed; first own product a 40-line switch, followed by 100- and 200-line switches; the team learnt from a textbook by Professor Chen Xisheng."
+    },
+    {
+      "title": "Ren Zhengfei (Board of Directors biography)",
+      "publisher": "Huawei Technologies",
+      "url": "https://www.huawei.com/en/executives/board-of-directors/ren-zhengfei",
+      "kind": "company-archive",
+      "supports": "Born 1944; joined the Engineering Corps in 1974; left the army in 1983 when the corps was disbanded; worked at the logistics service base of the Shenzhen South Sea Oil Corporation and was dissatisfied there; founded Huawei in 1987 with capital of CNY21,000."
+    },
+    {
+      "title": "Milestones (Huawei corporate information, archived July 2016)",
+      "publisher": "Huawei Technologies, via the Internet Archive",
+      "url": "https://web.archive.org/web/20160709205444/http://www1.huawei.com/en/about-huawei/corporate-info/milestone/index.htm",
+      "kind": "company-archive",
+      "supports": "1987: established in Shenzhen as sales agent for a Hong Kong company producing PBX switches; 1990: began its own research and commercialisation of PBX technology for hotels and small enterprises; 1992: rural digital switching."
+    },
+    {
+      "title": "Outsider Ren pits Huawei against the world (Jeremy Wagstaff and Lee Chyen Yee, Reuters)",
+      "publisher": "iTnews (27 April 2012)",
+      "url": "https://www.itnews.com.au/news/outsider-ren-pits-huawei-against-the-world-298096",
+      "kind": "independent-reporting",
+      "supports": "Ren born 1944; army career ended in 1983 with Deng Xiaoping's cutbacks; Ren and friends set up Huawei in Shenzhen with 21,000 yuan; it started as a third-party reseller of telecom devices; first in-house major product the C&C08 digital switch in 1993; his links to officialdom and Huawei's PLA ties are questioned."
+    },
+    {
+      "title": "Huawei, a self-made world-class company or agent of China's global strategy? (Daniel Harsha, on a talk by Paul Clifford)",
+      "publisher": "Ash Center, Harvard Kennedy School (2019), via the Internet Archive",
+      "url": "https://web.archive.org/web/20200611082008/https://ash.harvard.edu/huawei-self-made-world-class-company-or-agent-chinas-global-strategy",
+      "kind": "independent-reporting",
+      "supports": "Ren started Huawei in 1987 with about $5,000, beginning by importing equipment from Hong Kong and later manufacturing telecom switches; scholarly view that Huawei is privately held but closely bound to the party state."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Ren founded Huawei in Shenzhen in 1987 with registered capital of about CNY21,000.",
+      "urls": [
+        "https://www.huawei.com/en/executives/board-of-directors/ren-zhengfei",
+        "https://www.itnews.com.au/news/outsider-ren-pits-huawei-against-the-world-298096",
+        "https://www.cnbc.com/2019/04/15/cnbc-transcript-ren-zhengfei-huawei-founder-and-ceo.html"
+      ]
+    },
+    {
+      "claim": "Huawei began by reselling switches made by other companies, including a Hong Kong maker of PBX switches.",
+      "urls": [
+        "https://web.archive.org/web/20160709205444/http://www1.huawei.com/en/about-huawei/corporate-info/milestone/index.htm",
+        "https://www.itnews.com.au/news/outsider-ren-pits-huawei-against-the-world-298096",
+        "https://www.cnbc.com/2019/04/15/cnbc-transcript-ren-zhengfei-huawei-founder-and-ceo.html"
+      ]
+    },
+    {
+      "claim": "By Ren's account, the suppliers stopped supplying Huawei, which pushed it into making its own switches, starting with a 40-line switch.",
+      "urls": [
+        "https://www.cnbc.com/2019/04/15/cnbc-transcript-ren-zhengfei-huawei-founder-and-ceo.html",
+        "https://www-file.huawei.com/-/media/corp/facts/interview/in-his-own-words-dialogues-with-ren5.pdf?la=en"
+      ]
+    },
+    {
+      "claim": "Ren left the army in 1983 before going into business in Shenzhen.",
+      "urls": [
+        "https://www.huawei.com/en/executives/board-of-directors/ren-zhengfei",
+        "https://www.itnews.com.au/news/outsider-ren-pits-huawei-against-the-world-298096"
+      ]
+    },
+    {
+      "claim": "Ren said he was let go from a state-owned company after a setback in which he was cheated.",
+      "urls": [
+        "https://www.cnbc.com/2019/04/15/cnbc-transcript-ren-zhengfei-huawei-founder-and-ceo.html",
+        "https://www-file.huawei.com/-/media/corp/facts/interview/in-his-own-words-dialogues-with-ren5.pdf?la=en"
+      ]
+    }
+  ],
+  "research_notes": "Huawei is the subject of security and sanctions disputes; the story keeps to the 1987 start and attributes contested points. Several founding accounts conflict, and the story names whose account it follows. Why Ren left South Sea Oil: Huawei's board biography says he was dissatisfied with his job; Ren told CNBC (April 2019) he made a mistake that got him let go, and told BBC StoryWorks (July 2019) he was cheated out of a big sum at a state-owned company; both versions are given, attributed. Capital: Huawei and Ren say CNY21,000 registered capital (Ren told CNBC 'over 20,000 RMB'); the Ash Center summary of Paul Clifford says about $5,000 and Reuters (2012) said 21,000 yuan was then worth US$3,300; the story uses the yuan figure. Ren says his own demobilisation pay was about CNY3,000 (shared with his then wife, per the January 2019 roundtable) and that the rest came from other individuals, who later sued to cash out; some secondary accounts (not cited) give five co-investors with equal stakes, so the story says only 'several people'. First supplier: Huawei's 2016 milestones page says the company began as sales agent for a Hong Kong PBX maker; Ren's July 2019 account names an earlier small Zhuhai supplier of BH01 switches before Hung Nien of Hong Kong. The story gives both. First product: Ren told CNBC the 40-line switch was for rural markets and told BBC StoryWorks it was for hotels (the milestones page says Huawei's own PBX work from 1990 targeted hotels and small enterprises), so the story does not name the market. The 'two multimeters and one oscilloscope' and the claim that no state money was involved are Ren's own and attributed; Reuters (2012) and the Ash Center note that Huawei's links to the state and the PLA are questioned, which the story states without detail. The BBC StoryWorks interview is from BBC's commercial content arm; it is cited only for Ren's own words, from Huawei's published transcript. The 1993 C&C08 date is from Reuters (2012). Huawei's PDFs are large but load; the CSIS 2013 case study was considered but its archived PDF does not name the company for the verifier.",
+  "researched_at": "2026-11-01"
+}

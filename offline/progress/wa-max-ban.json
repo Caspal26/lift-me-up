@@ -1,0 +1,15 @@
+{
+  "key": "wa-max-ban",
+  "status": "done",
+  "file": "offline/editions/adetayo-bamiduro-chinedu-azodoh-max-lagos-okada-ban-2020.json",
+  "title": "After the Lagos Okada Ban, MAX Moved From Rides to Vehicle Loans",
+  "region": "West Africa",
+  "industry": "transport (mobility and vehicle financing)",
+  "arc": "change-of-direction",
+  "funding": "venture",
+  "tradition": "Ancient Egyptian",
+  "thinker": "Ptahhotep",
+  "talqen": false,
+  "conflicts": "Riders: about 1,250 financed riders by late 2019 (Azodoh, TechCabal Nov 2019; Bamiduro, TechCabal Jul 2020) vs 'up to 2,000 riders on our platform' (Bamiduro to Nairametrics, Feb 2020); both given with who said them. Bolt: TechCrunch (2021) says a lease-to-own scheme intended for 10,000 Bolt drivers and Bamiduro (2022) says subscriptions for at least 10,000 Bolt drivers, yet the same 2022 interview gives only 'over 8,000' vehicle subscriptions in total; Bolt mentioned without numbers. Ban scope: 6 LGAs and 15 LCDAs (WeeTracker quoting the government) vs '15 local governments' (Nairametrics); the former used. 2025 layoffs of about 150 (30%) come from TechCabal's sources; MAX declined to give a number; attributed to TechCabal.",
+  "notes": "Slate framing adjusted: MAX already financed riders' bikes before the ban (hire purchase from 2017, vehicle financing from 2018), so the story tells the ban as the point after which financing, rather than rides, became the core business, without claiming the ban alone caused it. The government's safety case is given in its own words and MAX's legal objection as the company's statement. Several TechCabal pages refuse WebFetch but load for the checker and were read with a plain request. Quote stance: affirms."
+}

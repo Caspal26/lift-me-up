@@ -1,0 +1,175 @@
+{
+  "id": "daniel-wiegand-lilium-two-insolvencies-2024",
+  "title": "The Christmas Eve Rescue That Did Not Save Lilium's Electric Jet",
+  "dek": "In late 2024 Lilium's German companies entered insolvency, were bought on Christmas Eve, and failed again in February 2025 when the promised money did not come.",
+  "story": {
+    "founder": "Daniel Wiegand",
+    "company": "Lilium (later Lilium Aerospace)",
+    "event": "Two insolvency filings in four months while trying to certify an electric vertical take-off jet",
+    "approx_date": "2024-10",
+    "country": "Germany",
+    "region": "Europe",
+    "industry": "transport (electric aviation)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Lilium, co-founded in 2015 by Daniel Wiegand, had raised about €1.5 billion to develop an electric vertical take-off jet when Germany's parliamentary budget committee declined a €50 million federal loan guarantee in October 2024; its operating subsidiaries filed for insolvency in self-administration on 29 October. On Christmas Eve, Mobile Uplift Corporation agreed to buy the operations and rehire about 750 staff, but the further funding did not arrive and the successor, Lilium Aerospace, filed for insolvency on 21 February 2025 and stopped operating.",
+    "paragraphs": [
+      "In mid-2023, at Lilium's headquarters outside Munich, the co-founder Daniel Wiegand sat down with a visiting reporter from New Atlas. He had started the company with others in 2015 to build an electric jet that takes off vertically, and the previous August had handed the chief executive's job to Klaus Roewe, a former Airbus programme head, staying on as chief engineer and board member. Asked about money, he was plain: \"Now, it's the seventh time we have to raise money.\" Startup funding, he said, reminded him of Gromit laying track in front of a speeding toy train.",
+      "What he knew was public. Lilium had about €205 million at the end of 2022, which he said was not enough to certify the aircraft. Its first crewed flight was planned for the following year, customers had signed hundreds of orders and reservations, and over the years investors and customers put about €1.5 billion into the company, by dpa's count.",
+      "By October 2024 the money was nearly gone. Lilium sought a €100 million loan, backed half by the federal government and half by Bavaria. Days before the vote, Wiegand told Bild that a refusal would mean the company could not stay in Germany in its current form. The Bundestag's budget committee did not approve the federal guarantee. On 29 October the two operating subsidiaries applied to the local court in Weilheim for insolvency in self-administration, which kept management in charge while it sought a buyer. \"We deeply regret the insolvency and its consequences for all stakeholders,\" Roewe said.",
+      "On 20 December, with no buyer yet, the subsidiaries ended the contracts of their remaining staff, about 750 people. Four days later, on Christmas Eve, a consortium called Mobile Uplift Corporation signed to buy the operating assets, said it would take those employees back and promised about €200 million. In January the business passed to a new company, Lilium Aerospace.",
+      "The further money did not come. On 21 February 2025 Lilium Aerospace filed for insolvency, saying the funding it needed had not arrived in time and that operations would stop; the restructuring lawyers cited technical difficulties in reaching infrastructure funds. The crewed first flight never took place."
+    ]
+  },
+  "quote": {
+    "text": "Those whose strength is insufficient give over in the middle of the way but now you limit yourself.",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book VI, Chapter 10",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius was answering a pupil who said his strength was not enough for the way. He separated those who stop midway because their strength runs out from those who limit themselves before starting. Lilium ran out in the middle of the way; whether its plan asked more strength than any company could find is left open.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Wiegand called fundraising part of the job, and for years it was. What this story also shows is how much of a company's fate can sit in someone else's calendar: a committee vote, a court date, a transfer that is promised and then does not come. Hundreds of people were told twice in two months whether they still had work.",
+    "You will have stretches of waiting on a grant, a client or a regulator. Confucius's line may help on those days. Running out of strength midway is not the same as never having tried, and knowing honestly how long your strength will last is a kindness to the people who rely on it, including you."
+  ],
+  "invitation": "Write down how many months your current work can run on what you already have, without new money or favours. Tell that number to one person who depends on it, then leave it there for today.",
+  "sources": [
+    {
+      "title": "Interview: Lilium's Daniel Wiegand on its eVTOL plans and progress (9 June 2023)",
+      "publisher": "New Atlas (Loz Blain)",
+      "url": "https://newatlas.com/aircraft/lilium-daniel-wiegand-interview",
+      "kind": "founder-interview",
+      "supports": "Visit to the company headquarters outside Munich; Wiegand's title as chief engineer for innovation and future programs and co-founder; 'Now, it's the seventh time we have to raise money'; the Wallace and Gromit image of laying track in front of a moving train; about €205 million in the bank at the end of 2022, not enough to certify the aircraft; the conforming aircraft to fly crewed the following year; fundraising described as part of the job"
+    },
+    {
+      "title": "Lilium Names Airbus Exec as New CEO (June 2022)",
+      "publisher": "FLYING Magazine",
+      "url": "https://www.flyingmag.com/lilium-names-airbus-exec-as-new-ceo/",
+      "kind": "independent-reporting",
+      "supports": "Klaus Roewe, who led Airbus's A320 and A320neo programmes, to succeed co-founder Daniel Wiegand as chief executive from 1 August 2022; Wiegand to remain on the board and as chief engineer for innovation and future programs"
+    },
+    {
+      "title": "Von Airbus zu Lilium: Klaus Roewe wird neuer CEO (June 2022)",
+      "publisher": "Produktion",
+      "url": "https://www.produktion.de/wirtschaft/von-airbus-zu-lilium-klaus-roewe-wird-neuer-ceo-905.html",
+      "kind": "independent-reporting",
+      "supports": "Wiegand and his co-founders started the company in 2015; Roewe to take office on 1 August 2022; Wiegand to stay as chief engineer and board member"
+    },
+    {
+      "title": "Lilium: Bund verweigert Finanzspritze – jetzt droht die Insolvenz (October 2024)",
+      "publisher": "Der Aktionär",
+      "url": "https://www.deraktionaer.de/artikel/aktien/lilium-bund-verweigert-finanzspritze-jetzt-droht-die-insolvenz-20368355.html",
+      "kind": "independent-reporting",
+      "supports": "The budget committee's refusal of a €50 million federal guarantee; Bavaria's matching €50 million; Wiegand's warning, quoted from his Bild interview, that a refusal would mean the company could not be kept in its current form in Germany"
+    },
+    {
+      "title": "Electric aircraft startup Lilium has run out of money (24 October 2024)",
+      "publisher": "TechCrunch (Kirsten Korosec)",
+      "url": "https://techcrunch.com/2024/10/24/lilium-shuts-down-electric-aircraft-germany-startup/",
+      "kind": "independent-reporting",
+      "supports": "Lilium's statement that the budget committee would not approve a €50 million guarantee of a contemplated €100 million convertible loan; it could not raise enough to keep its subsidiaries operating and would file for insolvency under German law; listed on Nasdaq via a SPAC in 2021"
+    },
+    {
+      "title": "Lilium Applies For Insolvency In Germany (October 2024)",
+      "publisher": "AVweb (Russ Niles)",
+      "url": "https://avweb.com/recent-updates/lilium-applies-for-insolvency-in-germany/",
+      "kind": "independent-reporting",
+      "supports": "Filing after the federal government and Bavaria did not guarantee the loans; self-administration ('debtor-in-possession') insolvency; the company's claim of 780 aircraft orders; Roewe's 'We deeply regret the insolvency and its consequences for all stakeholders'"
+    },
+    {
+      "title": "eVTOL developer Lilium Aerospace – successor company files for insolvency (February 2025)",
+      "publisher": "GÖRG press release, published by Chambers and Partners",
+      "url": "https://chambers.com/articles/evtol-developer-lilium-aerospace-successor-company-files-for-insolvency",
+      "kind": "company-archive",
+      "supports": "Application filed with the Weilheim local court on 29 October 2024 for proceedings in self-administration; around 775 jobs saved for the time being by the pre-Christmas sale; operations transferred to the rescue company Lilium Aerospace at the beginning of January; further financing failed, attributed to technical difficulties in accessing infrastructure funds; Lilium Aerospace's insolvency filing"
+    },
+    {
+      "title": "Lilium Achieves Breakthrough in Investor Search (24 December 2024)",
+      "publisher": "ASDNews (Lilium press release)",
+      "url": "https://www.asdnews.com/news/aerospace/2024/12/24/lilium-achieves-breakthrough-investor-search",
+      "kind": "company-archive",
+      "supports": "Asset purchase agreement with Mobile Uplift Corporation GmbH for the operating assets of Lilium GmbH and Lilium eAircraft GmbH; the subsidiaries terminated their remaining employees' contracts on 20 December 2024, whom the buyer intended to employ; closing expected in early January"
+    },
+    {
+      "title": "Flugtaxi-Entwickler Lilium findet doch noch Käufer (24 December 2024, dpa)",
+      "publisher": "Der Tagesspiegel",
+      "url": "https://www.tagesspiegel.de/wirtschaft/elektroflugzeugbauer-investorengruppe-ubernimmt-lilium-betrieb-12926857.html",
+      "kind": "independent-reporting",
+      "supports": "750 employees given notice on the Friday before Christmas to be taken back (with dpa's correction from an earlier figure of 1,000); first crewed flight planned for early 2025; about 700 firm and pre-orders; customers and investors had invested €1.5 billion; the federal €50 million guarantee had been refused; proceedings ordered by the Weilheim local court"
+    },
+    {
+      "title": "Lilium meldet zum zweiten Mal Insolvenz an (21 February 2025, dpa)",
+      "publisher": "Stuttgarter Zeitung",
+      "url": "https://www.stuttgarter-zeitung.de/wirtschaft/muenchen-lilium-meldet-zum-zweiten-mal-insolvenz-an-79121550.html",
+      "kind": "independent-reporting",
+      "supports": "Second insolvency after the €200 million promised by the consortium did not come together; investors had provided €1.5 billion in total; the Christmas Eve purchase agreement; operations to be stopped as a second rescue was very unlikely"
+    },
+    {
+      "title": "Lilium eVTOL hopes dashed (27 February 2025)",
+      "publisher": "AOPA",
+      "url": "https://www.aopa.org/news-and-media/all-news/2025/february/27/lilium-evtol-hopes-dashed",
+      "kind": "independent-reporting",
+      "supports": "Insolvency conceded in October; the Mobile Uplift Corporation deal of 24 December with €200 million indicated; second filing on 21 February 2025; the money would have let Lilium work towards the first flight of the Lilium Jet; operations ceased"
+    },
+    {
+      "title": "Lilium meldet zum zweiten Mal Insolvenz an - Restrukturierung unwahrscheinlich (21 February 2025)",
+      "publisher": "aeroTELEGRAPH",
+      "url": "https://www.aerotelegraph.com/lilium-meldet-zum-zweiten-mal-insolvenz-an-restrukturierung-unwahrscheinlich",
+      "kind": "independent-reporting",
+      "supports": "Second insolvency filing as needed financing did not come; operations stopped; about €1.5 billion provided by investors"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Wiegand handed the chief executive role to Klaus Roewe from 1 August 2022 and stayed as chief engineer and board member.",
+      "urls": [
+        "https://www.flyingmag.com/lilium-names-airbus-exec-as-new-ceo/",
+        "https://www.produktion.de/wirtschaft/von-airbus-zu-lilium-klaus-roewe-wird-neuer-ceo-905.html"
+      ]
+    },
+    {
+      "claim": "In October 2024 the Bundestag budget committee did not approve a €50 million federal guarantee for a planned €100 million loan.",
+      "urls": [
+        "https://techcrunch.com/2024/10/24/lilium-shuts-down-electric-aircraft-germany-startup/",
+        "https://www.deraktionaer.de/artikel/aktien/lilium-bund-verweigert-finanzspritze-jetzt-droht-die-insolvenz-20368355.html",
+        "https://www.tagesspiegel.de/wirtschaft/elektroflugzeugbauer-investorengruppe-ubernimmt-lilium-betrieb-12926857.html"
+      ]
+    },
+    {
+      "claim": "The operating subsidiaries filed for insolvency in self-administration in late October 2024.",
+      "urls": [
+        "https://chambers.com/articles/evtol-developer-lilium-aerospace-successor-company-files-for-insolvency",
+        "https://avweb.com/recent-updates/lilium-applies-for-insolvency-in-germany/"
+      ]
+    },
+    {
+      "claim": "On 20 December 2024 the remaining employees' contracts were terminated, and on 24 December Mobile Uplift Corporation signed to buy the operating assets and take the employees back.",
+      "urls": [
+        "https://www.asdnews.com/news/aerospace/2024/12/24/lilium-achieves-breakthrough-investor-search",
+        "https://www.tagesspiegel.de/wirtschaft/elektroflugzeugbauer-investorengruppe-ubernimmt-lilium-betrieb-12926857.html"
+      ]
+    },
+    {
+      "claim": "On 21 February 2025 Lilium filed for insolvency a second time after the promised funding did not arrive, and stopped operations.",
+      "urls": [
+        "https://www.stuttgarter-zeitung.de/wirtschaft/muenchen-lilium-meldet-zum-zweiten-mal-insolvenz-an-79121550.html",
+        "https://www.aopa.org/news-and-media/all-news/2025/february/27/lilium-evtol-hopes-dashed",
+        "https://www.aerotelegraph.com/lilium-meldet-zum-zweiten-mal-insolvenz-an-restrukturierung-unwahrscheinlich"
+      ]
+    },
+    {
+      "claim": "Investors and customers had put about €1.5 billion into Lilium.",
+      "urls": [
+        "https://www.tagesspiegel.de/wirtschaft/elektroflugzeugbauer-investorengruppe-ubernimmt-lilium-betrieb-12926857.html",
+        "https://www.aerotelegraph.com/lilium-meldet-zum-zweiten-mal-insolvenz-an-restrukturierung-unwahrscheinlich"
+      ]
+    }
+  ],
+  "research_notes": "Founder's role: Daniel Wiegand was chief executive until 1 August 2022 and then chief engineer for innovation and future programs and a board member, so the insolvency decisions were taken under chief executive Klaus Roewe; the story says so and uses Wiegand's own 2023 interview and his October 2024 warning (quoted in Der Aktionär from an embedded post of his Bild interview, in English translation; the story paraphrases it rather than quoting the translation). Money raised disagrees: dpa (Tagesspiegel, Stuttgarter Zeitung) and aeroTELEGRAPH say about €1.5 billion from investors (and customers, per Tagesspiegel); TechCrunch (2024) says more than $1 billion; Skift says $1.1 billion since 2021. The story uses dpa's figure, attributed. Orders: AVweb and FLYING give the company's claim of 780; dpa gives about 700 firm and pre-orders; the story says 'hundreds of orders and reservations'. Jobs: dpa first wrote that 1,000 dismissed staff would be rehired and corrected it to 750; aero.international still says about 1,000; GÖRG says around 775 jobs were saved for the time being; the story uses about 750, the corrected dpa figure that matches Lilium's own statement about its remaining employees. Rescue amount: €200 million (dpa, AOPA) against €210 million (FLYING); the story says about €200 million. Investors named differ between reports (dpa lists Marian Bocek, CustomCells, Earlybird and GenCap; GÖRG lists DTM Group, EarlyBird, Fifth Wall and GenCap); reports that one backer's contribution did not arrive are attributed only 'dem Vernehmen nach' (reportedly), so the story names only the consortium and gives the cause in the company's and the restructuring lawyers' words, assigning no blame to any individual. Filing date: Lilium's board approved the filing on 24 October and said it would file within days; GÖRG gives the application date at the Weilheim court as 29 October, which the story uses. The Wallace and Gromit image is Wiegand's own and is paraphrased. Confucius's reply is to his pupil Yen Ch'iu (Ran Qiu) about pursuing the Way; it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

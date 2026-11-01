@@ -1,0 +1,15 @@
+{
+  "key": "wa-laiterie-bathily",
+  "status": "done",
+  "file": "offline/editions/bagore-bathily-laiterie-du-berger-fulani-milk-2006.json",
+  "title": "Bagoré Bathily's Bet on Milk That Senegal's Dairies Ignored",
+  "region": "West Africa",
+  "industry": "food (dairy)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Stoic",
+  "thinker": "Epictetus",
+  "talqen": false,
+  "conflicts": "Founding year: 2006 (2012 field survey, Guardian 2016) against 'opened in 2007' (Christian Science Monitor 2017); the story uses 2006. Supplier counts vary widely after the start (almost 800 in 2010, a peak of 800 in 2016, about 500 or about 300 families in 2016-17); the story gives only the agreed starting figure of about 200. Powder: the Guardian says most fresh milk was mixed with powder; the CSM implies Dolima was a blend; the story attributes the Guardian's account. Milk price (200 vs 225 CFA francs a litre) and collection radius (50 km vs 32 km) differ by source and year and are not used.",
+  "notes": "Founder's own words come from interviews quoted by the Guardian (2016) and the Christian Science Monitor (2017). The 2012 Jeune Afrique article survives only as a reprint on au-senegal.com; the original URL is dead. Africa Check's fact-check on milk taxes is blocked (403) and was not used. A 2017 VAT dispute that halved the herder pool, and its later resolution, fall after this episode and are left out."
+}

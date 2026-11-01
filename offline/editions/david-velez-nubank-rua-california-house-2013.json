@@ -1,0 +1,133 @@
+{
+  "id": "david-velez-nubank-rua-california-house-2013",
+  "title": "Nubank's First Office: A Rented House on Rua Califórnia",
+  "dek": "In 2013 an outsider with a list of his own gaps started a credit card company in an old São Paulo house, then raced a new regulation to launch.",
+  "story": {
+    "founder": "David Vélez, Cristina Junqueira, Edward Wible",
+    "company": "Nubank",
+    "event": "Founding a phone-managed credit card company in a rented house in São Paulo and racing a new card regulation to launch",
+    "approx_date": "2013",
+    "country": "Brazil",
+    "region": "Latin America",
+    "industry": "fintech (credit cards)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "After Sequoia dropped plans for a Brazil office in late 2012, David Vélez stayed in São Paulo and in 2013 founded Nubank with Cristina Junqueira and Edward Wible, backed by seed money from Sequoia and Kaszek, working from a rented house on Rua Califórnia. A new rule bringing card issuers under central bank regulation forced them to be operating by April 2014; the first card transactions came on 1 April 2014 and the public launch that September. Early interest was weak, then grew by word of mouth and a waiting list.",
+    "paragraphs": [
+      "In October 2012, around his birthday, David Vélez took a call from Doug Leone of Sequoia Capital. The firm would not open the Brazil office Vélez had spent two years preparing; he could come back to California instead. He said no. He spent about two months deciding what to build, and kept returning to the day he opened a bank account in São Paulo: bulletproof doors, armed guards, his backpack left in a locker, a long wait for a manager, then months of paperwork.",
+      "Five big banks dominated Brazilian banking, and in 2015 TechCrunch reported card interest of 10 to 12 per cent a month. When Vélez pitched a digital alternative, Sequoia's Roelof Botha listed what he lacked: he was Colombian, not a native Portuguese speaker, had never worked in Brazilian banking or credit, knew no regulators and was not a computer scientist. The advice was to hire people who filled those gaps. With seed money from Sequoia and Kaszek, he recruited Cristina Junqueira, who had run card products at Itaú, and Edward Wible, a private equity associate who wanted to build something of his own. \"It was David and his PowerPoint, and we invested in the PowerPoint,\" Kaszek's Nicolas Szekasy later said.",
+      "They started with a credit card because, Junqueira said, it was one of the few products they could offer without being regulated. Their office was an old rented house at Rua Califórnia 492, in Brooklin, with peeling walls and loose floor tiles; Wible lived upstairs. A few months in, the central bank brought card issuers under regulation: operate by April 2014 or apply for a licence, which Vélez said meant waiting about two years, longer than the seed money would last. The first transactions on a Nubank card came on 1 April 2014, and the card opened to the public that September.",
+      "Interest was weak at first; students, Vélez recalled, wanted rewards. Growth then came by word of mouth and a deliberate waiting list. By June 2015 TechCrunch counted more than 200,000 applications, 100,000 of them still waiting."
+    ]
+  },
+  "quote": {
+    "text": "Deliberation is concerned with things that happen in a certain way for the most part, but in which the event is obscure, and with things in which it is indeterminate. We call in others to aid us in deliberation on important questions, distrusting ourselves as not being equal to deciding.",
+    "thinker": "Aristotle",
+    "work": "Nicomachean Ethics",
+    "locator": "Book III, chapter 3",
+    "translator": "W. D. Ross (1908)",
+    "tradition": "Classical Greek",
+    "source_url": "http://classics.mit.edu/Aristotle/nicomachaen.mb.txt",
+    "source_title": "Nicomachean Ethics, tr. W. D. Ross, The Internet Classics Archive (MIT)",
+    "connection": "Aristotle says we bring others in precisely where outcomes are obscure and we do not trust ourselves to decide alone. Vélez was handed a list of his own gaps and answered it by choosing co-founders who knew what he did not, rather than by pretending the list was wrong.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The most useful moment in this story may be the least dramatic one: an investor reading out everything Vélez was not, and Vélez taking it as a hiring plan rather than a verdict. Few of us get a list that honest, and fewer welcome it.",
+    "You know your own gaps better than anyone. Naming them plainly is not a confession of weakness; it is how you learn whom to ask. Aristotle thought calling in others on important questions was a sign of judgement, not a lack of it. There is also some comfort in the house on Rua Califórnia: a serious beginning does not need a serious-looking building."
+  ],
+  "invitation": "Write down three things you are not, the way Botha listed them for Vélez. Beside one of them, write the name of a person who is, and send them one question this week.",
+  "sources": [
+    {
+      "title": "Crucible Moments: Nubank (podcast episode and transcript)",
+      "publisher": "Sequoia Capital",
+      "url": "https://www.sequoiacap.com/podcast/crucible-moments-nubank/",
+      "kind": "founder-interview",
+      "supports": "Vélez, Junqueira, Wible and Leone in their own words: Leone's October 2012 call ending the Brazil office plan and Vélez declining to return to California; about two months deciding what to do; the bank-account experience (bulletproof doors, armed guards, backpack in a locker, a 45-minute wait, months of paperwork); Botha's list of Vélez's gaps and advice to build a complementary team; Junqueira's years running card products at a large incumbent bank; Wible's private equity background and wish to build something his own; 'a dingy house in a suburban neighborhood' with Wible living upstairs; the seed round from Sequoia and Kaszek; starting with a credit card because it could be done without being a regulated entity; the new payment-institution rule requiring operation by April 2014 or a licence that would take about two years, longer than the seed would last; first transactions on 1 April 2014; early disappointment, students wanting rewards; growth and a waiting list."
+    },
+    {
+      "title": "How contrarian hires and a pitch deck started Nubank's $30 billion fintech empire (Nubank EC-1 Part 1: Origin story)",
+      "publisher": "TechCrunch (Marcella McCarthy, 14 June 2021)",
+      "url": "https://techcrunch.com/2021/06/14/nubank-ec1-origin/",
+      "kind": "independent-reporting",
+      "supports": "Sequoia pulled the plug on its Brazil operations; Vélez's bad bank experience in São Paulo (patted down when his laptop set off alarms); the five dominant banks; a $2 million seed round from Sequoia and Kaszek; Szekasy's 'It was David and his PowerPoint, and we invested in the PowerPoint'; Wible's private equity career; the first office in a tiny rented house on California Street in Brooklin, Wible living upstairs rent-free, up to 30 people and one bathroom."
+    },
+    {
+      "title": "Até onde vai o Nubank?",
+      "publisher": "Época Negócios (February 2017)",
+      "url": "https://epocanegocios.globo.com/Empresa/noticia/2017/02/ate-onde-vai-o-nubank.html",
+      "kind": "independent-reporting",
+      "supports": "The first office at Rua Califórnia 492 in Brooklin, an old rented house with peeling walls, worn furniture and loose floor tiles, office downstairs and engineers living upstairs; 12 people there by late 2013; the card ready for a pilot within four months, per Junqueira; the purple card ready for market in September 2014; Vélez's bank-branch experience and the six-month wait to open an account; 5.5 million card applications and 500,000 on a waiting list by early 2017."
+    },
+    {
+      "title": "Finance Startup Nubank Nabs $14.3M In Sequoia's First Brazil Investment",
+      "publisher": "TechCrunch (Ingrid Lunden, 25 September 2014)",
+      "url": "https://techcrunch.com/2014/09/25/finance-startup-nubank-nabs-14-3m-in-sequoias-first-brazil-investment/",
+      "kind": "independent-reporting",
+      "supports": "Nubank opening for business and launching its first product, a MasterCard credit card managed through an app, on 25 September 2014; $14.3 million raised led by Sequoia with Kaszek; Vélez formerly ran Sequoia's Latin America scouting; his view of customer frustration with Brazilian banks."
+    },
+    {
+      "title": "Brazil's Nubank Raises $30M Led By Tiger To Build Out Its Mobile-Based Credit Card Business",
+      "publisher": "TechCrunch (Ingrid Lunden, 2 June 2015)",
+      "url": "https://techcrunch.com/2015/06/02/brazils-nubank-raises-30m-led-by-tiger-to-build-out-its-mobile-based-credit-card-business/",
+      "kind": "independent-reporting",
+      "supports": "Launch in September 2014; more than 200,000 applications, 100,000 still on the waiting list; growth by word of mouth and an intentional waiting list; Brazilian banks charging 10 to 12 per cent a month on unpaid card balances, Nubank 7.75 per cent."
+    },
+    {
+      "title": "David Vélez: Position Yourself Where There's Scarcity, Not Oversupply (View From The Top)",
+      "publisher": "Stanford Graduate School of Business",
+      "url": "https://www.gsb.stanford.edu/insights/david-velez-position-yourself-scarcity-not-oversupply",
+      "kind": "founder-interview",
+      "supports": "Vélez founded Nubank in May 2013 with seed funding from Sequoia and Kaszek; his account that a new law forced the launch earlier, to April 2014."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Sequoia dropped its plan for a Brazil office, after which Vélez decided to start his own company",
+      "urls": [
+        "https://www.sequoiacap.com/podcast/crucible-moments-nubank/",
+        "https://techcrunch.com/2021/06/14/nubank-ec1-origin/"
+      ]
+    },
+    {
+      "claim": "A frustrating experience opening a bank account in São Paulo shaped the idea",
+      "urls": [
+        "https://www.sequoiacap.com/podcast/crucible-moments-nubank/",
+        "https://techcrunch.com/2021/06/14/nubank-ec1-origin/",
+        "https://epocanegocios.globo.com/Empresa/noticia/2017/02/ate-onde-vai-o-nubank.html"
+      ]
+    },
+    {
+      "claim": "Seed funding came from Sequoia and Kaszek in 2013",
+      "urls": [
+        "https://techcrunch.com/2021/06/14/nubank-ec1-origin/",
+        "https://www.gsb.stanford.edu/insights/david-velez-position-yourself-scarcity-not-oversupply",
+        "https://www.sequoiacap.com/podcast/crucible-moments-nubank/"
+      ]
+    },
+    {
+      "claim": "The first office was a rented house on Rua Califórnia in Brooklin, with Wible living upstairs",
+      "urls": [
+        "https://epocanegocios.globo.com/Empresa/noticia/2017/02/ate-onde-vai-o-nubank.html",
+        "https://techcrunch.com/2021/06/14/nubank-ec1-origin/"
+      ]
+    },
+    {
+      "claim": "A new regulation forced Nubank to be operating by April 2014",
+      "urls": [
+        "https://www.sequoiacap.com/podcast/crucible-moments-nubank/",
+        "https://www.gsb.stanford.edu/insights/david-velez-position-yourself-scarcity-not-oversupply"
+      ]
+    },
+    {
+      "claim": "The card opened to the public in September 2014",
+      "urls": [
+        "https://techcrunch.com/2014/09/25/finance-startup-nubank-nabs-14-3m-in-sequoias-first-brazil-investment/",
+        "https://techcrunch.com/2015/06/02/brazils-nubank-raises-30m-led-by-tiger-to-build-out-its-mobile-based-credit-card-business/",
+        "https://epocanegocios.globo.com/Empresa/noticia/2017/02/ate-onde-vai-o-nubank.html"
+      ]
+    }
+  ],
+  "research_notes": "Launch dates: the Sequoia podcast and Wikipedia give the first Nubank card transactions as 1 April 2014, while TechCrunch (25 September 2014 and 2 June 2015) dates the opening for business and launch to September 2014; Junqueira told Época the card was ready for a pilot within four months. The story gives both: first transactions in April, public launch in September. How much earlier the rule forced them to launch: Vélez says four months (podcast, against an autumn 2014 plan) and three months (Stanford, against June); the story says only that they had to operate by April 2014. Seed timing: Vélez says the seed was raised by about April and May 2013 and Stanford says May 2013; TechCrunch's EC-1 says a $2 million seed in July 2013; the story says 2013 and gives no amount. The bank-account wait was 'five months' in the podcast and 'six months' in Época; the story says months. Office size: Época says 12 people by late 2013, TechCrunch up to 30 people and one bathroom; neither is used. Outcome numbers: Vélez recalled (podcast, 2023) about 5,000 then 10,000 sign-ups a day after a niche review and tens of thousands within a month, which is hard to square with TechCrunch's contemporary count of more than 200,000 applications in the first eight months with 100,000 still waiting; Época reported 5.5 million applications by early 2017. The story uses TechCrunch's June 2015 figure and does not use Vélez's recollection or later customer totals. The Sequoia podcast is produced by Nubank's lead investor; claims from it are attributed to the speakers, and the pivotal ones are cross-checked against TechCrunch, Época and Stanford. The company field is kept as 'Nubank'; the holding company is Nu Holdings.",
+  "researched_at": "2026-11-01"
+}

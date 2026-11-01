@@ -1,0 +1,153 @@
+{
+  "id": "kamal-quadir-bkash-brac-bank-launch-2011",
+  "title": "Kamal Quadir, BRAC Bank and the Slow Road to bKash in 2011",
+  "dek": "Between 2008 and 2011 a Dhaka entrepreneur chose to build mobile money through a bank and under the central bank's rules; bKash opened with 37 staff.",
+  "story": {
+    "founder": "Kamal Quadir",
+    "company": "bKash",
+    "event": "Building a bank-led mobile money service with BRAC Bank and launching bKash",
+    "approx_date": "2011-07",
+    "country": "Bangladesh",
+    "region": "South Asia",
+    "industry": "fintech (mobile money)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "After presenting the idea to BRAC founder Fazle Hasan Abed in August 2008 and visiting Kenya to study mobile money, Kamal Quadir chose to build a service fully regulated by Bangladesh's central bank through BRAC Bank. bKash was formed in 2010, 51 per cent owned by BRAC Bank and 49 per cent by Money in Motion, and launched on 21 July 2011 with 37 staff. By 2015 it had about 17 million registered accounts.",
+    "paragraphs": [
+      "On 26 August 2008 Kamal Quadir made his first presentation to Fazle Hasan Abed, founder of the Bangladeshi development organisation BRAC. Quadir had come home to Dhaka in 2005 and built CellBazaar, a service for buying and selling through mobile phones. It taught him, he said later, that almost everyone owned a phone, however cheap. Money was another matter. By his reckoning a bank spent Tk 128 handling one transaction, while a rickshaw puller might move Tk 1,000 to 1,500 at a time. For most poor Bangladeshis, a bank account made no sense.",
+      "A similar service, M-Pesa, was already running in Kenya, and Quadir went there several times in 2008 and 2009. But he wanted a system that would \"protect the client's interest by remaining fully regulated by the Central Bank\" while cutting the cost of each transaction. That meant working through a bank. He chose BRAC, he said, for its reach across the country, for credibility, and because Abed wanted businesses that could serve the poor and pay their way. BRAC took up the idea, urged him to learn what others were doing with mobile money, and Abed introduced him to BRAC Bank.",
+      "The talks took two years. The regulator had to be persuaded too; a Business Standard report later pictured Quadir wearing out his soles in Bangladesh Bank's corridors to explain the idea. At the start of 2010 bKash was formed, 51 per cent owned by BRAC Bank and 49 per cent by Money in Motion, a US company set up by Quadir, his brother Iqbal, founder of Grameenphone, and others, among them Nick Hughes, one of the people behind M-Pesa. Money in Motion put in the first $5 million. In 2011 the central bank issued its first rules for mobile financial services, which allowed only bank-led schemes.",
+      "bKash opened on 21 July 2011 with 37 staff and three services: put cash in, take cash out, send money. Instead of branches it relied on shopkeepers as agents, later called human ATMs, swapping cash for digital money. It passed two million users in 2012. By June 2015, AFP reported, it had about 17 million registered accounts, and a 2014 Dhaka University survey of rickshaw pullers found 95 per cent used it to send money home."
+    ]
+  },
+  "quote": {
+    "text": "I do not know how a man without truthfulness is to get on. How can a large carriage be made to go without the cross-bar for yoking the oxen to, or a small carriage without the arrangement for yoking the horses?",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book II, Chapter 22",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "For Confucius, trustworthiness is not decoration but the cross-bar that lets the carriage move at all. Quadir spent three years fitting that cross-bar first, through a trusted partner and a regulator, before asking anyone to hand their wages to a phone.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Quadir's road to launch ran through the founder of a development organisation, a bank and a central bank, and it took nearly three years from his first presentation. He took that road on purpose. What he was really asking people to do was trust a cheap phone with their wages, and that trust had to be built before the product could be.",
+    "Some of your work has the same shape. The patient explanations, the approvals, the records kept so that others can rely on you, rarely feel like progress on the day you do them. They are often the part that lets everything else move."
+  ],
+  "invitation": "Name one person whose trust your work depends on but who has not yet seen it clearly. Draft three plain sentences for them today on what it does and what it protects, and leave sending it for tomorrow.",
+  "sources": [
+    {
+      "title": "Kamal Quadir: The artist who became a fintech guru",
+      "publisher": "The Business Standard (Bangladesh)",
+      "url": "https://www.tbsnews.net/interviews/kamal-quadir-artist-who-became-fintech-guru-41547",
+      "kind": "founder-interview",
+      "supports": "Return to Dhaka on 14 August 2005; CellBazaar; the Tk 128 cost of a bank transaction against a rickshaw puller's Tk 1,000-1,500; Quadir's quotation about a system fully regulated by the central bank; meeting Abed; reasons for choosing BRAC (presence, credibility, Abed's vision); BRAC suggesting he study mobile money abroad; travels across Africa; first presentation to Abed on 26 August 2008; Abed introducing him to BRAC Bank because Bangladesh Bank requires a financial institution; bKash formed at the beginning of 2010 with 51 per cent BRAC and 49 per cent Money in Motion; Money in Motion formed by Kamal, Iqbal Quadir and US investors; launch in 2011 with 37 people; later IFC, Gates Foundation and Ant investment."
+    },
+    {
+      "title": "Pioneering change: the inspiring stories of Kamal Quadir",
+      "publisher": "The Daily Star (Bangladesh), interview from Prerona Foundation's Preronar Kotha",
+      "url": "https://www.thedailystar.net/node/3117626",
+      "kind": "founder-interview",
+      "supports": "Quadir's account that CellBazaar showed him everyone owns a mobile phone, however cheap; a similar service already available in Kenya, which he visited a few times between 2008 and 2009; Abed proposing BRAC as a platform; bKash founded in 2010 as a BRAC Bank subsidiary with 37 employees."
+    },
+    {
+      "title": "How the mobile phone and bKash revolutionised financial transaction",
+      "publisher": "The Business Standard (Bangladesh), 2022",
+      "url": "https://www.tbsnews.net/economy/how-mobile-phone-and-bkash-revolutionised-financial-transaction-392218",
+      "kind": "independent-reporting",
+      "supports": "The entrepreneur wearing out his soles in Bangladesh Bank's corridors to explain mobile financial services; the concept taking shape as a BRAC Bank subsidiary; the central bank's first MFS guideline in 2011, when MFS was only bank-led; bKash as the first separate MFS company, starting in 2011."
+    },
+    {
+      "title": "bKash: Tip of the iceberg",
+      "publisher": "The Daily Star (Bangladesh), 7 April 2017",
+      "url": "https://www.thedailystar.net/next-step/features/bkash-of-tip-the-iceberg-1387663",
+      "kind": "independent-reporting",
+      "supports": "Money in Motion LLC provided the initial $5 million seed funding; investors included Iqbal and Kamal Quadir and Nick Hughes, credited with founding M-Pesa in Kenya; later backers BRAC Bank, IFC and the Gates Foundation."
+    },
+    {
+      "title": "The bKash revolution: How a fin-tech pioneer redefined financial inclusion in Bangladesh",
+      "publisher": "The Business Standard (Bangladesh), July 2026",
+      "url": "https://www.tbsnews.net/supplement/bkash-revolution-how-fin-tech-pioneer-redefined-financial-inclusion-bangladesh-1480981",
+      "kind": "independent-reporting",
+      "supports": "Inspiration from M-PESA in Kenya; partner sought in Abed and BRAC; 2010 joint venture between Money in Motion and BRAC Bank; launch on 21 July 2011 with 37 employees and three services (Cash In, Cash Out, Send Money); agents as 'human ATMs'; 2 million users in 2012."
+    },
+    {
+      "title": "A brief history of bKash",
+      "publisher": "Future Startup (27 April 2023)",
+      "url": "https://futurestartup.com/2023/04/27/bkash-history/",
+      "kind": "independent-reporting",
+      "supports": "The Quadir brothers saw mobile money succeed in Kenya and the Philippines; talks with Abed from 2008; agreement in 2010 on a joint venture between Money in Motion and BRAC Bank; official launch in 2011; more than 2 million registered customers in 2012."
+    },
+    {
+      "title": "Millions benefit from mobile cash transfer in Bangladesh",
+      "publisher": "Gulf Times (AFP), 22 June 2015",
+      "url": "https://www.gulf-times.com/story/444214/Millions-benefit-from-mobile-cash-transfer-in-Bangladesh",
+      "kind": "independent-reporting",
+      "supports": "bKash started in 2011 and had 17 million registered accounts; about 100,000 agents such as shopkeepers; a survey by Dhaka University's Salahuddin Aminuzzaman of rickshaw pullers the previous year found 95 per cent used it for remittances."
+    },
+    {
+      "title": "bKash founder and CEO on the transformative impact of financial inclusion",
+      "publisher": "The Business Standard (Bangladesh), 2023 (report of a talk at the MIT Martin Trust Center)",
+      "url": "https://www.tbsnews.net/node/631526",
+      "kind": "independent-reporting",
+      "supports": "Quadir's account of the absence of financial accounts for ordinary people; agents as 'human ATMs' converting cash to digital money; his choice to design for basic phones rather than smartphones; operation under central bank supervision."
+    },
+    {
+      "title": "How Bangladesh's first and only unicorn used \"human ATMs\" to promote financial inclusion (3 minutes with Kamal Quadir)",
+      "publisher": "Rest of World (2023)",
+      "url": "https://restofworld.org/2023/3-minutes-with-kamal-quadir/",
+      "kind": "founder-interview",
+      "supports": "bKash founded in 2011 as a subsidiary of BRAC Bank; backed by Ant Group, SoftBank and the Gates Foundation; valued at $2 billion in 2021."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Quadir approached Abed and BRAC in 2008 and the parties agreed a joint venture in 2010 after about two years of talks.",
+      "urls": [
+        "https://www.tbsnews.net/interviews/kamal-quadir-artist-who-became-fintech-guru-41547",
+        "https://futurestartup.com/2023/04/27/bkash-history/"
+      ]
+    },
+    {
+      "claim": "Quadir visited Kenya to study mobile money before bKash was formed.",
+      "urls": [
+        "https://www.thedailystar.net/node/3117626",
+        "https://futurestartup.com/2023/04/27/bkash-history/",
+        "https://www.tbsnews.net/supplement/bkash-revolution-how-fin-tech-pioneer-redefined-financial-inclusion-bangladesh-1480981"
+      ]
+    },
+    {
+      "claim": "bKash was set up as a BRAC Bank subsidiary jointly with Money in Motion, which provided the initial capital.",
+      "urls": [
+        "https://www.tbsnews.net/interviews/kamal-quadir-artist-who-became-fintech-guru-41547",
+        "https://www.thedailystar.net/next-step/features/bkash-of-tip-the-iceberg-1387663"
+      ]
+    },
+    {
+      "claim": "bKash launched on 21 July 2011 with 37 staff.",
+      "urls": [
+        "https://www.tbsnews.net/supplement/bkash-revolution-how-fin-tech-pioneer-redefined-financial-inclusion-bangladesh-1480981",
+        "https://www.thedailystar.net/node/3117626"
+      ]
+    },
+    {
+      "claim": "bKash had more than two million users in 2012.",
+      "urls": [
+        "https://futurestartup.com/2023/04/27/bkash-history/",
+        "https://www.tbsnews.net/supplement/bkash-revolution-how-fin-tech-pioneer-redefined-financial-inclusion-bangladesh-1480981"
+      ]
+    },
+    {
+      "claim": "bKash was set up as a subsidiary of BRAC Bank, operating under Bangladesh Bank regulation.",
+      "urls": [
+        "https://www.tbsnews.net/economy/how-mobile-phone-and-bkash-revolutionised-financial-transaction-392218",
+        "https://restofworld.org/2023/3-minutes-with-kamal-quadir/",
+        "https://www.thedailystar.net/node/3117626"
+      ]
+    }
+  ],
+  "research_notes": "Order of events: The Business Standard interview places Quadir's African travels before his 26 August 2008 presentation to Abed, while the Daily Star interview has him visit Kenya 'a few times between 2008 and 2009' and then speak to Abed; the story dates the presentation and the Kenya trips without putting them in strict sequence. Founding year: the Daily Star says Quadir founded bKash in 2010 with 37 employees; The Business Standard says it was formed at the start of 2010 and launched in 2011 with 37 people; the story uses 2010 for formation and 2011 for the launch, and attaches the 37 to the launch. Launch date: 21 July 2011 comes from The Business Standard (2026) and Wikipedia; other sources say only 2011. Users: 2 million in 2012 (Future Startup, The Business Standard 2026); AFP gave 17 million registered accounts in June 2015. Nick Hughes: the Daily Star (2017) says he 'founded M-Pesa'; the story uses the more cautious 'one of the people behind M-Pesa', and the claim rests on that single source. The Tk 128 cost per bank transaction is Quadir's figure as reported in his interview. The 2011 bank-led-only rule rests on a Business Standard report, consistent with Quadir's own statement (also in The Business Standard) that Bangladesh Bank required a financial institution; no second publisher read gives the regulation, so the cross-check records only the better-attested fact that bKash was set up as a BRAC Bank subsidiary under central bank regulation. The Business Standard 2026 supplement may be sponsored content and is cited only for dates and figures that agree with other sources. Quote: Analects II.22 in Legge's translation, on trustworthiness as the yoke-bar that lets a carriage move.",
+  "researched_at": "2026-11-01"
+}

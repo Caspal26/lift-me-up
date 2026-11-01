@@ -1,0 +1,104 @@
+{
+  "id": "shashank-nd-practo-clinic-software-door-to-door-2009",
+  "title": "How Practo's Founders Went Clinic to Clinic Selling Software in 2009",
+  "dek": "Two students in Karnataka turned a struggle over a father's medical records into clinic software, then found doctors would only buy it face to face.",
+  "story": {
+    "founder": "Shashank ND and Abhinav Lal",
+    "company": "Practo",
+    "event": "Starting clinic software as students and switching to door-to-door selling after online sign-ups failed",
+    "approx_date": "2009",
+    "country": "India",
+    "region": "South Asia",
+    "industry": "healthcare software",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In 2008 Shashank ND, a student at NIT Karnataka, struggled to send his father's medical records to a US specialist for a second opinion; with classmate Abhinav Lal he started a company to digitise patient records, beginning with software for doctors. Funded by friends and family, prize money and a small accelerator seed, they launched Practo Ray in 2009 and, when online sign-ups failed, sold it clinic by clinic. Sequoia Capital invested $4 million in 2012.",
+    "paragraphs": [
+      "Early in 2008, Shashank ND was gathering and scanning his father's medical records. His father needed knee surgery, and Shashank, then a student at the National Institute of Technology Karnataka in Surathkal, wanted a second opinion from a specialist in the United States. The doctor asked to see everything first, and there was no easy, secure way to send it. \"We have 10-year-old emails in our inbox but no trace of a year-old medical prescription,\" he later said.",
+      "He took the problem to his classmate Abhinav Lal. Their idea was a health record that patients could keep and share, but they began on the other side of the consulting room, with software for doctors to keep their patients' records digitally. Few Indian companies were selling software by subscription then, and the economy was in recession. Shashank saw their position as low risk: \"We were still in college. If we built a limited product, nobody was going to brand us as failures.\" What they gave up, he said, was campus placements.",
+      "They paid no rent. About 10 lakh rupees came from friends and family, and they entered business-plan competitions for the prize money. In May 2009 the company, then called Turbodoc, launched Practo Ray, online software for clinics to run appointments, records and billing; that July Morpheus, a Bangalore accelerator, put in seed money. Their first sales plan was the accepted one: let doctors sign up online and follow up by phone. It failed. Busy doctors would not try new software on the strength of a call, so the founders went from clinic to clinic. They kept an unwritten rule not to write code unless a customer had paid for it. \"This meant we sold first and coded later,\" Shashank said.",
+      "It was hard on them. Shashank later recalled late nights in the company's Mumbai office in 2009, walking to the coast and feeling the weight of it all, and said his job then was \"to put on a brave face.\" Slowly the selling worked. Text-message appointment reminders proved popular, doctors recommended the software to friends, and dentists took to it early. In July 2012 Sequoia Capital invested $4 million, and that year the company launched a search service for patients to find doctors."
+    ]
+  },
+  "quote": {
+    "text": "So to feel brave, act as if we were brave, use all our will to that end, and a courage-fit will very likely replace the fit of fear.",
+    "thinker": "William James",
+    "work": "Talks to Teachers on Psychology; and to Students on Some of Life's Ideals",
+    "locator": "Talks to Students, I: \"The Gospel of Relaxation\"",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/16287/pg16287.txt",
+    "source_title": "Talks To Teachers On Psychology; And To Students On Some Of Life's Ideals, Project Gutenberg eBook #16287",
+    "connection": "Shashank describes the brave face as part of his job in 2009. James, a psychologist, argued that it is more than a performance: acting with courage tends to call courage up, because feeling follows what we do. The walk to the coast mattered too.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "A brave face is not a lie. James thought that acting steadily often brings the steadiness after it, and anyone who has started a hard shift tired and found their footing an hour in knows something of what he meant.",
+    "But it works best for a moment, not a season. Shashank also had the walk to the coast at night, somewhere the weight could be felt rather than managed. You need both: the face you bring into the room for colleagues, and a place, a person or an hour where you can put it down."
+  ],
+  "invitation": "Tonight, tell one person you trust how this week has actually felt, without the brave face. Ten minutes is enough, and nothing needs to be solved.",
+  "sources": [
+    {
+      "title": "With nothing to lose, two Indian college kids solve a medical problem, get Sequoia backing, wow Singapore",
+      "publisher": "Tech in Asia (republished by Yahoo News, 2014)",
+      "url": "https://my.news.yahoo.com/nothing-lose-two-indian-college-034057969.html",
+      "kind": "founder-interview",
+      "supports": "Founders studying at NIT Karnataka in 2008; Shashank's father's knee surgery, the US specialist and the records problem; the '10-year-old emails' quotation; the personal health record idea, starting with software for doctors and adding search later; few SaaS successes in India and recession; 'We were still in college...' quotation; no rent, pocket money, business-plan prize money; giving up campus placements; about INR 10 lakh from friends and family; incubation by Morpheus in Bangalore in 2009 under the name Turbodoc.in; Practo Ray launched in May 2009; self-sign-up failing and feet-on-street selling; SMS appointment reminders taking off and doctors recommending it; Sequoia's $4 million Series A in July 2012; Practo.com launched that year"
+    },
+    {
+      "title": "Clinically sound",
+      "publisher": "SmartCEO (Growth Mechanics)",
+      "url": "https://smartceo.co/clinically-sound",
+      "kind": "founder-interview",
+      "supports": "Early 2008 scanning his father's records for a second opinion from an American physician before an operation; founded in Bengaluru in 2008 while still college students, in the hostel they shared; Morpheus seed funding in July 2009; Sequoia Series A in July 2012; Practo Ray as the first product; the unwritten rule never to write code unless it was paid for and 'we sold first and coded later'; early traction among dentists"
+    },
+    {
+      "title": "[The Turning Point] How Practo founder took lessons from his personal problems to start up in the healthcare space",
+      "publisher": "YourStory (April 2020), via the Internet Archive",
+      "url": "http://web.archive.org/web/2020/https://yourstory.com/2020/04/turning-point-practo-founder-healthcare-startup",
+      "kind": "founder-interview",
+      "supports": "Shashank's account of his father's knee surgery and the second opinion; founding with classmate Abhinav Lal in 2008; Practo Ray as the first platform; 2009, bootstrapped and a year and a half in; late nights in the Mumbai office, walking to the coast, and having 'to put on a brave face'"
+    },
+    {
+      "title": "IT Entrepreneurs",
+      "publisher": "Department of Information Technology, National Institute of Technology Karnataka, Surathkal",
+      "url": "https://infotech.nitk.ac.in/node/757",
+      "kind": "company-archive",
+      "supports": "Shashank N.D. and Abhinav Lal, both B.Tech batch of 2009, co-founders of Practo (so still students in 2008)"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "The idea came from Shashank's difficulty getting his father's medical records to a US doctor for a second opinion before surgery.",
+      "urls": [
+        "https://my.news.yahoo.com/nothing-lose-two-indian-college-034057969.html",
+        "https://smartceo.co/clinically-sound",
+        "http://web.archive.org/web/2020/https://yourstory.com/2020/04/turning-point-practo-founder-healthcare-startup"
+      ]
+    },
+    {
+      "claim": "Shashank ND and Abhinav Lal started the company in 2008 while students at NIT Karnataka.",
+      "urls": [
+        "https://my.news.yahoo.com/nothing-lose-two-indian-college-034057969.html",
+        "https://smartceo.co/clinically-sound",
+        "https://infotech.nitk.ac.in/node/757"
+      ]
+    },
+    {
+      "claim": "Their first product was Practo Ray, clinic management software for doctors.",
+      "urls": [
+        "https://my.news.yahoo.com/nothing-lose-two-indian-college-034057969.html",
+        "https://smartceo.co/clinically-sound",
+        "http://web.archive.org/web/2020/https://yourstory.com/2020/04/turning-point-practo-founder-healthcare-startup"
+      ]
+    },
+    {
+      "claim": "Morpheus provided seed support in 2009, and Sequoia Capital invested in a Series A in July 2012.",
+      "urls": [
+        "https://my.news.yahoo.com/nothing-lose-two-indian-college-034057969.html",
+        "https://smartceo.co/clinically-sound"
+      ]
+    }
+  ],
+  "research_notes": "Student status: YourStory (2020) says Shashank 'had just graduated' from NIT Surathkal in 2008, but Tech in Asia and SmartCEO say both were still in college, and NIT Karnataka's own department page lists both as the B.Tech batch of 2009, so the story says he was a student. Procedure: YourStory and Tech in Asia say knee surgery; SmartCEO says only 'an operation'. Funding: Tech in Asia gives about INR 10 lakh (US$16,250) from friends and family plus prize money; SmartCEO says Morpheus provided an undisclosed seed amount in July 2009; Shashank calls the company 'bootstrapped' in 2009; Sequoia's Series A in July 2012 was $4 million per Tech in Asia (SmartCEO gives no amount). Funding is therefore 'mixed' for the episode rather than the slate's 'venture'. Dates: Tech in Asia says Practo Ray launched in May 2009 and Morpheus incubated the company in 2009; SmartCEO dates the Morpheus seed to July 2009. The 'Mumbai office' detail is Shashank's own recollection in YourStory and is reported as his. The SMS-reminder remark was made by Practo's marketing vice-president, not a founder, and is paraphrased. The no-code-unless-paid rule is described by SmartCEO as an 'unwritten rule' of the company, with Shashank's comment quoted. YourStory's live page returns 403, so an Internet Archive copy is cited. Later user and doctor numbers vary widely by year and source and are not used. The James passage comes from his talk on emotion and action ('The Gospel of Relaxation'); it is applied by analogy.",
+  "researched_at": "2026-11-01"
+}

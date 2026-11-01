@@ -1,0 +1,125 @@
+{
+  "id": "sara-saeed-iffat-zafar-sehat-kahani-founding-2017",
+  "title": "How Sehat Kahani Put Pakistan's 'Doctor Brides' Back on Call",
+  "dek": "In 2017 two doctors who had each stepped away from medicine built clinics where a nurse sat with the patient and a woman doctor joined by video from home.",
+  "story": {
+    "founder": "Sara Saeed Khurram and Iffat Zafar Aga",
+    "company": "Sehat Kahani",
+    "event": "Founding nurse-assisted video clinics staffed by women doctors working from home",
+    "approx_date": "2017-02",
+    "country": "Pakistan",
+    "region": "South Asia",
+    "industry": "healthcare (telemedicine)",
+    "arc": "founding-decision",
+    "funding": "mixed",
+    "summary": "In February 2017 the doctors Sara Saeed Khurram and Iffat Zafar Aga, each of whom had left practice after childbirth or the loss of a baby, founded Sehat Kahani in Karachi, taking over the clinics of the earlier venture doctHERs. In its clinics a nurse examined patients while a woman doctor consulted by video from home; by September 2017 it ran 14 clinics with a network of more than 500 women doctors, and in 2018 it raised $500,000 in seed funding.",
+    "paragraphs": [
+      "Some years before Sehat Kahani existed, Sara Saeed Khurram, a Karachi doctor, moved to a community clinic during pregnancy so she could keep working. Then her husband was transferred to Lahore and she had to leave. At home with a new baby, and with postpartum depression, she later said, she had become what Pakistanis call a \"doctor bride\": trained, then kept at home. The nurse at her old clinic, which had no other woman doctor willing to work there, began calling her about patients. The calls became video consultations, and Khurram wondered why many other women could not do the same.",
+      "Iffat Zafar Aga had left her job after losing her first baby in a premature birth. When she conceived again she quit at once and took a year off, not knowing, she said, whether she would return to medicine. When her daughter was nine months old she went back to work and met Khurram. In February 2017 they founded Sehat Kahani, Urdu for \"story of health\", a for-profit company that Quartz reported took over the team and clinics of doctHERs, an earlier venture Khurram had co-founded.",
+      "The gap was wide. Quartz reported that women made up 70 per cent of Pakistan's medical students but that more than half never practised. In Sehat Kahani's clinics a nurse took the patient's history and examined them while a woman doctor joined by video from her home. Doctors needed a valid licence, could not have been out of work for more than three years, and were tested on clinical scenarios before training on the software. Patients paid 50 to 500 rupees a visit.",
+      "Trust was the hard part. \"People don't want their women and children to be filmed,\" Khurram said, and young women running clinics were dismissed as immature. The team brought in male officials, briefed religious elders, hired nurses long known in each area and, Zafar recalled, sat on the floor explaining the service to local women. By September 2017 there were 14 clinics and more than 500 doctors in the network, though only about 30 were seeing patients. In 2018 the company raised $500,000 in seed funding."
+    ]
+  },
+  "quote": {
+    "text": "Though a man may be able to recite the three hundred odes, yet if, when intrusted with a governmental charge, he knows not how to act, or if, when sent to any quarter on a mission, he cannot give his replies unassisted, notwithstanding the extent of his learning, of what practical use is it?",
+    "thinker": "Confucius",
+    "work": "The Analects",
+    "locator": "Book XIII, Chapter 5",
+    "translator": "James Legge (2nd revised edition, 1893)",
+    "tradition": "Confucian",
+    "source_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.txt",
+    "source_title": "The Analects of Confucius (from the Chinese Classics), tr. James Legge, Project Gutenberg eBook #3330",
+    "connection": "Confucius judged learning by whether it could be put to work. Sehat Kahani asked the same of its doctors, testing them on cases rather than certificates, but it also changed the charge itself, so that women kept at home could carry it out.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "Khurram and Zafar did not ask sidelined doctors to try harder against the same obstacles. They changed what practising required: a trusted nurse in the room, a screen at home, a check that the skills were still sharp. The training had been there all along; what had been missing was an arrangement that let it work.",
+    "Somewhere near you is someone whose training is sitting unused: a colleague who stopped after a child, a friend who left after an illness, perhaps you on a hard week. The useful question is not why they stopped, but what would have to change for them to start again."
+  ],
+  "invitation": "Think of one person you know whose skill is sitting idle. Ask them, this week, what would need to be different for them to use it again, and simply listen.",
+  "sources": [
+    {
+      "title": "Pressured to give up their careers, Pakistan's \"doctor-wives\" are using tech to find work again",
+      "publisher": "Quartz India (Ananya Bhattacharya, 5 September 2017), via the Internet Archive",
+      "url": "https://web.archive.org/web/20181206164413/https://qz.com/india/1064758/sehat-kahani-pressured-to-give-up-their-careers-pakistans-doctor-wives-are-using-tech-to-find-work-again/",
+      "kind": "independent-reporting",
+      "supports": "Co-founded by Khurram and Iffat Zafar in February 2017; operations began that February by acquiring the team, clinics, assets and partnerships of doctHERs, which Khurram co-founded; women 70% of medical students, more than half never practising; nurse takes history and examines, doctor joins by video; recruitment criteria (valid licence, not out of the workforce more than three years, scenario-based interview, software training); fees of 50 to 500 rupees; 14 clinics; network of over 500 women doctors with about 30 deployed; Khurram on being dismissed as 'immature women', bringing in male officials, 'People don't want their women and children to be filmed', trusted local nurses and presentations to religious elders."
+    },
+    {
+      "title": "Sehat Kahani, a startup aiming to empower female doctors across Pakistan, raises $500,000 in seed funding",
+      "publisher": "Dawn (24 March 2018), via the Internet Archive",
+      "url": "https://web.archive.org/web/20181202005822/https://www.dawn.com/news/1396670",
+      "kind": "independent-reporting",
+      "supports": "Founded in 2017; $500,000 seed funding; the 'doctor-bride' phenomenon; network connecting home-based women doctors with patients in under-served areas."
+    },
+    {
+      "title": "How two doctors designed a vital telemedicine service for Pakistan (interview by Alice Rawsthorn)",
+      "publisher": "Wallpaper* (October 2020)",
+      "url": "https://wallpaper.com/design/sehat-kahani-designing-telemedicine-service-pakistan-interview",
+      "kind": "founder-interview",
+      "supports": "Both founders went through the 'doctor bride' problem; Khurram could not work with a small daughter and had postpartum depression; Zafar lost a baby in a premature birth and left her job; Zafar on sitting on the floor with women in communities to explain the service; nurses as intermediaries in the clinics; founded three years before October 2020."
+    },
+    {
+      "title": "Sehat Kahani - From Doctor Brides to Entrepreneurs",
+      "publisher": "Synergyzer (July 2024)",
+      "url": "https://synergyzer.com/sehat-kahani-doctor-bride-entrepreneur/",
+      "kind": "founder-interview",
+      "supports": "Khurram's account: moving to a community clinic during pregnancy, her husband's transfer to Lahore, her daughter's birth and postpartum depression, the nurse at her old clinic and on-call consultations that became video consultations; Zafar's account: quitting after losing a child in a premature birth, quitting again when she conceived, resuming work when her daughter was nine months old and meeting Khurram; co-founding Sehat Kahani in 2017."
+    },
+    {
+      "title": "Sehat Kahani: Forging a Future for Female Physicians in Pakistan",
+      "publisher": "Elevate Prize Foundation (2 August 2021)",
+      "url": "https://elevateprize.org/blogs/sehat-kahani-forging-a-future-for-female-physicians-in-pakistan/",
+      "kind": "founder-interview",
+      "supports": "Zafar: losing her first baby, blaming herself, quitting when she conceived again and taking a year off without knowing whether she would return to medicine; early apprehension about telemedicine in communities."
+    },
+    {
+      "title": "Dr. Iffat Zafar & Dr. Sara Saeed Khurram (member profile)",
+      "publisher": "Women in Global Health",
+      "url": "https://womeningh.org/our-member/dr-iffat-zafar-dr-sara-saeed-khurram/",
+      "kind": "independent-reporting",
+      "supports": "Sehat Kahani founded by the two doctors in 2017 as a for-profit company; the 'doctor bride' expectation that women doctors stop working after marriage."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Sara Saeed Khurram and Iffat Zafar founded Sehat Kahani in 2017.",
+      "urls": [
+        "https://web.archive.org/web/20181206164413/https://qz.com/india/1064758/sehat-kahani-pressured-to-give-up-their-careers-pakistans-doctor-wives-are-using-tech-to-find-work-again/",
+        "https://web.archive.org/web/20181202005822/https://www.dawn.com/news/1396670",
+        "https://womeningh.org/our-member/dr-iffat-zafar-dr-sara-saeed-khurram/"
+      ]
+    },
+    {
+      "claim": "Khurram stopped working after moving to Lahore with a new baby, had postpartum depression, and began consulting her old clinic's patients remotely.",
+      "urls": [
+        "https://synergyzer.com/sehat-kahani-doctor-bride-entrepreneur/",
+        "https://wallpaper.com/design/sehat-kahani-designing-telemedicine-service-pakistan-interview"
+      ]
+    },
+    {
+      "claim": "Zafar left her job after losing her first baby in a premature birth.",
+      "urls": [
+        "https://wallpaper.com/design/sehat-kahani-designing-telemedicine-service-pakistan-interview",
+        "https://elevateprize.org/blogs/sehat-kahani-forging-a-future-for-female-physicians-in-pakistan/",
+        "https://synergyzer.com/sehat-kahani-doctor-bride-entrepreneur/"
+      ]
+    },
+    {
+      "claim": "In the clinics a nurse sits with the patient while a woman doctor consults by video from home.",
+      "urls": [
+        "https://web.archive.org/web/20181206164413/https://qz.com/india/1064758/sehat-kahani-pressured-to-give-up-their-careers-pakistans-doctor-wives-are-using-tech-to-find-work-again/",
+        "https://wallpaper.com/design/sehat-kahani-designing-telemedicine-service-pakistan-interview"
+      ]
+    },
+    {
+      "claim": "Building trust in conservative communities was the main early obstacle.",
+      "urls": [
+        "https://web.archive.org/web/20181206164413/https://qz.com/india/1064758/sehat-kahani-pressured-to-give-up-their-careers-pakistans-doctor-wives-are-using-tech-to-find-work-again/",
+        "https://wallpaper.com/design/sehat-kahani-designing-telemedicine-service-pakistan-interview"
+      ]
+    }
+  ],
+  "research_notes": "The 'doctor bride' figures differ widely and are not reconciled anywhere: Quartz (2017) says women are 70% of medical students and more than half never practise; Khurram in Wallpaper* (2020) says women are 60-70% of a 170,000-strong medical workforce but only 23% are registered and working; Khurram in Synergyzer (2024) speaks of about 80% of her medical class being women; Women in Global Health says over 80% of students are women and 40% practise after marriage; Elevate says about 50% give up practice. The story gives only Quartz's contemporary figure, attributed. The takeover of doctHERs's team, clinics, assets and partnerships rests on Quartz alone (Wikipedia's 'spin-off' line cites Quartz and Dawn, but the archived Dawn text does not mention doctHERs), so it is attributed to Quartz. Quartz dates doctHERs's co-founding to 2015; other accounts differ, so the story gives no date. Khurram's Lahore origin story comes from her own later interviews and has no date; the story says only that it came 'some years before'. Clinic and doctor counts are Quartz's (September 2017); Wallpaper*, Elevate and WGH give much larger later figures, not used. Seed funding of $500,000 is Dawn's (March 2018). Quartz spells the name 'Khurrum'; the founder's own usage is 'Khurram'. Quartz and Dawn are cited from Internet Archive copies because the live pages block automated requests. Funding is set to 'mixed': Quartz says revenue came from patient fees, corporate health campaigns, grants and competitions before the 2018 seed round. Confucius's remark concerns officials who know the Odes but cannot act; it is applied by analogy to doctors.",
+  "researched_at": "2026-11-01"
+}

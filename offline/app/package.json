@@ -1,0 +1,21 @@
+{
+  "name": "lift-me-up-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lift Me Up as a fully offline Android app: editions bundled, one unlocking each morning.",
+  "type": "module",
+  "scripts": {
+    "build:web": "node build.mjs",
+    "sync": "node build.mjs && npx cap sync android",
+    "apk": "node build.mjs && npx cap sync android && cd android && gradlew.bat assembleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/app": "^6.0.2",
+    "@capacitor/core": "^6.2.1",
+    "@capacitor/preferences": "^6.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

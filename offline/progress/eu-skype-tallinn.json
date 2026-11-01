@@ -1,0 +1,15 @@
+{
+  "key": "eu-skype-tallinn",
+  "status": "done",
+  "file": "offline/editions/zennstrom-friis-tallinn-developers-skype-firewall-decision-2003.json",
+  "title": "The Firewall Problem That Turned Skyper Into Skype",
+  "region": "Europe",
+  "industry": "telecoms",
+  "arc": "founding-decision",
+  "funding": "venture",
+  "tradition": "Buddhist",
+  "thinker": "The Buddha (attributed)",
+  "talqen": false,
+  "conflicts": "Who had the voice idea and when: Tallinn (Edge 2015) says late 2002, Wi-Fi sharing first, VoIP chosen after existing software failed behind firewalls; Ars (2013) dates the idea to summer 2002 and credits Annus and Friis; dpa (2013) says Zennström and Friis planned internet telephony from a summer-2002 meeting. Story follows Tallinn and notes the other credit. User numbers: 10,000 first-day downloads (Ars, Estonian World, Invest in Estonia), 60,000 first week (dpa), a million 'within a couple of months'/'a few months'/'within months'; CTA's 'within a month' not used; story says 'within months'. eBay price differs ($2.5bn, $2.6bn, $3.1bn nominal) so the story gives none. Funding: Zennström says 26 VCs refused; Ars says Draper's emissary Hartenbaum and angels funded it; both told as compatible.",
+  "notes": "Story built mainly on Jaan Tallinn's first-person Edge conversation and Toivo Tänavsuu's Ars Technica history (based on interviews with the founders). The stalled-development-for-lack-of-pay detail rests on Ars alone and is attributed. Ars pages /2/ onwards redirect to the single-page article. The Dhammapada has been used six times already elsewhere; verse 328 is new."
+}

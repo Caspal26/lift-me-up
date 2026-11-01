@@ -1,0 +1,15 @@
+{
+  "key": "na-medtronic-bakken",
+  "status": "done",
+  "file": "offline/editions/earl-bakken-medtronic-battery-pacemaker-1957.json",
+  "title": "The Test Box Earl Bakken Found Keeping a Child Alive",
+  "region": "North America",
+  "industry": "medical devices",
+  "arc": "breakthrough",
+  "funding": "bootstrapped",
+  "tradition": "Confucian",
+  "thinker": "Confucius",
+  "talqen": true,
+  "conflicts": "The blackout origin story is disputed. Bakken (MPR 1995, 2007; IEEE 2007) said a child on a mains pacemaker died in the 31 October 1957 blackout and that this prompted Lillehei's request. University of Minnesota Archives (2014) found a 16 September 1957 Lillehei letter describing a dry-cell transistorised pacemaker already in development by his team with engineer Robert Bruss, newspaper reports that the hospital had auxiliary power, and no matching child death certificate. The story gives Bakken's version as his account, then the archival evidence, and claims neither that the blackout caused the invention nor that a child died. Minor: $8 in the first month (Bakken) against the first year (IEEE Spectrum), attributed to Bakken; first clinical use December 1957 or 1958, so no date given; outage cause 'storm' (VHL) against transformer explosion (archive), archive followed.",
+  "notes": "The slate's 'after a blackout' framing is kept only as Bakken's own account. The IEEE oral history reserves quotation rights, so it is paraphrased and the quotes come from MPR 2007. This is my one talQen mention, in the reflection."
+}

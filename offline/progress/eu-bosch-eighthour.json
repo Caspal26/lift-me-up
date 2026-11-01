@@ -1,0 +1,15 @@
+{
+  "key": "eu-bosch-eighthour",
+  "status": "done",
+  "file": "offline/editions/robert-bosch-stuttgart-eight-hour-day-1906.json",
+  "title": "Robert Bosch Moves His Stuttgart Works to an Eight-Hour Day, 1906",
+  "region": "Europe",
+  "industry": "manufacturing (automotive ignition)",
+  "arc": "hard-responsibility",
+  "funding": "bootstrapped",
+  "tradition": "Daoist",
+  "thinker": "Zhuangzi",
+  "talqen": false,
+  "conflicts": "Free Saturday afternoon dated 1908 (Heuss, NDB) vs 1910 (Zimmermann citing Herdt and Heuss); left out of the story. Exact start date 1 August 1906 comes from one study (Zimmermann, Bosch-Archiv based); other sources give only 1906, so the date was cross-checked as '1906'. The 1906 US advertisement's million dollars of orders is the company's own claim and is attributed to it.",
+  "notes": "Main sources are German (Zimmermann in ZWLG 2015, Heuss in NDB 1955, DHM LeMO); Bosch's own reasoning survives as German quotations, so it is paraphrased with attribution rather than quoted. The popular 'good wages' line was left out because its original source is not given. The 1913 strike is told as a sequence of events without blame; Heuss's 'senseless' is the authorised biographer's word and is not used."
+}

@@ -1,0 +1,139 @@
+{
+  "id": "katlego-maphai-yoco-sponsor-bank-year-2013",
+  "title": "The Year Yoco's Founders Waited to Learn Whether They Could Start",
+  "dek": "In 2013 four friends in Cape Town spent a year persuading a bank to let a start-up into South Africa's card system before they could build their card reader for small merchants.",
+  "story": {
+    "founder": "Katlego Maphai, Carl Wazen, Bradley Wattrus and Lungisa Matshoba",
+    "company": "Yoco",
+    "event": "Spending a year winning a sponsor bank and payment licence before building a card reader for small merchants",
+    "approx_date": "2013",
+    "country": "South Africa",
+    "region": "Southern Africa",
+    "industry": "fintech (card payments for small businesses)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "After seeing a phone-based card reader in a small San Francisco eatery in 2012, Katlego Maphai and three friends chose to build card acceptance for South Africa's small merchants. Yoco incorporated in early 2013 and spent most of that year lobbying until Mercantile Bank agreed to sponsor it as a payment facilitator; angel investment, Visa and Mastercard certification and a first transaction in October 2014 followed, and the service launched officially in 2015 after a beta of about 500 merchants.",
+    "paragraphs": [
+      "In 2012 Katlego Maphai, a South African who had worked in telecoms consulting and at the start-up builder Rocket Internet, ate at a small barbecue place in San Francisco. \"There was really nothing on the countertop, no till, nothing,\" he recalled. The owner took his friend's card on an Android phone with a small reader plugged in, and the friend signed with his finger.",
+      "Back in South Africa he, Carl Wazen and Bradley Wattrus, colleagues from earlier jobs, and his childhood friend Lungisa Matshoba weighed several ideas, an interactive wine bar among them, before settling on card payments. Maphai later put the gap plainly: more than 27 million South Africans had bank cards, yet only six per cent of sellers accepted them, because a card machine meant trading history, a contract and high costs. The four had come from telecoms and had watched prepaid phones spread. \"All we really did was take the prepaid phone analogy and apply it to payments,\" Maphai said.",
+      "What they could not do alone was join the card system. Yoco incorporated in early 2013, and by one account most of that first year went on negotiating with possible banking partners and investors. \"People thought we were crazy to think we could get a licence to participate as a start-up in the industry,\" Maphai said. It took a year, he added, to get it \"and eventually find out whether we could even start the venture.\" After a period of lobbying, Mercantile Bank agreed to let Yoco operate as a payment facilitator, and a round from international angel investors followed.",
+      "Then came the product, a core team, and certification by Visa and Mastercard. The first transaction went through in October 2014, which Maphai called \"the culmination of two years of hard work.\" A beta grew to more than 500 merchants, and Yoco launched officially in late 2015, in October by the launch announcement or November by a later account. Maphai led it as chief executive until he stepped down in 2025."
+    ]
+  },
+  "quote": {
+    "text": "Indeed we may wait if we will,—I hope you do not think that I am denying that,—but if we do so, we do so at our peril as much as if we believed. In either case we act, taking our life in our hands.",
+    "thinker": "William James",
+    "work": "The Will to Believe, and Other Essays in Popular Philosophy",
+    "locator": "\"The Will to Believe\", section X",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/26659/pg26659.txt",
+    "source_title": "The Will to Believe, and Other Essays in Popular Philosophy, Project Gutenberg eBook #26659",
+    "connection": "James was defending religious faith, but his point reaches the year Maphai describes. The people who called the founders crazy were not choosing safety by holding back; they were taking a different risk. James does not promise that acting will be rewarded, and nothing in 2013 told the four that it would be.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Much of the founding year Maphai describes was not building but asking: banks, investors, the gatekeepers of a payment system. It is the least visible kind of work, and it can feel like standing still. James would say that standing still is also a choice, with its own costs, so there is no neutral place to rest while you wait.",
+    "If something you need sits in someone else's hands this month, a signature, an approval, a reply, it can help to decide what you will do in the meantime and what you will leave alone. Waiting with a plan is different from waiting idle, and different again from trying to force the door."
+  ],
+  "invitation": "Name one approval you are waiting on. Write down the date you will next ask about it, and until that date let it rest.",
+  "sources": [
+    {
+      "title": "UCT alumnus powers ahead as one of South Africa's leading young entrepreneurs",
+      "publisher": "University of Cape Town News (Kim Cloete, 9 June 2016)",
+      "url": "https://news.uct.ac.za/article/-2016-06-09-uct-alumnus-powers-ahead-as-one-of-south-africas-leading-young-entrepreneurs",
+      "kind": "founder-interview",
+      "supports": "Maphai's career at Accenture, Delta Partners (where he met Carl Wazen) and Rocket Internet (where he met Bradley Wattrus); Lungisa Matshoba a childhood friend; ideas including an interactive wine bar before point-of-sale payments; more than 27 million South Africans with bank cards and only six per cent of sellers accepting them; trading history, contracts and cost as barriers; 'People thought we were crazy...' and 'it took a year to get it and eventually find out whether we could even start the venture'; first transaction in October 2014, 'the culmination of two years of hard work'."
+    },
+    {
+      "title": "Katlego Maphai, CEO of Yoco Technologies, revolutionised the payment landscape",
+      "publisher": "Daily Maverick (Georgina Crouth, 28 December 2022)",
+      "url": "https://www.dailymaverick.co.za/article/2022-12-28-katlego-maphai-ceo-of-yoco-technologies-revolutionised-the-payment-landscape/",
+      "kind": "founder-interview",
+      "supports": "The 2012 San Francisco restaurant where a friend paid through a reader attached to a phone; the founders' telecoms background and the prepaid-phone analogy quotation; Yoco founded in 2013 and launched at the end of 2015."
+    },
+    {
+      "title": "The big ideas that inspired some of SA's most exciting startups",
+      "publisher": "SME South Africa (October 2017, updated March 2018), quoting Maphai's interview with Fin24",
+      "url": "https://smesouthafrica.co.za/big-ideas-inspired-sas-exciting-startups/",
+      "kind": "founder-interview",
+      "supports": "The 'really beaten-down barbecue eatery' in the US; 'There was really nothing on the countertop, no till, nothing'; the owner's Android phone and plug-in reader; the friend signing with his finger."
+    },
+    {
+      "title": "How Yoco saw a South African fintech opportunity, and built a business",
+      "publisher": "CIO Africa (Jeremy Daniel, 1 October 2020)",
+      "url": "https://www.cio.com/article/194066/how-yoco-saw-a-south-african-fintech-opportunity-and-built-a-business.html",
+      "kind": "founder-interview",
+      "supports": "Feature drawing on Lungisa Matshoba: Maphai saw Square while travelling in the US; Yoco founded in 2013; most of the first year spent negotiating with potential banking partners and investors; by the end of 2013 capital and a sponsor-bank agreement were in place."
+    },
+    {
+      "title": "New card payments startup give SMEs the tools they need to thrive",
+      "publisher": "Bizcommunity (9 November 2015)",
+      "url": "https://www.bizcommunity.com/Article/196/708/137001.html",
+      "kind": "independent-reporting",
+      "supports": "Launch announcement: the four founders and their roles; sustained lobbying led Mercantile Bank to grant Yoco its licence to operate as a payment facilitator; a funding round with international angel investors followed; product development, core team and Visa and MasterCard certification; beta of over 500 merchants; official launch in October 2015."
+    },
+    {
+      "title": "New point-of-sale solution gives SMEs the tools to thrive",
+      "publisher": "Media Update (24 November 2015)",
+      "url": "https://www.mediaupdate.co.za/marketing/84458/default.aspx?f=media",
+      "kind": "independent-reporting",
+      "supports": "Maphai, Wazen and Wattrus began discussing the platform in 2012; Matshoba joined as co-founder in early 2013 when Yoco incorporated; Mercantile Bank granted the payment-facilitator licence after a period of lobbying."
+    },
+    {
+      "title": "Yoco beta test was key to launching fintech startup",
+      "publisher": "SME South Africa (June 2016)",
+      "url": "https://smesouthafrica.co.za/extensive-beta-testing-key-us-successfully-launching-fintech-startup/",
+      "kind": "independent-reporting",
+      "supports": "A ten-month beta that grew from 20 pilot merchants to 550 paying merchants; public launch in November 2015."
+    },
+    {
+      "title": "Katlego Maphai steps down as CEO of Yoco, calls it a deeply personal move",
+      "publisher": "Fast Company South Africa (Vernon Pillay, 18 September 2025)",
+      "url": "https://fastcompany.co.za/tech/2025-09-18-katlego-maphai-steps-down-as-ceo-of-yoco-calls-it-a-deeply-personal-move/",
+      "kind": "independent-reporting",
+      "supports": "Maphai co-founded Yoco in 2013 with Matshoba, Wattrus and Wazen and stepped down as chief executive in 2025."
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Maphai saw a phone-based card reader at a small eatery in the United States (San Francisco, 2012) before starting Yoco",
+      "urls": [
+        "https://www.dailymaverick.co.za/article/2022-12-28-katlego-maphai-ceo-of-yoco-technologies-revolutionised-the-payment-landscape/",
+        "https://smesouthafrica.co.za/big-ideas-inspired-sas-exciting-startups/",
+        "https://www.cio.com/article/194066/how-yoco-saw-a-south-african-fintech-opportunity-and-built-a-business.html"
+      ]
+    },
+    {
+      "claim": "Yoco was founded or incorporated in 2013",
+      "urls": [
+        "https://www.mediaupdate.co.za/marketing/84458/default.aspx?f=media",
+        "https://www.dailymaverick.co.za/article/2022-12-28-katlego-maphai-ceo-of-yoco-technologies-revolutionised-the-payment-landscape/",
+        "https://www.cio.com/article/194066/how-yoco-saw-a-south-african-fintech-opportunity-and-built-a-business.html"
+      ]
+    },
+    {
+      "claim": "Getting a bank sponsor and licence took about a year",
+      "urls": [
+        "https://news.uct.ac.za/article/-2016-06-09-uct-alumnus-powers-ahead-as-one-of-south-africas-leading-young-entrepreneurs",
+        "https://www.cio.com/article/194066/how-yoco-saw-a-south-african-fintech-opportunity-and-built-a-business.html"
+      ]
+    },
+    {
+      "claim": "Mercantile Bank granted Yoco its licence to operate as a payment facilitator after lobbying",
+      "urls": [
+        "https://www.bizcommunity.com/Article/196/708/137001.html",
+        "https://www.mediaupdate.co.za/marketing/84458/default.aspx?f=media"
+      ]
+    },
+    {
+      "claim": "Yoco launched officially in late 2015 after a beta of about 500 merchants",
+      "urls": [
+        "https://www.bizcommunity.com/Article/196/708/137001.html",
+        "https://smesouthafrica.co.za/extensive-beta-testing-key-us-successfully-launching-fintech-startup/",
+        "https://www.dailymaverick.co.za/article/2022-12-28-katlego-maphai-ceo-of-yoco-technologies-revolutionised-the-payment-landscape/"
+      ]
+    }
+  ],
+  "research_notes": "Dates disagree. Founding: Media Update (2015) says the founders began discussing the idea in 2012 and incorporated in early 2013; Daily Maverick (Maphai, 2022), CIO Africa (2020) and Fast Company SA (2025) give 2013; Wikipedia gives 2014. The story uses early 2013. Launch: the November 2015 launch announcement (Bizcommunity) and Stuff SA (2022) say October 2015; SME South Africa (2016) says November 2015; Carl Wazen (2018) and Maphai (2022) say late or the end of 2015. The story gives late 2015 with both months. The first live transaction in October 2014 is Maphai's own date (UCT News, 2016). Beta size: 'over 500 merchants' (Bizcommunity 2015, Stuff 2022) vs 'from 20 pilot merchants to 550 paying merchants' over ten months (SME South Africa 2016); the story says it grew to more than 500. Card-acceptance gap: Maphai in 2016 said 27 million cardholders and six per cent of sellers accepting cards; Wazen in 2018 said 75 per cent of adults had cards and seven per cent of businesses could accept them; the story uses Maphai's figures, attributed to him. The bank's role: Matshoba (CIO) describes a sponsor-bank agreement; the 2015 announcement describes Mercantile Bank granting a licence to operate as a payment facilitator; the story uses the announcement's wording. The 'lights went on' and countertop quotations come from a Fin24 interview whose original page no longer loads; the quotation is taken from SME South Africa's reproduction. A popular founder profile on entrepreneurhubsa.co.za was not used because its claims are unsourced. Funding is given as venture: angel investors after the licence, then venture rounds from 2017. The James passage concerns religious belief; it is applied here by analogy to acting without knowing the outcome.",
+  "researched_at": "2026-11-01"
+}

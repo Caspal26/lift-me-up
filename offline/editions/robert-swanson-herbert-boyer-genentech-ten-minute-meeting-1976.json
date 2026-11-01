@@ -1,0 +1,132 @@
+{
+  "id": "robert-swanson-herbert-boyer-genentech-ten-minute-meeting-1976",
+  "title": "The Ten-Minute Meeting That Ran Three Hours and Became Genentech",
+  "dek": "In 1976 a biochemist agreed to give a young venture capitalist ten minutes; they talked for three hours and set out to make human insulin in bacteria.",
+  "story": {
+    "founder": "Herbert Boyer and Robert Swanson",
+    "company": "Genentech",
+    "event": "A cold call, a three-hour meeting and the decision to found a company to make human insulin",
+    "approx_date": "1976",
+    "country": "United States",
+    "region": "North America",
+    "industry": "biotech",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "In 1976 the venture capitalist Robert Swanson cold-called Herbert Boyer, the UCSF biochemist who with Stanley Cohen had developed recombinant DNA techniques; a meeting meant to last ten minutes ran for three hours, and the two put in $500 each to found Genentech, with seed money from Kleiner & Perkins and human insulin as the first target. Bacteria made the hormone somatostatin in 1977, synthetic genes for human insulin followed in 1978, and the insulin, made with Eli Lilly as Humulin, was approved in 1982 as the first biotechnology product on the market.",
+    "paragraphs": [
+      "In 1976 Robert Swanson, a young venture capitalist who had worked at the firm Kleiner & Perkins, was cold-calling scientists who worked on recombinant DNA, hoping one of them wanted to turn it into a business. Herbert Boyer, a biochemist at the University of California, San Francisco, was hesitant, but agreed to give him ten minutes at his laboratory. The meeting ran to three hours. By the Kleiner Perkins account, it was over a beer that the two men shook hands on a deal.",
+      "Boyer had something real to offer. In 1973 he and Stanley Cohen of Stanford had shown how to cut DNA with an enzyme from Boyer's laboratory, join the pieces into small rings called plasmids and have bacteria copy them, and then that genes could cross between species, with frog genes carried in the bacterium E. coli. The work was controversial, and the public was uneasy about cloning. Boyer was an academic with little knowledge of business. They agreed that he would lead the science and Swanson the money and management, and each put in $500 for legal fees.",
+      "Swanson, now working on the venture full time, picked the first target: human insulin. Its structure was well understood, and many patients had allergic reactions to the insulin taken from pigs that Eli Lilly, the largest American maker, sold. By March 1976 he had a business plan, and Kleiner & Perkins agreed to put up the seed money. The partnership became a company, Genentech, with Swanson as its president.",
+      "None of it was quick. Genentech still had no laboratories of its own when, in 1977, Boyer's group at UCSF and Keiichi Itakura's at the City of Hope medical centre got bacteria to make a hormone, somatostatin. Synthetic genes for human insulin followed in 1978, after what PBS describes as a two-year, round-the-clock effort, and Genentech agreed with Eli Lilly to develop the production process. In 1980 Genentech sold shares to the public. In 1982 the US Food and Drug Administration approved the insulin, sold as Humulin, the first biotechnology product to reach the market."
+    ]
+  },
+  "quote": {
+    "text": "A social organism of any sort whatever, large or small, is what it is because each member proceeds to his own duty with a trust that the other members will simultaneously do theirs.",
+    "thinker": "William James",
+    "work": "The Will to Believe, and Other Essays",
+    "locator": "\"The Will to Believe\", section IX",
+    "tradition": "American",
+    "source_url": "https://www.gutenberg.org/cache/epub/26659/pg26659.txt",
+    "source_title": "The Will to Believe, and Other Essays in Popular Philosophy, Project Gutenberg eBook #26659",
+    "connection": "James's point is that some joint ventures exist only because each person acts first, trusting the other to deliver. Boyer had to trust that Swanson would find money for science nobody had yet turned into a product; Swanson had to trust that the science would work. Neither could check the other's half in advance.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "A ten-minute favour became a company because two people with different skills stayed in the room, then each went away to do a half the other could not check. That kind of partnership asks for a particular trust: not that the other person is clever, but that they will do their part while you are doing yours.",
+    "You may be carrying both halves of something at the moment: the technical work, and the money and the people around it. If so, it is worth asking which half you would most like to trust to someone else, and what that person would need to hear from you first."
+  ],
+  "invitation": "Write down the name of one person whose skills differ from yours, and the single question you would ask if they gave you ten minutes. Ask them for those ten minutes this week.",
+  "sources": [
+    {
+      "title": "Our Founders",
+      "publisher": "Genentech",
+      "url": "https://www.gene.com/about-us/leadership/our-founders",
+      "kind": "company-archive",
+      "supports": "Swanson called Boyer and asked for a meeting; Boyer agreed to give him 10 minutes; the meeting extended to three hours and by its end Genentech was born; founded in 1976; human insulin among its first medicines"
+    },
+    {
+      "title": "Genentech (case study)",
+      "publisher": "Kleiner Perkins",
+      "url": "https://www.kleinerperkins.com/case-study/genentech/",
+      "kind": "company-archive",
+      "supports": "Swanson pitched Boyer on forming a company; over a beer the two shook hands on a deal; co-founded in 1976; Kleiner Perkins provided seed capital and Kleiner and Perkins joined the board; Eli Lilly as the largest US maker of porcine insulin; Genentech's human insulin from recombinant DNA"
+    },
+    {
+      "title": "Who Made America? Innovators: Herbert Boyer",
+      "publisher": "PBS (WGBH)",
+      "url": "https://www.pbs.org/wgbh/theymadeamerica/whomade/boyer_hi.html",
+      "kind": "independent-reporting",
+      "supports": "A cold call at Boyer's lab led to a couple of beers and an agreement to start a company; $500 apiece to capitalise Genentech; synthetic genes for human insulin as the first product after a two-year, round-the-clock effort; public share offering in 1980"
+    },
+    {
+      "title": "Herbert W. Boyer and Stanley N. Cohen (scientific biography)",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/herbert-w-boyer-and-stanley-n-cohen/",
+      "kind": "independent-reporting",
+      "supports": "Boyer at UCSF and Cohen at Stanford; EcoRI from Boyer's lab; the 1973 plasmid experiments and frog genes propagated in E. coli; commercial ventures forming despite controversy and public fear of cloning; Genentech founded in 1976 by Boyer and venture capitalist Robert Swanson; somatostatin expressed in bacteria in 1977 by Boyer and Keiichi Itakura of City of Hope before Genentech had its own facilities; insulin plasmid in 1978; joint venture with Eli Lilly; FDA approval of Humulin in 1982 as the first biotechnology product on the market"
+    },
+    {
+      "title": "Robert Swanson, 52, alumnus who launched biotechnology industry (8 December 1999)",
+      "publisher": "MIT News",
+      "url": "https://news.mit.edu/1999/swanson-1208.html",
+      "kind": "independent-reporting",
+      "supports": "Swanson founded Genentech in 1976 with Herbert Boyer; the company cloned human insulin, showed a profit in 1979 and went public in 1980"
+    },
+    {
+      "title": "Robert A. Swanson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_A._Swanson",
+      "kind": "independent-reporting",
+      "supports": "Supplementary: Swanson's time at Kleiner & Perkins; cold-calling scientists; Boyer's initial hesitation and lack of business background; the meeting at Boyer's UCSF lab extended to three hours; division of roles; $500 each for legal fees; Swanson working full time; reasons for choosing insulin (well-characterised structure, allergic reactions to pig insulin); business proposal by March 1976; Kleiner & Perkins investment; Swanson as president of Genentech"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "In 1976 Swanson approached Boyer, who agreed to a short meeting that ran to about three hours",
+      "urls": [
+        "https://www.gene.com/about-us/leadership/our-founders",
+        "https://en.wikipedia.org/wiki/Robert_A._Swanson"
+      ]
+    },
+    {
+      "claim": "Over a beer they agreed to start a company, each putting in $500",
+      "urls": [
+        "https://www.kleinerperkins.com/case-study/genentech/",
+        "https://www.pbs.org/wgbh/theymadeamerica/whomade/boyer_hi.html"
+      ]
+    },
+    {
+      "claim": "Genentech was founded in 1976 by Boyer and Swanson",
+      "urls": [
+        "https://www.gene.com/about-us/leadership/our-founders",
+        "https://www.sciencehistory.org/education/scientific-biographies/herbert-w-boyer-and-stanley-n-cohen/",
+        "https://news.mit.edu/1999/swanson-1208.html"
+      ]
+    },
+    {
+      "claim": "Human insulin was the first product they set out to make, and Kleiner & Perkins provided the seed money",
+      "urls": [
+        "https://www.pbs.org/wgbh/theymadeamerica/whomade/boyer_hi.html",
+        "https://www.kleinerperkins.com/case-study/genentech/",
+        "https://en.wikipedia.org/wiki/Robert_A._Swanson"
+      ]
+    },
+    {
+      "claim": "Somatostatin was made in bacteria in 1977, insulin genes followed in 1978, Lilly developed production and Humulin was approved in 1982",
+      "urls": [
+        "https://www.sciencehistory.org/education/scientific-biographies/herbert-w-boyer-and-stanley-n-cohen/",
+        "https://www.pbs.org/wgbh/theymadeamerica/whomade/boyer_hi.html",
+        "https://www.kleinerperkins.com/case-study/genentech/"
+      ]
+    },
+    {
+      "claim": "Genentech went public in 1980",
+      "urls": [
+        "https://news.mit.edu/1999/swanson-1208.html",
+        "https://www.pbs.org/wgbh/theymadeamerica/whomade/boyer_hi.html"
+      ]
+    }
+  ],
+  "research_notes": "Swanson's status: Kleiner Perkins's case study calls him 'a young partner at Kleiner Perkins', while Wikipedia says his position there was terminated by the end of 1975, before he cold-called scientists; the story says only that he had worked at the firm. Age: MIT News says he founded Genentech at 29, but Wikipedia gives a 1947 birth (he was born in October 1947, so 28 for most of 1976); the story says 'young' and gives no age. Meeting place: Wikipedia puts the meeting in Boyer's UCSF laboratory, Genentech's own page gives the ten minutes extended to three hours, and Kleiner Perkins and PBS say the deal was made over a beer or 'a couple of beers'; widely repeated accounts name a bar near UCSF, but no loadable source read for this edition names it, so the story does not. Money: the $100,000 Kleiner & Perkins commitment appears only on Wikipedia, so the story says 'seed money'; PBS gives $38.5 million raised at the 1980 offering, but no other cited source gives a figure, so the story states only that Genentech went public in 1980. The month of the first meeting is not given by any source read, so the story says 1976 (Wikipedia has the business plan ready by March 1976). Insulin reasons (structure known, allergic reactions to pig insulin) are from Wikipedia; Lilly's position as the largest US maker of porcine insulin is from Kleiner Perkins. The Bancroft Library oral histories of Swanson and Boyer (Sally Smith Hughes) and the New York Times and Guardian obituaries could not be read for this edition, so the story attributes no thoughts or feelings to either founder. The James sentence is from section IX of the title essay of the 1897 collection.",
+  "researched_at": "2026-11-01"
+}

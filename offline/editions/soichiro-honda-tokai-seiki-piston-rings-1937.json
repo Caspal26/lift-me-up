@@ -1,0 +1,154 @@
+{
+  "id": "soichiro-honda-tokai-seiki-piston-rings-1937",
+  "title": "Soichiro Honda's Piston Rings and the Diploma He Never Collected",
+  "dek": "In the late 1930s a Hamamatsu garage owner went back to class to learn about metal, skipped the exams, and then had to learn again when Toyota tested his rings.",
+  "story": {
+    "founder": "Soichiro Honda",
+    "company": "Tokai Seiki (later Honda)",
+    "event": "Studying metallurgy part time after failed piston rings, then failing Toyota's inspection",
+    "approx_date": "1937",
+    "country": "Japan",
+    "region": "East Asia",
+    "industry": "manufacturing (automotive parts)",
+    "arc": "setback",
+    "funding": "mixed",
+    "summary": "In the late 1930s Soichiro Honda, who ran a garage in Hamamatsu, set up Tokai Seiki to make piston rings; after repeated failures he studied metallurgy part time at the Hamamatsu Industrial Institute for nearly two years, without sitting the exams or taking a diploma. When production began, only three of fifty rings passed Toyota's quality inspection, and he spent nearly two more years studying manufacturing at universities and steelmakers before supplying Toyota and Nakajima Aircraft.",
+    "paragraphs": [
+      "In 1936, by his company's own account, Soichiro Honda had a thriving garage in Hamamatsu, the local branch of the Tokyo repair firm Art Shokai, and had grown dissatisfied with repair work. He wanted to make something, and he chose piston rings. His investors refused: repairs were paying well, so why take the risk? He found another way, setting up a separate company, Tokai Seiki, with an acquaintance, Shichiro Kato, as its president. He worked at the garage by day and on the rings at night.",
+      "The rings kept failing. Honda later admitted that he had known nothing about the role of silicon: \"we didn't even know we needed it.\" So, at about 31, the garage owner enrolled part time at the Hamamatsu Industrial Institute, today the engineering faculty of Shizuoka University, to study metallurgy. He carried what he heard in lectures back to his workshop. According to the AMA Motorcycle Hall of Fame, he did not sit the exams, and when told he would not graduate he said a diploma was \"worth less than a movie theater ticket.\" Honda's company history says he worked and studied so hard for nearly two years that his face visibly changed.",
+      "By 1939 his trial rings worked. He handed the garage to his trainees, became president of Tokai Seiki and began production under a contract with Toyota. Then came the second lesson. Of fifty rings submitted for Toyota's quality inspection, only three met the standard. This time, his company's history says, the problem was not the metal but the manufacturing.",
+      "He did not retreat to repairs. For nearly two more years he visited universities and steelmakers across Japan to study how they made things, until Tokai Seiki could supply mass-produced rings to Toyota and to Nakajima Aircraft; at its height it employed more than 2,000 people. The war then took the company out of his hands. In 1942 Toyota took 40 per cent of it and Honda was moved down to senior managing director; bombing destroyed one plant and an earthquake in January 1945 brought down another. After Japan's surrender he sold out to Toyota, and in 1946 he started again with the Honda Technical Research Institute."
+    ]
+  },
+  "quote": {
+    "text": "Look not at the flask, but at what it contains: there may be a new flask full of old wine, and an old flask that has not even new wine in it",
+    "thinker": "Rabbi Meir (in Pirkei Avot)",
+    "work": "Pirkei Avot (Sayings of the Fathers)",
+    "locator": "Chapter IV, 27 (Gorfinkle's numbering)",
+    "translator": "Joseph I. Gorfinkle (1913)",
+    "tradition": "Jewish",
+    "source_url": "https://www.gutenberg.org/cache/epub/8547/pg8547.txt",
+    "source_title": "Pirke Avot: The Sayings of the Jewish Fathers, tr. Joseph I. Gorfinkle, Project Gutenberg eBook #8547",
+    "connection": "Honda treated the diploma as a flask and cared only for what it held. Toyota's inspectors took the same view of his rings and found three good ones in fifty. Rabbi Meir's test frees you from the certificate, and it also leaves nothing but the contents to be judged.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Your profession leans on papers: qualifications, accreditation, signed results. Honda's story does not say they are worthless. It says they are containers, and that sooner or later someone tests what is inside, usually someone less patient than an examiner.",
+    "It also says that learning tends to come in rounds. Honda studied for two years to understand the metal, then needed nearly two more to learn how to make it the same way every time. If you are in a second round of learning something you thought you had already mastered, the first round was not wasted. That is often simply how the work goes."
+  ],
+  "invitation": "Pick one task you understand in principle but have not yet done reliably. Do it once today, slowly, and write down the single step that came out differently from last time. That is enough for today.",
+  "sources": [
+    {
+      "title": "The \"Joy of Manufacturing\" / 1936",
+      "publisher": "Honda Motor Co., Ltd. (Honda Global heritage episodes)",
+      "url": "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+      "kind": "company-archive",
+      "supports": "In 1936 Honda grew dissatisfied with repair work; investors opposed piston rings because repairs paid well; Tokai Seiki set up with acquaintance Shichiro Kato as president; garage by day, rings at night; after technical failures, part-time study of metallurgy at Hamamatsu Industrial Institute (now Shizuoka University's engineering faculty); nearly two years of work and study that changed his appearance; in 1939 handed the branch to trainees and became president; contract with Toyota and only three of fifty rings meeting the quality standard; problem was manufacturing technology; nearly two more years visiting universities and steelmakers; supplying Toyota and Nakajima Aircraft; more than 2,000 employees; Toyota taking 40% in 1942 and Honda downgraded to senior managing director; Yamashita plant destroyed in air raids; Iwata plant collapsed in the earthquake of 13 January 1945"
+    },
+    {
+      "title": "Honda at 50 (Up Front, by David Edwards)",
+      "publisher": "Cycle World (December 1997)",
+      "url": "https://issues.cycleworld.com/article/1997/12/1/honda-at-50",
+      "kind": "independent-reporting",
+      "supports": "Honda's move from his garage into piston rings; his admission about silicon ('we didn't even know we needed it'); at 31 he went back to school to learn about metals; of fifty rings pulled at random from a Toyota order, only three were within specification"
+    },
+    {
+      "title": "Honda, Soichiro (Motorcycle Hall of Fame inductee biography)",
+      "publisher": "AMA Motorcycle Hall of Fame (American Motorcyclist Association)",
+      "url": "https://hub.catalogit.app/ama-motorcycle-hall-of-fame/folder/entry/honda-soichiro",
+      "kind": "independent-reporting",
+      "supports": "Honda founded a piston-ring company, lacked knowledge of casting, enrolled in a technical school and applied lessons in his factory; did not take the examinations; told he would not graduate, said a diploma was 'worth less than a movie theater ticket'; sold what was left to Toyota in 1945; founded the Honda Technical Research Institute in 1946"
+    },
+    {
+      "title": "Soichiro Honda (by Marion Hart)",
+      "publisher": "The American Society of Mechanical Engineers (ASME), 23 May 2012",
+      "url": "https://www.asme.org/topics-resources/content/soichiro-honda",
+      "kind": "independent-reporting",
+      "supports": "Investors refused to back manufacturing; in 1936 Honda started Tokai Seiki Heavy Industry as a separate company and made piston rings at night after a day at Art Shokai; his first order of rings for Toyota was rejected; the business became a 2,000-employee supplier to Toyota and Nakajima Aircraft"
+    },
+    {
+      "title": "Jidosha jinbutsuden: Honda Soichiro (1946) [Automotive biographies: Soichiro Honda], Japanese",
+      "publisher": "GAZOO (Toyota Motor Corporation), 17 January 2014",
+      "url": "https://gazoo.com/feature/gazoo-museum/car-history/14/01/17_1/",
+      "kind": "independent-reporting",
+      "supports": "Toyota's side of the account: strong opposition to the piston-ring venture; most of the garage's earnings used up; an order from Toyota, with 47 of 50 sample rings returned as defective because of the manufacturing process; stable production about two years later; Toyota's 40% stake in wartime; Honda selling his shares to Toyota after the war"
+    },
+    {
+      "title": "Samurai #3: Soichiro Honda (by Anthony Al-Jamie)",
+      "publisher": "Tokyo Journal (10 April 2013)",
+      "url": "https://tokyojournal.com/sections/features-reviews/item/236.html",
+      "kind": "independent-reporting",
+      "supports": "After technical failures Honda enrolled as a part-time student at Hamamatsu Industrial Institute (now Shizuoka University's Faculty of Engineering) and studied metallurgy for two years; in 1939 handed the Art Shokai branch to his staff and ran Tokai Seiki, supplying Toyota; Yamashita plant bombed in 1944 and Iwata plant collapsed on 13 January 1945; sold what remained to Toyota and started the Honda Technical Research Institute in late 1946"
+    },
+    {
+      "title": "Experience the spirit of Honda Soichiro (Soichiro Honda Craftsmanship Center)",
+      "publisher": "iN HAMAMATSU.COM",
+      "url": "https://www.inhamamatsu.com/art/soichiro-honda-craftsmanship-center.php",
+      "kind": "independent-reporting",
+      "supports": "Honda audited classes at the Hamamatsu technical college (now Shizuoka University's engineering department) to fill gaps in his knowledge while developing piston rings; sold his Tokai Seiki stock and left in 1945"
+    },
+    {
+      "title": "History: The Dawn",
+      "publisher": "Honda Motor Co., Ltd. (Honda Power Products history)",
+      "url": "https://www.honda.co.jp/powerproducts-brand/en/history/01/",
+      "kind": "company-archive",
+      "supports": "Honda established Tokai Seiki Heavy Industries to make piston rings; founded the Honda Technical Research Institute in 1946"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Honda's investors refused to back piston rings, so he set up Tokai Seiki separately in 1936 and worked on rings at night",
+      "urls": [
+        "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "https://www.asme.org/topics-resources/content/soichiro-honda"
+      ]
+    },
+    {
+      "claim": "After repeated technical failures, Honda studied metallurgy part time at the Hamamatsu school that is now Shizuoka University's engineering faculty, for about two years",
+      "urls": [
+        "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "https://tokyojournal.com/sections/features-reviews/item/236.html",
+        "https://issues.cycleworld.com/article/1997/12/1/honda-at-50"
+      ]
+    },
+    {
+      "claim": "He attended without taking the exams or a diploma (as an auditor)",
+      "urls": [
+        "https://hub.catalogit.app/ama-motorcycle-hall-of-fame/folder/entry/honda-soichiro",
+        "https://www.inhamamatsu.com/art/soichiro-honda-craftsmanship-center.php"
+      ]
+    },
+    {
+      "claim": "Only three of fifty rings submitted to Toyota met its quality standard",
+      "urls": [
+        "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "https://issues.cycleworld.com/article/1997/12/1/honda-at-50",
+        "https://gazoo.com/feature/gazoo-museum/car-history/14/01/17_1/"
+      ]
+    },
+    {
+      "claim": "Tokai Seiki went on to supply Toyota and Nakajima Aircraft and employ more than 2,000 people",
+      "urls": [
+        "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "https://www.asme.org/topics-resources/content/soichiro-honda"
+      ]
+    },
+    {
+      "claim": "Toyota took a 40% stake in Tokai Seiki during the war",
+      "urls": [
+        "https://global.honda/en/heritage/episodes/1936joyofmanufacturing.html",
+        "https://gazoo.com/feature/gazoo-museum/car-history/14/01/17_1/"
+      ]
+    },
+    {
+      "claim": "After the war Honda sold out to Toyota and founded the Honda Technical Research Institute in 1946",
+      "urls": [
+        "https://hub.catalogit.app/ama-motorcycle-hall-of-fame/folder/entry/honda-soichiro",
+        "https://tokyojournal.com/sections/features-reviews/item/236.html",
+        "https://www.honda.co.jp/powerproducts-brand/en/history/01/"
+      ]
+    }
+  ],
+  "research_notes": "Order of events: the slate put the Toyota rejection before the schooling, as some popular accounts do. Honda's own heritage page and Cycle World (1997) both place the part-time study first (after early technical failures), then the start of production and the failed Toyota inspection, then nearly two more years of visits to universities and steelmakers; the story follows that order. Founding date: Honda's heritage page and ASME put the setting-up of Tokai Seiki in 1936; the AMA Hall of Fame (and Wikipedia) say 1937; Honda's Power Products page says he became president in 1936, while the heritage page and Tokyo Journal say he became president in 1939. The story uses 1936 for the setting-up, attributed to the company's account, and 1939 for the presidency. approx_date is 1937, when Honda (born 17 November 1906) turned 31 and, by the heritage page's 'nearly two years' before 1939, was studying. Outcome numbers: Honda's heritage page and Cycle World agree that three of fifty rings passed; Toyota's GAZOO site gives the same result as 47 of 50 returned as defective. The size of the Toyota order differs (Cycle World 50,000; GAZOO 30,000), so the story gives no order size. GAZOO also says stable production came two years later and that Honda obtained 28 patents; the patent count is not used. School name: Honda calls it the Hamamatsu Industrial Institute; other sources say Hamamatsu College of Technology or a technical high school (its formal name was the Hamamatsu Higher Technical School); all agree it is now Shizuoka University's engineering faculty, and the story uses Honda's name for it. The exam and diploma remark rests on the AMA Motorcycle Hall of Fame biography and is attributed to it; iN Hamamatsu independently describes him as auditing classes. The 1936 racing crash is left out because sources disagree on how badly Honda was hurt (Honda's heritage page says not seriously; Cycle World says it nearly killed him). Wikipedia's figure of 450,000 yen for the post-war sale (also given by GAZOO) is not used. Funding: the slate said bootstrapped; GAZOO says the venture used up most of the garage's earnings, but Honda's page says his investors refused and he set up the company with an acquaintance, Shichiro Kato, as president, and Toyota took 40% in 1942, so funding is given as mixed. GAZOO is in Japanese and does not spell Honda's name in Latin script, so the source checker cannot match it by name. Quote: Gorfinkle's note says some texts attribute this saying to 'Rabbi' (Judah ha-Nasi) rather than Rabbi Meir; the thinker follows Gorfinkle's main text.",
+  "researched_at": "2026-11-01"
+}

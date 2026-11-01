@@ -1,0 +1,13 @@
+{
+  "appId": "ke.caspal.liftmeup",
+  "appName": "Lift Me Up",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "mike-lin-fenix-readyset-phone-charging-2009",
+  "title": "The ReadySet: A Battery Built for People Who Sold Phone Charges",
+  "dek": "In 2009 Fenix International chose to design its first product for Ugandans who already charged other people's phones from car batteries.",
+  "story": {
+    "founder": "Mike Lin, Brian Warshawsky",
+    "company": "Fenix International",
+    "event": "Designing the ReadySet battery for Ugandan phone-charging entrepreneurs",
+    "approx_date": "2009",
+    "country": "Uganda",
+    "region": "East Africa",
+    "industry": "energy (off-grid solar)",
+    "arc": "founding-decision",
+    "funding": "venture",
+    "summary": "Fenix International, founded in 2009 by Mike Lin and Brian Warshawsky, designed its first product, the ReadySet battery, for Ugandan entrepreneurs who sold phone charges, building on the existing practice of charging phones from car batteries. MTN Uganda piloted prototypes from late 2009 and launched the kit under its own brand in December 2011; about 2,000 were sold by mid-2012. In 2013 the company added mobile-money instalments for households, and in 2017 ENGIE agreed to buy it.",
+    "paragraphs": [
+      "In November 2009, four months after Mike Lin and Brian Warshawsky started Fenix International in San Francisco, MTN Uganda began trying out twenty prototypes of their first product, a battery box called the ReadySet. The two had worked together at Apple, and Lin had earlier worked on a pull-cord power generator.",
+      "The product grew out of something people were already doing. In villages off the grid, phone owners ran charging cords from used car batteries, and some small traders earned extra money charging other people's phones. \"Building upon the existing culture was the inspiration for this solution,\" Lin said in 2011. So Fenix designed for the person selling the charge rather than for a household. The box used a car battery's lead-acid chemistry but shut itself off before draining completely, resisted leaks, and took power from a solar panel, a bicycle generator or the grid. Its USB and car-lighter sockets matched the chargers most common in East Africa. Testers dropped it onto concrete and sprayed it with salt water.",
+      "The risk was price. Reporting in early 2011 put the kit at about $150, in places where many people earned $2 to $4 a day. Lin was counting on income: in pilots, owners sold charges for 25 US cents each, and he wanted a model that \"didn't rely on a special subsidy or promotion.\" After a fifty-unit pilot, MTN Uganda launched the kit under its own brand in December 2011, selling it at cost through its dealers. By mid-2012 about 2,000 had been sold, mostly in Uganda, and Lin said owners earned about $50 a month from charging and from savings on lighting fuel.",
+      "The charging business turned out to be a way in rather than the whole market. In 2013 Fenix tried selling on credit to households through employers, savings co-operatives and microfinance lenders, but sales were slow and monthly cash repayments awkward. That November it added payment by mobile money, and the ReadySet became ReadyPay, paid off in small instalments. Fenix reported selling 13,000 in Uganda in 2014. In October 2017 the French energy company ENGIE agreed to buy Fenix, by then serving more than 140,000 customers."
+    ]
+  },
+  "quote": {
+    "text": "Houses are built to live in, and not to look on; therefore let use be preferred before uniformity, except where both may be had.",
+    "thinker": "Francis Bacon",
+    "work": "Essays, Civil and Moral",
+    "locator": "Essay XLV, \"Of Building\"",
+    "tradition": "Renaissance and early modern",
+    "source_url": "https://www.gutenberg.org/cache/epub/575/pg575.txt",
+    "source_title": "The Essays or Counsels, Civil and Moral, Project Gutenberg eBook #575",
+    "connection": "Bacon puts use before symmetry without scorning looks where both can be had. Two former Apple colleagues built a plain, tough box judged by drops onto concrete and by whether a seller earned its price back, and let everything else wait.",
+    "stance": "affirms"
+  },
+  "reflection": [
+    "The car battery on a shop counter told Fenix two things: the need was real, and someone had already found a rough answer to it. Lin's team did not ask people to change what they did. They made what people were already doing safer and more reliable, in a box meant to earn back its price.",
+    "Somewhere near you is a workaround like that: a notebook kept beside the official system, a phone used as a torch, a colleague who quietly fixes the same problem each week. It is easy to see these as mess. You could also read them as the most honest description of what people need."
+  ],
+  "invitation": "Ask one colleague about a workaround they rely on every day, and write down, in their own words, what it costs them in time or money.",
+  "sources": [
+    {
+      "title": "Mobile for Development Utilities: Fenix International, Scaling Pay-as-you-go Solar in Uganda (December 2015)",
+      "publisher": "GSMA (Rahul Shah)",
+      "url": "https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2015/12/GSMA_UT_Fenix_PROOF041.pdf",
+      "kind": "business-school-case",
+      "supports": "Fenix founded in July 2009; MTN Uganda pilots of 20 ReadySet prototypes (November 2009) and 50 units (April 2011); MTN Uganda launch in December 2011; early experiments such as a bicycle charger; ReadySet sold for cash to phone-charging entrepreneurs with a 3-4 month payback; 2013 credit sales through employers, SACCOs and MFIs, with long sales cycles and cumbersome cash repayments; ReadyPay from November 2013; 13,000 ReadyPay systems sold in Uganda in 2014 (self-reported); business kits under 7% of sales"
+    },
+    {
+      "title": "A Tougher, Greener Battery Could Power Phones in Africa (Rob Goodier, TechNewsDaily, 2 March 2011)",
+      "publisher": "NBC News",
+      "url": "https://www.nbcnews.com/id/wbna41868844",
+      "kind": "independent-reporting",
+      "supports": "Phone owners running charge cords from used car batteries; Lin's 'Building upon the existing culture' quotation; lead-acid battery that shuts off before full drain, leak resistance, USB and cigar-lighter ports, charging from outlet, solar or the 'Velo' bicycle mount; drop, salt-water and cycle tests; pilot owners selling charges for $0.25; price from $150; rural incomes of $2 to $4 a day"
+    },
+    {
+      "title": "The Solar Charging Kit for Africa You Want for Your Own Home (Alex Goldmark, 21 July 2012)",
+      "publisher": "GOOD",
+      "url": "https://www.good.is/articles/the-solar-charging-kit-for-africa-you-want-for-your-own-home",
+      "kind": "independent-reporting",
+      "supports": "Lin and Brian Warshawsky as co-founders; Lin's statement that the ReadySet was designed to focus on phone charging, which earns income from the moment it is plugged in; Lin's figure of about $50 a month for Ugandan entrepreneurs; MTN selling about 2,000 stations to entrepreneurs charging about 25 cents a charge; $150 unit price"
+    },
+    {
+      "title": "Solar Charger Made for Africa Coming to the U.S. (Martin LaMonica, 20 July 2012)",
+      "publisher": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2012/07/20/255569/solar-charger-made-for-africa-coming-to-the-us/",
+      "kind": "independent-reporting",
+      "supports": "About 2,000 kits distributed, mostly used in Uganda to charge phones for a fee; MTN selling the kit under its own brand at cost through its distribution network; Lin's 'didn't rely on a special subsidy or promotion' quotation"
+    },
+    {
+      "title": "Businesses With Impact: Fenix International, Maker of The Fenix ReadySet Solar Kit (Jesse Seaver, 19 July 2012)",
+      "publisher": "HuffPost",
+      "url": "https://www.huffpost.com/entry/businesses-with-impact-fe_b_1684927",
+      "kind": "founder-interview",
+      "supports": "Lin's statement that he and COO Brian Warshawsky had worked together at Apple"
+    },
+    {
+      "title": "The Universal Charger for Just About Any Gadget Battery (30 June 2011)",
+      "publisher": "NextBillion (William Davidson Institute), from The Atlantic",
+      "url": "https://nextbillion.net/news/the-universal-charger-for-just-about-any-gadget-battery",
+      "kind": "independent-reporting",
+      "supports": "Lin's earlier work at Potenco on a pull-cord power generator; the ReadySet taking power from a bicycle generator, solar or the grid"
+    },
+    {
+      "title": "ENGIE to acquire lease-to-own solar company Fenix International (Mark Hutchins, 19 October 2017)",
+      "publisher": "pv magazine",
+      "url": "https://www.pv-magazine.com/2017/10/19/engie-to-acquire-lease-to-own-solar-company-fenix-international/",
+      "kind": "independent-reporting",
+      "supports": "ENGIE agreeing in October 2017 to acquire 100% of Fenix; more than 140,000 ReadyPay customers"
+    },
+    {
+      "title": "ENGIE Acquires Fenix To Drive Off-Grid Expansion In Africa (Joshua S Hill, 21 October 2017)",
+      "publisher": "CleanTechnica",
+      "url": "https://cleantechnica.com/2017/10/21/engie-acquires-fenix-drive-off-grid-expansion-africa/",
+      "kind": "independent-reporting",
+      "supports": "Fenix founded in 2009; main market Uganda with over 140,000 customers; ENGIE acquisition announced in October 2017"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Fenix International was founded in 2009.",
+      "urls": [
+        "https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2015/12/GSMA_UT_Fenix_PROOF041.pdf",
+        "https://cleantechnica.com/2017/10/21/engie-acquires-fenix-drive-off-grid-expansion-africa/"
+      ]
+    },
+    {
+      "claim": "The ReadySet was designed and sold for entrepreneurs who charged other people's phones for a fee.",
+      "urls": [
+        "https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2015/12/GSMA_UT_Fenix_PROOF041.pdf",
+        "https://www.good.is/articles/the-solar-charging-kit-for-africa-you-want-for-your-own-home",
+        "https://www.nbcnews.com/id/wbna41868844"
+      ]
+    },
+    {
+      "claim": "The ReadySet could be charged from solar, a bicycle generator or the grid.",
+      "urls": [
+        "https://www.nbcnews.com/id/wbna41868844",
+        "https://nextbillion.net/news/the-universal-charger-for-just-about-any-gadget-battery"
+      ]
+    },
+    {
+      "claim": "MTN sold the kit under its own brand, and about 2,000 had been sold by mid-2012, mostly in Uganda.",
+      "urls": [
+        "https://www.technologyreview.com/2012/07/20/255569/solar-charger-made-for-africa-coming-to-the-us/",
+        "https://www.good.is/articles/the-solar-charging-kit-for-africa-you-want-for-your-own-home"
+      ]
+    },
+    {
+      "claim": "The kit was priced from about $150.",
+      "urls": [
+        "https://www.nbcnews.com/id/wbna41868844",
+        "https://www.good.is/articles/the-solar-charging-kit-for-africa-you-want-for-your-own-home"
+      ]
+    },
+    {
+      "claim": "ENGIE agreed to acquire Fenix in October 2017, when it had more than 140,000 customers.",
+      "urls": [
+        "https://www.pv-magazine.com/2017/10/19/engie-to-acquire-lease-to-own-solar-company-fenix-international/",
+        "https://cleantechnica.com/2017/10/21/engie-acquires-fenix-drive-off-grid-expansion-africa/"
+      ]
+    }
+  ],
+  "research_notes": "Episode framing: the slate called this designing the ReadySet in 2009. The sources date the founding (July 2009) and the first MTN Uganda prototype pilot (November 2009) from a Fenix-supplied timeline in the GSMA case study; the design details come from 2011 reporting, so the story describes the design as it stood when piloted and launched rather than claiming each feature existed in 2009. The GSMA case says Fenix 'initially experimented with products such as a bicycle charger before arriving at the ReadySet', while 2011 reports describe the ReadySet itself as chargeable by bicycle, solar or grid; the story keeps the 2011 description. Price: NBC/TechNewsDaily (2011) and GOOD (2012) give $150; MIT Technology Review (2012) gives $300 for the kit sold in the US through Kickstarter, which included a 15-watt panel; the story uses the African figure of about $150. Units: MIT Technology Review says about 2,000 kits distributed, GOOD says MTN sold about 2,000, and a 2013 GSMA one-page profile says over 2,000 across East Africa; these agree, and the story says about 2,000 by mid-2012. Income: Lin's own claim of about $50 a month (GOOD) is attributed to him; the GSMA case gives a 3-4 month payback, not used. ReadyPay sales of 13,000 in 2014 are self-reported by Fenix (GSMA notes this), so the story says 'Fenix reported'. Co-founder's surname is spelled Warshawsky in HuffPost and Warshawski in GOOD; HuffPost's spelling, from Lin's own words, is used. A podcast listing says Lin founded Fenix after an earlier Africa-focused energy startup failed; this could not be confirmed from a loadable source, so the story says only that he had worked on a pull-cord generator (NextBillion names the company, Potenco). Lin's later role is not covered; by 2017 Fenix's CEO was Lyndsay Handler. Bacon's 'uniformity' means architectural symmetry; the line is applied by analogy to product design.",
+  "researched_at": "2026-11-01"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "jimmy-wales-larry-sanger-nupedia-wiki-experiment-2001",
+  "title": "The Side Experiment That Outgrew Nupedia in January 2001",
+  "dek": "An expert-reviewed encyclopedia with about two dozen finished articles tried an open wiki on the side, and the two men behind it still disagree about the credit.",
+  "story": {
+    "founder": "Jimmy Wales, Larry Sanger",
+    "company": "Nupedia (later Wikipedia)",
+    "event": "Launching an open wiki beside the slow, expert-reviewed Nupedia",
+    "approx_date": "2001-01",
+    "country": "United States",
+    "region": "North America",
+    "industry": "media (online reference)",
+    "arc": "change-of-direction",
+    "funding": "bootstrapped",
+    "summary": "Nupedia, a free online encyclopedia funded by Jimmy Wales's company Bomis and edited by Larry Sanger, had finished only about two dozen articles under a seven-step expert review by early 2001. After learning about wikis, Sanger proposed one to the Nupedia list on 10 January 2001; when most of Nupedia's advisory board objected, it relaunched on its own domain as Wikipedia on 15 January and grew far faster. Wales and Sanger have since disagreed over whether Sanger was a co-founder.",
+    "paragraphs": [
+      "Early in 2000 Jimmy Wales hired a philosopher, Larry Sanger, to run Nupedia, a free online encyclopedia paid for entirely, Sanger later wrote, by Bomis, the San Diego internet company Wales co-owned. To be taken seriously, Wales later said, it had to be even more academic than a printed encyclopedia, so every article passed through a seven-step expert review. By the winter of 2000 to 2001, by Sanger's count, about 25 articles had been approved. Wales recalled starting a short biography of the economist Robert Merton himself and feeling as intimidated as in \"the bad part of grad school\".",
+      "On 2 January 2001 Sanger had dinner at a Mexican restaurant in Pacific Beach with Ben Kovitz, who explained wikis: web pages anyone could edit. Wales has said a Bomis employee, Jeremy Rosenfeld, had shown him the idea the month before. On 10 January Sanger put it to Nupedia's mailing list: \"No, this is not an indecent proposal.\" Wales, he told the list, thought many people might find it objectionable; Sanger thought not. He offered it as a low-risk experiment, kept apart from Nupedia and clearly labelled, so its quality would not reflect on the main site. That evening it was running: \"Told you we could make it fast.\"",
+      "A clear majority of Nupedia's advisory board, Sanger wrote, wanted nothing to do with a wiki. Wales remembered the worry that the academics would hate it, and the decision to treat it as a side project rather than convert Nupedia. On 15 January it relaunched on its own domain as Wikipedia, a name Sanger says he coined. Sanger counted about 600 articles by the end of January and 3,900 by May; Wales later said they got more done in two weeks than Nupedia had managed since it began.",
+      "Bomis was losing money in the dot-com slump, and Sanger was laid off in early 2002. The two men have disagreed ever since over who founded what. Sanger has written that the encyclopedia idea and the funding were entirely Wales's, and that applying wiki software to it was his. Wales has called Sanger a subordinate employee and, in 2007, his co-founder claim \"absurd\"; in 2023 he said Sanger \"doesn't get enough credit for his early work\", while rejecting the title."
+    ]
+  },
+  "quote": {
+    "text": "It is contrary to sound judgment, and repugnant to the maxims of the prudent, to take a medicine on conjecture, or to follow a road but in the track of the caravan.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, \"Of the Duties of Society\", maxim XC",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Saadi states the advisory board's case: do not take medicine on guesswork, keep to the caravan's track. Wikipedia left the track and grew far beyond Nupedia, yet Saadi's question, who has checked what you are about to swallow, did not go away when the articles multiplied.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "Two things in this story sit uneasily together, and both are worth keeping. A careful system produced very little, while a cheap experiment, fenced off so it could fail quietly, produced more in weeks than the careful one had in months. And Saadi is still right that guesswork is no way to take medicine; some work does need the slow review.",
+    "The other thread is credit. Two people who built something together have spent two decades disagreeing about what to call each other. Whoever you are working with, it is kinder to say plainly and early who is doing what, before success makes the question matter."
+  ],
+  "invitation": "Name one thing you are holding back for a full review that could be tried as a small, clearly labelled experiment instead. Tell one colleague today what the experiment is and how you would know it had failed.",
+  "sources": [
+    {
+      "title": "The Early History of Nupedia and Wikipedia: A Memoir (Part I)",
+      "publisher": "Slashdot (Larry Sanger, 18 April 2005)",
+      "url": "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+      "kind": "memoir",
+      "supports": "Wales hired Sanger early in 2000 to lead Nupedia; funding entirely by Bomis; the rigorous seven-step review; about 25 approved articles by early winter 2001; the 2 January 2001 dinner with Ben Kovitz at a Pacific Beach Mexican restaurant and the explanation of wikis; Wales liked the idea but was initially sceptical; Nupedia wiki live on 10 January; a clear majority of the Advisory Board wanted nothing to do with a wiki; relaunch on its own domain on 15 January; Sanger coined the name; about 600 articles by the end of January and 3,900 in May; Sanger's statement that the idea and funding were Wales's and that adapting wiki technology to the encyclopedia was his; laid off in early 2002 as Bomis lost money"
+    },
+    {
+      "title": "[Nupedia-l] Let's make a wiki (Larry Sanger, 10 January 2001)",
+      "publisher": "Nupedia-l mailing list archive, via the Internet Archive",
+      "url": "https://web.archive.org/web/20030822044513/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html",
+      "kind": "company-archive",
+      "supports": "The proposal opening 'No, this is not an indecent proposal'; Wales's view that many might find the idea objectionable; the wiki kept separate from Nupedia and marked as experimental; low-risk and quick to set up"
+    },
+    {
+      "title": "[Nupedia-l] Nupedia's wiki: try it out (Larry Sanger, 10 January 2001)",
+      "publisher": "Nupedia-l mailing list archive, via the Internet Archive",
+      "url": "https://web.archive.org/web/20030425173342/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000678.html",
+      "kind": "company-archive",
+      "supports": "The wiki was running on the evening of 10 January 2001: 'Told you we could make it fast'"
+    },
+    {
+      "title": "Transcript for Jimmy Wales: Wikipedia (Lex Fridman Podcast #385)",
+      "publisher": "Lex Fridman (18 June 2023)",
+      "url": "https://lexfridman.com/jimmy-wales-transcript/",
+      "kind": "founder-interview",
+      "supports": "Wales's account: Nupedia had to be more academic than a traditional encyclopedia; the seven-stage review; his attempt to write a biography of Robert Merton and 'the bad part of grad school'; Jeremy Rosenfeld showed him the wiki concept in December and Larry Sanger then proposed it; the fear that academics would hate it and the choice of a side project; more work done in two weeks than before; Sanger 'doesn't get enough credit for his early work' though co-founder is 'not the right title'"
+    },
+    {
+      "title": "[Wikipedia-l] Re: Sanger's memoirs (Jimmy Wales, 20 April 2005)",
+      "publisher": "Wikimedia mailing list archive",
+      "url": "https://lists.wikimedia.org/pipermail/wikipedia-l/2005-April/021463.html",
+      "kind": "company-archive",
+      "supports": "Wales's 2005 reply: only minor quibbles with Sanger's history, and his recollection that someone named Jeremy had shown him the wiki the month before"
+    },
+    {
+      "title": "Sanger says he co-started Wikipedia",
+      "publisher": "NBC News (Brian Bergstein, Associated Press, 26 March 2007)",
+      "url": "https://www.nbcnews.com/id/wbna17798723",
+      "kind": "independent-reporting",
+      "supports": "Wales disputes Sanger's co-founder claim and calls him a subordinate employee; Wales's instant message calling it 'Sanger's absurd claim to be the co-founder of Wikipedia'; Wikipedia began as an offshoot of Nupedia, where Wales had hired Sanger as editor-in-chief; evidence that Sanger proposed adding wiki software; early press releases described both as founders"
+    },
+    {
+      "title": "Historical retrospective triggers lively debate",
+      "publisher": "The Signpost (25 April 2005)",
+      "url": "https://signpost.news/2005-04-25/The_Sanger_memoirs",
+      "kind": "independent-reporting",
+      "supports": "Sanger's memoir said Nupedia's expert model was too slow; Sanger laid off in early 2002 under financial pressure at Bomis; Wales's statement that Jeremy Rosenfeld had the original idea for a wiki encyclopedia, and his seconding of praise for Sanger's role"
+    },
+    {
+      "title": "History of Wikipedia",
+      "publisher": "Wikimedia Meta-Wiki (supplementary)",
+      "url": "https://meta.wikimedia.org/wiki/History_of_Wikipedia",
+      "kind": "company-archive",
+      "supports": "Supplementary timeline: Nupedia funded by Bomis from March 2000; Kovitz introduced Sanger to wikis on 2 January 2001; Nupedia wiki on 10 January; name Wikipedia from 11 January; launch at Wikipedia.com on 15 January after Advisory Board concerns; Sanger's departure in 2002 when funding ran out"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Nupedia used a seven-step (seven-stage) expert review process",
+      "urls": [
+        "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+        "https://lexfridman.com/jimmy-wales-transcript/"
+      ]
+    },
+    {
+      "claim": "Sanger proposed a wiki to the Nupedia list and it went live on 10 January 2001",
+      "urls": [
+        "https://web.archive.org/web/20030822044513/http://www.nupedia.com/pipermail/nupedia-l/2001-January/000676.html",
+        "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+        "https://meta.wikimedia.org/wiki/History_of_Wikipedia"
+      ]
+    },
+    {
+      "claim": "Wales had been shown the wiki idea by Jeremy Rosenfeld in December 2000",
+      "urls": [
+        "https://lexfridman.com/jimmy-wales-transcript/",
+        "https://lists.wikimedia.org/pipermail/wikipedia-l/2005-April/021463.html",
+        "https://signpost.news/2005-04-25/The_Sanger_memoirs"
+      ]
+    },
+    {
+      "claim": "Because Nupedia's academics objected, the wiki was launched separately as Wikipedia on 15 January 2001",
+      "urls": [
+        "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+        "https://meta.wikimedia.org/wiki/History_of_Wikipedia",
+        "https://lexfridman.com/jimmy-wales-transcript/"
+      ]
+    },
+    {
+      "claim": "Sanger was laid off in early 2002 as Bomis's money ran short",
+      "urls": [
+        "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir",
+        "https://signpost.news/2005-04-25/The_Sanger_memoirs",
+        "https://meta.wikimedia.org/wiki/History_of_Wikipedia"
+      ]
+    },
+    {
+      "claim": "Wales disputes that Sanger was a co-founder, while Sanger claims the wiki idea as his",
+      "urls": [
+        "https://www.nbcnews.com/id/wbna17798723",
+        "https://lexfridman.com/jimmy-wales-transcript/",
+        "https://features.slashdot.org/story/05/04/18/164213/the-early-history-of-nupedia-and-wikipedia-a-memoir"
+      ]
+    }
+  ],
+  "research_notes": "Founding credit is disputed and both views are given, attributed. Sanger (Slashdot memoir, 2005) credits Wales with the original idea of a free encyclopedia and with all the funding through Bomis, and claims for himself the idea of adapting wiki software to it, the name and much early organising. Wales (AP, 2007) called Sanger a subordinate employee and his co-founder claim 'absurd'; in 2005 (wikipedia-l) and 2023 (Lex Fridman) he said Jeremy Rosenfeld, a Bomis employee, had shown him the wiki concept in December 2000, before Sanger raised it; in 2023 he also said Sanger does not get enough credit for his early work but that co-founder is not the right title. Sanger's memoir records Wales as liking the idea but being initially sceptical; Sanger's 10 January post says Wales thought many might find it objectionable. AP notes that early press releases described both as founders, which Sanger says Wales approved and Wales disputes; the story does not adjudicate. Nupedia's output: Sanger gives about 25 approved articles by early winter 2001 in the memoir and elsewhere 'just over 20' after 18 months; the story uses about 25, attributed. Wales says Nupedia started about two years before Wikipedia and that more was done in two weeks than in almost two years, but Nupedia began in early 2000 (memoir; Meta timeline), so the story paraphrases him as 'than Nupedia had managed since it began'. Wikipedia's early article counts are Sanger's and are attributed. Funding: in 2001 both projects were paid for by Bomis, Wales's privately held company, with volunteer writers, so funding is recorded as bootstrapped rather than the slate's nonprofit; the Wikimedia Foundation came later and is not part of the episode. The Saadi maxim is general advice on prudence, applied here by analogy to the advisory board's objection.",
+  "researched_at": "2026-11-01"
+}

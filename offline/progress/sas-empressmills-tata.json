@@ -1,0 +1,15 @@
+{
+  "key": "sas-empressmills-tata",
+  "status": "done",
+  "file": "offline/editions/jamsetji-tata-empress-mills-nagpur-1877.json",
+  "title": "The Nagpur Mill Bombay Laughed At, and the Machinery Tata Scrapped",
+  "region": "South Asia",
+  "industry": "manufacturing (textiles)",
+  "arc": "founding-decision",
+  "funding": "mixed",
+  "tradition": "Jewish",
+  "thinker": "Ben Sira",
+  "talqen": false,
+  "conflicts": "Company formation: Harris (1925) says 1874, the Encyclopedia of World Biography says 1871; the story uses Harris. Capital: Harris gives Rs 15 lakh; a search summary of other pages said Rs 1.5 lakh, not used. The cheap-machinery setback, the shares at half value and the 1881 dividend rest on Harris alone and are attributed to him; Wacha (1914) independently confirms only that early working was difficult.",
+  "notes": "Repeat screen: passes; it now flags only robert-owen-new-lanark (shared word 'Mills') and lets it through. The company field is 'Empress Mills' alone because the full company name shared 'India', 'Manufacturing' and 'Company' with other editions' company fields and set off false same-founder flags; the full name is in the story. The J. R. D. Tata airmail edition is a different founder and episode and was not flagged once the company field changed. Funding set to 'mixed' (Tata, his father and a few outside subscribers), not the slate's 'bootstrapped'. Sources: Harris's 1925 biography (excerpt on tata.com and full text on archive.org) and D. E. Wacha's 1914 life, by a contemporary who knew Tata (archive.org)."
+}

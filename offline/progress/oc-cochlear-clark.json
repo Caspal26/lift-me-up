@@ -1,0 +1,15 @@
+{
+  "key": "oc-cochlear-clark",
+  "status": "done",
+  "file": "offline/editions/graeme-clark-bionic-ear-telethons-and-tins-1974.json",
+  "title": "The $100 Lunches and Telethons That Paid for the Bionic Ear",
+  "region": "Oceania",
+  "industry": "medical devices (hearing implants)",
+  "arc": "setback",
+  "funding": "nonprofit",
+  "tradition": "Confucian",
+  "thinker": "Confucius (as described by the gatekeeper at Shih-man)",
+  "talqen": false,
+  "conflicts": "Telethon dates: slate said 1978; the Encyclopedia of Australian Science dates the three telethons to 1974-1976 (before the 1978 implant), so the story uses 1974-76. Channel: Clark (2011) says Ansett was establishing Channel 0; EOAS and Science in Public say Channel 10; story follows Clark's wording. Tin-shaking rival is his 'PA' (Clark) or 'secretary' (Aleteia); story says personal assistant. No source gives telethon totals, so none stated.",
+  "notes": "Main source is Clark's own 2011 oral history for the Australian Academy of Science. The University of Melbourne's history pages and the NFSA telethon article return 403 to automated requests, and the memoir is not online, so they are not cited. Company field avoids 'University' because the repeat screen matched it against other university-founder editions."
+}

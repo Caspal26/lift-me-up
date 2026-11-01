@@ -1,0 +1,177 @@
+{
+  "id": "ali-parsa-babylon-health-collapse-2023",
+  "title": "The New York Listing Ali Parsa Later Called His Biggest Mistake",
+  "dek": "Babylon Health floated in New York at a $4.2 billion value in October 2021; by August 2023 its rescue deal had failed and its businesses were closed or sold.",
+  "story": {
+    "founder": "Ali Parsa",
+    "company": "Babylon Health",
+    "event": "The collapse of Babylon less than two years after its SPAC listing",
+    "approx_date": "2023-08",
+    "country": "United Kingdom",
+    "region": "Europe",
+    "industry": "healthcare (digital health)",
+    "arc": "closure",
+    "funding": "venture",
+    "summary": "Babylon, the London digital health company founded by Ali Parsa in 2013, listed in New York through a $4.2 billion SPAC merger in October 2021, but most SPAC investors redeemed and the company kept losing money; Parsa later called the SPAC route his biggest mistake. After a June 2023 take-private deal with MindMaze collapsed on 7 August 2023, Babylon closed its US business and laid off its Austin staff, and on 30 August its UK holding company went into administration and its clinical business was sold to eMed.",
+    "paragraphs": [
+      "On Monday 7 August 2023, Babylon closed its American headquarters in Austin, Texas, and laid off the 94 people still working there. The same day it said a rescue deal agreed in June would not go ahead and that it had no binding commitment of money to keep operating. Its founder and chief executive, Ali Parsa, said nothing publicly.",
+      "Two years earlier it had looked different. Parsa, who was born in Iran, had founded Babylon in London in 2013 to deliver care through an app that mixed AI and doctors. In June 2021 he announced a merger with a special purpose acquisition company that valued Babylon at $4.2 billion and would list it in New York, although it had once seemed bound for London. \"Becoming a public company is just another step in our journey,\" he said. The deal closed in October 2021, but most of the SPAC's investors took their money out first, and the listing raised less than half the cash expected. Parsa later called the redemptions \"massive\".",
+      "Babylon cut staff and left several NHS contracts. In November 2022 Parsa told the Financial Times that the period since the listing had been an \"unbelievable, unmitigated disaster\"; elsewhere he called the SPAC route \"my biggest mistake.\" In the first quarter of 2023 Babylon lost $63.2 million. Its main lender, AlbaCore Capital, moved to take control, and on 23 June Babylon agreed to fold its businesses into the Swiss firm MindMaze, with nothing for shareholders.",
+      "After that deal collapsed, Babylon left the United States, directing its American members to their health plans, and put its US business into Chapter 7 liquidation. On 30 August administrators from Alvarez & Marsal took over its UK holding company and its AI research arm and sold the clinical services business to eMed Healthcare UK. They said the sale secured British services used by more than 700,000 patients. GP at Hand, the NHS practice built on Babylon's app, kept seeing its roughly 100,000 patients.",
+      "At the end of 2022 Babylon had employed 1,895 people. Some British staff reportedly moved with the sale, though how many was not reported. Shareholders received nothing. When a reporter wrote to Parsa for comment that September, he did not reply."
+    ]
+  },
+  "quote": {
+    "text": "Whatever is produced in haste goes hastily to waste:--I have heard that, after a process of forty years, they convert the clay of the East into a China porcelain cup.",
+    "thinker": "Saadi",
+    "work": "The Gulistan (The Rose Garden)",
+    "locator": "Chapter VIII, \"Of the Duties of Society\", maxim 36",
+    "translator": "James Ross (1823)",
+    "tradition": "Islamic and Persian",
+    "source_url": "https://www.gutenberg.org/cache/epub/13060/pg13060.txt",
+    "source_title": "The Persian Literature, Volume 2 (The Gulistan, tr. James Ross), Project Gutenberg eBook #13060",
+    "connection": "Parsa's own verdict on the SPAC sides with Saadi. Yet a health service cannot take forty years over its cup while people wait to see a doctor, and many did get care through Babylon's app in the meantime. The maxim names the cost of haste without saying how slow is slow enough.",
+    "stance": "complicates"
+  },
+  "reflection": [
+    "By his own account, Parsa's mistake was a choice of route: the quickest way to a very large sum, taken at the height of a boom. When it failed, much of the cost landed on others: staff in Austin, shareholders, patients who had to find new doctors.",
+    "You are building health software too, and offers that promise speed will come to talQen. Before saying yes to one, it helps to ask who would carry the cost if the fast route failed, and whether the laboratories relying on you would still be looked after if it did. That question is easier to answer slowly, on a rested day, than in the week an offer arrives."
+  ],
+  "invitation": "Pick one laboratory or colleague who depends on your work. Write one sentence on what they would need from you if your plans changed suddenly, and keep it where you will see it.",
+  "sources": [
+    {
+      "title": "Add one to the SPAC pile, London's Babylon Health announces $4.2 billion merger with Alkuri Global Acquisition Corp.",
+      "publisher": "Tech.eu (Dan Taylor, 3 June 2021)",
+      "url": "https://tech.eu/brief/add-one-to-the-spac-pile-londons-babylon-health-announces-4-2-billion-merger-with-alkuri-global-acquisition-corp/",
+      "kind": "independent-reporting",
+      "supports": "June 2021 announcement of the $4.2 billion SPAC merger; Babylon founded in 2013, combining AI and physicians; Parsa to be chairman and CEO; Parsa's words 'Becoming a public company is just another step in our journey'"
+    },
+    {
+      "title": "New York's SPAC boom ends in a crash for British companies",
+      "publisher": "Bloomberg, republished by Gulf Times (20 August 2023)",
+      "url": "https://www.gulf-times.com/article/666874/business/new-yorks-spac-boom-ends-in-a-crash-for-british-companies",
+      "kind": "independent-reporting",
+      "supports": "Babylon had appeared destined for the London Stock Exchange; Parsa chose a US SPAC at the height of the 2021 boom at a $4.2 billion value; Parsa told Sifted the redemptions were 'massive'; deficit of hundreds of millions; Parsa calling the SPAC route 'my biggest mistake'; delisting in June 2023 wiping out shareholders"
+    },
+    {
+      "title": "End of the road for shareholders in UK healthcare company Babylon",
+      "publisher": "The National (Matthew Davies, 12 May 2023)",
+      "url": "https://www.thenationalnews.com/world/uk-news/2023/05/12/end-of-the-road-for-shareholders-in-uk-healthcare-company-babylon",
+      "kind": "independent-reporting",
+      "supports": "AlbaCore moving to take Babylon private without payment to shareholders; shares peaked in October 2021 and lost more than 99% over 18 months; most SPAC shareholders redeemed, so the listing raised less than half the expected cash; Parsa's November 2022 remarks to the Financial Times ('unbelievable, unmitigated disaster'); staff cuts and fading NHS partnerships; first-quarter 2023 loss of $63.2 million"
+    },
+    {
+      "title": "Babylon Health rescue merger collapses",
+      "publisher": "UKTN (George Simister, 8 August 2023)",
+      "url": "https://www.uktech.news/medtech/babylon-rescue-merger-collapses-20230808",
+      "kind": "independent-reporting",
+      "supports": "MindMaze deal announced 23 June would have taken Babylon private and wiped out shareholders; the deal collapsed; 'no binding commitment for additional financing'; NYSE delisting in June 2023; first-quarter 2023 net loss of $63.2 million"
+    },
+    {
+      "title": "Babylon Shuts Down US Operations After Rescue Merger Falls Apart",
+      "publisher": "MedCity News (Katie Adams, 10 August 2023)",
+      "url": "https://medcitynews.com/2023/08/babylon-telehealth-layoffs/",
+      "kind": "independent-reporting",
+      "supports": "Austin headquarters permanently closed on Monday 7 August per a Texas Workforce Commission notice; 94 employees laid off; founded 2013; SPAC listing in 2021; MindMaze and AlbaCore deal of 23 June and its collapse; transition of US members; NYSE delisting in late June"
+    },
+    {
+      "title": "Babylon closes US business as rescue merger deal fails",
+      "publisher": "pharmaphorum (Phil Taylor, 10 August 2023)",
+      "url": "https://pharmaphorum.com/news/babylon-closes-us-business-rescue-merger-deal-fails",
+      "kind": "independent-reporting",
+      "supports": "94 US jobs lost; company statements that it had no binding commitment for financing and was exploring alternatives for the UK business; GP at Hand's 100,000-plus registered NHS patients"
+    },
+    {
+      "title": "Babylon posts (June-August 2023), MindMaze tag",
+      "publisher": "TelecareAware",
+      "url": "https://telecareaware.com/tag/mindmaze",
+      "kind": "independent-reporting",
+      "supports": "October 2021 SPAC listing at about $4.2 billion; 23 June take-private proposal with no payment to Class A holders; closure of Austin on 7 August with 94 staff laid off; US users directed to their health plans; exit from NHS trust contracts; 1,895 employees at the end of 2022; 'There are no statements from founder and CEO Ali Parsa'"
+    },
+    {
+      "title": "Online healthcare company Babylon places two units into administration",
+      "publisher": "The National (Matthew Davies, 31 August 2023)",
+      "url": "https://www.thenationalnews.com/world/uk-news/2023/08/31/online-healthcare-company-babylon-places-two-units-into-administration",
+      "kind": "independent-reporting",
+      "supports": "Alvarez & Marsal appointed administrators of Babylon Group Holdings and Babylon Partners on 30 August; clinical services business sold to eMed Healthcare; more than 700,000 UK patients on Babylon's platforms; GP at Hand serving 100,000 NHS patients; Parsa Iranian-born, founded Babylon in 2013; $4.2 billion valuation at flotation"
+    },
+    {
+      "title": "Babylon Health crashes to Earth",
+      "publisher": "BusinessCloud (1 September 2023)",
+      "url": "https://businesscloud.co.uk/news/babylon-health-crashes-to-earth/",
+      "kind": "independent-reporting",
+      "supports": "UK administration and sale of the clinical services arm and Babylon Partners to eMed's new UK subsidiary; administrator's statement; scaling back of NHS partnerships; New York listing rather than London"
+    },
+    {
+      "title": "The fall of Babylon: Failed telehealth startup once valued at $2B goes bankrupt, sold for parts",
+      "publisher": "TechCrunch (Ingrid Lunden, 31 August 2023)",
+      "url": "https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/",
+      "kind": "independent-reporting",
+      "supports": "US business put into Chapter 7; UK sale to eMed Healthcare UK via administrators; employees reportedly included in the sale but number not given; GP at Hand remained operational; shares delisted during takeover talks"
+    },
+    {
+      "title": "Babylon Health's CEO 'Should Spend Some Time With Elizabeth Holmes'",
+      "publisher": "MedCity News (Katie Adams, 12 September 2023)",
+      "url": "https://medcitynews.com/2023/09/babylon-healthcare-ai-uk/",
+      "kind": "independent-reporting",
+      "supports": "Cited only for the fact that Parsa did not respond when the reporter messaged him for comment in September 2023"
+    }
+  ],
+  "cross_checks": [
+    {
+      "claim": "Babylon listed in New York through a SPAC merger valuing it at $4.2 billion, announced in June 2021 and completed in October 2021",
+      "urls": [
+        "https://tech.eu/brief/add-one-to-the-spac-pile-londons-babylon-health-announces-4-2-billion-merger-with-alkuri-global-acquisition-corp/",
+        "https://www.thenationalnews.com/world/uk-news/2023/05/12/end-of-the-road-for-shareholders-in-uk-healthcare-company-babylon",
+        "https://telecareaware.com/tag/mindmaze"
+      ]
+    },
+    {
+      "claim": "Most SPAC investors redeemed, leaving the listing far short of the cash expected",
+      "urls": [
+        "https://www.thenationalnews.com/world/uk-news/2023/05/12/end-of-the-road-for-shareholders-in-uk-healthcare-company-babylon",
+        "https://www.gulf-times.com/article/666874/business/new-yorks-spac-boom-ends-in-a-crash-for-british-companies"
+      ]
+    },
+    {
+      "claim": "Parsa publicly described the SPAC listing as a disaster and his biggest mistake",
+      "urls": [
+        "https://www.thenationalnews.com/world/uk-news/2023/05/12/end-of-the-road-for-shareholders-in-uk-healthcare-company-babylon",
+        "https://www.gulf-times.com/article/666874/business/new-yorks-spac-boom-ends-in-a-crash-for-british-companies"
+      ]
+    },
+    {
+      "claim": "On 23 June 2023 Babylon agreed a take-private deal with MindMaze and AlbaCore that gave shareholders nothing",
+      "urls": [
+        "https://www.uktech.news/medtech/babylon-rescue-merger-collapses-20230808",
+        "https://medcitynews.com/2023/08/babylon-telehealth-layoffs/",
+        "https://telecareaware.com/tag/mindmaze"
+      ]
+    },
+    {
+      "claim": "On 7 August 2023 the deal collapsed and Babylon closed its Austin headquarters, laying off 94 people",
+      "urls": [
+        "https://medcitynews.com/2023/08/babylon-telehealth-layoffs/",
+        "https://pharmaphorum.com/news/babylon-closes-us-business-rescue-merger-deal-fails",
+        "https://telecareaware.com/tag/mindmaze"
+      ]
+    },
+    {
+      "claim": "Administrators took over the UK holding company on 30 August 2023 and sold the clinical business to eMed",
+      "urls": [
+        "https://www.thenationalnews.com/world/uk-news/2023/08/31/online-healthcare-company-babylon-places-two-units-into-administration",
+        "https://businesscloud.co.uk/news/babylon-health-crashes-to-earth/",
+        "https://techcrunch.com/2023/08/31/the-fall-of-babylon-failed-tele-health-startup-once-valued-at-nearly-2b-goes-bankrupt-and-sold-for-parts/"
+      ]
+    },
+    {
+      "claim": "Parsa made no public statement on the collapse",
+      "urls": [
+        "https://telecareaware.com/tag/mindmaze",
+        "https://medcitynews.com/2023/09/babylon-healthcare-ai-uk/"
+      ]
+    }
+  ],
+  "research_notes": "The slate's 'a year after going public' is not accurate: the SPAC merger was announced on 3 June 2021, completed in October 2021, and the collapse came in August 2023, about 22 months later; the story gives the dates. UKTN says Babylon 'went public in June 2021', which is the announcement date. Tech.eu (June 2021) expected the shares to trade on Nasdaq; later reports agree it listed on the New York Stock Exchange. Share prices disagree because of the December 2022 reverse split: The National and TelecareAware give a $272.50 or $272 peak in October 2021 (split-adjusted), pharmaphorum an opening price of almost $243 and a market value over $3.5 billion; the story avoids share prices and uses The National's 'more than 99%' fall over 18 months. Annual losses also disagree (MedCity: 2022 net loss of $369.8 million on $1.1 billion revenue for the group; BusinessCloud: a loss of 173.7 million pounds, apparently for a different reporting entity), so the story uses only the first-quarter 2023 loss of $63.2 million, which UKTN, The National and TelecareAware agree on. Staff: TelecareAware gives 1,895 employees at the end of 2022 (from company filings); BusinessCloud estimates about 1,900 globally and 650 in Britain from LinkedIn; the story uses 1,895, dated. GP at Hand: The National says the clinical business sold to eMed includes the GP at Hand app, while TechCrunch says the GP at Hand practice itself was not part of the sale and stayed open; the story says only that the practice kept seeing its patients. The Chapter 7 filing is dated 15 August in Forbes, which blocks automated readers, so the story gives no exact date. Blame is attributed only in Parsa's own words (to the Financial Times and Sifted, as reported by The National and Bloomberg); criticisms by clinicians quoted in the press are not used. The Financial Times and Sifted originals block automated readers, so his words are cited from the outlets that reported them. Parsa's 'my biggest mistake' is placed by Bloomberg next to his 2022 Sifted interview, without a firm date. talQen is mentioned in the reflection because this is a health-technology closure. Saadi's maxim is about craftsmanship, applied here by analogy.",
+  "researched_at": "2026-11-01"
+}
